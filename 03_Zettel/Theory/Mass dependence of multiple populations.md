@@ -18,7 +18,7 @@ with $\omega$ Cen, NGC 2808, NGC 6388 at the high end ($\Delta Y \sim 0.12$-$0.1
 
 **Na-O extension** (the IQR[O/Na] from carretta et al.) scales similarly with mass.
 
-**Mg-Al extension** scales with mass + with **inverse metallicity**: only massive metal-poor GCs show clear MgAl. NGC 2419, M15, M13 at the extreme; metal-rich 47 Tuc, NGC 6121 at the modest end.
+**Mg-Al extension** scales with mass + with **inverse metallicity**: only massive metal-poor GCs show clear MgAl. NGC 2419, M15, M13 at the extreme. Metal-rich 47 Tuc, NGC 6121 at the modest end.
 
 ## the mass threshold
 
@@ -44,7 +44,7 @@ dalessandro, ferraro, miocchi + others have measured this radial segregation. so
 
 ## the LMC age trend + reversal
 
-a beautiful complication comes from the LMC + SMC clusters. observations show:
+a complication comes from the LMC + SMC clusters. observations show:
 - **young** ($< 2$ Gyr) massive LMC clusters: NO multiple-population N-He chemistry, but **eMSTO** + split MS due to rotation (see [[Extended main sequence turn-off eMSTO]])
 - **intermediate** ($2$-$8$ Gyr) LMC clusters: weak or partial N-spread (martocchia, niederhofer, lardo + bastian)
 - **old** ($> 8$ Gyr) LMC clusters: full multiple-population signature, indistinguishable from galactic GCs

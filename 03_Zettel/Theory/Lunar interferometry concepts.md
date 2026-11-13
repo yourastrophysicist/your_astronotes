@@ -12,11 +12,11 @@ three:
 
 ### 1. RFI silence
 
-Earth's far-side hides terrestrial radio transmissions. mobile phones, satellites, FM radio — all blocked. for low-frequency observations (<30 MHz, blocked by Earth's ionosphere), the Moon is *the only place* without RFI.
+Earth's far-side hides terrestrial radio transmissions. mobile phones, satellites, FM radio, all blocked. for low-frequency observations (<30 MHz, blocked by Earth's ionosphere), the Moon is *the only place* without RFI.
 
 ### 2. no ionosphere
 
-Earth's ionosphere is opaque below ~10 MHz. on the Moon, this band is fully accessible — the **lowest cosmic-frequency** unexplored regime.
+Earth's ionosphere is opaque below ~10 MHz. on the Moon, this band is fully accessible, the **lowest cosmic-frequency** unexplored regime.
 
 ### 3. mechanical stability
 
@@ -24,7 +24,7 @@ no atmosphere, no weather, very stable temperature. sub-mm precision over kilome
 
 ## the typical concept
 
-![The Parkes radio telescope; lunar far-side concepts expand on dish arrays into the solar system quiet zone.](../../assets/images/Lunar_interferometry_concepts.jpg)
+![The Parkes radio telescope. lunar far-side concepts expand on dish arrays into the solar system quiet zone.](../../assets/images/Lunar_interferometry_concepts.jpg)
 
 
 a lunar far-side radio telescope:
@@ -36,9 +36,9 @@ a lunar far-side radio telescope:
 
 ### Lunar Crater Radio Telescope (LCRT)
 
-NASA concept (2020+): a 1km-diameter wire-mesh dish suspended in a lunar far-side crater. uses the crater walls as natural support. operates at 1-10 MHz — the lowest astronomical frequencies ever observed.
+NASA concept (2020+): a 1km-diameter wire-mesh dish suspended in a lunar far-side crater. uses the crater walls as natural support. operates at 1-10 MHz, the lowest astronomical frequencies ever observed.
 
-scientific goal: cosmic Dark Ages — the period after recombination but before the first stars formed (z = 30-200, $\sim$ 100-200 Myr after Big Bang). detection of the redshifted 21cm signal from this era.
+scientific goal: cosmic Dark Ages, the period after recombination but before the first stars formed (z = 30-200, $\sim$ 100-200 Myr after Big Bang). detection of the redshifted 21cm signal from this era.
 
 ### Lunar low-frequency array (LLFA)
 
@@ -48,7 +48,7 @@ distributed network of $\sim 1000$ small antennas spread over the lunar far side
 
 a small array of $\sim 10$ optical telescopes spread across $\sim 100$ km on the Moon's surface. ground-fixed, sharing the lunar coordinate frame. potentially achievable contrast and precision orders of magnitude better than Earth.
 
-mostly conceptual; not seriously funded.
+mostly conceptual. not seriously funded.
 
 ## the link to Earth
 
@@ -73,7 +73,7 @@ three:
 
 ### 1. cost
 
-the most expensive astronomical observatory ever built — perhaps \$5-10 billion.
+the most expensive astronomical observatory ever built, perhaps \$5-10 billion.
 
 ### 2. lunar dust
 
@@ -92,7 +92,7 @@ unique science only possible from the Moon:
 the most ambitious goal. the signal is at $\sim 10$ MHz, blocked by Earth's ionosphere. detecting it would:
 - probe the universe between recombination and first stars (~100 Myr post-Big Bang)
 - distinguish dark-matter models
-- test structure-formation theory in unprecedented ways
+- test structure-formation theory in new ways
 
 ### exoplanet auroras
 

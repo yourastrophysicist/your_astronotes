@@ -36,7 +36,7 @@ so Balmer line strength rises from G to A0, peaks, then falls toward earlier typ
 
 at $T = 7000$ K the Boltzmann factor $e^{-10.2/k_BT}$ is tiny: not enough atoms are in $n = 2$. at $T = 25\,000$ K Saha has ionised most of the hydrogen.
 
-the maximum of the product $f_{HI} \cdot e^{-E_2/k_BT}$ in solar-photosphere conditions is at $T \approx 9500$ K, with the precise value depending on $n_e$. for higher gravity (smaller stars), the peak shifts to slightly lower $T$ because more pressure means less ionisation at any given $T$; the Balmer lines peak at $\sim$ A2 V instead of A0.
+the maximum of the product $f_{HI} \cdot e^{-E_2/k_BT}$ in solar-photosphere conditions is at $T \approx 9500$ K, with the precise value depending on $n_e$. for higher gravity (smaller stars), the peak shifts to slightly lower $T$ because more pressure means less ionisation at any given $T$. the Balmer lines peak at $\sim$ A2 V instead of A0.
 
 ## the Balmer "jump"
 
@@ -46,7 +46,7 @@ at $\lambda < 3646$ Å, photons can ionise hydrogen from $n = 2$ via the bound-f
 
 at `~/Documents/2/spectroscopy/Plots-20260501/HI_pop_T.png`. shows $f_{n=2}(T)$ peaking around $10^4$ K, falling off symmetrically. the function is fundamentally Saha $\times$ Boltzmann.
 
-## the punchline
+## the main result
 
 H I lines become **strongest at $T \sim 10\,000$ K** (A-type stars) for a hard physical reason: the temperature where Boltzmann excitation just balances Saha ionisation. this is the central insight of Cecilia Payne 1925 and explains the position of A in the OBAFGKM sequence.
 

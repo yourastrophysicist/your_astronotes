@@ -40,11 +40,11 @@ higher density still, $n_e \sim 10^3$ to $10^6$.
 
 UV doublet, $n_e \sim 10^4$ to $10^6$. used in AGN narrow-line region.
 
-## the high-density regime: AGN BLR
+## the high-density regime - AGN BLR
 
 at $n_e > 10^9$ cm$^{-3}$ (AGN broad-line region), forbidden lines are completely suppressed. only **permitted lines** survive, and density is inferred indirectly from continuum + line variability (reverberation mapping).
 
-## the low-density regime: diffuse ISM
+## the low-density regime - diffuse ISM
 
 $n_e < 1$ cm$^{-3}$. forbidden-line ratios approach the statistical-weight ratio (low-density limit) and saturate. need very low-$n_c$ FIR fine-structure lines to distinguish $n_e \sim 0.01$ from $n_e \sim 1$ cm$^{-3}$.
 

@@ -200,7 +200,7 @@ $$B/T \equiv \frac{L_{\rm bulge}}{L_{\rm tot}} = \frac{L_{\rm bulge}}{L_{\rm bul
 - $B/T = 0$ - Pure disk galaxies and dwarf irregulars (Sm and Irr)
 
 ### 2D Decomposition (GALFIT)
-In modern analysis, 1D decomposition is replaced by 2D image fitting (GALFIT; Peng et al. 2002).
+In modern analysis, 1D decomposition is replaced by 2D image fitting (GALFIT, Peng et al. 2002).
 1. Analytical 2D models for bulge (ellipticity $\epsilon_b$, position angle $\mathrm{PA}_b$) and disk ($\epsilon_d, \mathrm{PA}_d$) are generated.
 2. The composite 2D model is convolved with the observed telescope Point Spread Function (PSF) to account for atmospheric seeing.
 3. $\chi^2$ minimization fits the parameters simultaneously, eliminating seeing-induced core flattening.
@@ -252,10 +252,10 @@ When sketching de Vaucouleurs and exponential profiles on the blackboard.
   - Chapter 1, Section 1.3 "Surface Photometry of Galaxies", pages 1-8 (analytical equations, de Vaucouleurs profile, exponential disks, and bulge-disk decomposition).
 - **Mo, van den Bosch & White (2010), *Galaxy Formation and Evolution***
   - File - `Houjun Mo, Frank van den Bosch, Simon White - Galaxy Formation and Evolution (2010, Cambridge University Press) - libgen.li.pdf`
-  - Chapter 2, Section 2.3 "Surface Photometry", pages 64-70; Chapter 11, Section 11.1 "The Surface Brightness Profiles of Disk Galaxies", pages 517-525.
+  - Chapter 2, Section 2.3 "Surface Photometry", pages 64-70. Chapter 11, Section 11.1 "The Surface Brightness Profiles of Disk Galaxies", pages 517-525.
 - **Binney & Merrifield (1998), *Galactic Astronomy***
   - File - `Binney J., Merrifield M. - Galactic Astronomy (1998, Princeton).pdf`
-  - Chapter 4, Section 4.3 "Elliptical Galaxies", pages 194-204; Section 4.4 "Disk Galaxies", pages 210-232.
+  - Chapter 4, Section 4.3 "Elliptical Galaxies", pages 194-204. Section 4.4 "Disk Galaxies", pages 210-232.
 - **Primary Literature References**
   - de Vaucouleurs, G. 1948, Ann. d'Astrophys., 11, 247.
   - Freeman, K. C. 1970, ApJ, 160, 811.

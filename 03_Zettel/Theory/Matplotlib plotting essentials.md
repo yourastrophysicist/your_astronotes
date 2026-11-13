@@ -4,7 +4,7 @@ title: "Matplotlib plotting essentials"
 ---
 # Matplotlib plotting essentials
 
-a numerical answer without a plot is half an answer. every exam exercise expects me to produce figures, and the figure is what gets graded — code that produces wrong numbers gets some credit; code that produces an unreadable plot gets none.
+a numerical answer without a plot is half an answer. every exam exercise expects me to produce figures, and the figure is what gets graded, code that produces wrong numbers gets some credit. code that produces an unreadable plot gets none.
 
 ## the figure I always start from
 
@@ -110,7 +110,7 @@ good colormaps:
 - **coolwarm, RdBu_r**: diverging (zero in the middle)
 - **gray**: monochrome publication
 
-avoid: `jet`, `hsv`, `rainbow` — perceptually misleading.
+avoid: `jet`, `hsv`, `rainbow`, perceptually misleading.
 
 ## annotation
 
@@ -166,7 +166,7 @@ plt.savefig("plot.png", dpi=200, bbox_inches='tight')
 
 ## the standard exam figure recipes
 
-**recipe 1, exercise 1 — read & plot data**:
+**recipe 1, exercise 1 - read & plot data**:
 ```python
 data = np.loadtxt("data.txt", skiprows=1)
 M1, M2 = data[:, 3], data[:, 4]
@@ -182,7 +182,7 @@ plt.tight_layout()
 plt.savefig("ex1_scatter_hist2d.pdf")
 ```
 
-**recipe 2 — sample histogram + analytic curve**:
+**recipe 2 - sample histogram + analytic curve**:
 ```python
 fig, ax = plt.subplots(figsize=(7, 5))
 ax.hist(samples, bins=50, density=True, alpha=0.6, label='samples')
@@ -193,14 +193,14 @@ ax.set_xscale('log')         # if the domain spans orders of magnitude
 plt.savefig("ex2_sampling.pdf")
 ```
 
-**recipe 3 — convergence plot**:
+**recipe 3 - convergence plot**:
 ```python
 plt.loglog(Ns, errors, 'o-', label='numerical')
 plt.loglog(Ns, errors[0] * (Ns[0]/np.array(Ns))**0.5, 'k--', label='$N^{-1/2}$')
 plt.xlabel('N'); plt.ylabel('|error|'); plt.legend()
 ```
 
-**recipe 4 — orbits + energy diagnostic**:
+**recipe 4 - orbits + energy diagnostic**:
 ```python
 fig, axes = plt.subplots(1, 2, figsize=(12, 5))
 axes[0].plot(r[:, 0, 0], r[:, 0, 1], label='m1')

@@ -15,13 +15,13 @@ at galaxy + cluster scales, $\Sigma_{\rm crit} \sim 2$ kg/m$^2$. galaxy clusters
 ### the observables
 - **multiple images** of a background source.
 - **giant arcs** (extended shape distortions of a background galaxy).
-- **Einstein rings** (perfect alignment of source-lens-observer; rare).
+- **Einstein rings** (perfect alignment of source-lens-observer, rare).
 - **time delays** between multiple images (from differing path lengths). used for $H_0$ measurement.
 
 ### what it teaches
 
 - **lens mass profile**: locations + flux ratios of multiple images constrain the mass distribution within the lens.
-- **dark matter mapping**: total lens mass = stellar + dark matter; subtract stellar from light distribution to get dark.
+- **dark matter mapping**: total lens mass = stellar + dark matter. subtract stellar from light distribution to get dark.
 - **time-delay $H_0$**: independent of distance ladder. $H_0$ to $\sim 5\%$ precision (TDCOSMO, H0LiCOW).
 
 ### canonical examples
@@ -65,6 +65,10 @@ foreground mass is **diffuse**. deflection $\Delta\theta$ is small compared to t
 
 both are essential complementary probes.
 
+## where it goes wrong
+
+- weak lensing is measured statistically. no single galaxy shows it.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -79,7 +83,7 @@ both are essential complementary probes.
 
 ## see also
 
-- Gravitational lensing — intro
+- Gravitational lensing, intro
 - [[Lensing as a cosmological probe]]
 - [[Light deflection]]
 - [[Cosmic_inventory_dark_matter]]

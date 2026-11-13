@@ -31,7 +31,7 @@ types of flats:
 - **sky flats**: median-combined science exposures, dithered to remove sources. matches all conditions but requires many science frames.
 - **lamp flats** for spectrographs: continuum lamps for wavelength-independent throughput.
 
-flats correct **multiplicative** systematics (per-pixel QE, vignetting); bias and dark correct **additive** systematics.
+flats correct **multiplicative** systematics (per-pixel QE, vignetting). bias and dark correct **additive** systematics.
 
 ### 4. fringing correction (NIR/red only)
 
@@ -73,6 +73,21 @@ every modern survey runs a version of this. results are usually delivered as "ca
 - **science frame after flat-fielding** should have flat sky background to $\sim 0.5\%$ across the chip.
 
 problems show up as residual gradients, donut shapes (telescope-shadow vignetting), or persistent stripes (electronic crosstalk).
+
+## worked example
+
+one pixel reads $1500$ ADU in a 600 s exposure. the bias is 300 ADU, the dark current $0.02$ ADU/s, and the normalized flat at that pixel is $0.95$:
+
+$$I_{\rm cal} = \frac{1500 - 300 - 0.02 \times 600}{0.95} = \frac{1188}{0.95} = 1250.5\ \text{ADU}$$
+
+the calibration frames have noise too. a master bias from 25 frames with 5 e$^-$ read noise has $5/\sqrt{25} = 1$ e$^-$. a flat good to 0.1% needs $10^6$ e$^-$ per pixel in total.
+
+## where it goes wrong
+
+- the flat itself must be bias-subtracted and normalized before I divide by it.
+- the dark frame is scaled to the exposure time, and only after its bias has been removed.
+- twilight, dome and night-sky flats have different colours, and the flat depends on the colour of the light.
+- few calibration frames add their noise to every science image.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

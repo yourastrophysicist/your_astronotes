@@ -10,11 +10,11 @@ the **Astronomical Interferometry** exam at U Padua is **oral**, conducted by Pr
 
 a typical D'Onofrio oral interferometry exam:
 
-1. **opening question**: usually a broad invitation to pick a topic — "tell me about an interferometry technique you find interesting" or "what is the principle of aperture synthesis?". expect 5-10 minutes of student-led explanation
+1. **opening question**: usually a broad invitation to pick a topic, "tell me about an interferometry technique you find interesting" or "what is the principle of aperture synthesis?". expect 5-10 minutes of student-led explanation
 2. **derivations and equations**: D'Onofrio likes to see *physical reasoning written on paper or board*. expect: derive the angular resolution from the diffraction limit, write down Van Cittert-Zernike, sketch a (u, v) plot, walk through the CLEAN algorithm
 3. **specific instrument**: pick an interferometer (VLTI, CHARA, ALMA, VLA, EHT) and describe its architecture, baselines, science capabilities
-4. **science application**: a question linking technique to results — what was the first stellar diameter measurement, how does GRAVITY image S-stars, how did EHT image M87
-5. **wrap-up**: a question on the future or current frontier — SKA, ngVLA, Darwin
+4. **science application**: a question linking technique to results, what was the first stellar diameter measurement, how does GRAVITY image S-stars, how did EHT image M87
+5. **wrap-up**: a question on the future or current frontier, SKA, ngVLA, Darwin
 
 ## scope
 
@@ -23,7 +23,7 @@ a typical D'Onofrio oral interferometry exam:
 
 everything in [[Astronomical_Interferometry_MOC]] is fair game, but the exam emphasizes:
 
-- **physics fundamentals**: Young's experiment, plane waves, Huygens, fringe visibility — block 1-2
+- **physics fundamentals**: Young's experiment, plane waves, Huygens, fringe visibility, block 1-2
 - **the central theorem**: Van Cittert-Zernike, why visibility = Fourier transform of brightness
 - **aperture synthesis**: (u, v) plane, Earth-rotation synthesis, dirty image, CLEAN
 - **the atmosphere**: Kolmogorov turbulence, Fried parameter, isoplanatic patch, AO concept
@@ -34,7 +34,7 @@ less emphasis on:
 
 - exotic techniques (intensity interferometry historical, hypertelescope future)
 - detailed calibration recipes (mostly graduate-research-level)
-- specific software (CASA, AIPS) — it is good to mention them but no need to know every command
+- specific software (CASA, AIPS). it is good to mention them but no need to know every command
 
 ## what to bring
 
@@ -60,7 +60,7 @@ things that have killed past exam attempts:
 2. **misstating Van Cittert-Zernike**: it is the **brightness distribution → visibility** Fourier transform, not the reverse
 3. **forgetting the role of the atmosphere**: in optical it randomizes phases, in radio it mostly affects amplitude (and sometimes phase at high frequency)
 4. **calling CLEAN "fitting"**: it is *iterative point-source subtraction*, not parameter fitting
-5. **being vague about resolution**: $\theta \approx \lambda/B$ should come instantly with a numerical example. for $\lambda = 1$ mm and $B = 10$ km: $\theta \approx 0.02''$ — that is ALMA's typical resolution
+5. **being vague about resolution**: $\theta \approx \lambda/B$ should come instantly with a numerical example. for $\lambda = 1$ mm and $B = 10$ km: $\theta \approx 0.02''$, that is ALMA's typical resolution
 
 ## the best-case opener
 

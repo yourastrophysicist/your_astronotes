@@ -20,7 +20,7 @@ Pablo emphasizes JWST NIRCam and MIRI spectroscopy finally open Pα and Brackett
 
 ## [CII] 158 μm
 
-the $\lambda = 158\,\mu$m fine-structure line of C⁺ is the dominant coolant of the cold neutral medium and one of the brightest FIR lines in star-forming galaxies. produced in photodissociation regions (PDRs) around young stars, so it tracks recent SF on $\sim 10$–$100$ Myr timescales.
+the $\lambda = 158\,\mu$m fine-structure line of C⁺ is the dominant coolant of the cold neutral medium and one of the brightest FIR lines in star-forming galaxies. produced in photodissociation regions (PDRs) around young stars, so it tracks recent SF on $\sim 10$ to $100$ Myr timescales.
 
 - calibration: $L([\text{CII}])/L_{\text{FIR}} \sim 10^{-3}$ in normal SFGs, *drops* in ULIRGs ("[CII] deficit")
 - observable with ALMA from $z \sim 2$ to $z > 7$: the line redshifts into submm/mm where the sky is transparent
@@ -36,11 +36,15 @@ polycyclic aromatic hydrocarbons emit broad MIR bands at 3.3, 6.2, 7.7, 8.6, 11.
 
 - $\text{SFR} \propto L(\text{PAH 7.7}\mu\text{m})$, calibration comparable to TIR
 - PAH emission drops in low-metallicity and hard-radiation environments (AGN, Seyferts)
-- Spitzer IRS was the main instrument; JWST MIRI MRS now does this at higher $z$
+- Spitzer IRS was the main instrument. JWST MIRI MRS now does this at higher $z$
 
 ## radio recombination lines
 
 Hnα at $\nu \sim $ GHz. extinction-free, but very weak. niche use in dusty Galactic HII regions.
+
+## where it goes wrong
+
+- lines from AGN contaminate every optical tracer. a BPT check comes first.
 
 ## connections
 

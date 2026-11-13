@@ -17,7 +17,7 @@ the **extended main sequence turn-off (eMSTO) phenomenon** is the discovery that
 
 eMSTOs are **not seen** in old GCs ($> 5$ Gyr) and **not seen** in very young clusters ($< 30$ Myr). the phenomenon is age-restricted to $\sim 100$ Myr - $2$ Gyr.
 
-## the original interpretation: age spread
+## the original interpretation - age spread
 
 if the TO width is age-broadening, the implied **age spread** is $\sim 200$-$500$ Myr. this would mean intermediate-age clusters are NOT SSPs but extended-SF systems.
 
@@ -28,7 +28,7 @@ problem with this interpretation:
 
 so age spread alone fails to explain the data.
 
-## the current interpretation: stellar rotation
+## the current interpretation - stellar rotation
 
 **Bastian & de Mink 2009, MNRAS 398, L11** proposed that **stellar rotation** broadens the TO via:
 
@@ -46,13 +46,13 @@ A rotating star is not spherical: centrifugal support flattens it into an oblate
 $$\boxed{\, F(\theta) \propto g_{\rm eff}(\theta), \qquad T_{\rm eff}(\theta) \propto g_{\rm eff}(\theta)^{1/4} \,}$$
 where $\theta$ is the colatitude and the second relation follows from $F=\sigma_{\rm SB}T_{\rm eff}^4$. The local effective gravity is the vector sum of the true gravitational acceleration and the centrifugal acceleration:
 $$g_{\rm eff}(\theta) = \left|-\frac{GM}{r^2}\hat{r} + \Omega^2 r\sin^2\theta\,\hat{r}_\perp\right|$$
-where $\Omega$ is the (uniform) angular rotation rate and $r=r(\theta)$ traces the equipotential (Roche) surface. Since the centrifugal term partially cancels gravity at the equator ($\theta=\pi/2$) and vanishes at the poles ($\theta=0$), $g_{\rm eff}$ — and hence $T_{\rm eff}$ — is *lower at the equator than at the pole*:
+where $\Omega$ is the (uniform) angular rotation rate and $r=r(\theta)$ traces the equipotential (Roche) surface. Since the centrifugal term partially cancels gravity at the equator ($\theta=\pi/2$) and vanishes at the poles ($\theta=0$), $g_{\rm eff}$, and hence $T_{\rm eff}$, is *lower at the equator than at the pole*:
 $$T_{\rm eff}(\mathrm{equator}) < T_{\rm eff}(\mathrm{pole})$$
-**Asymptotic checks**: for $\Omega\to0$ (non-rotating star), $g_{\rm eff}\to GM/R^2$ uniformly, $T_{\rm eff}$ is constant over the surface, and no gravity darkening occurs; as $\Omega\to\Omega_{\rm crit}$ (critical/breakup rotation, where centrifugal acceleration equals gravity at the equator), $g_{\rm eff}(\mathrm{equator})\to0$ and $T_{\rm eff}(\mathrm{equator})\to0$ in the idealized von Zeipel limit — in practice this strict limit is modified by baroclinic effects (differential rather than rigid rotation) in real, evolved rotating stars.
+**Asymptotic checks**: for $\Omega\to0$ (non-rotating star), $g_{\rm eff}\to GM/R^2$ uniformly, $T_{\rm eff}$ is constant over the surface, and no gravity darkening occurs. As $\Omega\to\Omega_{\rm crit}$ (critical/breakup rotation, where centrifugal acceleration equals gravity at the equator), $g_{\rm eff}(\mathrm{equator})\to0$ and $T_{\rm eff}(\mathrm{equator})\to0$ in the idealized von Zeipel limit, in practice this strict limit is modified by baroclinic effects (differential rather than rigid rotation) in real, evolved rotating stars.
 
-The observationally projected color and magnitude of a rotating star therefore depend on **inclination**: a star viewed pole-on shows predominantly its (hotter, bluer, brighter per unit area) polar $T_{\rm eff}$, while the same star viewed equator-on shows predominantly its cooler, redder, fainter equatorial $T_{\rm eff}$ — combined with the rotationally-mixed core-hydrogen lifetime extension described above, this inclination-dependent flux redistribution is what broadens a single-age, single-rotation-rate population into the observed range of eMSTO colors and magnitudes at fixed age.
+The observationally projected color and magnitude of a rotating star therefore depend on **inclination**: a star viewed pole-on shows predominantly its (hotter, bluer, brighter per unit area) polar $T_{\rm eff}$, while the same star viewed equator-on shows predominantly its cooler, redder, fainter equatorial $T_{\rm eff}$, combined with the rotationally-mixed core-hydrogen lifetime extension described above, this inclination-dependent flux redistribution is what broadens a single-age, single-rotation-rate population into the observed range of eMSTO colors and magnitudes at fixed age.
 
-## age constraint: why only 1-2 Gyr clusters?
+## age constraint - why only 1-2 Gyr clusters?
 
 at younger ages, all stars are too hot/massive for rotational mixing to differentiate the TO meaningfully. at older ages, most stars are below the rotation-mass threshold ($M < 1.4 M_\odot$ have convective envelopes that brake rotation magnetically). so the eMSTO appears in the narrow age window where MS stars retain significant rotation but are old enough that the broadening is observable.
 
@@ -60,8 +60,8 @@ at younger ages, all stars are too hot/massive for rotational mixing to differen
 
 an active question: **are eMSTO clusters the present-day analogues of what old GCs looked like at $\sim 1$-$2$ Gyr after formation?**
 
-- old GCs show [[Multiple populations in GCs discovery\|Na-O anti-correlation]] + helium spread + chromosome maps;
-- young eMSTO clusters do NOT show clear chemical anomalies (yet);
+- old GCs show [[Multiple populations in GCs discovery\|Na-O anti-correlation]] + helium spread + chromosome maps.
+- young eMSTO clusters do NOT show clear chemical anomalies (yet).
 - but eMSTO + young split MS share the structural signature: **a single SSP cannot explain the CMD**.
 
 possible reconciliation: rotation drives eMSTO at young ages, then magnetic braking reduces rotation, but residual chemical anomalies (He, Na, O) accumulated during early SF persist. this would imply the polluter mechanisms operating in old GCs (AGB, FRMS) ALSO operate in young clusters but produce chemical signatures only revealed at later times.
@@ -78,14 +78,14 @@ eMSTO is one of the **central open problems** of the course:
 
 ## reference papers
 
-- **Mackey & Broby Nielsen 2007, MNRAS 379, 151** — discovery in NGC 1846.
-- **Milone et al. 2009, A&A 497, 755** — eMSTO in seven LMC clusters.
-- **Bastian & de Mink 2009, MNRAS 398, L11** — rotation hypothesis.
-- **Brandt & Huang 2015, ApJ 807, 24** — quantitative rotation models.
-- **Niederhofer et al. 2015** — age-spread interpretation revisited.
-- **D'Antona et al. 2015, MNRAS 453, 2637** — rotation + He variation.
-- **Milone et al. 2018, MNRAS 477, 2640** — split upper MS in NGC 1755 + NGC 1850.
-- **Marino et al. 2018, AJ 156, 116** — direct $v\sin i$ measurement in NGC 1866.
+- **Mackey & Broby Nielsen 2007, MNRAS 379, 151** - discovery in NGC 1846.
+- **Milone et al. 2009, A&A 497, 755** - eMSTO in seven LMC clusters.
+- **Bastian & de Mink 2009, MNRAS 398, L11** - rotation hypothesis.
+- **Brandt & Huang 2015, ApJ 807, 24** - quantitative rotation models.
+- **Niederhofer et al. 2015** - age-spread interpretation revisited.
+- **D'Antona et al. 2015, MNRAS 453, 2637** - rotation + He variation.
+- **Milone et al. 2018, MNRAS 477, 2640** - split upper MS in NGC 1755 + NGC 1850.
+- **Marino et al. 2018, AJ 156, 116** - direct $v\sin i$ measurement in NGC 1866.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -112,98 +112,98 @@ eMSTO is one of the **central open problems** of the course:
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 18 — The Extended Main Sequence Turnoff Phenomenon)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 18 - The Extended Main Sequence Turnoff Phenomenon)
 
 > **Context**: *Intermediate-age Magellanic Cloud clusters (NGC 1850, NGC 1755), split main sequences, age spread vs stellar rotation, von Zeipel gravity darkening, and equatorial cooling.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![LAntonino_p18_01.png](../../assets/images/LAntonino_p18_01.png)
-*Figure P18-01: LAntonino_p18_01.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-01: LAntonino_p18_01.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_02.png](../../assets/images/LAntonino_p18_02.png)
-*Figure P18-02: LAntonino_p18_02.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-02: LAntonino_p18_02.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_03.png](../../assets/images/LAntonino_p18_03.png)
-*Figure P18-03: LAntonino_p18_03.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-03: LAntonino_p18_03.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_04.png](../../assets/images/LAntonino_p18_04.png)
-*Figure P18-04: LAntonino_p18_04.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-04: LAntonino_p18_04.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_05.png](../../assets/images/LAntonino_p18_05.png)
-*Figure P18-05: LAntonino_p18_05.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-05: LAntonino_p18_05.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_06.png](../../assets/images/LAntonino_p18_06.png)
-*Figure P18-06: LAntonino_p18_06.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-06: LAntonino_p18_06.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_07.png](../../assets/images/LAntonino_p18_07.png)
-*Figure P18-07: LAntonino_p18_07.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-07: LAntonino_p18_07.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_08.png](../../assets/images/LAntonino_p18_08.png)
-*Figure P18-08: LAntonino_p18_08.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-08: LAntonino_p18_08.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_09.png](../../assets/images/LAntonino_p18_09.png)
-*Figure P18-09: LAntonino_p18_09.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-09: LAntonino_p18_09.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_10.png](../../assets/images/LAntonino_p18_10.png)
-*Figure P18-10: LAntonino_p18_10.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-10: LAntonino_p18_10.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_11.png](../../assets/images/LAntonino_p18_11.png)
-*Figure P18-11: LAntonino_p18_11.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-11: LAntonino_p18_11.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_12.png](../../assets/images/LAntonino_p18_12.png)
-*Figure P18-12: LAntonino_p18_12.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-12: LAntonino_p18_12.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_13.png](../../assets/images/LAntonino_p18_13.png)
-*Figure P18-13: LAntonino_p18_13.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-13: LAntonino_p18_13.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_14.png](../../assets/images/LAntonino_p18_14.png)
-*Figure P18-14: LAntonino_p18_14.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-14: LAntonino_p18_14.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_15.png](../../assets/images/LAntonino_p18_15.png)
-*Figure P18-15: LAntonino_p18_15.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-15: LAntonino_p18_15.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_16.png](../../assets/images/LAntonino_p18_16.png)
-*Figure P18-16: LAntonino_p18_16.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-16: LAntonino_p18_16.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_17.png](../../assets/images/LAntonino_p18_17.png)
-*Figure P18-17: LAntonino_p18_17.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-17: LAntonino_p18_17.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_18.png](../../assets/images/LAntonino_p18_18.png)
-*Figure P18-18: LAntonino_p18_18.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-18: LAntonino_p18_18.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_19.png](../../assets/images/LAntonino_p18_19.png)
-*Figure P18-19: LAntonino_p18_19.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-19: LAntonino_p18_19.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_20.png](../../assets/images/LAntonino_p18_20.png)
-*Figure P18-20: LAntonino_p18_20.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-20: LAntonino_p18_20.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_21.png](../../assets/images/LAntonino_p18_21.png)
-*Figure P18-21: LAntonino_p18_21.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-21: LAntonino_p18_21.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_22.png](../../assets/images/LAntonino_p18_22.png)
-*Figure P18-22: LAntonino_p18_22.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-22: LAntonino_p18_22.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_23.png](../../assets/images/LAntonino_p18_23.png)
-*Figure P18-23: LAntonino_p18_23.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-23: LAntonino_p18_23.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_24.png](../../assets/images/LAntonino_p18_24.png)
-*Figure P18-24: LAntonino_p18_24.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-24: LAntonino_p18_24.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![LAntonino_p18_25.png](../../assets/images/LAntonino_p18_25.png)
-*Figure P18-25: LAntonino_p18_25.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-25: LAntonino_p18_25.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![Lecture18_p15-15.png](../../assets/images/Lecture18_p15-15.png)
-*Figure P18-26: Lecture18_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-26: Lecture18_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![Lecture18_p25-25.png](../../assets/images/Lecture18_p25-25.png)
-*Figure P18-27: Lecture18_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-27: Lecture18_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![Lecture18_p35-35.png](../../assets/images/Lecture18_p35-35.png)
-*Figure P18-28: Lecture18_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-28: Lecture18_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 ![Lecture18_p5-05.png](../../assets/images/Lecture18_p5-05.png)
-*Figure P18-29: Lecture18_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 18 — The Extended Main Sequence Turnoff Phenomenon.*
+*Figure P18-29: Lecture18_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 18 - The Extended Main Sequence Turnoff Phenomenon.*
 
 
 

@@ -2,12 +2,12 @@
 layout: "default"
 title: "Fundamentals_course_intro"
 ---
-**Fundamentals of Astrophysics and Cosmology** — first-semester course, A.Y. 2025/2026, University of Padova.
+**Fundamentals of Astrophysics and Cosmology** - first-semester course, A.Y. 2025/2026, University of Padova.
 
 teachers:
-- **Prof. Nicola Bartolo** (cosmology block) — nicola.bartolo@unipd.it
-- **Prof. Giulia Rodighiero** (astrophysics / observations block) — giulia.rodighiero@unipd.it
-- tutor: **Dr. Ripalta Amoruso** — ripalta.amoruso@phd.unipd.it
+- **Prof. Nicola Bartolo** (cosmology block) - nicola.bartolo@unipd.it
+- **Prof. Giulia Rodighiero** (astrophysics / observations block) - giulia.rodighiero@unipd.it
+- tutor: **Dr. Ripalta Amoruso**, ripalta.amoruso@phd.unipd.it
 
 ![sphereastro-01.png](../../assets/images/sphereastro-01.png)
 
@@ -58,7 +58,7 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 - spectral energy distributions (SEDs), stellar population synthesis, IMF, stellar mass, SFR
 - overview of galaxy evolution, galaxy clusters
 
-### From the local universe to cosmological distances: the distance scale
+### From the local universe to cosmological distances - the distance scale
 - parallax, standard candles
 - Cepheids and supernovae
 - introduction to Hubble's expansion law and the concept of redshift
@@ -94,7 +94,7 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 
 → see [[BBN_overview]]
 
-### Dark matter: general properties
+### Dark matter - general properties
 - basic concepts of the Boltzmann equation in cosmology and "cosmic relics"
 - hot and cold dark matter: definition, calculation of present abundance, general properties (overview)
 
@@ -113,12 +113,12 @@ the course is a foundation, in two halves: a *classical* astronomy and stellar e
 
 ## reference texts
 
-- **Karttunen, Oja, Poutanen, Donner**, *Fundamental Astronomy* — the spherical astronomy and stellar evolution backbone
-- **Bennett, Donahue, Schneider, Voit**, *The Cosmic Perspective* — accessible companion (chapters 2 and S1)
-- **Schneider**, *Extragalactic Astronomy and Cosmology*, 2nd ed. — galaxies and cosmology rigorous treatment
+- **Karttunen, Oja, Poutanen, Donner**, *Fundamental Astronomy* - the spherical astronomy and stellar evolution backbone
+- **Bennett, Donahue, Schneider, Voit**, *The Cosmic Perspective* - accessible companion (chapters 2 and S1)
+- **Schneider**, *Extragalactic Astronomy and Cosmology*, 2nd ed. - galaxies and cosmology rigorous treatment
 - **Coles & Lucchin**, *Cosmology: The Origin and Evolution of Cosmic Structure* (Wiley, 2002)
 - **Kolb & Turner**, *The Early Universe* (Addison-Wesley, 1990)
-- **Baumann**, *Cosmology* (Part III Cambridge lecture notes) — the modern back-up text, see [[Baumann_reference]]
+- **Baumann**, *Cosmology* (Part III Cambridge lecture notes) - the modern back-up text, see [[Baumann_reference]]
 
 slides and lecture notes are posted on the e-learning platform [stem.elearning.unipd.it](https://stem.elearning.unipd.it/).
 

@@ -14,7 +14,7 @@ tags: ""
 
 To a single telescope, almost every star is an unresolved point of light. However, as you separate two telescopes in an interferometer, the target star begins to look slightly resolved. When the star is resolved, light from one edge of the star interferes slightly out of step with light from the opposite edge. This causes the interferometric fringes to wash out and drop in contrast.
 
-By measuring exactly how this fringe visibility decreases as the baseline gets longer, astronomers can calculate the angular diameter of the star. Furthermore, real stars are not uniformly bright flat disks. They appear darker near their edges because our line of sight passes through cooler, higher layers of their atmospheres. This limb darkening subtly changes the shape of the visibility curve. By measuring these deviations, interferometers can probe the vertical temperature structure of the stellar atmosphere.
+By measuring exactly how this fringe visibility decreases as the baseline gets longer, astronomers can calculate the angular diameter of the star. Real stars are not uniformly bright flat disks. They appear darker near their edges because our line of sight passes through cooler, higher layers of their atmospheres. This limb darkening subtly changes the shape of the visibility curve. By measuring these deviations, interferometers can probe the vertical temperature structure of the stellar atmosphere.
 
 ---
 
@@ -32,7 +32,7 @@ Fitting the observed visibility curve to a limb-darkened atmospheric model allow
 
 ## astrophysical context
 
-Measuring stellar diameters was the very first application of optical interferometry, famously achieved by Michelson and Pease in 1921 when they measured Betelgeuse at about 47 milliarcseconds. Today, facilities like the CHARA array routinely measure the sizes of main-sequence stars with sub-milliarcsecond precision. When combined with precise distances from Gaia, these angular diameters yield direct, model-independent linear radii, which are foundational for calibrating stellar evolution models.
+Measuring stellar diameters was the very first application of optical interferometry, famously achieved by Michelson and Pease in 1921 when they measured Betelgeuse at about 47 milliarcseconds. Today, facilities like the CHARA array routinely measure the sizes of main-sequence stars with sub-milliarcsecond precision. When combined with precise distances from Gaia, these angular diameters yield direct, model-independent linear radii, which are basic for calibrating stellar evolution models.
 
 ---
 

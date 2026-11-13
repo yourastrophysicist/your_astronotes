@@ -53,6 +53,15 @@ see [[Photon sphere]].
 - **2014-2016**: dark-energy weak-lensing surveys (DES) begin precision cosmology.
 - **2019**: EHT image of M87.
 
+## worked example
+
+the Sun deflects starlight by $\hat\alpha = 4GM_\odot/(c^2R_\odot) = 1.75''$. Newton's theory gives half of this, which is what Eddington's 1919 eclipse tested.
+
+## where it goes wrong
+
+- lensing conserves surface brightness. it magnifies by enlarging the image.
+- the deflection is achromatic. a lens that changes colour is not gravitational.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

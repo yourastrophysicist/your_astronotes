@@ -66,13 +66,13 @@ x2 = lu_solve((lu, piv), b2)
 
 **determinant**: $\det A = \det L \cdot \det U = 1 \cdot \prod U_{kk}$ (times the sign of the permutation). LU is the practical way `np.linalg.det` works.
 
-**inverse**: solve $AX = I$ column by column with the same LU. each column is one $O(N^2)$ triangular solve, $N$ columns total, so the inverse costs $O(N^3 + N \cdot N^2) = O(N^3)$. **but I almost never need the explicit inverse** — if I want $\mathbf{x} = A^{-1}\mathbf{b}$, just solve $A\mathbf{x} = \mathbf{b}$ directly.
+**inverse**: solve $AX = I$ column by column with the same LU. each column is one $O(N^2)$ triangular solve, $N$ columns total, so the inverse costs $O(N^3 + N \cdot N^2) = O(N^3)$. **but I almost never need the explicit inverse**, if I want $\mathbf{x} = A^{-1}\mathbf{b}$, just solve $A\mathbf{x} = \mathbf{b}$ directly.
 
 ## variants
 
 - **LDL$^T$ decomposition**: for symmetric $A$, $A = LDL^T$ with $D$ diagonal. half the storage, half the work
 - **Cholesky decomposition**: for symmetric positive-definite $A$, $A = LL^T$. half the work again, and numerically the most stable factorization. the workhorse for covariance matrices in statistics
-- **QR decomposition**: $A = QR$ with $Q$ orthogonal, $R$ upper triangular — see [[QR decomposition]]. better for least-squares problems
+- **QR decomposition**: $A = QR$ with $Q$ orthogonal, $R$ upper triangular, see [[QR decomposition]]. better for least-squares problems
 - **SVD**: $A = U\Sigma V^T$, the most general factorization, expensive but works for rectangular and rank-deficient matrices
 
 ## when LU is the right tool
@@ -97,9 +97,9 @@ x2 = lu_solve((lu, piv), b2)
 
 ## see also
 
-- [[Gauss elimination]] — what LU caches
-- [[Partial pivoting]] — the $P$ in $PA = LU$
-- [[QR decomposition]] — different factorization, different problem
+- [[Gauss elimination]] - what LU caches
+- [[Partial pivoting]] - the $P$ in $PA = LU$
+- [[QR decomposition]] - different factorization, different problem
 - [[Gauss-Seidel iteration]]
 - [[Pros and cons of linear solvers]]
 - [[Mathematical_Numerical_Methods_MOC]]

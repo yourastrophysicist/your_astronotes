@@ -26,13 +26,13 @@ yet grand-design spirals with open, loosely wound arms are ubiquitous. this para
 ## the Lin-Shu Density Wave Theory (1964)
 
 Chia-Chiao Lin and Frank Shu resolved the winding paradox by proposing that spiral arms are **quasistatic gravitational density waves** propagating through the disk:
-- the stars and gas do **not** stay in the arms; they orbit through the arms!
+- the stars and gas do **not** stay in the arms. they orbit through the arms!
 - the spiral pattern rotates rigidly with a constant angular pattern speed $\Omega_p$.
 - stars and gas in the inner disk orbit faster than the wave pattern ($\Omega(R) > \Omega_p$), overtake the spiral wave, enter the arm, slow down in the gravitational potential trough, compress, and exit on the other side.
 
 ![milkyway-27.png](../../assets/images/milkyway-27.png)
 
-### the star formation trigger:
+### the star formation trigger
 interstellar gas is compressible. as cold molecular clouds plunge into the gravitational potential minimum of the density wave, the gas experiences a supersonic shock, compressing by factors of $5-10$. 
 this compression triggers **Jeans gravitational instability**: clouds collapse and initiate massive starbursts.
 - hot, massive O and B stars ($M > 10 M_\odot$) are born inside the arms.
@@ -60,14 +60,14 @@ $$\boxed{\, B \equiv -\frac{1}{2} \left[R_0 \left(\frac{d\Omega}{dR}\right)_0 + 
 
 ![milkyway-30.png](../../assets/images/milkyway-30.png)
 
-### physical meaning:
+### physical meaning
 1. $A$ measures **local shear** (differential rotation). if the Galaxy rotated as a rigid body ($V \propto R$), $A = 0$.
 2. $B$ measures **local vorticity** (angular momentum gradient).
 3. the difference $A - B = \frac{V_0}{R_0} = \Omega_0 \approx 27$ km s$^{-1}$ kpc$^{-1}$ gives the local angular velocity of the Sun.
 
 ---
 
-## measuring the Galactic Rotation Curve: the tangent-point method
+## measuring the Galactic Rotation Curve - the tangent-point method
 
 using radio 21 cm observations of neutral hydrogen (HI), astronomers map the rotation curve $V(R)$ within the solar circle ($R < R_0$, $\lvert l\rvert < 90^\circ$):
 
@@ -86,6 +86,16 @@ by measuring $v_{r,\text{max}}(l)$ as a function of Galactic longitude $l$, radi
 ![milkyway-33.png](../../assets/images/milkyway-33.png)
 
 ---
+
+## worked example
+
+the winding problem in numbers. with a flat rotation curve at 220 km/s, a star at 4 kpc completes an orbit in 110 Myr, one at 8 kpc in 220 Myr. after 1 Gyr the inner one has made 9 turns and the outer one 4.5. an arm made of the same stars would be wound into many tight turns, which is not what galaxies show.
+
+## where it goes wrong
+
+- the arms are not made of the same stars at all times. stars and gas pass through them.
+- the arms look bright because of young massive stars, not because they hold most of the mass.
+- the pattern speed of the density wave is not the rotation speed of the stars, except at corotation.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -4,7 +4,7 @@ title: "Dirty beam and dirty image"
 ---
 # Dirty beam and dirty image
 
-the raw output of an aperture-synthesis interferometer, before deconvolution. the **dirty image** is the inverse Fourier transform of the (u, v) data; the **dirty beam** is the inverse Fourier transform of the *sampling pattern*. CLEAN's job is to deconvolve the dirty image with the dirty beam.
+the raw output of an aperture-synthesis interferometer, before deconvolution. the **dirty image** is the inverse Fourier transform of the (u, v) data. the **dirty beam** is the inverse Fourier transform of the *sampling pattern*. CLEAN's job is to deconvolve the dirty image with the dirty beam.
 
 ## the math
 
@@ -13,7 +13,7 @@ $$S(\mathbf u) = \sum_k \delta(\mathbf u - \mathbf u_k)$$
 
 (a sum of delta functions at every measured (u, v) point).
 
-the **measured visibility** is $V_{\rm meas}(\mathbf u) = V(\mathbf u) \cdot S(\mathbf u)$ — the true visibility *sampled* by the array.
+the **measured visibility** is $V_{\rm meas}(\mathbf u) = V(\mathbf u) \cdot S(\mathbf u)$, the true visibility *sampled* by the array.
 
 inverse FT:
 $$I_{\rm dirty}(\mathbf l) = \mathcal F^{-1}[V \cdot S] = I_{\rm true}(\mathbf l) * B_{\rm dirty}(\mathbf l)$$
@@ -85,7 +85,7 @@ both are corrected by CLEAN.
 - **main-lobe FWHM**: the resolution of the array, $\theta \sim \lambda/B_{\max}$
 - **first sidelobe ratio**: typical 5-20% of main lobe peak. high sidelobes mean dirty-image artifacts
 - **integrated sidelobe ratio**: total sidelobe power divided by main-lobe power. needs to be small for clean imaging
-- **shape**: depends on (u, v) coverage; can be elongated for arrays like the VLA (north-south asymmetry)
+- **shape**: depends on (u, v) coverage. can be elongated for arrays like the VLA (north-south asymmetry)
 
 ## the FT pair
 
@@ -98,7 +98,7 @@ both are corrected by CLEAN.
 
 CLEAN tries to undo the convolution with the dirty beam, recovering the true image.
 
-## the alternative: model-based imaging
+## the alternative - model-based imaging
 
 instead of deconvolving the dirty image, fit a *parametric model* directly to the (u, v) data:
 - point source: 2 parameters per source (position, flux)
@@ -113,13 +113,13 @@ this is what GRAVITY does for the Galactic Center S-stars: each frame gives only
 
 ![07_Images/Interferometry/uv_coverage_dirty_beam_demo.png](../../assets/images/uv_coverage_dirty_beam_demo.png)
 
-reading cue: the dirty beam is not a mysterious artifact; it is the Fourier transform of the sampling mask. this is why the same source can look different under different array configurations.
+reading cue: the dirty beam is not a mysterious artifact. it is the Fourier transform of the sampling mask. this is why the same source can look different under different array configurations.
 
 ![07_Images/Interferometry/nrao_snapshot_dirty_beam.jpg](../../assets/images/nrao_snapshot_dirty_beam.jpg)
 
 ![07_Images/Interferometry/nrao_snapshot_dirty_image.jpg](../../assets/images/nrao_snapshot_dirty_image.jpg)
 
-source: first figure is a local synthetic demo; NRAO figures are from S. T. Myers, NRAO Synthesis Imaging Summer School page on a 30 s VLA A-configuration snapshot.
+source: first figure is a local synthetic demo. NRAO figures are from S. T. Myers, NRAO Synthesis Imaging Summer School page on a 30 s VLA A-configuration snapshot.
 
 ## see also
 

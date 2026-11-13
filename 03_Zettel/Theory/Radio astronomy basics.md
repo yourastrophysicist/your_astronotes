@@ -4,7 +4,7 @@ title: "Radio astronomy basics"
 ---
 # Radio astronomy basics
 
-radio astronomy is *the* astronomy of long wavelengths — from cm to m, occasionally km. the techniques are very different from optical: heterodyne electronics, antenna temperatures, brightness temperatures, RFI, polarization. this zettel surveys the foundations needed before tackling radio interferometry.
+radio astronomy is *the* astronomy of long wavelengths, from cm to m, occasionally km. the techniques are very different from optical: heterodyne electronics, antenna temperatures, brightness temperatures, RFI, polarization. this zettel surveys the foundations needed before tackling radio interferometry.
 
 ## the spectrum
 
@@ -14,7 +14,7 @@ radio astronomy roughly spans:
 - **m-wave**: 0.5-100 m, 3-600 MHz. LOFAR, GMRT, SKA territory
 
 each band has distinct physics, instrumentation, and atmospheric considerations:
-- mm: mostly thermal sources (dust, molecular clouds), atmospheric water absorption is crucial
+- mm: mostly thermal sources (dust, molecular clouds), atmospheric water absorption is essential
 - cm: synchrotron, free-free, HI 21cm, atmospheric ionosphere mostly transparent
 - m: ionospheric refraction, Galactic synchrotron background dominates
 
@@ -51,7 +51,7 @@ so brightness temperature is a useful *unit* even when not literally a temperatu
 
 ## antenna temperature
 
-a single-dish radio measurement gives $T_A$ — the **antenna temperature**, the equivalent temperature a matched resistor at the antenna's terminals would have to produce the same noise power. related to source brightness temperature by:
+a single-dish radio measurement gives $T_A$, the **antenna temperature**, the equivalent temperature a matched resistor at the antenna's terminals would have to produce the same noise power. related to source brightness temperature by:
 
 $$T_A = T_b \cdot \frac{\Omega_{\rm src}}{\Omega_{\rm beam}}$$
 
@@ -82,7 +82,7 @@ $$\sigma_{T_A} = \frac{T_{\rm sys}}{\sqrt{\Delta\nu \, \tau}}$$
 
 so SNR scales as $\sqrt{\Delta\nu \cdot \tau}$.
 
-at the VLA, $T_{\rm sys} \sim 100$ K, $\Delta\nu = 4$ GHz, $\tau = 1$ hour: $\sigma \sim 0.5$ mK in $T_A$. for a well-defined source, $T_A \sim$ K means SNR $\sim 1000$ in 1 hour — pretty sensitive!
+at the VLA, $T_{\rm sys} \sim 100$ K, $\Delta\nu = 4$ GHz, $\tau = 1$ hour: $\sigma \sim 0.5$ mK in $T_A$. for a well-defined source, $T_A \sim$ K means SNR $\sim 1000$ in 1 hour, pretty sensitive!
 
 ## flux density and the Jansky
 
@@ -107,7 +107,7 @@ RFI motivates **radio quiet zones**: legally protected areas around major observ
 
 ## the frequency-domain view
 
-radio observations naturally produce *spectra* — the receiver-correlator chain digitizes the signal in frequency channels. each channel can be processed independently for spectral-line work or combined for continuum.
+radio observations naturally produce *spectra*, the receiver-correlator chain digitizes the signal in frequency channels. each channel can be processed independently for spectral-line work or combined for continuum.
 
 modern correlators (ALMA, JVLA, MeerKAT) handle GHz-wide bands with millions of frequency channels. this enables:
 - precision spectroscopy (HI 21cm at high resolution)

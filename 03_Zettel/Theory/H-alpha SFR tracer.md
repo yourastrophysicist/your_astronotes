@@ -2,11 +2,11 @@
 layout: "default"
 title: "H-alpha SFR tracer"
 ---
-the **$\mathrm{H}\alpha$ recombination line** ($\lambda_{\rm rest} = 6562.8$ Å in air, $n = 3 \to 2$) is the premier nebular emission tracer of recent, unobscured-to-moderately obscured star formation. Because ionizing Lyman-continuum photons are emitted almost exclusively by the most massive, short-lived stars ($M \gtrsim 15\text{--}20\,M_\odot$), $\mathrm{H}\alpha$ probes star formation on timescales of $\tau \lesssim 10$ Myr—an order of magnitude shorter than the ultraviolet continuum.
+the **$\mathrm{H}\alpha$ recombination line** ($\lambda_{\rm rest} = 6562.8$ Å in air, $n = 3 \to 2$) is the premier nebular emission tracer of recent, unobscured-to-moderately obscured star formation. Because ionizing Lyman-continuum photons are emitted almost exclusively by the most massive, short-lived stars ($M \gtrsim 15\text{--}20\,M_\odot$), $\mathrm{H}\alpha$ probes star formation on timescales of $\tau \lesssim 10$ Myr, an order of magnitude shorter than the ultraviolet continuum.
 
 ---
 
-### physical mechanism: photoionization and case B recombination
+### physical mechanism - photoionization and case B recombination
 
 1. **production of ionizing photons**:
    very massive stars (spectral types O3 through O9) emit copious extreme-UV photons with energy above the hydrogen ionization threshold ($h\nu \ge 13.6$ eV, $\lambda \le 912$ Å) at a rate:
@@ -30,10 +30,10 @@ the **$\mathrm{H}\alpha$ recombination line** ($\lambda_{\rm rest} = 6562.8$ Å 
 
 calibrations are computed via stellar population synthesis models (e.g., Starburst99) assuming continuous star formation for $t > 10$ Myr and solar metallicity:
 
-#### Salpeter (1955) IMF ($0.1\text{--}100\,M_\odot$):
+#### Salpeter (1955) IMF ($0.1\text{--}100\,M_\odot$)
 $$\mathrm{SFR}_{\mathrm{H}\alpha} [M_\odot/\mathrm{yr}] = 7.9 \times 10^{-42}\,L(\mathrm{H}\alpha)\,[\mathrm{erg\,s^{-1}}] \quad (\text{Kennicutt 1998})$$
 
-#### Chabrier (2003) IMF:
+#### Chabrier (2003) IMF
 $$\mathrm{SFR}_{\mathrm{H}\alpha} [M_\odot/\mathrm{yr}] = 4.4 \times 10^{-42}\,L(\mathrm{H}\alpha)\,[\mathrm{erg\,s^{-1}}] \quad (\text{Hao et al. 2011; Kennicutt \& Evans 2012})$$
 
 the conversion between IMFs is:
@@ -58,11 +58,15 @@ to recover the true, intrinsic $\mathrm{H}\alpha$ star formation rate from raw t
 
 ---
 
-### high-redshift observations: the JWST revolution
+### high-redshift observations - the JWST revolution
 
 because $\mathrm{H}\alpha$ shifts into the near-infrared at $z > 0.4$ (and into the mid-infrared at $z > 2.5$), ground-based optical surveys were historically unable to measure $\mathrm{H}\alpha$ across the peak epoch of cosmic star formation ($z \sim 1\text{--}3$). With **JWST NIRSpec and NIRCam grisms**, $\mathrm{H}\alpha$ is now routinely measured out to $z \sim 7$, transforming our understanding of high-redshift starbursts and reionization-era ionizing photon production.
 
 ---
+
+## where it goes wrong
+
+- H$\alpha$ must be corrected for [NII] blending in narrow-band images and for dust with the Balmer decrement.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

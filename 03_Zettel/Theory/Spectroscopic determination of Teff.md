@@ -39,7 +39,7 @@ while ionisation balance is primarily used for $\log g$ (see [[Spectroscopic det
 ## sources of systematic error
 
 - **non-LTE effects.** in metal-poor giants, departures from LTE for Fe I can systematically lower the inferred Teff by 50-150 K. Fe II is more reliable because it is the majority species.
-- **3D atmosphere effects.** classical 1D models miss granulation; using 3D non-LTE corrections shifts Teff by tens of kelvin.
+- **3D atmosphere effects.** classical 1D models miss granulation. using 3D non-LTE corrections shifts Teff by tens of kelvin.
 - **microturbulence coupling.** an incorrect $\xi_t$ (see [[Microturbulence]]) introduces a tilt in the EW vs $\chi_{\rm exc}$ diagram that mimics a temperature error.
 
 ## typical precision

@@ -4,7 +4,7 @@ title: "Dust extinction in nebulae"
 ---
 dust mixed into ionised gas absorbs and scatters emission-line photons. measuring it via line ratios lets us correct fluxes for the ISM along the line of sight. central to abundance work and SFR measurement.
 
-## the standard method: Balmer decrement
+## the standard method - Balmer decrement
 
 intrinsic Balmer line ratios from Case-B recombination at $T_e = 10^4$ K (see [[Optically thin recombination lines]]):
 $$F(H\alpha)/F(H\beta) = 2.86$$
@@ -53,7 +53,7 @@ higher Balmer lines have larger $\Delta k(\lambda)$, hence more sensitive to dus
 
 choice depends on the source. for HII regions, Galactic CCM/O'Donnell is appropriate. for starburst galaxies, Calzetti for the disk-integrated SED.
 
-## differential extinction: stars vs nebulae
+## differential extinction - stars vs nebulae
 
 a key observation: in star-forming galaxies, **nebular extinction is roughly twice the continuum extinction**:
 $$A_V^{\rm neb} \approx 2 \cdot A_V^*$$

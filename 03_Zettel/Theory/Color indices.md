@@ -54,6 +54,20 @@ with $E(B - V)$ from spectral fitting, Balmer decrement, or dust maps (Schlegel-
 
 reddening vector on the CMD: a parallel shift along $B - V$ proportional to $E(B - V)$, with a slope $A_V/E(B-V) = R_V \approx 3.1$ for diffuse Galactic ISM.
 
+## worked example
+
+$B - V$ is $0.00$ for Vega, $0.65$ for the Sun and $1.85$ for Betelgeuse. an empirical conversion to temperature (Ballesteros 2012):
+
+$$T = 4600\left[\frac{1}{0.92\,(B-V) + 1.7} + \frac{1}{0.92\,(B-V) + 0.62}\right]\ \text{K}$$
+
+for the Sun: $4600 \times (0.435 + 0.821) = 5780$ K.
+
+## where it goes wrong
+
+- dust reddens the colour. the intrinsic value is $(B-V)_0 = (B-V) - E(B-V)$.
+- for hot stars the optical colours saturate, because both filters sit on the Rayleigh-Jeans tail. a bluer index like $U - B$ is needed.
+- metals absorb in the blue, so a metal-rich star looks redder than a metal-poor one at the same temperature.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

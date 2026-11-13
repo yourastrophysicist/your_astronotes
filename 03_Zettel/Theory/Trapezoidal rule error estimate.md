@@ -79,9 +79,9 @@ remedies:
 - **change of variable** that smooths the integrand
 - **use a method designed for singular endpoints**: tanh-sinh quadrature, Gauss-Jacobi for endpoint singularities
 
-## periodic integrands: spectral accuracy
+## periodic integrands - spectral accuracy
 
-a remarkable fact: when integrating a smooth periodic function over a full period, the trapezoidal rule has error decaying *faster than any power* of $h$ — exponentially fast. the $f''$ contributions cancel by periodicity.
+a fact: when integrating a smooth periodic function over a full period, the trapezoidal rule has error decaying *faster than any power* of $h$, exponentially fast. the $f''$ contributions cancel by periodicity.
 
 so for periodic integrands, plain trapezoidal *beats Simpson's rule* at large $N$. this is why FFT-based numerical integration uses uniform sampling on a periodic interval.
 

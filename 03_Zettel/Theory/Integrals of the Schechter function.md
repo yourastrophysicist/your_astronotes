@@ -139,6 +139,10 @@ Thus, approximately one-third of the entire starlight in the universe is produce
 
 ---
 
+## where it goes wrong
+
+- the incomplete gamma function is needed when the integral stops at a luminosity limit.
+
 ## astrophysics of galaxies figures and slides (Prof. Alessandro Pizzella)
 
 ![gal_lf1-11.png](../../assets/images/gal_lf1-11.png)

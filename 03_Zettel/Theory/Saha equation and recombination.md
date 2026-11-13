@@ -47,7 +47,7 @@ substituting $n_\gamma = (2\zeta(3)/\pi^2) T^3$:
 
 $$\frac{X_e^2}{1 - X_e} = \frac{\sqrt\pi}{4\sqrt 2 \zeta(3)}\, \eta^{-1}\, \left(\frac{m_e}{T}\right)^{3/2} e^{-B_H/T}$$
 
-with $\eta \sim 6 \times 10^{-10}$ extremely small. the entropy factor delays recombination just like in BBN — see [[BBN_baryon_to_photon_ratio]].
+with $\eta \sim 6 \times 10^{-10}$ extremely small. the entropy factor delays recombination just like in BBN, see [[BBN_baryon_to_photon_ratio]].
 
 ---
 
@@ -56,12 +56,12 @@ with $\eta \sim 6 \times 10^{-10}$ extremely small. the entropy factor delays re
 setting $X_e = 0.5$ (half the electrons recombined) gives the Saha estimate:
 $$T_{\rm rec} \approx \frac{B_H}{\lvert \ln \eta\rvert} \approx \frac{13.6}{20} \approx 0.7\,\text{eV}$$
 
-a more careful treatment (the Saha equation breaks down once recombination is not fast enough — the **freeze-out** of the electron fraction) gives:
+a more careful treatment (the Saha equation breaks down once recombination is not fast enough, the **freeze-out** of the electron fraction) gives:
 $$T_{\rm rec} \approx 0.3\,\text{eV} \quad \Leftrightarrow \quad z_{\rm rec} \sim 1100$$
 
 at this point only $X_e \sim 10^{-3}$ remains free.
 
-contrast this with the naive $T \sim B_H = 13.6$ eV, which would give $z \sim 50000$. the small $\eta$ moves recombination from $z \sim 50000$ down to $z \sim 1100$ — a factor of 50 in redshift, just like the analogous shift from $T \sim B_A$ down to $T \sim 0.1$ MeV in BBN.
+contrast this with the naive $T \sim B_H = 13.6$ eV, which would give $z \sim 50000$. the small $\eta$ moves recombination from $z \sim 50000$ down to $z \sim 1100$, a factor of 50 in redshift, just like the analogous shift from $T \sim B_A$ down to $T \sim 0.1$ MeV in BBN.
 
 ---
 
@@ -70,7 +70,7 @@ contrast this with the naive $T \sim B_H = 13.6$ eV, which would give $z \sim 50
 just before recombination, photons scatter off free electrons via Thomson scattering with a rate
 $$\Gamma_\gamma = n_e \sigma_T c$$
 
-while $\Gamma_\gamma \gg H$, photons are tightly coupled to baryons in a single fluid. when recombination depletes $n_e$ by orders of magnitude, $\Gamma_\gamma$ drops below $H$ — and **photons decouple**.
+while $\Gamma_\gamma \gg H$, photons are tightly coupled to baryons in a single fluid. when recombination depletes $n_e$ by orders of magnitude, $\Gamma_\gamma$ drops below $H$, and **photons decouple**.
 
 the **last scattering surface** at $z \sim 1100$ is what we see today as the CMB.
 
@@ -80,20 +80,29 @@ the **last scattering surface** at $z \sim 1100$ is what we see today as the CMB
 
 same logic as BBN: there are about $10^9$ photons per baryon. even when the temperature is well below the binding energy of hydrogen, a tiny fraction of high-energy photons in the Wien tail can still ionize hydrogen. you need $T$ low enough that this Wien-tail population is suppressed below the (small) baryon density. this happens at $T \sim B_H/\lvert \ln\eta\rvert$, which is much lower than $B_H$ itself.
 
-the same reasoning explains why nuclei in BBN form at $T \sim 0.1$ MeV rather than $T \sim B_A = 1$–$8$ MeV. **entropy beats binding energy** in both cases.
+the same reasoning explains why nuclei in BBN form at $T \sim 0.1$ MeV rather than $T \sim B_A = 1$ to $8$ MeV. **entropy beats binding energy** in both cases.
 
 ---
 
 ## why this matters
 
-three crucial consequences:
-1. **the CMB blackbody** we observe today is a snapshot of recombination — see [[Cosmic_inventory_photons]]
-2. **CMB anisotropies** at $\Delta T/T \sim 10^{-5}$ encode the matter perturbations at $z = 1100$, with all the BAO physics imprinted on them — see [[Matter power spectrum and BAO]]
+three consequences:
+1. **the CMB blackbody** we observe today is a snapshot of recombination - see [[Cosmic_inventory_photons]]
+2. **CMB anisotropies** at $\Delta T/T \sim 10^{-5}$ encode the matter perturbations at $z = 1100$, with all the BAO physics imprinted on them - see [[Matter power spectrum and BAO]]
 3. **after decoupling**, dark matter perturbations grow freely (no photon pressure) and bring forth the cosmic web
 
 the Saha equation fixes the *epoch* of recombination, the *temperature* of the CMB blackbody we observe today, and the *peak position* of the CMB power spectrum.
 
 ---
+
+## worked example
+
+setting $X_e = 1/2$ in the Saha equation with $\eta = 6 \times 10^{-10}$ gives $T \approx 3800$ K, $z \approx 1380$. the photons are 2.6 times colder than $13.6\ \text{eV}/k_B$ would suggest by a factor of 40, because there are $10^9$ photons per baryon.
+
+## where it goes wrong
+
+- Saha assumes equilibrium, which fails as $X_e$ drops. the real recombination is slower and ends later.
+- recombination ($X_e = 0.5$) and last scattering ($z \approx 1090$) are different epochs.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -106,13 +115,13 @@ the Saha equation fixes the *epoch* of recombination, the *temperature* of the C
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
-- [[BBN_overview]] — same entropy logic, different epoch
+- [[BBN_overview]] - same entropy logic, different epoch
 - [[Photon decoupling and CMB]]
 - [[Cosmic_inventory_photons]]
 - [[Brief thermal history]]
 - [[Decoupling and freeze-out]]
 - [[Boltzmann equation in cosmology]]
-- [[Baumann_reference]] — chapter 3.3.3 has the rigorous derivation including freeze-out
+- [[Baumann_reference]] - chapter 3.3.3 has the rigorous derivation including freeze-out
 
 
 

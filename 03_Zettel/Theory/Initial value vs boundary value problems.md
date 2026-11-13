@@ -12,7 +12,7 @@ all conditions are at the *same* time $t_0$:
 
 $$\dot{\mathbf{y}} = \mathbf{f}(\mathbf{y}, t), \quad \mathbf{y}(t_0) = \mathbf{y}_0$$
 
-I integrate forward from $t_0$. each step uses only past information. the algorithms are Euler, RK, leapfrog — see [[Runge-Kutta 4 method]], [[Leapfrog integrator]], etc.
+I integrate forward from $t_0$. each step uses only past information. the algorithms are Euler, RK, leapfrog, see [[Runge-Kutta 4 method]], [[Leapfrog integrator]], etc.
 
 natural for: dynamical evolution where I know the present state and want to predict the future. orbits, stellar evolution from a starting model, nuclear burning, atmospheric chemistry.
 
@@ -41,20 +41,20 @@ three main families:
 [[Shooting method]]: turn the BVP into an IVP by guessing the missing initial conditions, integrate forward, root-find on the boundary residual at the other end. wraps a 1D root finder around an IVP solver.
 
 pros: uses standard IVP machinery. flexible. easy to implement.
-cons: sensitive to the initial guess; can be unstable for stiff or oscillatory problems.
+cons: sensitive to the initial guess. can be unstable for stiff or oscillatory problems.
 
 ### finite differences
 
 discretize on a grid $x_0 = a, x_1, \ldots, x_N = b$. replace derivatives with finite-difference stencils. boundary conditions become equations at the grid endpoints. result: a linear (if the ODE is linear) or non-linear system on the grid values $y_0, y_1, \ldots, y_N$.
 
 pros: robust, handles arbitrary BVPs, scales naturally to PDEs.
-cons: large linear system; convergence requires fine grids.
+cons: large linear system. convergence requires fine grids.
 
 ### collocation
 
 assume the solution has a parametric form (polynomial, spline, Fourier series), pick the parameters so the ODE is satisfied at chosen "collocation points" plus the boundary conditions. pseudo-spectral and finite-element methods are special cases.
 
-pros: very high accuracy for smooth problems; what `scipy.integrate.solve_bvp` uses.
+pros: very high accuracy for smooth problems. what `scipy.integrate.solve_bvp` uses.
 cons: works less well when the solution has sharp features.
 
 ## eigenvalue problems

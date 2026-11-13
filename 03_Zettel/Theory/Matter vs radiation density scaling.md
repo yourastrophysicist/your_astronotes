@@ -2,7 +2,7 @@
 layout: "default"
 title: "Matter vs radiation density scaling"
 ---
-**matter** density scales as $\rho_m \propto a^{-3}$, while **radiation** as $\rho_r \propto a^{-4}$. the extra factor of $a^{-1}$ for radiation is the **photon energy redshift**. consequence: radiation **dominates the early universe**; matter takes over after equality at $z_{\rm eq} \sim 3400$.
+**matter** density scales as $\rho_m \propto a^{-3}$, while **radiation** as $\rho_r \propto a^{-4}$. the extra factor of $a^{-1}$ for radiation is the **photon energy redshift**. consequence: radiation **dominates the early universe**. matter takes over after equality at $z_{\rm eq} \sim 3400$.
 
 ## the scalings
 
@@ -45,7 +45,7 @@ $\Omega_r \approx 9 \times 10^{-5}$, so radiation is **today negligible** in the
 
 a useful number: $z_{\rm eq} \approx 3400$ corresponds to $T \approx T_0(1 + z_{\rm eq}) \approx 0.8$ eV. **before recombination** at $z = 1100$, $T = 0.26$ eV. so matter has been dominant since equality, well before recombination.
 
-## the consequence: structure formation
+## the consequence - structure formation
 
 before equality (radiation era):
 - matter perturbations are **suppressed** by radiation pressure (Meszaros effect).
@@ -56,6 +56,12 @@ after equality (matter era):
 - structures begin forming.
 
 so the **equality scale** $k_{\rm eq}$ marks the transition in the matter power spectrum. observable.
+
+## where it goes wrong
+
+- the equality redshift depends on $\Omega_mh^2$, not on $\Omega_m$ alone.
+- neutrinos count as radiation at equality, which raises $\Omega_r$ by 68%.
+- there are two equalities, matter-radiation at $z \approx 3400$ and matter-$\Lambda$ at $z \approx 0.3$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

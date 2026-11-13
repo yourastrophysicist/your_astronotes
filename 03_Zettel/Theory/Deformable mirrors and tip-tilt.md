@@ -17,7 +17,7 @@ these are corrected by separate mirrors:
 
 ### tip-tilt mirror
 
-a small (~100 mm), fast (~1 kHz) mirror with two-axis tilt. corrects the bulk image motion. simple and crucial. without tip-tilt correction, the long-exposure image wanders by $\sim \lambda/r_0 \sim 1''$ — wiping out any higher-order correction.
+a small (~100 mm), fast (~1 kHz) mirror with two-axis tilt. corrects the bulk image motion. simple and crucial. without tip-tilt correction, the long-exposure image wanders by $\sim \lambda/r_0 \sim 1''$, wiping out any higher-order correction.
 
 every AO system has a tip-tilt mirror. for cheap AO upgrades, a tip-tilt mirror alone reduces the seeing FWHM by ~50% and is much easier than a full DM.
 
@@ -35,7 +35,7 @@ actuator counts:
 - extreme AO: 1000-3000 actuators
 - ELT first-light: 6000-9000 actuators
 
-actuator spacing is set to match $r_0$ at the science wavelength: $d \sim r_0$. so K-band AO with $r_0 \sim 60$ cm needs actuators every ~10 cm in the pupil image — moderate density. visible AO with $r_0 \sim 10$ cm needs much denser actuator grids.
+actuator spacing is set to match $r_0$ at the science wavelength: $d \sim r_0$. so K-band AO with $r_0 \sim 60$ cm needs actuators every ~10 cm in the pupil image, moderate density. visible AO with $r_0 \sim 10$ cm needs much denser actuator grids.
 
 ## the speed requirement
 
@@ -48,7 +48,7 @@ DM actuators must respond within $\tau_0 \sim$ ms. typical DM bandwidths:
 - MEMS: 10-30 kHz, easily handles 1 kHz
 - magnetic-fluid (some adaptive secondaries): few kHz, marginal for visible AO
 
-mechanical bandwidth is rarely the limit; the WFS readout and the loop computer are usually the bottlenecks.
+mechanical bandwidth is rarely the limit. the WFS readout and the loop computer are usually the bottlenecks.
 
 ## the actuator geometry
 
@@ -85,7 +85,7 @@ instead of working in the actuator basis, project everything onto **Zernike poly
 
 advantages:
 - physical interpretation (each mode is a named aberration)
-- some modes are easier to correct than others; tune the loop gain per mode
+- some modes are easier to correct than others. tune the loop gain per mode
 - low-order modes have most of the variance, so partial correction often gets you 80% of the way
 
 ## challenges with very thin facesheets

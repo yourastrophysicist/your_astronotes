@@ -2,7 +2,7 @@
 layout: "default"
 title: "CMD constraints on disk vs halo populations"
 ---
-a colour-magnitude diagram of resolved stars is one of the most powerful diagnostics in galactic astronomy because it encodes both age (through the main-sequence turnoff luminosity) and metallicity (through the colour and the slope of the red giant branch). different galactic components leave distinct signatures.
+a colour-magnitude diagram of resolved stars is one of the most useful diagnostics in galactic astronomy because it encodes both age (through the main-sequence turnoff luminosity) and metallicity (through the colour and the slope of the red giant branch). different galactic components leave distinct signatures.
 
 **disk pop i**: the thin disk is metal-rich, $[\text{Fe/H}] \sim 0$ to $+0.3$ for the youngest stars, $\sim -0.3$ for the oldest, with a wide age range from $\sim 0$ to $\sim 8$ Gyr. on a CMD, this gives a **broad, populated main sequence with a turnoff that varies from very luminous (young, $\sim 100$ Myr) down to a moderate turnoff at $\sim 8$ Gyr**. the giant branch is steep and red because of high metallicity. the horizontal branch is replaced by a metal-rich red clump. star-forming pockets contribute pre-main-sequence and upper-main-sequence stars near the OB regime.
 

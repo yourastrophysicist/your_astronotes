@@ -27,8 +27,8 @@ the same trick works for higher multiples. triples and quadruples shift even fur
 
 ## reference papers
 
-- **Milone et al. 2012, A&A 540, A16** — binary fractions in 59 Galactic GCs.
-- **Bedin et al. 2008, 2009** — high binary fraction in NGC 6791 and its impact on the WDCS.
+- **Milone et al. 2012, A&A 540, A16** - binary fractions in 59 Galactic GCs.
+- **Bedin et al. 2008, 2009** - high binary fraction in NGC 6791 and its impact on the WDCS.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -51,98 +51,98 @@ the same trick works for higher multiples. triples and quadruples shift even fur
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 11 — Binaries in Star Clusters)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 11 - Binaries in Star Clusters)
 
 > **Context**: *Photometric binary sequence elevation (Delta V = -0.75 mag for q=1), binary mass ratio distribution f(q), and photometric binary fraction determination.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![LAntonino_p11_01.png](../../assets/images/LAntonino_p11_01.png)
-*Figure P11-01: LAntonino_p11_01.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-01: LAntonino_p11_01.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_02.png](../../assets/images/LAntonino_p11_02.png)
-*Figure P11-02: LAntonino_p11_02.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-02: LAntonino_p11_02.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_03.png](../../assets/images/LAntonino_p11_03.png)
-*Figure P11-03: LAntonino_p11_03.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-03: LAntonino_p11_03.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_04.png](../../assets/images/LAntonino_p11_04.png)
-*Figure P11-04: LAntonino_p11_04.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-04: LAntonino_p11_04.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_05.png](../../assets/images/LAntonino_p11_05.png)
-*Figure P11-05: LAntonino_p11_05.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-05: LAntonino_p11_05.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_06.png](../../assets/images/LAntonino_p11_06.png)
-*Figure P11-06: LAntonino_p11_06.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-06: LAntonino_p11_06.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_07.png](../../assets/images/LAntonino_p11_07.png)
-*Figure P11-07: LAntonino_p11_07.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-07: LAntonino_p11_07.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_08.png](../../assets/images/LAntonino_p11_08.png)
-*Figure P11-08: LAntonino_p11_08.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-08: LAntonino_p11_08.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_09.png](../../assets/images/LAntonino_p11_09.png)
-*Figure P11-09: LAntonino_p11_09.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-09: LAntonino_p11_09.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_10.png](../../assets/images/LAntonino_p11_10.png)
-*Figure P11-10: LAntonino_p11_10.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-10: LAntonino_p11_10.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_11.png](../../assets/images/LAntonino_p11_11.png)
-*Figure P11-11: LAntonino_p11_11.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-11: LAntonino_p11_11.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_12.png](../../assets/images/LAntonino_p11_12.png)
-*Figure P11-12: LAntonino_p11_12.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-12: LAntonino_p11_12.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_13.png](../../assets/images/LAntonino_p11_13.png)
-*Figure P11-13: LAntonino_p11_13.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-13: LAntonino_p11_13.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_14.png](../../assets/images/LAntonino_p11_14.png)
-*Figure P11-14: LAntonino_p11_14.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-14: LAntonino_p11_14.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_15.png](../../assets/images/LAntonino_p11_15.png)
-*Figure P11-15: LAntonino_p11_15.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-15: LAntonino_p11_15.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_16.png](../../assets/images/LAntonino_p11_16.png)
-*Figure P11-16: LAntonino_p11_16.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-16: LAntonino_p11_16.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_17.png](../../assets/images/LAntonino_p11_17.png)
-*Figure P11-17: LAntonino_p11_17.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-17: LAntonino_p11_17.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_18.png](../../assets/images/LAntonino_p11_18.png)
-*Figure P11-18: LAntonino_p11_18.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-18: LAntonino_p11_18.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_19.png](../../assets/images/LAntonino_p11_19.png)
-*Figure P11-19: LAntonino_p11_19.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-19: LAntonino_p11_19.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_20.png](../../assets/images/LAntonino_p11_20.png)
-*Figure P11-20: LAntonino_p11_20.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-20: LAntonino_p11_20.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_21.png](../../assets/images/LAntonino_p11_21.png)
-*Figure P11-21: LAntonino_p11_21.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-21: LAntonino_p11_21.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_22.png](../../assets/images/LAntonino_p11_22.png)
-*Figure P11-22: LAntonino_p11_22.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-22: LAntonino_p11_22.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_23.png](../../assets/images/LAntonino_p11_23.png)
-*Figure P11-23: LAntonino_p11_23.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-23: LAntonino_p11_23.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_24.png](../../assets/images/LAntonino_p11_24.png)
-*Figure P11-24: LAntonino_p11_24.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-24: LAntonino_p11_24.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![LAntonino_p11_25.png](../../assets/images/LAntonino_p11_25.png)
-*Figure P11-25: LAntonino_p11_25.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-25: LAntonino_p11_25.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![Lecture11_p15-15.png](../../assets/images/Lecture11_p15-15.png)
-*Figure P11-26: Lecture11_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-26: Lecture11_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![Lecture11_p25-25.png](../../assets/images/Lecture11_p25-25.png)
-*Figure P11-27: Lecture11_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-27: Lecture11_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![Lecture11_p35-35.png](../../assets/images/Lecture11_p35-35.png)
-*Figure P11-28: Lecture11_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-28: Lecture11_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 ![Lecture11_p5-05.png](../../assets/images/Lecture11_p5-05.png)
-*Figure P11-29: Lecture11_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 11 — Binaries in Star Clusters.*
+*Figure P11-29: Lecture11_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 11 - Binaries in Star Clusters.*
 
 
 

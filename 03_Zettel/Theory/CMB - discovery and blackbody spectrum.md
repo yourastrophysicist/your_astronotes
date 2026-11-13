@@ -8,7 +8,7 @@ the **cosmic microwave background (CMB)** is a near-perfect blackbody at $T_0 = 
 
 Arno Penzias + Robert Wilson at Bell Labs were testing a microwave receiver for satellite communications. found an excess noise of $\sim 3.5$ K that they couldn't eliminate (no matter how much they cleaned the antenna of pigeon droppings).
 
-simultaneously, Robert Dicke + Jim Peebles at Princeton were **predicting** a relic microwave radiation from a hot dense early universe (refining George Gamow's 1948 idea). Penzias + Wilson called Dicke; the discovery was published.
+simultaneously, Robert Dicke + Jim Peebles at Princeton were **predicting** a relic microwave radiation from a hot dense early universe (refining George Gamow's 1948 idea). Penzias + Wilson called Dicke. the discovery was published.
 
 Nobel 1978 to Penzias + Wilson.
 
@@ -25,7 +25,7 @@ so the CMB matches the Planck function to $1$ part in $10^4$. **the most perfect
 three immediate ones:
 1. **the universe was once hot + dense + in equilibrium**, allowing photons to thermalise. Hot Big Bang confirmed.
 2. **the universe cooled down via expansion** (FLRW), photons stretched in wavelength as $T \propto 1/a$.
-3. **at recombination ($z \sim 1100$, $T \sim 0.26$ eV)**, photons last interacted with matter; they've been freely streaming since.
+3. **at recombination ($z \sim 1100$, $T \sim 0.26$ eV)**, photons last interacted with matter. they've been freely streaming since.
 
 so the CMB is **the oldest electromagnetic signal** we can detect. its features encode the universe at $z = 1100$.
 
@@ -54,7 +54,15 @@ the CMB is **almost** but not exactly a perfect blackbody. predicted small disto
 - **$\mu$-distortion** $\mu/T \sim 10^{-8}$ from Silk damping at $z = 5\times 10^4$ to $2\times 10^6$.
 - **$y$-distortion** $y \sim 10^{-6}$ from late-time SZ + reionization heating.
 
-current limits (FIRAS): $\mu/T < 9\times 10^{-5}$, $y < 1.5\times 10^{-5}$. future spectrometer (PIXIE, Voyage 2050) can reach the standard-model prediction. see CMB Spectral Distortions — What They Are and Where They Come From.
+current limits (FIRAS): $\mu/T < 9\times 10^{-5}$, $y < 1.5\times 10^{-5}$. future spectrometer (PIXIE, Voyage 2050) can reach the standard-model prediction. see CMB Spectral Distortions, What They Are and Where They Come From.
+
+## worked example
+
+with Wien's law in frequency, $\nu_{\max} = 58.8\ \text{GHz/K} \times 2.725 = 160$ GHz, $\lambda = 1.9$ mm.
+
+## where it goes wrong
+
+- the COBE FIRAS spectrum deviates from a blackbody by less than 50 parts per million. it is the best blackbody known.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -77,7 +85,7 @@ current limits (FIRAS): $\mu/T < 9\times 10^{-5}$, $y < 1.5\times 10^{-5}$. futu
 - [[CMB anisotropies]]
 - [[CMB power spectrum]]
 - [[Polarization E and B modes]]
-- CMB Spectral Distortions — What They Are and Where They Come From
+- CMB Spectral Distortions, What They Are and Where They Come From
 - [[Brief thermal history]]
 - [[Observational_Cosmology_MOC]]
 

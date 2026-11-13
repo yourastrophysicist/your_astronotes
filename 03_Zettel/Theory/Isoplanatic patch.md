@@ -30,9 +30,9 @@ scales as $\theta_0 \propto \lambda^{6/5}$, like $r_0$ and $\tau_0$.
 
 ## why it matters for AO
 
-AO uses a **guide star** to measure the wavefront. the correction is then applied to *all* light coming through the telescope. but only stars within $\theta_0$ of the guide star benefit fully — outside, the wavefront is uncorrelated and the AO correction is wrong.
+AO uses a **guide star** to measure the wavefront. the correction is then applied to *all* light coming through the telescope. but only stars within $\theta_0$ of the guide star benefit fully, outside, the wavefront is uncorrelated and the AO correction is wrong.
 
-for a science target, I need a bright enough star within $\theta_0$ to use as a guide. at visible wavelengths, $\theta_0 \sim 2''$ is *very* small — only $\sim 1\%$ of the sky has a suitable bright star nearby. at K-band, $\theta_0 \sim 15''$ — sky coverage is much better.
+for a science target, I need a bright enough star within $\theta_0$ to use as a guide. at visible wavelengths, $\theta_0 \sim 2''$ is *very* small, only $\sim 1\%$ of the sky has a suitable bright star nearby. at K-band, $\theta_0 \sim 15''$, sky coverage is much better.
 
 solution: **laser guide stars**. shine a laser at the sodium layer (90 km up) to create an artificial guide star. but lasers don't help with **tip-tilt** (the wavefront's bulk motion, which laser-induced light doesn't see), so a natural guide star (faint) is still needed for tilt.
 
@@ -40,7 +40,7 @@ solution: **laser guide stars**. shine a laser at the sodium layer (90 km up) to
 
 for **phase referencing** in radio interferometry, I switch between target and calibrator. the calibrator must be within the isoplanatic angle (so the atmospheric path is the same) for the calibration to work.
 
-at radio (cm wavelengths), $\theta_0$ is much larger — typically a degree or more. so phase calibrators within a degree of the target are usually available.
+at radio (cm wavelengths), $\theta_0$ is much larger, typically a degree or more. so phase calibrators within a degree of the target are usually available.
 
 at sub-mm/optical, $\theta_0$ is smaller, and *off-axis fringe tracking* (using a star within $\theta_0$ as a fringe reference) becomes essential. VLTI's GRAVITY uses a "dual-feed" system with two inputs: one for the science target, one for an offaxis fringe-tracking star within ~10".
 
@@ -54,7 +54,7 @@ so a more accurate quantity is the **isoplanatic patch shape**, ellipse-shaped o
 
 ## ground-layer AO and wide-field correction
 
-if turbulence is concentrated in the ground layer (few hundred meters above the telescope), all stars in a wide field see the *same* ground-layer turbulence. correcting only the ground layer (with multiple guide stars near the science target) improves seeing over a much *wider* field of view than classical AO — sometimes 1' or more, dramatically larger than $\theta_0$.
+if turbulence is concentrated in the ground layer (few hundred meters above the telescope), all stars in a wide field see the *same* ground-layer turbulence. correcting only the ground layer (with multiple guide stars near the science target) improves seeing over a much *wider* field of view than classical AO, sometimes 1' or more, dramatically larger than $\theta_0$.
 
 this is **ground-layer adaptive optics (GLAO)**, used by survey instruments like VST, Gemini's GLAO, and the future LSST/Vera Rubin proposal.
 

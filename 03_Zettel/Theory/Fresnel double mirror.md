@@ -4,7 +4,7 @@ title: "Fresnel double mirror"
 ---
 # Fresnel double mirror
 
-Augustin Fresnel's elegant 1819 demonstration of two-source interference. **two flat mirrors** meeting at a small angle $\alpha$, illuminated by a single point source. the reflections create two virtual coherent sources that produce Young-like fringes, without the need for slits.
+Augustin Fresnel's 1819 demonstration of two-source interference. **two flat mirrors** meeting at a small angle $\alpha$, illuminated by a single point source. the reflections create two virtual coherent sources that produce Young-like fringes, without the need for slits.
 
 historically important: it was *the* experiment that put the wave theory of light beyond doubt. Fresnel won the 1819 prize of the French Academy with this and related experiments.
 
@@ -38,8 +38,8 @@ with the fringes oriented perpendicular to the line $S_1' S_2'$.
 ## the practical setup
 
 the angle $\alpha$ is typically very small (a few arc-minutes) because:
-- if $\alpha = 0$: the two mirrors are coplanar; no separation between virtual sources; no fringes
-- if $\alpha$ is large: the separation $d$ is large; fringes are very fine, hard to resolve
+- if $\alpha = 0$: the two mirrors are coplanar. no separation between virtual sources. no fringes
+- if $\alpha$ is large: the separation $d$ is large. fringes are very fine, hard to resolve
 - if $\alpha$ is too large: the two virtual sources are widely separated and the geometry breaks down
 
 in practice $\alpha \sim 1'$ is chosen, giving $d$ on the order of mm for typical source distances.
@@ -62,7 +62,7 @@ advantages of Young over Fresnel double mirror:
 - no critical mirror alignment needed
 - works for arbitrary baselines (slit separations)
 
-modern lecture demos use Young (more pedagogical clarity); Fresnel double mirror is mostly a historical curiosity.
+modern lecture demos use Young (more pedagogical clarity). Fresnel double mirror is mostly a historical curiosity.
 
 ## the historical context
 

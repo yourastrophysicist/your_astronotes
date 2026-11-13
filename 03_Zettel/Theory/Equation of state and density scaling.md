@@ -27,7 +27,7 @@ continuity equation: $\dot\rho + 3H(\rho + p) = 0 \Rightarrow \dot\rho/\rho = -3
 if $w$ is constant: $\rho \propto a^{-3(1+w)}$. the **scaling law**.
 
 ### dust ($w = 0$)
-$\rho_m \propto a^{-3}$. just dilution by volume; particle number density $n \propto 1/a^3$, particle energy is constant.
+$\rho_m \propto a^{-3}$. just dilution by volume. particle number density $n \propto 1/a^3$, particle energy is constant.
 
 ### radiation ($w = 1/3$)
 $\rho_r \propto a^{-4}$. volume dilution ($a^{-3}$) **times** redshift of individual photon energies ($a^{-1}$).

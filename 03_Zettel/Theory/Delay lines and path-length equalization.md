@@ -14,7 +14,7 @@ $$\tau_{ij} = \mathbf B_{ij} \cdot \mathbf l/c$$
 
 with $\mathbf B_{ij}$ the baseline vector. for $\mathbf l$ pointing at the source, this delay depends on the geometry.
 
-at the beam combiner, the two beams must arrive *coherent in phase* — meaning the *total* optical path (geometric + atmospheric + instrumental) must be matched for both arms.
+at the beam combiner, the two beams must arrive *coherent in phase*, meaning the *total* optical path (geometric + atmospheric + instrumental) must be matched for both arms.
 
 ## the path budget
 
@@ -45,7 +45,7 @@ a typical delay line:
 - a precision rail (typically meters long) on which the carriage runs
 - a *piezo stage* on the carriage for fine sub-μm corrections
 
-the trolley moves coarsely (mm to meter scale) to handle source tracking; the piezo handles sub-mm corrections at high frequency.
+the trolley moves coarsely (mm to meter scale) to handle source tracking. the piezo handles sub-mm corrections at high frequency.
 
 VLTI: 8 delay lines, each in a 65 m vacuum tunnel. carriage moves on linear rails with $\sim$ μm position-encoder resolution. piezo stage on top with nm resolution.
 
@@ -62,7 +62,7 @@ the delay lines run continuously to compensate. a typical observation: 30-60 min
 
 internal path-length stability of the delay lines themselves is critical. any mechanical creep, thermal drift, or vibration in the rails contaminates the measurement. solution: an independent **metrology system** monitors the actual physical position of the carriage at all times.
 
-VLTI's PRIMA metrology uses a stabilized HeNe laser injected into the optical train. nm-level position tracking continuously. without it, the delay lines would drift by $\sim$ mm in tens of minutes — unacceptable for sub-μm-precision interferometry.
+VLTI's PRIMA metrology uses a stabilized HeNe laser injected into the optical train. nm-level position tracking continuously. without it, the delay lines would drift by $\sim$ mm in tens of minutes, unacceptable for sub-μm-precision interferometry.
 
 ## the air vs vacuum question
 
@@ -71,7 +71,7 @@ beam tubes are evacuated to $\sim 10^{-4}$ mbar to minimize:
 - thermal-gradient-induced refractive-index gradients
 - absorption by water vapor (at IR wavelengths)
 
-VLTI: full vacuum in delay-line tunnels. CHARA: sealed-air in delay-line tubes (air refractive index varies with temperature; controlled by climate-controlled tunnels). both work, with vacuum more demanding but more stable.
+VLTI: full vacuum in delay-line tunnels. CHARA: sealed-air in delay-line tubes (air refractive index varies with temperature, controlled by climate-controlled tunnels). both work, with vacuum more demanding but more stable.
 
 ## the dispersion problem
 
@@ -81,7 +81,7 @@ solution: **dispersion compensation**. each delay line has a glass element whose
 
 ## fringe tracking and the delay line
 
-the **fringe tracker** monitors the residual path-length error in real time and sends correction commands to the delay-line piezo stage. closed-loop bandwidth: ~1 kHz, faster than $\tau_0$. the piezo handles the fast atmospheric piston jitter; the delay-line carriage handles the slow geometric tracking.
+the **fringe tracker** monitors the residual path-length error in real time and sends correction commands to the delay-line piezo stage. closed-loop bandwidth: ~1 kHz, faster than $\tau_0$. the piezo handles the fast atmospheric piston jitter. the delay-line carriage handles the slow geometric tracking.
 
 so the delay-line system has two control bandwidths:
 - carriage motion: ~Hz (geometric tracking)

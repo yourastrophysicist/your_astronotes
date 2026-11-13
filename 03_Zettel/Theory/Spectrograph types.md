@@ -6,11 +6,11 @@ four main families of astronomical spectrograph, each optimised for a different 
 
 ## longslit
 
-the simplest, most common. a long narrow slit lies along the focal plane; everything that falls within the slit is dispersed simultaneously by the grating, producing a 2D image: wavelength along $x$, slit position along $y$.
+the simplest, most common. a long narrow slit lies along the focal plane. everything that falls within the slit is dispersed simultaneously by the grating, producing a 2D image: wavelength along $x$, slit position along $y$.
 
 - **field**: a strip of width $\sim 1''$ to $3''$ and length $\sim 1$ to $10$ arcmin.
 - **R**: $\sim 1000$ to $10\,000$ typically.
-- **use cases**: single bright targets, point sources at known position; spatially resolved spectroscopy of extended objects (galaxies, planetary nebulae) along the slit.
+- **use cases**: single bright targets, point sources at known position. spatially resolved spectroscopy of extended objects (galaxies, planetary nebulae) along the slit.
 - **examples**: Boller & Chivens, FOSC (Asiago), DOLORES (TNG), FORS2 (VLT).
 
 best when you have a single target or want to study one cross-section of an extended object.
@@ -45,14 +45,14 @@ efficient: $\sim 10^3$ spectra simultaneously. the redshift-survey workhorse.
 gives a **datacube** $(x, y, \lambda)$: a spectrum at every spatial position in a 2D field. three IFU technologies:
 
 - **lenslet array**: each spatial element is reimaged via a microlens to the spectrograph slit. example: SAURON, OSIRIS.
-- **lenslets + fibers**: lenslets concentrate light onto a fiber bundle; fibers reformatted into a single linear pseudoslit. example: VIMOS-IFU, MaNGA, KMOS.
-- **image slicer**: a stack of small mirrors slices the 2D field into thin strips; strips are realigned in a single line for the spectrograph. example: MUSE, KCWI, NIRSpec.
+- **lenslets + fibers**: lenslets concentrate light onto a fiber bundle. fibers reformatted into a single linear pseudoslit. example: VIMOS-IFU, MaNGA, KMOS.
+- **image slicer**: a stack of small mirrors slices the 2D field into thin strips. strips are realigned in a single line for the spectrograph. example: MUSE, KCWI, NIRSpec.
 
 - **R**: $\sim 1000$ to $10\,000$ typically.
 - **use cases**: kinematics of galaxies, AGN narrow-line regions, planetary nebulae, $z$-mapping of clusters, exoplanet host atmospheres.
 - **examples**: MUSE (VLT), KCWI (Keck), MaNGA (SDSS-IV), VIMOS, NIRSpec IFU (JWST).
 
-most powerful for extended sources but complex and heavy on data volume.
+most useful for extended sources but complex and heavy on data volume.
 
 ## comparison table
 

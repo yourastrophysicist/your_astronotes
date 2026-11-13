@@ -4,18 +4,18 @@ title: "Recombination"
 ---
 **cosmological recombination** at $z \sim 1100$ ($T \sim 0.26$ eV) is the moment when free electrons combined with protons to form neutral hydrogen. **the universe became transparent** + the **CMB was released**. one of the three pillars of the Hot Big Bang.
 
-(companion: [[Saha equation and recombination]] for the detailed Saha analysis + Case B physics; [[Photon decoupling and CMB]] for the CMB perspective.)
+(companion: [[Saha equation and recombination]] for the detailed Saha analysis + Case B physics, [[Photon decoupling and CMB]] for the CMB perspective.)
 
 ## the setup
 
-before recombination, the universe was a **plasma** of free electrons + protons + photons. photons scattered constantly off free electrons via Thomson scattering. mean free path was tiny; **opaque**.
+before recombination, the universe was a **plasma** of free electrons + protons + photons. photons scattered constantly off free electrons via Thomson scattering. mean free path was tiny. **opaque**.
 
 as the universe expanded, $T$ dropped. eventually, electrons + protons combined to form **neutral H**:
 $$e^- + p^+ \to H + \gamma$$
 
-once enough electrons are bound up in atoms, photons stop scattering frequently; mean free path becomes longer than the Hubble radius. **transparent**.
+once enough electrons are bound up in atoms, photons stop scattering frequently. mean free path becomes longer than the Hubble radius. **transparent**.
 
-## the temperature: $T \sim 0.26$ eV, not $13.6$
+## the temperature - $T \sim 0.26$ eV, not $13.6$
 
 naive expectation: H ionises at $\chi_H = 13.6$ eV, so recombines around $T \sim$ that. but observations + Saha calculations give $T_{\rm rec} \sim 0.26$ eV ($T \sim 3000$ K, $z \sim 1100$).
 
@@ -55,13 +55,17 @@ photons we see in the CMB had their **last scattering** at recombination. this d
 
 LSS thickness $\sim 100$ in $z$ units. corresponds to a comoving thickness of $\sim 10$ Mpc.
 
-CMB anisotropies are signs of density perturbations on the LSS: hotter spots = denser regions; colder = under-dense. directly observable.
+CMB anisotropies are signs of density perturbations on the LSS: hotter spots = denser regions. Colder = under-dense. directly observable.
 
 ## the late ionisation history
 
 after recombination at $z = 1100$, the universe stays largely **neutral** until **reionisation** at $z \sim 6$ to $10$, when first stars + AGN reionise the IGM.
 
 so the **electron density** has a U-shape: high before recombination, low between $z = 1100$ + $\sim 10$, then high again after reionisation.
+
+## where it goes wrong
+
+- "recombination" is a misnomer. electrons and protons had never been combined before.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -77,7 +81,7 @@ so the **electron density** has a U-shape: high before recombination, low betwee
 - [[Saha equation and recombination]]
 - [[Decoupling]]
 - [[Photon decoupling and CMB]]
-- CMB — discovery and blackbody spectrum
+- CMB, discovery and blackbody spectrum
 - [[CMB anisotropies]]
 - [[Reionization]]
 - [[Brief thermal history]]

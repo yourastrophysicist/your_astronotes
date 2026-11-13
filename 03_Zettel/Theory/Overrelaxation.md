@@ -32,9 +32,9 @@ then plug in.
 ## $\omega$ regimes
 
 - $\omega = 1$: standard relaxation
-- $1 < \omega < 2$: **overrelaxation** — accelerates monotone convergence
+- $1 < \omega < 2$: **overrelaxation**, accelerates monotone convergence
 - $\omega > 2$: usually diverges
-- $0 < \omega < 1$: **underrelaxation** — slows down oscillating iterations to make them converge
+- $0 < \omega < 1$: **underrelaxation**, slows down oscillating iterations to make them converge
 
 ## successive overrelaxation (SOR) for Gauss-Seidel
 
@@ -46,7 +46,7 @@ SOR replaces it with
 
 $$x_i^{(k+1)} = (1 - \omega) x_i^{(k)} + \omega \, x_i^{\rm GS}$$
 
-for the optimal $\omega$ on a 2D Laplacian discretization, SOR converges in $O(N)$ iterations vs $O(N^2)$ for plain Gauss-Seidel — an order-of-magnitude speedup at zero extra cost per iteration.
+for the optimal $\omega$ on a 2D Laplacian discretization, SOR converges in $O(N)$ iterations vs $O(N^2)$ for plain Gauss-Seidel, an order-of-magnitude speedup at zero extra cost per iteration.
 
 ## the optimal $\omega$ for the discrete Laplacian
 
@@ -54,7 +54,7 @@ for a $5$-point Laplacian on an $N \times N$ grid (the model Poisson problem), a
 
 $$\omega_{\rm opt} = \frac{2}{1 + \sin(\pi/N)}$$
 
-approximately $\omega_{\rm opt} \to 2$ as $N \to \infty$. so for fine grids, the optimal $\omega$ is just under 2; the convergence rate is $1 - O(1/N)$ instead of $1 - O(1/N^2)$.
+approximately $\omega_{\rm opt} \to 2$ as $N \to \infty$. so for fine grids, the optimal $\omega$ is just under 2. the convergence rate is $1 - O(1/N)$ instead of $1 - O(1/N^2)$.
 
 ## python implementation
 
@@ -92,7 +92,7 @@ if the system is small, just use a direct solver (`np.linalg.solve`) and skip th
 ## astrophysics applications
 
 - **historical**: SOR was the standard PDE solver in the 1960s-1980s for stellar structure relaxation, magneto-hydrostatic equilibria, etc.
-- **multigrid** uses Gauss-Seidel or SOR as a "smoother" between coarse-grid corrections; the synergy gives $O(N)$ overall
+- **multigrid** uses Gauss-Seidel or SOR as a "smoother" between coarse-grid corrections. the synergy gives $O(N)$ overall
 - **solving the Poisson equation** for self-gravitating systems on a grid
 
 <!-- sources:wiki-arxiv -->

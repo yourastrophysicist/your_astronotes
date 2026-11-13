@@ -21,15 +21,15 @@ setting $r_s = 2GM$ (the **Schwarzschild radius**), the coefficient becomes $1 -
 
 ## the assumptions (Birkhoff theorem)
 
-Schwarzschild is the **unique** spherically-symmetric vacuum solution. **Birkhoff's theorem**: any spherically symmetric vacuum solution is asymptotically flat, static, and Schwarzschild. so a pulsating spherical star produces no GW outside it; the exterior is Schwarzschild at all times.
+Schwarzschild is the **unique** spherically-symmetric vacuum solution. **Birkhoff's theorem**: any spherically symmetric vacuum solution is asymptotically flat, static, and Schwarzschild. so a pulsating spherical star produces no GW outside it. The exterior is Schwarzschild at all times.
 
 ## physical predictions (all confirmed)
 
 1. **gravitational redshift**: a photon climbing out of the gravitational well has its frequency reduced by factor $\sqrt{1 - 2GM/r_{\rm emit}}/\sqrt{1 - 2GM/r_{\rm obs}}$. measured in the Pound-Rebka experiment 1959 + GPS satellites + Mercury surface.
 2. **perihelion precession** of Mercury: $43''$/century, the missing piece in Newtonian theory.
 3. **light deflection**: $1.75''$ at the solar limb. confirmed by Eddington 1919.
-4. **innermost stable circular orbit (ISCO)** at $r = 6GM$. inner edge of accretion disks; observable.
-5. **photon sphere** at $r = 3GM$. unstable circular photon orbit; the bright ring in EHT images.
+4. **innermost stable circular orbit (ISCO)** at $r = 6GM$. inner edge of accretion disks. observable.
+5. **photon sphere** at $r = 3GM$. unstable circular photon orbit. the bright ring in EHT images.
 6. **event horizon** at $r = 2GM$. one-way membrane.
 
 ## limits

@@ -4,7 +4,7 @@ title: "Adaptive timesteps near close encounters"
 ---
 # Adaptive timesteps near close encounters
 
-a Kepler orbit at radius 1 needs $h \sim 10^{-2}$ for accurate integration. a binary at radius $10^{-3}$ needs $h \sim 10^{-5}$. a fixed timestep set to satisfy both wastes 99% of the work; a fixed timestep set for the larger orbit catastrophically fails on the binary. **the only sane approach** is to give each particle its own timestep.
+a Kepler orbit at radius 1 needs $h \sim 10^{-2}$ for accurate integration. a binary at radius $10^{-3}$ needs $h \sim 10^{-5}$. a fixed timestep set to satisfy both wastes 99% of the work. a fixed timestep set for the larger orbit catastrophically fails on the binary. **the only sane approach** is to give each particle its own timestep.
 
 ## why fixed timesteps fail
 
@@ -53,7 +53,7 @@ this is **block timestepping**: the workhorse of cosmological GADGET runs and si
 
 with adaptive individual timesteps, "the energy at time $t$" requires synchronized predictions of all particles. the cost is non-negligible. typical compromise: only check $E$ at uniform output snapshots, not every timestep.
 
-## regularization: a different trick
+## regularization - a different trick
 
 for very close binaries, even adaptive timestepping is too slow. use a **change of variables** that removes the $1/r$ singularity:
 

@@ -7,12 +7,12 @@ ultra-faint dwarf galaxies (UFDGs) are the lowest-luminosity galaxies known. the
 **operational definition** (willman & strader 2012, simon 2019):
 
 - **luminosity**: $M_V > -7.7$ (some authors say $M_V > -8$). this corresponds to total stellar mass $M_\star \lesssim 10^5 M_\odot$. for context, classical dwarf spheroidals like draco have $M_V \sim -8.8$, while UFDGs go down to $M_V \approx -1.5$ (cetus iii, virgo i, the very faintest).
-- **internal kinematics**: stellar velocity dispersion $\sigma_v \sim 2$-$5$ km/s. there is no rotation; UFDGs are **pressure-supported**.
+- **internal kinematics**: stellar velocity dispersion $\sigma_v \sim 2$-$5$ km/s. there is no rotation. UFDGs are **pressure-supported**.
 - **metallicity**: mean $[\text{Fe/H}] \sim -2.5$ to $-3.0$, with internal spreads of $\sim 0.5$-$1$ dex. some contain extremely metal-poor stars ($[\text{Fe/H}] < -3$), among the most metal-poor stars in the Universe.
 - **size**: half-light radius $r_h \sim 30$-$100$ pc.
 - **dynamics**: mass-to-light ratios $M/L \sim 100$-$10^4$ within the half-light radius. dynamical masses $\sim 10^6$-$10^7 M_\odot$.
 
-## UFD vs globular cluster: the diagnostic boundary
+## UFD vs globular cluster - the diagnostic boundary
 
 what distinguishes a UFDG from a globular cluster of comparable luminosity (Milone 2026, Lecture 5):
 
@@ -44,7 +44,7 @@ a useful pedagogical warning: the UFDG/GC boundary is fuzzy. a few systems (segu
 
 ## reionisation and the age of ultra-faint dwarfs
 
-**Brown et al. 2014** used deep HST photometry to infer the ages of six ultra-faint dwarfs (CVn II, Ursa Major I, Leo IV, Hercules, Boötes I, Coma Ber). the result: **$\sim 80\%$ of their stars formed by $z \sim 6$ and $100\%$ by $z \sim 3$**. the similarly ancient populations across all six systems suggest that star formation in the smallest dark-matter sub-halos was suppressed by a **global outside influence** — most plausibly the **epoch of reionisation** ($z \sim 6$-$10$).
+**Brown et al. 2014** used deep HST photometry to infer the ages of six ultra-faint dwarfs (CVn II, Ursa Major I, Leo IV, Hercules, Boötes I, Coma Ber). the result: **$\sim 80\%$ of their stars formed by $z \sim 6$ and $100\%$ by $z \sim 3$**. the similarly ancient populations across all six systems suggest that star formation in the smallest dark-matter sub-halos was suppressed by a **global outside influence**, most plausibly the **epoch of reionisation** ($z \sim 6$-$10$).
 
 this makes UFDGs the quintessential **fossil galaxies**: their stars formed before or during reionisation, and the UV background from the first galaxies + quasars photoevaporated their residual gas, permanently shutting off star formation.
 
@@ -56,113 +56,113 @@ this is an exam-relevant conceptual question: **why does a narrow SGB imply a sh
 
 ## reference papers
 
-- **Willman et al. 2005** — Willman 1, first SDSS UFDG.
-- **Belokurov et al. 2007** — five new UFDGs from SDSS.
-- **Brown et al. 2014** — HST ages of six UFDs: reionisation quenching.
-- **Simon 2019 review** — kinematics + DM content of dwarfs.
-- **Frebel & Norris 2015 review** — chemical signatures of UFDGs.
-- **Ji et al. 2016** — r-process enhancement in Reticulum II.
-- **Muratore et al. 2026** — JWST + HST Boötes I photometry.
+- **Willman et al. 2005** - Willman 1, first SDSS UFDG.
+- **Belokurov et al. 2007** - five new UFDGs from SDSS.
+- **Brown et al. 2014** - HST ages of six UFDs: reionisation quenching.
+- **Simon 2019 review** - kinematics + DM content of dwarfs.
+- **Frebel & Norris 2015 review** - chemical signatures of UFDGs.
+- **Ji et al. 2016** - r-process enhancement in Reticulum II.
+- **Muratore et al. 2026** - JWST + HST Boötes I photometry.
 
 see also [[UFDG dark matter content]], [[UFDG star formation histories]], [[UFDG search via deep CMD]], [[Pop III remnants in UFDGs]], [[Halo accretion from dwarf galaxies]], [[Stellar populations I II III]], [[Stellar_Astrophysics_MOC]]
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter)
 
 > **Context**: *UFDG discovery via SDSS/DES, extreme mass-to-light ratios (M/L ~ 100-1000), dark matter subhalo constraints, and truncation of star formation at reionization.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![L05_p05_UFDG-05.png](../../assets/images/L05_p05_UFDG-05.png)
-*Figure P05-01: L05_p05_UFDG-05.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-01: L05_p05_UFDG-05.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_01.png](../../assets/images/LAntonino_p05_01.png)
-*Figure P05-02: LAntonino_p05_01.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-02: LAntonino_p05_01.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_02.png](../../assets/images/LAntonino_p05_02.png)
-*Figure P05-03: LAntonino_p05_02.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-03: LAntonino_p05_02.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_03.png](../../assets/images/LAntonino_p05_03.png)
-*Figure P05-04: LAntonino_p05_03.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-04: LAntonino_p05_03.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_04.png](../../assets/images/LAntonino_p05_04.png)
-*Figure P05-05: LAntonino_p05_04.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-05: LAntonino_p05_04.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_05.png](../../assets/images/LAntonino_p05_05.png)
-*Figure P05-06: LAntonino_p05_05.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-06: LAntonino_p05_05.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_06.png](../../assets/images/LAntonino_p05_06.png)
-*Figure P05-07: LAntonino_p05_06.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-07: LAntonino_p05_06.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_07.png](../../assets/images/LAntonino_p05_07.png)
-*Figure P05-08: LAntonino_p05_07.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-08: LAntonino_p05_07.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_08.png](../../assets/images/LAntonino_p05_08.png)
-*Figure P05-09: LAntonino_p05_08.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-09: LAntonino_p05_08.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_09.png](../../assets/images/LAntonino_p05_09.png)
-*Figure P05-10: LAntonino_p05_09.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-10: LAntonino_p05_09.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_10.png](../../assets/images/LAntonino_p05_10.png)
-*Figure P05-11: LAntonino_p05_10.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-11: LAntonino_p05_10.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_11.png](../../assets/images/LAntonino_p05_11.png)
-*Figure P05-12: LAntonino_p05_11.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-12: LAntonino_p05_11.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_12.png](../../assets/images/LAntonino_p05_12.png)
-*Figure P05-13: LAntonino_p05_12.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-13: LAntonino_p05_12.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_13.png](../../assets/images/LAntonino_p05_13.png)
-*Figure P05-14: LAntonino_p05_13.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-14: LAntonino_p05_13.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_14.png](../../assets/images/LAntonino_p05_14.png)
-*Figure P05-15: LAntonino_p05_14.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-15: LAntonino_p05_14.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_15.png](../../assets/images/LAntonino_p05_15.png)
-*Figure P05-16: LAntonino_p05_15.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-16: LAntonino_p05_15.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_16.png](../../assets/images/LAntonino_p05_16.png)
-*Figure P05-17: LAntonino_p05_16.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-17: LAntonino_p05_16.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_17.png](../../assets/images/LAntonino_p05_17.png)
-*Figure P05-18: LAntonino_p05_17.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-18: LAntonino_p05_17.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_18.png](../../assets/images/LAntonino_p05_18.png)
-*Figure P05-19: LAntonino_p05_18.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-19: LAntonino_p05_18.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_19.png](../../assets/images/LAntonino_p05_19.png)
-*Figure P05-20: LAntonino_p05_19.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-20: LAntonino_p05_19.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_20.png](../../assets/images/LAntonino_p05_20.png)
-*Figure P05-21: LAntonino_p05_20.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-21: LAntonino_p05_20.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_21.png](../../assets/images/LAntonino_p05_21.png)
-*Figure P05-22: LAntonino_p05_21.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-22: LAntonino_p05_21.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_22.png](../../assets/images/LAntonino_p05_22.png)
-*Figure P05-23: LAntonino_p05_22.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-23: LAntonino_p05_22.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_23.png](../../assets/images/LAntonino_p05_23.png)
-*Figure P05-24: LAntonino_p05_23.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-24: LAntonino_p05_23.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_24.png](../../assets/images/LAntonino_p05_24.png)
-*Figure P05-25: LAntonino_p05_24.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-25: LAntonino_p05_24.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![LAntonino_p05_25.png](../../assets/images/LAntonino_p05_25.png)
-*Figure P05-26: LAntonino_p05_25.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-26: LAntonino_p05_25.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![Lecture05pI_p15-15.png](../../assets/images/Lecture05pI_p15-15.png)
-*Figure P05-27: Lecture05pI_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-27: Lecture05pI_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![Lecture05pI_p25-25.png](../../assets/images/Lecture05pI_p25-25.png)
-*Figure P05-28: Lecture05pI_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-28: Lecture05pI_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![Lecture05pI_p35-35.png](../../assets/images/Lecture05pI_p35-35.png)
-*Figure P05-29: Lecture05pI_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-29: Lecture05pI_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 ![Lecture05pI_p5-05.png](../../assets/images/Lecture05pI_p5-05.png)
-*Figure P05-30: Lecture05pI_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 05 — Ultra-Faint Dwarf Galaxies & Dark Matter.*
+*Figure P05-30: Lecture05pI_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 05 - Ultra-Faint Dwarf Galaxies & Dark Matter.*
 
 
 

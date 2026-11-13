@@ -2,7 +2,7 @@
 layout: "default"
 title: "Stellar populations I II III"
 ---
-in 1944, during wartime blackouts in California, **Walter Baade** used the 100-inch Mount Wilson telescope to resolve individual stars in the central regions of the Andromeda Galaxy (M31) and its companion dwarf ellipticals. he made the profound discovery that stars in galaxies divide into two distinct kinematic and chemical families: **Population I** and **Population II**.
+in 1944, during wartime blackouts in California, **Walter Baade** used the 100-inch Mount Wilson telescope to resolve individual stars in the central regions of the Andromeda Galaxy (M31) and its companion dwarf ellipticals. he made the deep discovery that stars in galaxies divide into two distinct kinematic and chemical families: **Population I** and **Population II**.
 
 ![milkyway-08.png](../../assets/images/milkyway-08.png)
 
@@ -18,9 +18,9 @@ in 1944, during wartime blackouts in California, **Walter Baade** used the 100-i
 |---|---|---|
 | **age** | young to intermediate ($0 - 9$ Gyr) | ancient ($10 - 13.5$ Gyr) |
 | **spatial distribution** | confined strictly to the **thin disk** ($h_z \approx 300$ pc) and spiral arms | distributed throughout the **spheroidal halo**, globular clusters, and bulge |
-| **kinematics** | ordered circular orbits in the disk plane; low vertical velocity dispersion ($\sigma_z \sim 15-20$ km/s) | chaotic, highly inclined, eccentric orbits plunging through the disk; high velocity dispersion ($\sigma_v \sim 150$ km/s) |
+| **kinematics** | ordered circular orbits in the disk plane, low vertical velocity dispersion ($\sigma_z \sim 15-20$ km/s) | chaotic, highly inclined, eccentric orbits plunging through the disk, high velocity dispersion ($\sigma_v \sim 150$ km/s) |
 | **metallicity** $[\text{Fe}/\text{H}]$ | metal-rich: $[\text{Fe}/\text{H}] \approx -0.3 \text{ to } +0.3$ ($Z \sim 0.01-0.03$) | metal-poor: $[\text{Fe}/\text{H}] \approx -1.0 \text{ to } -4.0$ ($Z < 0.002$) |
-| **interstellar gas/dust** | embedded in gas-rich molecular clouds; active star formation | virtually gas-free; no ongoing star formation |
+| **interstellar gas/dust** | embedded in gas-rich molecular clouds, active star formation | virtually gas-free, no ongoing star formation |
 | **brightest stars** | luminous blue supergiants (O and B stars) | luminous cool red giants and asymptotic giant branch (AGB) stars |
 | **representative objects** | the Sun, Pleiades, open clusters, Orion nebula | M13, M92, halo subdwarfs, globular clusters |
 
@@ -54,6 +54,26 @@ $$\boxed{\, \textbf{Pop III} \; (Z = 0) \;\to\; \textbf{Pop II} \; (Z < 0.002) \
 ![milkyway-13.png](../../assets/images/milkyway-13.png)
 
 ---
+
+## worked example
+
+the contrast in numbers:
+
+| | population I | population II |
+|---|---|---|
+| $[\mathrm{Fe}/\mathrm{H}]$ | $-0.5$ to $+0.3$ | $-1$ to $-2.5$ |
+| velocity dispersion | 20 to 30 km/s | 100 to 150 km/s |
+| rotation around the Galaxy | 220 km/s | almost none |
+| age | 0 to 10 Gyr | 11 to 13 Gyr |
+
+a halo star passing near the Sun therefore lags the local rotation by about 200 km/s, which is how high-velocity stars were first recognized.
+
+## where it goes wrong
+
+- the numbering is backward in time. population III formed first and population I last.
+- old does not always mean metal-poor. the bulge is old and metal-rich.
+- the two populations are the ends of a continuum, with the thick disk in between.
+- no population III star has ever been observed.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

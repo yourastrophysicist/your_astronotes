@@ -21,7 +21,7 @@ By invoking the spatial rotational symmetry of the background, perturbations dec
 The perturbed line element in conformal time $\tau$ is:
 $$ds^2 = a^2(\tau)\left[ -(1 + 2\psi)d\tau^2 + 2 w_i d\tau dx^i + \left((1 - 2\phi)\delta_{ij} + 2 \chi_{ij}\right) dx^i dx^j \right]$$
 
-### Scalar-Vector-Tensor (SVT) decomposition:
+### Scalar-Vector-Tensor (SVT) decomposition
 * Vector shift: $w_i = \partial_i w + w_i^\perp$ with $\partial^i w_i^\perp = 0$.
 * Spatial shear: $\chi_{ij} = \left(\partial_i\partial_j - \frac{1}{3}\delta_{ij}\nabla^2\right)\chi + \frac{1}{2}(\partial_i v_j + \partial_j v_i) + \frac{1}{2}h_{ij}$ with $\partial^i v_i = 0$, $\delta^{ij}h_{ij} = 0$, $\partial^i h_{ij} = 0$.
 
@@ -44,11 +44,11 @@ $$\delta G^\mu_\nu = 8\pi G\, \delta T^\mu_\nu$$
 
 ## connections & zettel links
 
-* parent moc: [[Cosmology_of_the_Early_Universe_MOC]]
+* parent moc: Cosmology_of_the_Early_Universe_MOC
 * related zettels:
   - Gauge transformations and Bardeen potentials
   - Gauge-invariant density perturbation and relativistic Poisson equation
-  - [[Part5_GR_Cosmological_Perturbation_Theory]]
+  - Part5_GR_Cosmological_Perturbation_Theory
 
 ---
 
@@ -73,7 +73,7 @@ $$\delta G^\mu_\nu = 8\pi G\, \delta T^\mu_\nu$$
 - Curvature perturbation R and zeta
 - Gauge transformations and Bardeen potentials
 - Gauge-invariant density perturbation and relativistic Poisson equation
-- [[Cosmology_of_the_Early_Universe_MOC]]
+- Cosmology_of_the_Early_Universe_MOC
 - [[General_Relativity_MOC]]
 
 

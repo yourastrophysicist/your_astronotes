@@ -14,7 +14,7 @@ photo-z accuracy is usually summarized by:
 - **scatter** $\sigma_{\text{NMAD}}(\Delta z / (1+z))$, the typical error
 - **catastrophic outlier fraction** $\eta$, the fraction with $\lvert \Delta z\rvert / (1+z) > 0.15$ (a common threshold)
 
-modern deep-field photo-z (COSMOS2020, JADES) reach $\sigma \approx 0.01$ for bright spec-z-confirmed galaxies, but $\eta$ can climb to 5–15% at faint magnitudes.
+modern deep-field photo-z (COSMOS2020, JADES) reach $\sigma \approx 0.01$ for bright spec-z-confirmed galaxies, but $\eta$ can climb to 5-15% at faint magnitudes.
 
 ## why outliers happen
 
@@ -23,7 +23,7 @@ the dominant cause: **degeneracies between low-$z$ and high-$z$ templates**.
 - the 4000 Å break at $z \sim 0.2$ in the $g$ band looks similar to the Lyman break at $z \sim 3$ in the $u$ band if you do not have UV coverage.
 - a dusty, red, intermediate-$z$ Sa can be mistaken for a passive high-$z$ elliptical.
 
-these are not noise; they are real ambiguities in the galaxy SED library. they can only be broken by adding more filters (UV or NIR), or by spectroscopy.
+these are not noise. they are real ambiguities in the galaxy SED library. they can only be broken by adding more filters (UV or NIR), or by spectroscopy.
 
 ## the oyaizu 2008 picture
 
@@ -31,20 +31,24 @@ Oyaizu et al. 2008 systematically tested SDSS photo-z against spectroscopy and s
 
 - bias is small ($\langle \Delta z \rangle \sim 0.005$) for the bulk of galaxies
 - scatter grows with magnitude as expected
-- the catastrophic outlier fraction is concentrated in specific regions of color-color space, not uniformly distributed; he produced **photo-z error maps**.
+- the catastrophic outlier fraction is concentrated in specific regions of color-color space, not uniformly distributed. he produced **photo-z error maps**.
 
-the key insight: photo-z errors are *not* Gaussian. they have heavy tails and structured failure regions. you cannot model them as a single $\sigma_z$.
+the main point: photo-z errors are *not* Gaussian. they have heavy tails and structured failure regions. you cannot model them as a single $\sigma_z$.
 
 ## why this kills high-$z$ science if you ignore it
 
-if 5% of your $z \sim 7$ Lyman-break candidates are actually $z \sim 0.2$ red dwarfs, then a derived $z \sim 7$ luminosity function of $10^4$ candidates contains $\sim 500$ contaminants. those contaminants are *bright* in the rest frame, so they bias $L^*$ upward. JWST has been wrestling with this exact failure mode in 2023–2024 high-$z$ candidates.
+if 5% of your $z \sim 7$ Lyman-break candidates are actually $z \sim 0.2$ red dwarfs, then a derived $z \sim 7$ luminosity function of $10^4$ candidates contains $\sim 500$ contaminants. those contaminants are *bright* in the rest frame, so they bias $L^*$ upward. JWST has been wrestling with this exact failure mode in 2023-2024 high-$z$ candidates.
 
 ## mitigations
 
-- add bands (NUV, FUV, broad NIR through MIRI 5–25 μm)
+- add bands (NUV, FUV, broad NIR through MIRI 5-25 μm)
 - add narrow-band filters at expected Lyα or 4000 Å break locations
 - demand spectroscopic confirmation of a representative subsample (the only ground truth)
 - propagate the *full* $p(z)$ posterior, not just a point estimate, into downstream LF or counts
+
+## where it goes wrong
+
+- outliers are not random. they cluster where breaks are confused, for example $z \approx 0.3$ and $z \approx 3$.
 
 ## connections
 

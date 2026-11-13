@@ -49,7 +49,7 @@ the CMB has $W = 1$ everywhere (filling all space). so its photoexcitation rate 
 
 ### accretion disks
 
-near the inner edge of a disk around a black hole or compact object, the radiation is intense ($W \to 0.5$). photoionisation and photoexcitation rates approach LTE values; **both** processes are relevant.
+near the inner edge of a disk around a black hole or compact object, the radiation is intense ($W \to 0.5$). photoionisation and photoexcitation rates approach LTE values. **both** processes are relevant.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

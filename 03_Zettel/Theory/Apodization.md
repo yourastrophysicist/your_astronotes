@@ -10,7 +10,7 @@ literally: "removing the foot." a technique for reshaping the *aperture function
 
 a *uniform* aperture produces an Airy-disk PSF with first sidelobe at 1.6% of peak intensity. for direct exoplanet imaging at $10^{10}$ contrast, even 1.6% sidelobes drown the planet signal.
 
-solution: *don't use a uniform aperture*. **apodize** it — taper the transmission smoothly from full to zero. the result: a PSF with much *lower* sidelobes at the cost of reduced central peak intensity.
+solution: *don't use a uniform aperture*. **apodize** it, taper the transmission smoothly from full to zero. the result: a PSF with much *lower* sidelobes at the cost of reduced central peak intensity.
 
 ## the FT picture
 
@@ -25,7 +25,7 @@ apodization smooths the aperture edges. the resulting $\hat A$ has fewer oscilla
 
 ### Gaussian
 
-$A(r) = e^{-r^2/2 w^2}$. PSF is also Gaussian, with $0$ sidelobes — perfect for high-contrast imaging.
+$A(r) = e^{-r^2/2 w^2}$. PSF is also Gaussian, with $0$ sidelobes, perfect for high-contrast imaging.
 
 cost: 50% of the light (Gaussian falls off, so the integrated transmission is half of uniform).
 
@@ -35,7 +35,7 @@ windowed apodizations from signal processing. Hamming: 99% peak height, 1% pedes
 
 ### prolate spheroidal wavefunctions
 
-mathematically optimal apodization. concentrates the PSF energy as much as possible while requiring minimum aperture sacrifice. used in advanced coronagraphs (PIAA — Phase Induced Amplitude Apodization).
+mathematically optimal apodization. concentrates the PSF energy as much as possible while requiring minimum aperture sacrifice. used in advanced coronagraphs (PIAA, Phase Induced Amplitude Apodization).
 
 ### apodizing phase plates
 
@@ -71,7 +71,7 @@ modern optimization (PIAA, complex apodization) tries to *minimize* the cost whi
 
 apodization was first used in optical microscopy (Sparrow 1916, Toraldo di Francia 1952) for super-resolution. astronomical use began in the 1960s for solar coronagraphy and gained prominence with exoplanet-imaging instruments in the 2000s.
 
-it's a technique that sounds esoteric but is foundational: without apodization, modern direct exoplanet imaging would be impossible.
+it's a technique that sounds esoteric but is basic: without apodization, modern direct exoplanet imaging would be impossible.
 
 ## see also
 

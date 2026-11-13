@@ -41,16 +41,16 @@ the bulge has depth: the front edge is $\sim 7$ kpc, the back edge $\sim 9$ kpc.
 
 correction: assume a mean distance + distance dispersion when fitting isochrones, or use bulge RC stars as standard candles to infer distance gradient.
 
-## the standard solution: PM-cleaned, DR-corrected CMD
+## the standard solution - PM-cleaned, DR-corrected CMD
 
 the workflow that handles complications 1-2 (and partially 3-4) is:
 
-1. multi-epoch HST imaging (e.g., HST WFC3-UVIS, $\sim 5$ year baseline);
-2. measure relative proper motions of $\sim 10^4$ stars per field (typical precision $\sim 0.3$ mas/yr per epoch);
-3. select bulge members ($\mu_l < -2$ mas/yr or similar cut);
-4. use a globular cluster in the field (e.g., NGC 6528) as a reddening tracer;
-5. derive a high-resolution differential-reddening map from cluster member offsets in the CMD;
-6. apply the DR correction to all stars;
+1. multi-epoch HST imaging (e.g., HST WFC3-UVIS, $\sim 5$ year baseline).
+2. measure relative proper motions of $\sim 10^4$ stars per field (typical precision $\sim 0.3$ mas/yr per epoch).
+3. select bulge members ($\mu_l < -2$ mas/yr or similar cut).
+4. use a globular cluster in the field (e.g., NGC 6528) as a reddening tracer.
+5. derive a high-resolution differential-reddening map from cluster member offsets in the CMD.
+6. apply the DR correction to all stars.
 7. fit isochrones to the cleaned + corrected bulge CMD.
 
 this is the workflow used by Clarkson et al. 2008, Lagioia et al. 2014, Renzini et al. 2018.

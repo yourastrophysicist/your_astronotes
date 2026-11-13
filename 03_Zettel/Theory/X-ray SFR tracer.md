@@ -10,9 +10,9 @@ up: [[Pablo_03_Star_formation_in_galaxies]]
 
 star-forming galaxies emit soft and hard X-rays from three sources:
 
-1. **high-mass X-ray binaries (HMXBs)**: compact object (NS or BH) accreting from an O/B companion. lifetime $\sim 10$ Myr, so they track recent SF. dominate the 2–10 keV hard X-ray band
+1. **high-mass X-ray binaries (HMXBs)**: compact object (NS or BH) accreting from an O/B companion. lifetime $\sim 10$ Myr, so they track recent SF. dominate the 2-10 keV hard X-ray band
 2. **low-mass X-ray binaries (LMXBs)**: accretion from a lower-mass companion. lifetime $\sim $ Gyr, so they track stellar mass rather than SFR. contaminant at low SFR
-3. **diffuse hot ISM**: $T \sim 10^{6.5}$–$10^7$ K gas from supernova-heated bubbles. dominates the soft 0.5–2 keV band
+3. **diffuse hot ISM**: $T \sim 10^{6.5}$ to $10^7$ K gas from supernova-heated bubbles. dominates the soft 0.5-2 keV band
 
 in a typical star-forming galaxy, HMXBs + diffuse gas make $L_X$ roughly proportional to SFR.
 
@@ -33,11 +33,15 @@ Mineo 2014 updated with Chandra data and separated HMXB + gas contributions, giv
 
 - **AGN contamination**: a single bright AGN point source can dominate $L_X$. must be identified and subtracted via morphology, variability, or spectral shape
 - **metallicity dependence**: HMXB formation efficiency rises at low $Z$ by factor $\sim 5$ (Lehmer 2016). low-$Z$ dwarfs and high-$z$ LBGs can have X-ray SFR overestimated by $\times 5$
-- **sensitivity**: even Chandra and XMM need deep exposures. at $z > 1$ only the most X-ray-luminous SFGs are detected individually; stacking is common
+- **sensitivity**: even Chandra and XMM need deep exposures. at $z > 1$ only the most X-ray-luminous SFGs are detected individually. stacking is common
 
 ## cosmic evolution
 
-the relation between $L_X$ and SFR evolves: $L_X / \text{SFR} \propto (1+z)^\beta$ with $\beta \sim 0.5$–$1$ out to $z \sim 3$, driven by the metallicity-HMXB link. this is relevant for reionization: high-$z$ galaxy X-rays may heat the IGM.
+the relation between $L_X$ and SFR evolves: $L_X / \text{SFR} \propto (1+z)^\beta$ with $\beta \sim 0.5$ to $1$ out to $z \sim 3$, driven by the metallicity-HMXB link. this is relevant for reionization: high-$z$ galaxy X-rays may heat the IGM.
+
+## worked example
+
+$\mathrm{SFR} \approx L_{2\text{-}10\,\mathrm{keV}}/(5 \times 10^{39}\ \text{erg/s})\ M_\odot$/yr. a galaxy with $L_X = 10^{41}$ erg/s forms about 20 $M_\odot$/yr, if no AGN contributes.
 
 ## connections
 

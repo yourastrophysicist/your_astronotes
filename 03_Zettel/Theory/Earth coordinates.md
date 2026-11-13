@@ -4,7 +4,7 @@ title: "Earth coordinates"
 ---
 to specify a point on the Earth's surface (or, equivalently, on the celestial sphere if I treat Earth as a unit sphere), I need **two angles**.
 
-the Earth's rotation axis defines two **poles**: north (P) and south (P'). perpendicular to the axis, through the center, is the **equatorial plane**; its intersection with the surface is the **equator**.
+the Earth's rotation axis defines two **poles**: north (P) and south (P'). perpendicular to the axis, through the center, is the **equatorial plane**. its intersection with the surface is the **equator**.
 
 - a **parallel** of latitude is a small circle parallel to the equator
 - a **meridian** is a half-great-circle joining the two poles
@@ -44,7 +44,7 @@ $$\quad = \cos(\lambda_1 - \lambda_2)\cos\phi_1\cos\phi_2 + \sin\phi_1\sin\phi_2
 
 then $a$ is in radians, and the surface distance is $d = a R_\oplus$ with $R_\oplus = 6400$ km.
 
-### worked example: Helsinki to La Palma
+### worked example - Helsinki to La Palma
 
 with $\phi_1 = 60°, \lambda_1 = 25°$ (Helsinki) and $\phi_2 = 28.7°, \lambda_2 = -17.5°$ (La Palma):
 
@@ -66,6 +66,12 @@ a quick geometric argument: the Earth's rotation axis is the line on which both 
 so by measuring how high Polaris sits above the northern horizon, I directly read off my latitude. before GPS, this was navigation.
 
 ---
+
+## where it goes wrong
+
+- one arcminute of latitude is one nautical mile, 1.852 km, everywhere. one degree of longitude shrinks as $\cos\phi$.
+- geodetic and geocentric latitude differ by up to $11.5'$ because the Earth is flattened.
+- the sign convention of longitude. east positive is the modern standard, but older tables use west positive.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -1,6 +1,7 @@
 ---
 layout: "default"
 title: "Parallel transport and holonomy"
+name: "Parallel transport and holonomy"
 ---
 # Parallel transport and holonomy
 
@@ -15,8 +16,6 @@ title: "Parallel transport and holonomy"
 ![baumann_fig02_p44.png](../../assets/images/baumann_fig02_p44.png)
 *Cambridge Lecture Diagram: Holonomy on curved manifolds: non-commutativity of covariant derivatives and the Riemann curvature tensor definition.*
 
-
-
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -27,9 +26,4 @@ title: "Parallel transport and holonomy"
 
 > Definitions quoted from Wikipedia (CC BY-SA 4.0). Figures credited in their captions.
 <!-- /sources:wiki-arxiv -->
-
-## Linked References
-
-- [[General_Relativity_MOC]]
-
 

@@ -9,7 +9,7 @@ on top of the equatorial coordinate frame ([[Equatorial system]]) sit four small
 the Earth's rotation axis is not fixed in space. solar and lunar gravitational torques on Earth's equatorial bulge cause the rotation axis to precess around the ecliptic pole on a $\sim 26\,000$ year cycle. amplitude:
 $$\dot\alpha \approx 50''/\text{yr}, \quad \dot\delta \approx \text{a few}''/\text{yr}$$
 
-**consequence**: catalog positions are *epoch-dependent*. I quote a star's coordinates as J2000.0 (or J1950.0 historically); to point a telescope at it tonight I have to precess to the current epoch. precession matrices are tabulated (IAU 2006).
+**consequence**: catalog positions are *epoch-dependent*. I quote a star's coordinates as J2000.0 (or J1950.0 historically). to point a telescope at it tonight I have to precess to the current epoch. precession matrices are tabulated (IAU 2006).
 
 historical detection: Hipparchus, $\sim 130$ BCE, comparing his star catalog with Timocharis's two centuries earlier.
 
@@ -27,7 +27,7 @@ in the direction of Earth's instantaneous velocity, with annual variation tracin
 
 **consequence**: discovered by Bradley (1729) when looking for parallax. it provided the first direct evidence of Earth's orbital motion, predating Bessel's parallax by a century. has nothing to do with the source's distance.
 
-aberration $\neq$ parallax. aberration is geometric (motion of the observer); parallax is geometric (displacement of the observer's location). aberration is $\sim 20''$ for any star, parallax is $\le 1''$ and falls with distance.
+aberration $\neq$ parallax. aberration is geometric (motion of the observer). parallax is geometric (displacement of the observer's location). aberration is $\sim 20''$ for any star, parallax is $\le 1''$ and falls with distance.
 
 ## annual stellar parallax
 
@@ -35,7 +35,7 @@ apparent shift of a nearby star against distant background as Earth orbits the S
 $$p = \frac{1\,\text{AU}}{d}$$
 maximum amplitude $p \le 0.76''$ (Proxima Centauri, $1.3$ pc). decreases linearly with distance. defines the parsec: $d({\rm pc}) = 1/p({\rm arcsec})$.
 
-**consequence**: must be removed for precision astrometry of background stars; *measured* for foreground stars, where it is the only fully geometric distance method. see [[Distance ladder derivations]] and [[Annual stellar parallax]].
+**consequence**: must be removed for precision astrometry of background stars. *measured* for foreground stars, where it is the only fully geometric distance method. see [[Distance ladder derivations]] and [[Annual stellar parallax]].
 
 ## ordering and magnitudes
 
@@ -47,6 +47,26 @@ maximum amplitude $p \le 0.76''$ (Proxima Centauri, $1.3$ pc). decreases linearl
 | parallax | annual | $\le 1''$ |
 
 the order in which they are applied to a catalog position to get an apparent position: precession $\to$ nutation $\to$ aberration $\to$ parallax. Telescope control systems do this automatically.
+
+## worked example
+
+the sizes, to keep the corrections in proportion:
+
+| effect | size | period |
+|---|---|---|
+| refraction at $z = 45^\circ$ | $58''$ | none |
+| precession | $50.3''$ per year | 25,770 yr |
+| annual aberration | $20.5''$ | 1 yr |
+| nutation | $9.2''$ | 18.6 yr |
+| largest parallax | $0.77''$ | 1 yr |
+
+to go from a catalog place to where the telescope must point: proper motion, precession, nutation, aberration, parallax, and refraction last.
+
+## where it goes wrong
+
+- aberration and parallax both have a period of one year, but they are a quarter of a year out of phase.
+- precession and nutation move the reference frame. aberration and parallax move the apparent direction of the star.
+- refraction is the only one of these that depends on where the star is in my local sky.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -2,7 +2,7 @@
 layout: "default"
 title: "Parallax and standard candles"
 ---
-measuring astronomical distances is one of the most challenging and foundational tasks in astrophysics. because the cosmos cannot be probed with physical measuring rods, astronomers construct the **Cosmic Distance Ladder** (la scala delle distanze cosmiche): an interconnected chain of overlapping geometric, photometric, and cosmological methods where each rung calibrates the next.
+measuring astronomical distances is one of the most challenging and tasks in astrophysics. because the cosmos cannot be probed with physical measuring rods, astronomers construct the **Cosmic Distance Ladder** (la scala delle distanze cosmiche): an interconnected chain of overlapping geometric, photometric, and cosmological methods where each rung calibrates the next.
 
 ![distancescale-01.png](../../assets/images/distancescale-01.png)
 
@@ -14,12 +14,12 @@ measuring astronomical distances is one of the most challenging and foundational
 
 ![distancescale-03.png](../../assets/images/distancescale-03.png)
 
-no single method can span the vast gulf of cosmic space from nearby planets to distant quasars:
+no single method can span the large gulf of cosmic space from nearby planets to distant quasars:
 1. **Solar System baseline (Radar Ranging)**: radio pulses reflected off Venus and Mercury directly measure the astronomical unit ($1$ AU $= 149,597,870,700$ m) to millimeter precision.
 2. **Nearby Stars (Trigonometric Parallax)**: uses Earth's $2$ AU orbital diameter as a baseline to measure distances geometrically out to $\sim 10$ kpc (ESA Gaia).
 3. **Star Clusters (Main Sequence Fitting)**: calibrates the absolute magnitudes of main sequence stars in nearby clusters (Hyades, Pleiades) anchored by Gaia parallaxes.
-4. **Nearby Galaxies (Primary Standard Candles — Cepheid Variables)**: bright pulsating stars whose luminosities are calibrated by parallax, detectable out to $\sim 30$ Mpc with HST.
-5. **Cosmological Distances (Secondary Standard Candles — Type Ia Supernovae & Tully-Fisher)**: luminous explosions visible out to $z > 1$ ($d > 3000$ Mpc).
+4. **Nearby Galaxies (Primary Standard Candles - Cepheid Variables)**: bright pulsating stars whose luminosities are calibrated by parallax, detectable out to $\sim 30$ Mpc with HST.
+5. **Cosmological Distances (Secondary Standard Candles - Type Ia Supernovae & Tully-Fisher)**: luminous explosions visible out to $z > 1$ ($d > 3000$ Mpc).
 6. **Hubble Flow**: cosmological expansion velocity $v = H_0 d$.
 
 ![distancescale-04.png](../../assets/images/distancescale-04.png)
@@ -43,13 +43,19 @@ $$\boxed{\, \mu = m - M = 5 \log_{10} d - 5 \implies d(\text{pc}) = 10^{\frac{m 
 
 ![distancescale-07.png](../../assets/images/distancescale-07.png)
 
-### requirements for an ideal standard candle:
+### requirements for an ideal standard candle
 1. **high luminosity**: must be bright enough to be detected at immense extragalactic distances.
 2. **minimal intrinsic dispersion**: luminosity must be tightly predictable from observable parameters.
 3. **well-understood physics**: clear physical mechanism governing energy output.
 4. **robust local calibration**: must exist in nearby environments where geometric parallax can calibrate its zero-point.
 
 ---
+
+## where it goes wrong
+
+- each rung inherits the errors of the rungs below.
+- the ranges of the methods must overlap. a gap in the ladder cannot be bridged.
+- a standard candle is standard only after corrections, usually with colour or shape.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

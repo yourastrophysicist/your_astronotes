@@ -33,7 +33,7 @@ so at fixed $T$, dwarf H wings are wider than supergiant ones $\to$ a **gravity 
 
 ## the formal theory
 
-Holtsmark (1919) derived the field distribution of perturbing ions in a quasi-static approximation. modern unified theories (Vidal, Cooper, Smith 1973; Stehlé et al.) account for both ion and electron contributions and dynamic effects. tabulated as line profiles for $n_e$, $T$ grids, used in stellar atmosphere codes (TLUSTY, ATLAS9).
+Holtsmark (1919) derived the field distribution of perturbing ions in a quasi-static approximation. modern unified theories (Vidal, Cooper, Smith 1973, Stehlé et al.) account for both ion and electron contributions and dynamic effects. tabulated as line profiles for $n_e$, $T$ grids, used in stellar atmosphere codes (TLUSTY, ATLAS9).
 
 ## comparison with van der Waals
 

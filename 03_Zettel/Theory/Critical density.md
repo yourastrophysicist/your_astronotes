@@ -2,7 +2,7 @@
 layout: "default"
 title: "Critical density"
 ---
-the **critical density** $n_c$ is the electron density at which collisional de-excitation balances spontaneous radiative decay for a given upper level. above $n_c$, the line saturates; below, it tracks $n_e$ linearly.
+the **critical density** $n_c$ is the electron density at which collisional de-excitation balances spontaneous radiative decay for a given upper level. above $n_c$, the line saturates. below, it tracks $n_e$ linearly.
 
 ## the definition
 
@@ -37,7 +37,7 @@ so $n_c$ marks the transition where the line "thermalises" and stops responding 
 
 note **$[OIII]\,\lambda 4363$ has a much higher $n_c$** than $\lambda 5007$, because the upper level (much higher in energy) has a faster $A$ rate.
 
-## consequence: density diagnostic ratios
+## consequence - density diagnostic ratios
 
 a pair of lines from **different upper levels** of the same multiplet, with **different $n_c$**, gives a density-sensitive ratio. classic examples:
 
@@ -50,7 +50,7 @@ $\lambda 6716$ ($n_c \sim 10^3$) and $\lambda 6731$ ($n_c \sim 10^4$).
 ### $[OII]\,\lambda 3729/3726$ ratio
 similar physics with $\lambda 3729$ ($n_c \sim 10^3$) and $\lambda 3726$ ($n_c \sim 10^4$).
 
-## consequence: temperature diagnostic ratios
+## consequence - temperature diagnostic ratios
 
 a pair of lines from **different upper levels** of the same ion, with very different excitation energies $\Delta E$, gives a temperature-sensitive ratio:
 
@@ -67,7 +67,7 @@ caveat: $\lambda 4363$ has high $n_c$ ($\sim 3 \times 10^7$), so at high $n_e$ i
 
 because $A_{ul}$ is small for forbidden transitions ($10^{-2}$ to $10^0$ s$^{-1}$ vs $10^7$ to $10^9$ for permitted). so collisional de-excitation can compete at modest $n_e$.
 
-permitted lines have $n_c \sim 10^{13}$ cm$^{-3}$ or higher; in nebular conditions they're always in low-density regime, so their populations are set entirely by ionisation balance, not by collisional vs radiative balance.
+permitted lines have $n_c \sim 10^{13}$ cm$^{-3}$ or higher. in nebular conditions they're always in low-density regime, so their populations are set entirely by ionisation balance, not by collisional vs radiative balance.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

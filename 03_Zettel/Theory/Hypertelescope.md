@@ -8,16 +8,16 @@ Antoine Labeyrie's 1996 concept: take a *sparse-aperture* interferometer and mak
 
 ## the problem with sparse arrays
 
-a sparse-aperture interferometer (like VLTI or CHARA) has a "dirty beam" with many sidelobes. the bright central peak contains only a small fraction of the total energy; the rest is in sidelobes. **crowding** limits how many sources can be cleanly imaged.
+a sparse-aperture interferometer (like VLTI or CHARA) has a "dirty beam" with many sidelobes. the bright central peak contains only a small fraction of the total energy. the rest is in sidelobes. **crowding** limits how many sources can be cleanly imaged.
 
-direct imaging — dropping each photon onto its proper position in the focal plane — would have no such limitation. but a sparse array's image plane has the sparse-aperture PSF, with all those sidelobes.
+direct imaging, dropping each photon onto its proper position in the focal plane, would have no such limitation. but a sparse array's image plane has the sparse-aperture PSF, with all those sidelobes.
 
 ## Labeyrie's idea
 
 ![Labeyrie's hypertelescope concept: pupil densification concentrating light from a sparse array into direct high-contrast images.](../../assets/images/Hypertelescope.jpg)
 
 
-after the light passes through the sub-apertures, *re-image* it through a "pupil densifier" — an optical system that compresses the sub-apertures into a tightly-packed array. the new "densified pupil" has sub-apertures touching each other.
+after the light passes through the sub-apertures, *re-image* it through a "pupil densifier", an optical system that compresses the sub-apertures into a tightly-packed array. the new "densified pupil" has sub-apertures touching each other.
 
 now the diffraction pattern from this dense pupil is *much* more Airy-disk-like: a tight central peak and very few sidelobes.
 
@@ -35,7 +35,7 @@ after pupil densification (sub-apertures rearranged at positions $\mathbf r_i'$ 
 
 $$\text{PSF}_{\rm hyper}(\mathbf l) \propto \left\lvert\sum_i \tilde A_i(\mathbf l) e^{-2\pi i \mathbf r_i' \cdot \mathbf l/\lambda}\right\rvert^2$$
 
-the *fringe envelope* (set by $A_i$) is the same — the original sparse-aperture diffraction pattern. but the *fringe pattern* (set by $\mathbf r_i'$) is much narrower because the sub-apertures are now packed close together.
+the *fringe envelope* (set by $A_i$) is the same, the original sparse-aperture diffraction pattern. but the *fringe pattern* (set by $\mathbf r_i'$) is much narrower because the sub-apertures are now packed close together.
 
 result: a sharp central peak (set by the densified pupil ≈ a single small aperture) embedded in the original sparse-aperture envelope.
 
@@ -74,7 +74,7 @@ prototype tested at Caussols, France. proof-of-concept, never built at full scal
 
 ### Lunar hypertelescope
 
-far-side of the Moon: free-fall conditions, no atmosphere, kilometer-scale baselines feasible. proposals for $10^{-5}$ arcsec imaging — resolved exo-Earths.
+far-side of the Moon: free-fall conditions, no atmosphere, kilometer-scale baselines feasible. proposals for $10^{-5}$ arcsec imaging, resolved exo-Earths.
 
 still entirely conceptual.
 

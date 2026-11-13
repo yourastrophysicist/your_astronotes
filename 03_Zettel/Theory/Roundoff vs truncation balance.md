@@ -4,7 +4,7 @@ title: "Roundoff vs truncation balance"
 ---
 # Roundoff vs truncation balance
 
-every finite-difference computation has two errors that fight each other as I shrink the step size $h$. truncation error vanishes as $h \to 0$; roundoff error *grows*. there is an optimal $h$ that minimizes their sum, and going smaller than that *hurts* the answer.
+every finite-difference computation has two errors that fight each other as I shrink the step size $h$. truncation error vanishes as $h \to 0$. roundoff error *grows*. there is an optimal $h$ that minimizes their sum, and going smaller than that *hurts* the answer.
 
 ## the two errors
 
@@ -60,15 +60,15 @@ plt.loglog(hs, errs); plt.xlabel('h'); plt.ylabel('|error|')
 
 ## why this matters in real code
 
-- when computing a Jacobian by finite differences for Newton's method, the natural choice $h = 10^{-3}$ is in the truncation regime; $h = 10^{-5}$ is closer to optimal for central differences
+- when computing a Jacobian by finite differences for Newton's method, the natural choice $h = 10^{-3}$ is in the truncation regime. $h = 10^{-5}$ is closer to optimal for central differences
 - when implementing finite-difference PDE solvers, the spatial $\Delta x$ cannot be made arbitrarily small without roundoff blowup
 - when verifying convergence of an algorithm by halving the step, eventually the roundoff floor is reached and further refinement *increases* error
 
-## the escape: arbitrary precision
+## the escape - arbitrary precision
 
 `mpmath` and `decimal` give arbitrary-precision arithmetic at the cost of much slower computation. for cases where finite-difference accuracy must beat $10^{-13}$, this is the only path. rare in practice.
 
-## the better escape: complex-step differentiation
+## the better escape - complex-step differentiation
 
 a clever trick for derivatives. compute $\text{Im}[f(x + ih)]/h$ for tiny $h$. the imaginary part has no roundoff cancellation problem because nothing is subtracted:
 

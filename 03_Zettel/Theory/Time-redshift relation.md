@@ -44,6 +44,21 @@ $$t_0 = \frac{2}{3 H_0 \sqrt{\Omega_\Lambda}} \text{arcsinh}\left(\sqrt{\frac{\O
 With Planck 2018 parameters ($\Omega_m = 0.315$, $\Omega_\Lambda = 0.685$, $H_0 = 67.4$ km/s/Mpc):
 $$t_0 \approx 13.8 \text{ Gyr}$$
 
+## worked example
+
+in Einstein-de Sitter, $t = t_0(1+z)^{-3/2}$ with $t_0 = 2/(3H_0) = 9.7$ Gyr:
+
+- $z = 1$: $t = 3.4$ Gyr
+- $z = 3$: $t = 1.2$ Gyr
+- $z = 1100$: $t = 0.27$ Myr
+
+$\Lambda$CDM gives 5.9 Gyr, 2.2 Gyr and 0.37 Myr. the difference at high $z$ comes from radiation and from the larger $t_0$.
+
+## where it goes wrong
+
+- the age at $z$ and the look-back time to $z$ add up to the present age. they are not the same thing.
+- most of the history of the universe is at $z < 2$, which spans 10.5 of 13.8 Gyr.
+
 ## connections
 
 - distances: [[Radial comoving distance]], [[Cosmological distances]]

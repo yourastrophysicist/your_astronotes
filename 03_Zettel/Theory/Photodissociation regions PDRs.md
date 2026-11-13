@@ -87,7 +87,7 @@ Because different atomic and molecular species possess distinct ionization poten
 ### Carbon Photoionization and the $C^+ \to C^0 \to CO$ Transition
 1. Carbon First Ionization - Carbon has an ionization potential of $I_C = 11.26 \text{ eV} < 13.6 \text{ eV}$. Photons with energies between $11.26$ eV and $13.6$ eV penetrate past the Strömgren ionization front without being absorbed by atomic hydrogen. Consequently, carbon remains completely singly ionized as $C^+$ throughout the outer layers of the PDR.
 2. CO Photodissociation - The carbon monoxide molecule is photodissociated by FUV photons with energies between $11.09$ eV and $13.6$ eV. Unlike $H_2$, the cosmic abundance of carbon is much lower ($C/H \approx 1.4 \times 10^{-4}$), so $CO$ self-shielding is weaker. $CO$ requires significant dust extinction ($A_V \ge 2-4$ mag) before dust grains attenuate the dissociating photons.
-3. The CO-Dark Molecular Gas Reservoir - Because $H_2$ self-shields at $A_V \approx 0.1 - 1.0$ mag while $CO$ cannot survive until $A_V \approx 2 - 4$ mag, there exists a vast intermediate layer of the cloud where hydrogen is fully molecular ($H_2$) but carbon remains $C^+$ or neutral $C^0$. In this regime, no $CO$ rotational emission is produced! This component is designated CO-dark molecular gas and accounts for $30\\%$ to $60\\%$ of the total molecular gas mass in low-metallicity galaxies. It is detected directly via $[C\text{ II}]\ 158\ \mu\text{m}$ emission.
+3. The CO-Dark Molecular Gas Reservoir - Because $H_2$ self-shields at $A_V \approx 0.1 - 1.0$ mag while $CO$ cannot survive until $A_V \approx 2 - 4$ mag, there exists a large intermediate layer of the cloud where hydrogen is fully molecular ($H_2$) but carbon remains $C^+$ or neutral $C^0$. In this regime, no $CO$ rotational emission is produced! This component is designated CO-dark molecular gas and accounts for $30\\%$ to $60\\%$ of the total molecular gas mass in low-metallicity galaxies. It is detected directly via $[C\text{ II}]\ 158\ \mu\text{m}$ emission.
 
 ---
 
@@ -101,7 +101,7 @@ $$\Gamma_{\rm tot}(A_V) = \Lambda_{\rm tot}(A_V, T_{\rm gas})$$
    The dominant heating source in PDRs. When an FUV photon ($h\nu > W$, where $W \approx 4 - 6$ eV is the work function) is absorbed by a dust grain or PAH molecule, an energetic photoelectron is ejected. The electron thermalizes with the gas via inelastic Coulomb collisions.
    The volumetric photoelectric heating rate is
    $$\Gamma_{\rm PE} \approx 1.0 \times 10^{-24} \epsilon_{\rm PE} n_H G_0 e^{-1.8 A_V} \quad [\text{erg cm}^{-3} \text{ s}^{-1}]$$
-   The photoelectric efficiency $\epsilon_{\rm PE}$ depends on the grain charging parameter $\gamma = G_0 T^{1/2} / n_e$. For neutral grains, $\epsilon_{\rm PE} \sim 1 - 3\\%$; for positively charged grains (high $\gamma$), the work function increases and efficiency drops to $\sim 0.1\\%$.
+   The photoelectric efficiency $\epsilon_{\rm PE}$ depends on the grain charging parameter $\gamma = G_0 T^{1/2} / n_e$. For neutral grains, $\epsilon_{\rm PE} \sim 1 - 3\\%$. For positively charged grains (high $\gamma$), the work function increases and efficiency drops to $\sim 0.1\\%$.
 2. $H_2$ Photodissociation Heating - Each dissociative transition through the Solomon process releases $\sim 0.4$ eV of kinetic energy directly to the two ejected hydrogen atoms.
 3. $H_2$ Collisional De-excitation (FUV Pumping) - After bound UV absorption, cascade through vibrational levels can be collisionally de-excited in dense gas ($n_H > 10^4 \text{ cm}^{-3}$), converting vibrational energy into thermal motion.
 4. Cosmic Ray Heating - Dominates in the deep, dark core ($A_V > 10$), where cosmic ray protons ionize $H_2$ ($\Gamma_{\rm CR} \approx 2 \times 10^{-27} n_H \text{ erg cm}^{-3} \text{ s}^{-1}$).
@@ -116,7 +116,7 @@ $$\Gamma_{\rm tot}(A_V) = \Lambda_{\rm tot}(A_V, T_{\rm gas})$$
    The spontaneous Einstein transition probability is $A_{21} = 2.36 \times 10^{-6} \text{ s}^{-1}$.
    The critical density for collisions with atomic hydrogen at $T = 100$ K is
    $$n_{\rm crit}(C^+) \approx 3.0 \times 10^3 \text{ cm}^{-3}$$
-   Because $\Delta E / k_B$ is readily excited at $T \sim 50 - 300$ K, and carbon is an abundant element in its dominant ionization state, $[C\text{ II}]\ 158\ \mu\text{m}$ is the single most powerful cooling line of the neutral interstellar medium.
+ Because $\Delta E / k_B$ is readily excited at $T \sim 50 - 300$ K, and carbon is an abundant element in its dominant ionization state, $[C\text{ II}]\ 158\ \mu\text{m}$ is the single most useful cooling line of the neutral interstellar medium.
 2. $[O\text{ I}]\ 63\ \mu\text{m}$ Line Cooling
    Neutral oxygen ($O^0$) has an ionization potential of $13.62 \text{ eV} > 13.6 \text{ eV}$, so it remains neutral throughout the PDR. Its $2p^4\ ^3P$ ground state is split into three levels ($^3P_2, ^3P_1, ^3P_0$).
    The $^3P_1 \to\ ^3P_2$ transition at $\lambda = 63.18\ \mu\text{m}$ has an excitation energy of

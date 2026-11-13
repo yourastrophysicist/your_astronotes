@@ -4,7 +4,7 @@ title: "Leapfrog integrator"
 ---
 # Leapfrog integrator
 
-a second-order, **symplectic** integrator for Hamiltonian systems. positions and velocities are evolved on staggered (interleaved) time grids — they "leap over" each other. for Hamiltonian dynamics it is the gold standard for long-time integrations because it does not have the secular energy drift of RK methods.
+a second-order, **symplectic** integrator for Hamiltonian systems. positions and velocities are evolved on staggered (interleaved) time grids. they "leap over" each other. for Hamiltonian dynamics it is the standard for long-time integrations because it does not have the secular energy drift of RK methods.
 
 ## the equations
 
@@ -74,7 +74,7 @@ def leapfrog(a_func, r0, v0, t0, t_end, h):
 - **fixed timestep is constraining**: adapting timestep breaks the symplectic property unless done carefully (variable-step symplectic schemes exist but are more complex)
 - **second-order only**: for very high accuracy, fourth-order or higher symplectic schemes (Forest-Ruth, Yoshida) trade more cost for higher order
 
-## comparison plot — the canonical demonstration
+## comparison plot - the canonical demonstration
 
 run a Kepler orbit ($\mathbf{a} = -GM\hat{\mathbf{r}}/r^2$) for 100 periods with three integrators at the same timestep:
 
@@ -113,7 +113,7 @@ this is leapfrog with the velocity eliminated (it is recoverable from difference
 - [[Runge-Kutta 4 method]]
 - [[Energy conservation as a diagnostic]]
 - [[Astrophysical N-body problem formulation]]
-- [[Fourth-order Hermite predictor-corrector]] — symplectic-ish, higher-order
+- [[Fourth-order Hermite predictor-corrector]] - symplectic-ish, higher-order
 - [[Mathematical_Numerical_Methods_MOC]]
 
 ---

@@ -2,9 +2,9 @@
 layout: "default"
 title: "GC formation models with MPs"
 ---
-if multiple populations are universal in old massive GCs + scale cleanly with cluster mass, then forming a GC is the same question as forming MPs. the formation model must explain (i) the observed chemical anti-correlations, (ii) the helium spread, (iii) the 2G fraction + its mass scaling, (iv) the spatial + kinematic differences between populations, + (v) the existence of [[Type I and Type II GCs\|Type II GCs]] with iron + s-process spreads. several competing scenarios exist; none is fully satisfactory.
+if multiple populations are universal in old massive GCs + scale cleanly with cluster mass, then forming a GC is the same question as forming MPs. the formation model must explain (i) the observed chemical anti-correlations, (ii) the helium spread, (iii) the 2G fraction + its mass scaling, (iv) the spatial + kinematic differences between populations, + (v) the existence of [[Type I and Type II GCs\|Type II GCs]] with iron + s-process spreads. several competing scenarios exist. none is fully satisfactory.
 
-## scenario 1: two-stage star formation in a single proto-cluster
+## scenario 1 - two-stage star formation in a single proto-cluster
 
 the most-developed framework, articulated by d'antona, ventura, d'ercole + collaborators, with variants:
 
@@ -16,27 +16,27 @@ the most-developed framework, articulated by d'antona, ventura, d'ercole + colla
 
 **successes**: explains chemistry qualitatively, naturally produces He enhancement, predicts central concentration of 2G, fits the timing.
 
-**failures**: mass budget (need 1G ~10× more massive than observed); detailed AGB yields struggle with the Na-O slope; the loss of so much 1G to the field is not fully observed.
+**failures**: mass budget (need 1G ~10× more massive than observed). detailed AGB yields struggle with the Na-O slope. the loss of so much 1G to the field is not fully observed.
 
-## scenario 2: fast-rotating massive star pollution
+## scenario 2 - fast-rotating massive star pollution
 
 decressin et al. 2007 + meynet, charbonnel + collaborators. the polluter is fast-rotating massive MS stars (20-100 M) instead of AGB. the rotational mixing exposes CNO + NeNa products in equatorial decretion disks, which form the 2G in situ on $\sim 10$ Myr.
 
-key difference from AGB: timescale is shorter, before SNe go off; chemistry comes from MS H burning rather than AGB HBB. but it has its own mass budget problem + still requires preferential 1G loss.
+key difference from AGB: timescale is shorter, before SNe go off. chemistry comes from MS H burning rather than AGB HBB. but it has its own mass budget problem + still requires preferential 1G loss.
 
-## scenario 3: supermassive star pollution + simultaneous star formation
+## scenario 3 - supermassive star pollution + simultaneous star formation
 
 gieles, charbonnel, krause et al. 2018. proposed that runaway stellar collisions in the dense core of a forming proto-cluster build a single supermassive star ($10^3$-$10^5\, M_\odot$). its hot core ($T \sim 75$ MK) fully activates the MgAl chain. it loses mass continuously via winds + transfers processed material into the still-forming cluster gas. star formation is **not** two-stage: the SMS pollutes ongoing SF, producing 1G + 2G in the same prolonged formation event.
 
-**successes**: solves mass budget cleanly (one SMS pollutes the whole 2G); reaches MgAl temperatures naturally; predicts a correlation between cluster mass + SMS mass that matches observed scaling of $\Delta Y$ with mass.
+**successes**: solves mass budget cleanly (one SMS pollutes the whole 2G). reaches MgAl temperatures naturally. predicts a correlation between cluster mass + SMS mass that matches observed scaling of $\Delta Y$ with mass.
 
-**failures**: existence of SMSs is theoretical; the dense initial conditions for collisional buildup may not always be realized.
+**failures**: existence of SMSs is theoretical. the dense initial conditions for collisional buildup may not always be realized.
 
-## scenario 4: early disc fragmentation
+## scenario 4 - early disc fragmentation
 
 bekki + collaborators, also explored by mclaughlin + van der marel. the proto-cluster forms a thin disc that fragments + builds populations sequentially. polluter ejecta accumulate in the disc + drive a second wave of SF. similar in spirit to scenario 1 but with a more extended geometry.
 
-## scenario 5: accreted dwarf nuclei (Type II GCs)
+## scenario 5 - accreted dwarf nuclei (Type II GCs)
 
 for [[Type I and Type II GCs\|Type II GCs]] specifically, the formation channel is **stripping of dwarf galaxy nuclei**. $\omega$ Cen + M54 are the prototypes. the dwarf hosts multiple chemical generations including SN Ia + AGB s-process enrichment, which are normally absent in pure-cluster scenarios. the dwarf's outer stars are stripped during infall + only the dense nucleus survives as the present GC.
 

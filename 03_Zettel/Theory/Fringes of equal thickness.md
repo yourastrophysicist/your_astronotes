@@ -4,7 +4,7 @@ title: "Fringes of equal thickness"
 ---
 # Fringes of equal thickness
 
-a class of fringes formed when light reflects off a *thin film of varying thickness*. the fringes follow contours of constant thickness — at each point, the OPD between the front-surface and back-surface reflections depends only on the local thickness.
+a class of fringes formed when light reflects off a *thin film of varying thickness*. the fringes follow contours of constant thickness, at each point, the OPD between the front-surface and back-surface reflections depends only on the local thickness.
 
 also called **Fizeau fringes** in older literature.
 
@@ -31,9 +31,9 @@ each bright fringe corresponds to a specific thickness $d_m = m\lambda/(2 n_f)$.
 
 simple cases:
 - **wedge** (thickness varies linearly): fringes are *straight, parallel lines*
-- **circular gap** (e.g. between a flat and a curved lens): fringes are *circles* — these are [[Newton's rings]]
-- **soap bubble**: thickness varies in complex curves; fringes follow contour curves
-- **oil film on water**: thickness depends on local film age; the iridescent colors are equal-thickness fringes in white light
+- **circular gap** (e.g. between a flat and a curved lens): fringes are *circles*. these are [[Newton's rings]]
+- **soap bubble**: thickness varies in complex curves. fringes follow contour curves
+- **oil film on water**: thickness depends on local film age. the iridescent colors are equal-thickness fringes in white light
 
 ## the relation to other fringes
 
@@ -41,7 +41,7 @@ distinction from [[Fringes of equal inclination]]:
 - equal-thickness: thickness varies, angle is fixed → contours follow thickness
 - equal-inclination: thickness fixed, angle varies → rings follow angle
 
-physical setup distinguishes them: parallel-faced plate gives equal-inclination; non-parallel plate gives equal-thickness.
+physical setup distinguishes them: parallel-faced plate gives equal-inclination. non-parallel plate gives equal-thickness.
 
 ## the iridescent colors of soap bubbles
 

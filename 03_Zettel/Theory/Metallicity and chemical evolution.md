@@ -17,7 +17,7 @@ $$[\mathrm{Fe}/\mathrm{H}] \equiv \log_{10}\!\left(\frac{N_{\rm Fe}}{N_{\rm H}}\
 
 ## the $[\alpha/\mathrm{Fe}]$ ratio as a cosmic clock
 
-the ratio of **$\alpha$-elements** (O, Ne, Mg, Si, S, Ca, Ti—synthesized by capturing $\alpha$-particles $^4\mathrm{He}$) to iron-peak elements serves as an astrophysical stopwatch for star formation:
+the ratio of **$\alpha$-elements** (O, Ne, Mg, Si, S, Ca, Ti, synthesized by capturing $\alpha$-particles $^4\mathrm{He}$) to iron-peak elements serves as an astrophysical stopwatch for star formation:
 
 1. **core-collapse supernovae (Type II, Ib, Ic)**:
    progenitors are massive stars ($M \gtrsim 8\,M_\odot$) with short lifetimes ($\tau \lesssim 3\text{--}30$ Myr). their nucleosynthetic yields are dominated by $\alpha$-elements, producing high $[\alpha/\mathrm{Fe}] \approx +0.4\text{--}+0.5$ dex with little iron.
@@ -27,7 +27,7 @@ the ratio of **$\alpha$-elements** (O, Ne, Mg, Si, S, Ca, Ti—synthesized by ca
 **the "knee" in $[\alpha/\mathrm{Fe}]$ vs $[\mathrm{Fe}/\mathrm{H}]$**:
 - at earliest times ($t < 1$ Gyr), CCSNe dominate: $[\alpha/\mathrm{Fe}]$ forms an elevated plateau at $\sim +0.4$.
 - once Type Ia SNe turn on ($t \sim 1$ Gyr), iron dumps into the ISM, causing $[\alpha/\mathrm{Fe}]$ to decline steeply toward solar ($0.0$).
-- the metallicity $[\mathrm{Fe}/\mathrm{H}]_{\rm knee}$ at which this downturn occurs marks the accumulation of iron reached by the galaxy when Type Ia SNe began contributing. in massive systems with high SFR (Galactic bulge, thick disk), the knee sits at high metallicity ($[\mathrm{Fe}/\mathrm{H}] \sim -0.3$); in low-mass dwarf galaxies with sluggish star formation, the knee occurs at low metallicity ($[\mathrm{Fe}/\mathrm{H}] \sim -1.8$).
+- the metallicity $[\mathrm{Fe}/\mathrm{H}]_{\rm knee}$ at which this downturn occurs marks the accumulation of iron reached by the galaxy when Type Ia SNe began contributing. in massive systems with high SFR (Galactic bulge, thick disk), the knee sits at high metallicity ($[\mathrm{Fe}/\mathrm{H}] \sim -0.3$). in low-mass dwarf galaxies with sluggish star formation, the knee occurs at low metallicity ($[\mathrm{Fe}/\mathrm{H}] \sim -1.8$).
 
 | stellar population | $[\mathrm{Fe}/\mathrm{H}]$ | $[\alpha/\mathrm{Fe}]$ | star formation duration / character |
 |---|---|---|---|
@@ -36,7 +36,7 @@ the ratio of **$\alpha$-elements** (O, Ne, Mg, Si, S, Ca, Ti—synthesized by ca
 | **thin disk** | $-0.5$ to $+0.3$ | $\sim 0.0$ (solar) | extended, continuous star formation over $\sim 8$ Gyr |
 | **dwarf spheroidals (dSph)**| $-2.5$ to $-1.0$ | low (early knee) | inefficient, low-SFR evolution |
 
-## analytical chemical evolution: the simple closed-box model
+## analytical chemical evolution - the simple closed-box model
 
 consider an isolated gas reservoir with initial gas mass $M_{\rm gas}(0) = M_0$ and initial metallicity $Z(0) = 0$, with no gas inflows or outflows (**closed box**):
 - let $dM_*$ be the mass forming stars, of which a fraction $R \approx 0.3\text{--}0.5$ is returned to the ISM via stellar winds and supernovae (**instantaneous recycling approximation**), so the net star formation is $dM_{*,{\rm net}} = (1 - R) dM_*$.
@@ -54,7 +54,7 @@ where $\mu_{\rm gas} \equiv M_{\rm gas} / M_{\rm tot}$ is the gas fraction.
 ### the G-dwarf problem & gas infall
 the simple closed-box model predicts the cumulative distribution of stellar metallicity:
 $$M_*(< Z) = M_{\rm tot} \left[1 - \exp(-Z / y_Z)\right]$$
-applied to the solar neighborhood, it predicts that $\sim 50\%$ of local G-type dwarf stars should have $Z < 0.25\,Z_\odot$ ($[\mathrm{Fe}/\mathrm{H}] < -0.6$). observations (van den Bergh 1962, Schmidt 1963) show that **only $\sim 2\text{--}5\%$ of local G dwarfs are this metal-poor**—the classic **G-dwarf problem**.
+applied to the solar neighborhood, it predicts that $\sim 50\%$ of local G-type dwarf stars should have $Z < 0.25\,Z_\odot$ ($[\mathrm{Fe}/\mathrm{H}] < -0.6$). observations (van den Bergh 1962, Schmidt 1963) show that **only $\sim 2\text{--}5\%$ of local G dwarfs are this metal-poor**, the classic **G-dwarf problem**.
 
 **resolution**: the Milky Way did not evolve as a closed box. it experienced continuous **infall of pristine or low-metallicity gas** from the cosmic web, maintaining a high gas mass while diluting the ISM and enabling more stars to form near the equilibrium metallicity $Z \approx y_Z$.
 
@@ -71,6 +71,19 @@ unaccounted metallicity shifts standard candle zero-points:
 - **Cepheids**: metal-rich Cepheids are slightly brighter and redder ($\gamma_V \sim -0.1$ mag/dex).
 - **TRGB**: $M_I^{\rm TRGB} \approx -4.0$ is exceptionally flat at low $Z$ but curves fainter at $[\mathrm{Fe}/\mathrm{H}] > -0.7$.
 - **RR Lyrae**: $M_V^{\rm RR} = 0.214\,[\mathrm{Fe}/\mathrm{H}] + 0.89$ (strong metallicity dependence).
+
+## worked example
+
+$[\mathrm{Fe}/\mathrm{H}] = -1$ means one tenth of the solar iron abundance, and $-2$ one hundredth.
+
+the closed-box model gives $Z = -y\ln\mu$, with $y$ the yield and $\mu$ the gas fraction. the metallicity equals the yield when $\mu = e^{-1} = 0.37$, and it is $2.3\,y$ when only 10% of the gas is left. so the metallicity rises slowly at first and fast at the end.
+
+## where it goes wrong
+
+- $[\mathrm{Fe}/\mathrm{H}]$ is a logarithm relative to the Sun, not a mass fraction. $Z_\odot \approx 0.014$.
+- $\alpha$ elements come from core-collapse supernovae within tens of Myr, iron mostly from Type Ia after about a Gyr. $[\alpha/\mathrm{Fe}]$ is a clock, not a composition.
+- the closed box predicts too many metal-poor stars. the G-dwarf problem shows that galaxies accrete gas.
+- gas-phase oxygen and stellar iron are two different metallicities.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

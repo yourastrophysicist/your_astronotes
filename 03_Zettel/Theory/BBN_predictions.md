@@ -27,7 +27,7 @@ an **increase** in $\tau_{1/2}(n)$ (longer-lived neutron) decreases all weak int
 
 ---
 
-## 2. cosmological parameters: $g_*(T)$ and $\eta$
+## 2. cosmological parameters - $g_*(T)$ and $\eta$
 
 since the universe is radiation-dominated during BBN, $H \propto g_*^{1/2} T^2$. so an increase in $g_*$ leads to a faster expansion, an earlier freeze-out of n/p, and a **higher $^4$He abundance**.
 
@@ -98,12 +98,16 @@ the $^4$He mass fraction $Y_p = 4n_4/n_N$ slowly increases with $\eta$ (and with
 | increase $\tau_{1/2}(n)$ | increase | mild | mild |
 | increase $g_*$ | increase | mild | mild |
 
-these specific dependences are what make BBN such a powerful probe:
+these specific dependences are what make BBN such a sharp probe:
 - $Y_p$ is a clean probe of $g_*$, hence of light degrees of freedom (e.g. the number of neutrino species)
 - D/H is the cleanest probe of $\eta$ (hence of $\Omega_b h^2$)
 - $^7$Li/H provides an independent cross-check, although the famous **lithium problem** muddles things
 
 ---
+
+## where it goes wrong
+
+- lithium predicted is about three times what is observed in old stars. this is still unexplained.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

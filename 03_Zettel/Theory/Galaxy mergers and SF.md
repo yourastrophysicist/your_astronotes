@@ -11,8 +11,8 @@ up: [[Pablo_03_Star_formation_in_galaxies]]
 tidal torques in a close encounter channel gas to the center, compressing it and triggering a nuclear starburst (Mihos & Hernquist 1996). this is the standard picture behind [[LIRGs ULIRGs HyLIRGs]]: almost all local ULIRGs are major mergers.
 
 the SF enhancement is dramatic:
-- pre-merger spirals: $\psi \sim 1$–$10\,M_\odot/\text{yr}$
-- during coalescence (Arp 220 stage): $\psi \sim 100$–$1000\,M_\odot/\text{yr}$
+- pre-merger spirals: $\psi \sim 1$ to $10\,M_\odot/\text{yr}$
+- during coalescence (Arp 220 stage): $\psi \sim 100$ to $1000\,M_\odot/\text{yr}$
 - after relaxation ($\sim 10^8$ yr later): quenched elliptical
 
 so a merger is a $\sim 100$-Myr event that takes two star-forming disks and produces one red-sequence elliptical.
@@ -20,14 +20,14 @@ so a merger is a $\sim 100$-Myr event that takes two star-forming disks and prod
 ## merger fraction as a function of $z$
 
 observationally measured via:
-- **pair counts**: galaxies within a projected separation $r_p < 20$–$50$ kpc and $\Delta v < 500$ km/s
+- **pair counts**: galaxies within a projected separation $r_p < 20$ to $50$ kpc and $\Delta v < 500$ km/s
 - **morphology**: Gini-M20, asymmetry, CAS statistics detecting tidal features, double nuclei
 
 results (Conselice 2003, van Dokkum 2005, Le Fèvre 2000, Lotz 2008, López-Sanjuán):
 
 $$f_{\text{merger}}(z) \propto (1+z)^m,\quad m \simeq 2\text{–}3$$
 
-so at $z = 1$, roughly $10\%$ of galaxies are in mergers; at $z = 2$, $\sim 20$–$30\%$. this is a major driver of the [[Cosmic star formation history]] rise.
+so at $z = 1$, roughly $10\%$ of galaxies are in mergers. at $z = 2$, $\sim 20$ to $30\%$. this is a major driver of the [[Cosmic star formation history]] rise.
 
 ## the Pablo figure
 
@@ -41,7 +41,7 @@ a gas-rich major merger, via hydrodynamic simulations:
 
 1. **first passage** ($t = 0$): tidal bridges and tails form, gas shocks, first SF enhancement by factor $\sim 2$
 2. **apocenter**: galaxies separated again, SF returns to near-normal
-3. **second passage / coalescence** ($t \sim 0.5$–$1$ Gyr): nuclei merge, violent relaxation, gas piled in inner kpc → **ULIRG phase** SFR $> 100 \, M_\odot/\text{yr}$
+3. **second passage / coalescence** ($t \sim 0.5$ to $1$ Gyr): nuclei merge, violent relaxation, gas piled in inner kpc → **ULIRG phase** SFR $> 100 \, M_\odot/\text{yr}$
 4. **AGN ignition**: buried AGN accretes, eventually blows out gas
 5. **quench**: gas expelled or consumed, SF turns off, [[Post-starburst galaxies]] signature
 6. **relaxation**: red-sequence elliptical remains
@@ -54,7 +54,11 @@ more frequent but less dramatic. a $\sim 10:1$ mass-ratio merger adds $\sim 10\%
 
 ## relevance for the main sequence
 
-mergers are **not** the source of main-sequence SF at $z = 1$–$2$. Rodighiero 2011, Sargent 2012, and others showed: $> 95\%$ of cosmic SF at $z \sim 2$ happens in galaxies on the main sequence, only $\sim 5$–$10$% comes from the starburst tail (which includes mergers). mergers are rare but spectacular, not the dominant SF engine.
+mergers are **not** the source of main-sequence SF at $z = 1$ to $2$. Rodighiero 2011, Sargent 2012, and others showed: $> 95\%$ of cosmic SF at $z \sim 2$ happens in galaxies on the main sequence, only $\sim 5$ to $10$% comes from the starburst tail (which includes mergers). mergers are rare but spectacular, not the dominant SF engine.
+
+## where it goes wrong
+
+- mergers trigger starbursts, but most cosmic star formation happens in galaxies on the main sequence, not in mergers.
 
 ## connections
 

@@ -38,16 +38,16 @@ these are the discrete versions of the continuous Laplacian operator and form th
 
 ## from PDE to algebraic system
 
-### example: Poisson equation $\nabla^2 \phi = \rho$ on a 2D grid
+### example - Poisson equation $\nabla^2 \phi = \rho$ on a 2D grid
 
 at each interior grid point $(i, j)$:
 $$\frac{\phi_{i+1,j} + \phi_{i-1,j} + \phi_{i,j+1} + \phi_{i,j-1} - 4\phi_{i,j}}{\Delta x^2} = \rho_{i,j}$$
 
-this is one linear equation per grid point. if the grid is $N \times N$ with Dirichlet boundary conditions on the edges, there are $(N-2)^2$ unknowns and $(N-2)^2$ equations, forming a sparse linear system $A\boldsymbol\phi = \boldsymbol\rho$. each row of $A$ has exactly 5 nonzeros (the 5-point stencil weights) — a **band matrix** structure.
+this is one linear equation per grid point. if the grid is $N \times N$ with Dirichlet boundary conditions on the edges, there are $(N-2)^2$ unknowns and $(N-2)^2$ equations, forming a sparse linear system $A\boldsymbol\phi = \boldsymbol\rho$. each row of $A$ has exactly 5 nonzeros (the 5-point stencil weights), a **band matrix** structure.
 
 solve with Gauss-Seidel, conjugate gradient, multigrid, or sparse direct methods.
 
-### example: heat equation $\partial_t u = D \nabla^2 u$
+### example - heat equation $\partial_t u = D \nabla^2 u$
 
 discretize space *and* time. with FTCS:
 $$\frac{u_{i,j}^{n+1} - u_{i,j}^n}{\Delta t} = D \cdot (\text{5-point Laplacian of } u^n)_{i,j}$$

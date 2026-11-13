@@ -65,6 +65,20 @@ because $t_{\text{nuc}}$ exceeds $t_{\text{KH}}$ by a factor of 300, and exceeds
 
 ---
 
+## worked example
+
+for the Sun:
+
+- $t_{\rm dyn} = \sqrt{R^3/GM} = \sqrt{2.5 \times 10^6\ \text{s}^2} \approx 1600$ s, about 27 minutes
+- $t_{\rm KH} = \dfrac{GM^2}{RL} = \dfrac{2.64 \times 10^{50}}{2.66 \times 10^{35}} = 9.9 \times 10^{14}$ s $= 3.1 \times 10^7$ yr
+- $t_{\rm nuc} = \dfrac{0.007 \times 0.1\,Mc^2}{L} = 3.3 \times 10^{17}$ s $= 1.0 \times 10^{10}$ yr
+
+## where it goes wrong
+
+- the Kelvin-Helmholtz time was once taken for the age of the Sun. geology showed it was far too short, and that pointed to nuclear energy.
+- because $t_{\rm dyn} \ll t_{\rm KH} \ll t_{\rm nuc}$, a star is in hydrostatic and thermal equilibrium during most of its life.
+- phases that run on the thermal timescale, like the Hertzsprung gap, are fast, so few stars are seen there.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -98,7 +112,7 @@ because $t_{\text{nuc}}$ exceeds $t_{\text{KH}}$ by a factor of 300, and exceeds
 *Main sequence lifetime formula: tau_MS ~ 10^10 * (M / M_Sun)^(-2.5) yr.*
 
 ![obs_stars-040.png](../../assets/images/obs_stars-040.png)
-*Lifetimes across stellar masses: 20 M_Sun star lives ~10 Myr; 1 M_Sun star lives ~10 Gyr; 0.1 M_Sun star lives ~trillion yr.*
+*Lifetimes across stellar masses: 20 M_Sun star lives ~10 Myr. 1 M_Sun star lives ~10 Gyr. 0.1 M_Sun star lives ~trillion yr.*
 
 ![obs_stars-041.png](../../assets/images/obs_stars-041.png)
 *Dynamical timescale: t_dyn = 1 / sqrt(G rho) ~ 30 min for the Sun.*

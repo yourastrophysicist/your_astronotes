@@ -46,7 +46,7 @@ each band's filter shape is constrained by the surrounding water bands, not by a
 - **far-IR and most of mid-IR** require space (Spitzer, Herschel, JWST/MIRI) or stratospheric balloons (SOFIA).
 - **sub-mm science** lives at the driest, highest sites: ALMA at $5000$ m, IRAM, JCMT.
 - **NIR ground-based** is rich but band-limited: photometric pipelines must respect the JHK shapes.
-- **VHF and below** distorted/blocked by the ionosphere; LOFAR/SKA-Low sit just above the cutoff.
+- **VHF and below** distorted/blocked by the ionosphere. LOFAR/SKA-Low sit just above the cutoff.
 
 ## the practical "atmospheric transmission" curve
 
@@ -58,5 +58,5 @@ a transmission curve $T(\lambda)$ is the input to any exposure-time calculator. 
 - [[Atmospheric extinction]]
 - [[Atmospheric layers]]
 - [[Sky brightness]]
-- [[Atmospheric transmission]] — a related deeper note
+- [[Atmospheric transmission]] - a related deeper note
 - [[Filter systems and bandpasses]]

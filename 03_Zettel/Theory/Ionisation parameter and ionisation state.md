@@ -58,7 +58,7 @@ at high $U$ in a nebula = high $\eta^{-1}$ = many photons per atom = highly ioni
 
 the BPT diagram (Baldwin, Phillips, Terlevich 1981) plots:
 - y-axis: $\log [OIII]/H\beta$ (combination of $U$ + $T_e$).
-- x-axis: $\log [NII]/H\alpha$ (or $[SII]/H\alpha$, $[OI]/H\alpha$; metallicity + $U$).
+- x-axis: $\log [NII]/H\alpha$ (or $[SII]/H\alpha$, $[OI]/H\alpha$, metallicity + $U$).
 
 galaxies form a "main sequence" in this diagram: star-forming galaxies on a curving locus, AGN above and to the right. the separation reflects the harder ionising spectrum of AGN (needs higher $U$ + harder photons to produce the [OIII]/H$\beta$ ratios seen in Seyfert nuclei).
 

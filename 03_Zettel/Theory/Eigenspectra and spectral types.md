@@ -57,10 +57,10 @@ Based on the distribution of $\eta$, galaxies are classified into four discrete,
 
 | Spectral Class | $\eta$ Range | Dominant Morphology | Physical Characteristics |
 |---|---|---|---|
-| **Type 1** | $\eta < -1.4$ | Elliptical (E) and Lenticular (S0) | Passive, old stellar populations; zero emission lines; strong Ca II and 4000 \AA\ break. |
-| **Type 2** | $-1.4 \le \eta < 1.1$ | Early-type Spirals (Sa / Sb) | Intermediate star formation; weak $[\text{O II}]$ and $\text{H}\alpha$ emission. |
-| **Type 3** | $1.1 \le \eta < 3.5$ | Late-type Spirals (Sc / Sd) | Active star formation; prominent Balmer and forbidden emission lines. |
-| **Type 4** | $\eta \ge 3.5$ | Starburst Galaxies and Irregulars | Extreme starbursting systems; high emission-line equivalent widths. |
+| **Type 1** | $\eta < -1.4$ | Elliptical (E) and Lenticular (S0) | Passive, old stellar populations, zero emission lines, strong Ca II and 4000 \AA\ break. |
+| **Type 2** | $-1.4 \le \eta < 1.1$ | Early-type Spirals (Sa / Sb) | Intermediate star formation, weak $[\text{O II}]$ and $\text{H}\alpha$ emission. |
+| **Type 3** | $1.1 \le \eta < 3.5$ | Late-type Spirals (Sc / Sd) | Active star formation, prominent Balmer and forbidden emission lines. |
+| **Type 4** | $\eta \ge 3.5$ | Starburst Galaxies and Irregulars | Extreme starbursting systems, high emission-line equivalent widths. |
 
 ### Correlation with the Birthrate Parameter $b$
 The $\eta$ parameter correlates directly with the stellar birthrate parameter $b$, defined as the ratio of current star formation rate to the past-average star formation rate ($b \equiv \text{SFR} / \langle \text{SFR} \rangle_{\mathrm{past}}$) -

@@ -58,7 +58,7 @@ $$\Omega_\chi h^2 \sim 0.1 \cdot (3 \times 10^{-26}\,\text{cm}^3/\text{s})/\lang
 
 the **WIMP miracle**: weak-scale cross sections give the right relic. partial of the original motivation for WIMP dark matter, though direct-detection experiments have ruled out much of the parameter space.
 
-see Dark matter relics — WIMP miracle.
+see Dark matter relics, WIMP miracle.
 
 ## the universal pattern
 
@@ -82,6 +82,10 @@ so the universe has a **history of decouplings**:
 
 each leaves a frozen relic abundance, observable today (CMB, $C\nu B$, dark matter halos, etc.).
 
+## where it goes wrong
+
+- decoupling is about the photons. recombination is about the gas.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -99,8 +103,8 @@ each leaves a frozen relic abundance, observable today (CMB, $C\nu B$, dark matt
 - [[Saha equation and recombination]]
 - [[Brief thermal history]]
 - [[Transition epochs]]
-- CMB — discovery and blackbody spectrum
-- Dark matter relics — WIMP miracle
+- CMB, discovery and blackbody spectrum
+- Dark matter relics, WIMP miracle
 - [[Cosmic_inventory_neutrinos]]
 - Q19 - radiation universe
 - [[Observational_Cosmology_MOC]]

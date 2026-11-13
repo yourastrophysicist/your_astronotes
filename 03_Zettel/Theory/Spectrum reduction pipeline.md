@@ -46,7 +46,7 @@ subtract the sky background from the source's spatial position:
 - **fiber-fed**: dedicated sky fibers placed in empty regions.
 - **IFU**: sky from spaxels at field edges, or a separate sky pointing.
 
-at NIR or in dense sky-line regions, subtraction is delicate; tilted spectral lines and PSF mismatches leave residuals.
+at NIR or in dense sky-line regions, subtraction is delicate. tilted spectral lines and PSF mismatches leave residuals.
 
 ### 8. flux calibration
 

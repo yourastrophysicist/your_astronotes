@@ -30,17 +30,25 @@ this is the **Euclidean slope**. it is what you would observe in a static, infin
 
 ## what the data show
 
-the actual counts are close to euclidean only over a limited range, then they *flatten*. at faint magnitudes the slope drops well below 0.6 (in the optical, $\sim 0.3$–$0.4$ at $B \sim 24$, even shallower at $K$).
+the actual counts are close to euclidean only over a limited range, then they *flatten*. at faint magnitudes the slope drops well below 0.6 (in the optical, $\sim 0.3$ to $0.4$ at $B \sim 24$, even shallower at $K$).
 
 three reasons for the deviation, all cosmological:
 
-1. **finite extent / volume curvature**: the universe is not Euclidean; comoving volume saturates as $z \to \infty$ in flat $\Lambda$CDM (see [[Radial comoving distance]] and the volume element $dV/dz$).
+1. **finite extent / volume curvature**: the universe is not Euclidean. comoving volume saturates as $z \to \infty$ in flat $\Lambda$CDM (see [[Radial comoving distance]] and the volume element $dV/dz$).
 2. **K-correction**: at high $z$, the rest-frame band you are observing is bluer than the filter, where galaxies are usually fainter (see [[K-correction]]).
 3. **evolution**: galaxies were brighter / more numerous in the past (the cosmic SFR peaks at $z \sim 2$, see [[Cosmic star formation history]]).
 
 ## what pablo overplots
 
 cosmological models on top of the observed counts: $\Omega_M=1$ no-$\Lambda$ EdS, $\Omega_M=0.3$ open, $\Omega_M=0.3,\Omega_\Lambda=0.7$ flat. these differ in the volume element and the look-back time, and so they predict different slopes at faint magnitudes. Driver et al. 1998 used exactly this to argue for $\Lambda$.
+
+## worked example
+
+in a Euclidean static universe $N(<m) \propto 10^{0.6m}$. one magnitude fainter means four times more galaxies. the observed slope is about 0.45 in $B$ at faint magnitudes, below Euclidean.
+
+## where it goes wrong
+
+- the counts depend on the band, the evolution of galaxies and the cosmology at once. separating these is hard.
 
 ## connections
 

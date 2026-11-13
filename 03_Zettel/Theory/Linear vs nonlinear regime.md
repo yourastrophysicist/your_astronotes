@@ -40,7 +40,7 @@ non-linear theory predicts:
 - **cosmic web structure** (filaments, voids).
 - **galaxy cluster properties**.
 
-## the transition: spherical collapse
+## the transition - spherical collapse
 
 a useful **toy model**: a spherical overdensity collapses self-similarly. the linear-extrapolated overdensity at the moment of collapse is:
 $$\delta_c = 1.686$$
@@ -80,6 +80,10 @@ different observables probe different regimes:
 - **lensing**: probes both regimes via projected mass.
 
 modern cosmological analyses combine **all** regimes: linear + non-linear, CMB + LSS + lensing + clusters. each constrains different parameter combinations + breaks degeneracies.
+
+## where it goes wrong
+
+- the boundary is at $\delta \approx 1$, which today is at $k \approx 0.2\,h$/Mpc.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

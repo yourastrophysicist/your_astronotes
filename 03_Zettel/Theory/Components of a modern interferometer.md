@@ -48,7 +48,7 @@ requirements:
 
 ## delay lines
 
-the most distinctive component of optical interferometry. optical paths from each telescope must be equal at the beam combiner — within the coherence length $\ell_c \sim 10$-100 μm. since the geometric paths differ as the source moves across the sky, *active delay lines* compensate.
+the most distinctive component of optical interferometry. optical paths from each telescope must be equal at the beam combiner, within the coherence length $\ell_c \sim 10$-100 μm. since the geometric paths differ as the source moves across the sky, *active delay lines* compensate.
 
 design: a movable mirror trolley on a precision rail. the mirror is driven to maintain the path-length match in real time, tracking the source.
 
@@ -75,7 +75,7 @@ beams from each telescope are kept separate, focused through a common image-plan
 
 ### single-mode fiber combiner
 
-each telescope's light is coupled into a single-mode optical fiber. fibers bring the light to a common point and combine via a fiber coupler. *all* spatial-mode mismatches between telescopes are filtered out by the fiber's modal filtering — improves visibility precision dramatically.
+each telescope's light is coupled into a single-mode optical fiber. fibers bring the light to a common point and combine via a fiber coupler. *all* spatial-mode mismatches between telescopes are filtered out by the fiber's modal filtering, improves visibility precision dramatically.
 
 instruments: GRAVITY at VLTI, MIRC-X at CHARA, MATISSE at VLTI.
 
@@ -96,7 +96,7 @@ VLTI's fringe tracker (originally PRIMA, now FINITO+GRAVITY-FT) lets the science
 
 ## detectors
 
-count photons or measure intensity. for IR: HgCdTe arrays (HAWAII, SAPHIRA, etc.) for K-band; AlGaAs / Si for visible.
+count photons or measure intensity. for IR: HgCdTe arrays (HAWAII, SAPHIRA, etc.) for K-band. AlGaAs / Si for visible.
 
 requirements:
 - **fast readout**: kHz for fringe tracking
@@ -107,7 +107,7 @@ requirements:
 
 does the math: from intensity time-series, compute the *visibility* (complex coherence) at each baseline. for $N$ telescopes, $N(N-1)/2$ baseline correlations per spectral channel.
 
-modern correlators are FPGA- or GPU-based. ALMA's correlator handles 8 GHz of bandwidth across 64 antennas — enormous data rates.
+modern correlators are FPGA- or GPU-based. ALMA's correlator handles 8 GHz of bandwidth across 64 antennas, enormous data rates.
 
 ## metrology
 

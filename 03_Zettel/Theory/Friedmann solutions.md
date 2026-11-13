@@ -10,13 +10,13 @@ $$\left(\frac{\dot a}{a}\right)^2 = \frac{8\pi G}{3}\rho - \frac{kc^2}{a^2}$$
 
 depending on which fluid dominates + the curvature parameter, the integration gives different $a(t)$.
 
-## Milne universe (empty: $\rho = 0$, $k = -1$)
+## Milne universe (empty - $\rho = 0$, $k = -1$)
 
 just curvature. $\dot a^2 = c^2$, so:
 $$a(t) = ct$$
 linear expansion. equivalent to special-relativistic flat spacetime in expanding coordinates. an unphysical limit but useful as a check.
 
-## Einstein-de Sitter (matter-only, flat: $k = 0$, $\Lambda = 0$, $\rho_m \propto a^{-3}$)
+## Einstein-de Sitter (matter-only, flat - $k = 0$, $\Lambda = 0$, $\rho_m \propto a^{-3}$)
 
 $\dot a^2 \propto a^{-1}$ gives:
 $$\boxed{\, a(t) \propto t^{2/3} \,}$$
@@ -81,6 +81,12 @@ each solution is a **limiting regime** of the universe:
 - $\Lambda$ $a \propto e^{Ht}$: $z < 0.3$.
 
 the **transition between regimes** is what makes $\Lambda$CDM rich + observationally distinguishable from EdS.
+
+## where it goes wrong
+
+- each solution assumes one component dominates. real histories pass from one to the next.
+- de Sitter has $H$ constant, so its "age" is infinite.
+- closed matter universes recollapse only when $\Lambda = 0$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

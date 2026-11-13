@@ -27,6 +27,10 @@ by observing through three contiguous filters (e.g. $U_n, G, \mathcal{R}$):
 2. **Lyman Alpha Emitters (LAEs)**: selected via narrow-band imaging targeting the redshifted Ly$\alpha$ line ($1216(1+z)\text{ \AA}$), tracing low-mass, dust-poor, compact galaxies with high specific star formation rates.
 3. **Sub-millimeter Galaxies (SMGs)**: dust-obscured hyper-luminous starbursts ($L_{\text{IR}} > 10^{12} L_\odot$) at $z \sim 2 - 4$, discovered by SCUBA and ALMA.
 
+## where it goes wrong
+
+- low-$z$ dusty galaxies and cool stars can mimic dropouts.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

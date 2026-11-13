@@ -31,7 +31,7 @@ structure forms efficiently. dark matter perturbations grow as $\delta \propto a
 - **Hubble**: asymptotes to constant $H_\Lambda$.
 - **age**: from $\sim 9$ Gyr to today and into the future.
 
-structure formation **slows**: linear growth $\delta \propto a$ no longer holds; structures freeze at fixed scale.
+structure formation **slows**: linear growth $\delta \propto a$ no longer holds. structures freeze at fixed scale.
 
 eventually, all unbound structures will be carried beyond the cosmological horizon. only the local group of galaxies will remain visible.
 
@@ -41,7 +41,7 @@ eventually, all unbound structures will be carried beyond the cosmological horiz
 
 $$a(\tau) = a_{\rm eq}\!\left[\frac{2\sqrt{2}\tau/(\tau + \tau_*)}{}\right]$$
 
-(Mukhanov-style; see Q20 - matter plus radiation universe). expressed in conformal time $\tau$.
+(Mukhanov-style, see Q20 - matter plus radiation universe). expressed in conformal time $\tau$.
 
 ### qualitative summary
 

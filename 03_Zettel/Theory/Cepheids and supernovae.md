@@ -2,7 +2,7 @@
 layout: "default"
 title: "Cepheids and supernovae"
 ---
-**Cepheid variable stars** (named after the prototype $\delta$ Cephei) are the supreme primary standard candles of the extragalactic distance ladder. luminous pulsating yellow supergiants ($4 - 20 M_\odot$, $L \sim 10^3 - 10^5 L_\odot$), their radial pulsations obey a tight, direct correlation between pulsation period and intrinsic luminosity.
+**Cepheid variable stars** (named after the prototype $\delta$ Cephei) are the primary standard candles of the extragalactic distance ladder. luminous pulsating yellow supergiants ($4 - 20 M_\odot$, $L \sim 10^3 - 10^5 L_\odot$), their radial pulsations obey a tight, direct correlation between pulsation period and intrinsic luminosity.
 
 ![distancescale-08.png](../../assets/images/distancescale-08.png)
 
@@ -25,14 +25,14 @@ measuring the pulsation period $P$ (simply by timing the light curve variations)
 
 ---
 
-## the physics of Cepheid pulsation: the $\kappa$-mechanism
+## the physics of Cepheid pulsation - the $\kappa$-mechanism
 
 Cepheids sit in the vertical **instability strip** of the HR diagram. their pulsations are driven by a thermodynamic heat-engine mechanism called the **$\kappa$-mechanism** (the "Eddington valve"), operating in the second helium partial ionization zone ($He^+ \rightleftharpoons He^{++}$) at $T \sim 40,000$ K:
 
-1. **compression phase**: when a layer of gas contracts, its density and temperature rise. in normal gas, heating decreases opacity. but in the $He^+$ ionization zone, heating ionizes $He^+ \to He^{++}$; free electrons increase the opacity $\kappa$.
+1. **compression phase**: when a layer of gas contracts, its density and temperature rise. in normal gas, heating decreases opacity. but in the $He^+$ ionization zone, heating ionizes $He^+ \to He^{++}$. free electrons increase the opacity $\kappa$.
 2. **heat trapping**: the increased opacity blocks outgoing radiation from the stellar interior, trapping heat and raising pressure.
 3. **expansion phase**: the trapped pressure pushes the layer outward beyond equilibrium. the layer expands and cools.
-4. **heat release**: cooling allows electrons to recombine ($He^{++} \to He^+$); opacity drops, trapped heat escapes, pressure drops, and gravity pulls the layer back inward, restarting the cycle!
+4. **heat release**: cooling allows electrons to recombine ($He^{++} \to He^+$), opacity drops, trapped heat escapes, pressure drops, and gravity pulls the layer back inward, restarting the cycle!
 
 the natural period of this radial acoustic oscillation scales with the dynamical timescale:
 $$P \propto \frac{1}{\sqrt{G \bar{\rho}}} \propto \frac{R^{3/2}}{M^{1/2}}$$
@@ -48,7 +48,7 @@ in the early 1920s, astronomy was split by the "Great Debate" (Shapley vs Curtis
 
 in October 1923, **Edwin Hubble** used the newly commissioned 100-inch Hooker telescope on Mount Wilson to resolve individual stars in the Andromeda Nebula (M31). he discovered a pulsating star on photographic plate H3356, initially marking it "N" (nova) before scratching it out and writing **"VAR!" (variable)**.
 
-measuring its period ($P = 31.4$ days) and applying Leavitt's Period-Luminosity relation, Hubble calculated that Andromeda lay at a distance of **$d \sim 900,000$ light-years** (modern value: $2.5$ million light-years / $780$ kpc)—far beyond the boundaries of the Milky Way! this single discovery proved that the universe was populated by billions of independent galaxies.
+measuring its period ($P = 31.4$ days) and applying Leavitt's Period-Luminosity relation, Hubble calculated that Andromeda lay at a distance of **$d \sim 900,000$ light-years** (modern value: $2.5$ million light-years / $780$ kpc), far beyond the boundaries of the Milky Way! this single discovery proved that the universe was populated by billions of independent galaxies.
 
 ![distancescale-12.png](../../assets/images/distancescale-12.png)
 
@@ -66,6 +66,11 @@ $$H_0 = 72 \pm 8 \text{ km s}^{-1}\text{ Mpc}^{-1}$$
 ![distancescale-14.png](../../assets/images/distancescale-14.png)
 
 ---
+
+## where it goes wrong
+
+- the zero point of the supernova scale and the Cepheid calibration are measured in the same galaxies. an error there moves $H_0$ directly.
+- the Cepheid and supernova samples are not at the same distances, so different systematics dominate at each step.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

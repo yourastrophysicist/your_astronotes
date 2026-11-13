@@ -8,13 +8,13 @@ a different beast from amplitude interferometry. correlate the *intensity fluctu
 
 ## the basic idea
 
-amplitude interferometry: combine $E_1, E_2$ at a beam combiner, observe interference. the visibility is $\langle E_1^* E_2 \rangle$ — sensitive to the wave's **phase relationship** between the two telescopes.
+amplitude interferometry: combine $E_1, E_2$ at a beam combiner, observe interference. the visibility is $\langle E_1^* E_2 \rangle$, sensitive to the wave's **phase relationship** between the two telescopes.
 
 intensity interferometry: separately detect $I_1 = \lvert E_1\rvert^2$ and $I_2 = \lvert E_2\rvert^2$ at each telescope, *electronically* correlate the intensity fluctuations:
 
 $$C_{12} = \langle (I_1 - \langle I_1 \rangle)(I_2 - \langle I_2 \rangle) \rangle$$
 
-this is sensitive to **second-order coherence** — bunching of photons due to thermal-source statistics — not to wave phase.
+this is sensitive to **second-order coherence**, bunching of photons due to thermal-source statistics, not to wave phase.
 
 ## why it works
 
@@ -37,7 +37,7 @@ the intensity correlation is **insensitive to atmospheric phase corruption**. wh
 
 this means intensity interferometry can use *very long baselines* with *non-cohrent* timing. no delay lines needed. no fringe trackers. no atomic clocks across continents.
 
-it can even work on the open ground with two cheap photometric telescopes — provided we can correlate signals fast enough.
+it can even work on the open ground with two cheap photometric telescopes, provided we can correlate signals fast enough.
 
 ## the great practical disadvantage
 
@@ -55,9 +55,9 @@ the technique's prime example. **Narrabri** (Australia, 1965-1972) used two para
 - the first systematic catalog of stellar angular diameters
 - including A-type stars, supergiants, hot stars
 
-Narrabri's results stood for decades; many of its diameters remain the best measurements until recent CHARA-class amplitude interferometers caught up.
+Narrabri's results stood for decades. Many of its diameters remain the best measurements until recent CHARA-class amplitude interferometers caught up.
 
-## modern revival: IACT arrays
+## modern revival - IACT arrays
 
 intensity interferometry has been resurrected by **gamma-ray IACT arrays** (Cherenkov telescopes) that already operate as high-throughput optical photon detectors at night when there are no Cherenkov flashes.
 
@@ -75,7 +75,7 @@ quantum: for a thermal state of light, the second-order coherence function
 
 $$g^{(2)}(0) = 2$$
 
-(twice the Poisson-process value of 1). this means thermal photons are *more* likely to come in pairs than uncorrelated photons. a single-photon state has $g^{(2)}(0) = 0$ (anti-bunching, never pairs); a coherent (laser) state has $g^{(2)}(0) = 1$.
+(twice the Poisson-process value of 1). this means thermal photons are *more* likely to come in pairs than uncorrelated photons. a single-photon state has $g^{(2)}(0) = 0$ (anti-bunching, never pairs). a coherent (laser) state has $g^{(2)}(0) = 1$.
 
 stellar light is thermal → bunched, $g^{(2)}(0) = 2$. the bunching is what HBT detects. observed across separated telescopes, it preserves spatial coherence information.
 

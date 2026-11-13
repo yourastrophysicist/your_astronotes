@@ -86,7 +86,7 @@ rbf = Rbf(x, y, z, function='thin_plate')
 z_q = rbf(x_query, y_query)
 ```
 
-flexibility comes at the cost of an $O(N^3)$ linear solve — slow for many data points. for large scattered datasets, prefer triangulation-based methods.
+flexibility comes at the cost of an $O(N^3)$ linear solve, slow for many data points. for large scattered datasets, prefer triangulation-based methods.
 
 ### Kriging / Gaussian process regression
 
@@ -113,7 +113,7 @@ statistical interpolation that also gives uncertainty estimates. used in geostat
 
 ## the most common pitfall
 
-extrapolation beyond the data range is **bad**. all of these methods quietly extrapolate by default; the answer is unreliable. always check the input range:
+extrapolation beyond the data range is **bad**. all of these methods quietly extrapolate by default. the answer is unreliable. always check the input range:
 
 ```python
 in_range = ((x_query >= x_min) & (x_query <= x_max) &

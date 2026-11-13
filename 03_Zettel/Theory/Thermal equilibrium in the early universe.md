@@ -60,7 +60,7 @@ $$g_*(T) = \sum_{\rm bosons} g_i \left(\frac{T_i}{T}\right)^4 + \frac{7}{8}\sum_
 (allowing different species to have different temperatures $T_i$ if they have decoupled.)
 
 example values:
-- **today** ($T = 2.725$ K): only photons + decoupled neutrinos; $g_*(\rm today) = 2 + 0.91 = $ small
+- **today** ($T = 2.725$ K): only photons + decoupled neutrinos. $g_*(\rm today) = 2 + 0.91 = $ small
 - **just before $e^\pm$ annihilation** ($T \sim 1$ MeV): photons (2) + electrons (4) + positrons (4) + 3 neutrinos × 2 helicities × 2 (ν+ν̄) = 2 + 7/8(4 + 4 + 6) = 10.75
 - **above the QCD phase transition** ($T \gtrsim 200$ MeV): all SM particles relativistic, $g_* \approx 106.75$
 
@@ -89,9 +89,14 @@ $$\Gamma \gg H$$
 
 every particle scatters many times per Hubble time, so the distribution rapidly relaxes to the Bose-Einstein or Fermi-Dirac form regardless of details. the universe is then characterized by a single number, $T$.
 
-when an interaction becomes inefficient ($\Gamma \lesssim H$), that species **decouples** from the thermal bath — see [[Decoupling and freeze-out]]. this is the origin of all the relics we observe: CMB photons (decoupled at $T \sim 0.3$ eV), CνB neutrinos (decoupled at $T \sim 1$ MeV), dark matter (decoupled at much earlier times for thermal WIMPs).
+when an interaction becomes inefficient ($\Gamma \lesssim H$), that species **decouples** from the thermal bath, see [[Decoupling and freeze-out]]. this is the origin of all the relics we observe: CMB photons (decoupled at $T \sim 0.3$ eV), CνB neutrinos (decoupled at $T \sim 1$ MeV), dark matter (decoupled at much earlier times for thermal WIMPs).
 
 ---
+
+## where it goes wrong
+
+- equilibrium needs $\Gamma \gg H$. kinetic and chemical equilibrium can end at different times.
+- a species can be in equilibrium with itself but no longer with the photons.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -111,7 +116,7 @@ when an interaction becomes inefficient ($\Gamma \lesssim H$), that species **de
 - [[Conservation of entropy in a comoving volume]]
 - [[Decoupling and freeze-out]]
 - [[Boltzmann equation in cosmology]]
-- [[Baumann_reference]] — chapter 3.2 has the rigorous treatment
+- [[Baumann_reference]] - chapter 3.2 has the rigorous treatment
 
 
 

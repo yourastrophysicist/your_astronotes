@@ -73,13 +73,13 @@ if each $f$ call costs minutes (e.g. a numerical simulation), I cannot afford th
 - **complex-step differentiation**: cost $\sim 1$ extra evaluation, near-machine-precision
 - **adjoint method**: cost $\sim 2$ evaluations for the full gradient, used in PDE-constrained optimization
 
-for $n$-dimensional gradients, finite differences cost $\sim n$ evaluations. AD's reverse mode costs $\sim 1$ regardless of $n$ — the deep-learning miracle.
+for $n$-dimensional gradients, finite differences cost $\sim n$ evaluations. AD's reverse mode costs $\sim 1$ regardless of $n$, the deep-learning miracle.
 
-## the worst case: noisy $f$
+## the worst case - noisy $f$
 
 if $f$ is itself noisy (Monte Carlo estimate, simulation output), the "machine epsilon" $\epsilon$ should be replaced by the *noise level* $\sigma$. then:
 
-- forward $f'$: $h_{\rm opt} \sim \sqrt{\sigma}$, error $\sim \sqrt{\sigma}$. for $\sigma = 10^{-3}$ the error is $\sim 10^{-1.5}$ — useless
+- forward $f'$: $h_{\rm opt} \sim \sqrt{\sigma}$, error $\sim \sqrt{\sigma}$. for $\sigma = 10^{-3}$ the error is $\sim 10^{-1.5}$, useless
 - the right approach is **smoothing first**, see [[Derivatives of noisy data]]
 
 <!-- sources:wiki-arxiv -->

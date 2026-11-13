@@ -2,7 +2,7 @@
 layout: "default"
 title: "Bianchi identities"
 ---
-the **Bianchi identities** are differential constraints on the Riemann tensor that follow automatically from its definition. the **second Bianchi identity** is the source of conservation laws in GR; without it, Einstein's equation would not be consistent.
+the **Bianchi identities** are differential constraints on the Riemann tensor that follow automatically from its definition. the **second Bianchi identity** is the source of conservation laws in GR. without it, Einstein's equation would not be consistent.
 
 ## the first Bianchi identity (algebraic, cyclic)
 

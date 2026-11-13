@@ -8,8 +8,8 @@ A.Y. 2025/2026 at the University of Padova. instructor: **Prof. Michela Mapelli*
 
 the official course title is **"Mathematical and Numerical Methods for Astrophysics"** and that conjunction is doing a lot of work. the course teaches *both*:
 
-1. the *mathematical* tools — linear algebra (eigenvalues, QR, Gram-Schmidt), Fourier series, finite differences, error analysis
-2. the *numerical* algorithms that implement those tools on a computer — Gauss elimination, Newton-Raphson, Runge-Kutta, Monte Carlo, FFT
+1. the *mathematical* tools, linear algebra (eigenvalues, QR, Gram-Schmidt), Fourier series, finite differences, error analysis
+2. the *numerical* algorithms that implement those tools on a computer, Gauss elimination, Newton-Raphson, Runge-Kutta, Monte Carlo, FFT
 
 the marriage is the point. every algorithm has a math-side justification (why does it converge, what is the error bound, what does it preserve) and an implementation-side incarnation (the python code that will pass the exam).
 
@@ -40,18 +40,18 @@ so the syllabus is a dependency graph. the order in [[Mathematical_Numerical_Met
 
 ## reference texts
 
-- **Mapelli**, *Numerical Methods for Astrophysics* — the actual course notes. I read them lecture by lecture
-- **Newman**, *Computational Physics* — the textbook the notes are based on; deeper treatments
-- **Kiusalaas**, *Numerical Methods in Engineering with Python* — second textbook the notes lean on, more code
-- **Press, Teukolsky, Vetterling, Flannery**, *Numerical Recipes* — the encyclopedic reference
-- **Strang**, *Linear Algebra and Its Applications* — when I need linear algebra intuition
-- **Axler**, *Linear Algebra Done Right* (PDF in source folder) — proofs-first companion
+- **Mapelli**, *Numerical Methods for Astrophysics* - the actual course notes. I read them lecture by lecture
+- **Newman**, *Computational Physics* - the textbook the notes are based on. Deeper treatments
+- **Kiusalaas**, *Numerical Methods in Engineering with Python* - second textbook the notes lean on, more code
+- **Press, Teukolsky, Vetterling, Flannery**, *Numerical Recipes* - the encyclopedic reference
+- **Strang**, *Linear Algebra and Its Applications* - when I need linear algebra intuition
+- **Axler**, *Linear Algebra Done Right* (PDF in source folder) - proofs-first companion
 
 ## see also
 
-- [[Mathematical_Numerical_Methods_MOC]] — the map
-- [[Math Numerical Methods exam rules]] — exam format
-- [[Numerical problem solving workflow]] — the meta-recipe
+- [[Mathematical_Numerical_Methods_MOC]] - the map
+- [[Math Numerical Methods exam rules]] - exam format
+- [[Numerical problem solving workflow]] - the meta-recipe
 
 
 

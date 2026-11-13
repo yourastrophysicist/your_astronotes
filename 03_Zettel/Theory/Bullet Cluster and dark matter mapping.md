@@ -83,7 +83,7 @@ In rich galaxy clusters, the inventory of baryonic mass is quantitatively known 
 - Hot intracluster X-ray plasma accounts for approximately $85\%$ to $90\%$ of the baryonic mass.
 - Cold neutral and molecular gas is negligible ($< 1\%$).
 
-Therefore, in the Bullet Cluster, the vast majority of baryonic matter resides in the X-ray gas clouds sitting in the center.
+Therefore, in the Bullet Cluster, the Vast majority of baryonic matter resides in the X-ray gas clouds sitting in the center.
 
 ### The Modified Gravity Prediction vs Observation
 In any modified gravity theory where dark matter particles do not exist (including standard Milgrom MOND, Bekenstein's relativistic TeVeS, or Moffat's MOG), the gravitational potential is governed by the distribution of visible baryonic matter via a modified Poisson equation

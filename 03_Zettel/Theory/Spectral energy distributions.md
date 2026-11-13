@@ -2,7 +2,7 @@
 layout: "default"
 title: "Spectral energy distributions"
 ---
-in distant galaxies, telescopes cannot resolve individual stars: we only observe the integrated, composite light of billions of stars blended together. **Stellar Population Synthesis (SPS)** is the powerful theoretical and computational framework that allows astronomers to reconstruct the physical properties of distant galaxies—their **stellar mass $M_*$**, **star formation rate (SFR)**, **mean age**, **metallicity $Z$**, and **dust extinction $A_V$**—by modeling their **Spectral Energy Distributions (SEDs)**.
+in distant galaxies, telescopes cannot resolve individual stars: we only observe the integrated, composite light of billions of stars blended together. **Stellar Population Synthesis (SPS)** is the useful theoretical and computational framework that allows astronomers to reconstruct the physical properties of distant galaxies, their **stellar mass $M_*$**, **star formation rate (SFR)**, **mean age**, **metallicity $Z$**, and **dust extinction $A_V$**, by modeling their **Spectral Energy Distributions (SEDs)**.
 
 ![galaxies-47.png](../../assets/images/galaxies-47.png)
 
@@ -29,7 +29,7 @@ $$\xi(M) \equiv \frac{dN}{dM}$$
 
 ![galaxies-51.png](../../assets/images/galaxies-51.png)
 
-### standard IMF formulations:
+### standard IMF formulations
 1. **Salpeter IMF (1955)**:
    a single power law across all stellar masses ($0.1 M_\odot \le M \le 100 M_\odot$):
    $$\xi(M) \propto M^{-\alpha}, \qquad \alpha = 2.35$$
@@ -55,7 +55,7 @@ a **Simple Stellar Population (SSP)** is an idealized single-burst stellar popul
 
 ![galaxies-53.png](../../assets/images/galaxies-53.png)
 
-### constructing an SSP:
+### constructing an SSP
 1. take theoretical stellar evolutionary tracks (isochrones, e.g. PARSEC, Padova, MIST) giving $(L, T_{\text{eff}}, \log g)$ as a function of initial mass $M$ at age $t$.
 2. assign to each point on the isochrone a synthetic or empirical stellar spectrum $\ell_\lambda(T_{\text{eff}}, \log g, Z)$ from stellar spectral libraries (e.g. BaSeL, MILES).
 3. integrate across the IMF:
@@ -65,10 +65,10 @@ a **Simple Stellar Population (SSP)** is an idealized single-burst stellar popul
 
 ![galaxies-55.png](../../assets/images/galaxies-55.png)
 
-### spectral evolution of an SSP:
-- **at young ages ($t < 10$ Myr)**: dominated by hot O and B stars; spectrum is extremely blue and luminous in the ultraviolet.
-- **at intermediate ages ($t \sim 100$ Myr $- 1$ Gyr)**: O and B stars have died; A and F stars dominate, producing a prominent **Balmer jump at $364.6$ nm**.
-- **at ancient ages ($t > 5$ Gyr)**: only stars with $M \le 1 M_\odot$ survive; light is dominated by cool K/M red giants; spectrum develops a strong **$4000$ Å break ($D_{4000}$)** caused by heavy metal absorption lines (Fe, Ca) in cool stellar atmospheres.
+### spectral evolution of an SSP
+- **at young ages ($t < 10$ Myr)**: dominated by hot O and B stars. spectrum is extremely blue and luminous in the ultraviolet.
+- **at intermediate ages ($t \sim 100$ Myr $- 1$ Gyr)**: O and B stars have died. A and F stars dominate, producing a prominent **Balmer jump at $364.6$ nm**.
+- **at ancient ages ($t > 5$ Gyr)**: only stars with $M \le 1 M_\odot$ survive. light is dominated by cool K/M red giants. spectrum develops a strong **$4000$ Å break ($D_{4000}$)** caused by heavy metal absorption lines (Fe, Ca) in cool stellar atmospheres.
 
 ![galaxies-56.png](../../assets/images/galaxies-56.png)
 
@@ -82,7 +82,7 @@ $$L_\lambda^{\text{gal}}(t) = \int_0^t \text{SFR}(t') \, L_\lambda^{\text{SSP}}(
 
 ![galaxies-57.png](../../assets/images/galaxies-57.png)
 
-### standard parameterized Star Formation Histories $\text{SFR}(t)$:
+### standard parameterized Star Formation Histories $\text{SFR}(t)$
 - **exponentially declining ($\tau$-models)**: $\text{SFR}(t) = \text{SFR}_0 \, e^{-t/\tau}$. with small $\tau \sim 0.5-1$ Gyr, reproduces passive early-type galaxies.
 - **constant SFR**: $\text{SFR}(t) = \text{constant}$, characteristic of late-type star-forming spirals.
 - **delayed-burst / rising models**: $\text{SFR}(t) \propto t \, e^{-t/\tau}$, typical of high-redshift galaxies growing rapidly.
@@ -101,7 +101,7 @@ interstellar dust absorbs UV and optical photons and re-emits them in the infrar
 
 ![galaxies-61.png](../../assets/images/galaxies-61.png)
 
-### SED fitting with multi-band photometry:
+### SED fitting with multi-band photometry
 astronomers observe galaxies through calibrated filter sets spanning from UV to near-infrared (e.g. $u, g, r, i, z, J, H, K_s$).
 synthetic models project the synthetic SED through the filter response functions $S_i(\lambda)$:
 $$F_i^{\text{model}} = \frac{\int L_\lambda^{\text{gal}} \, S_i(\lambda) \, d\lambda}{4\pi d_L^2 \int S_i(\lambda) \, d\lambda}$$
@@ -116,12 +116,12 @@ using $\chi^2$ minimization or Markov Chain Monte Carlo (MCMC) Bayesian inferenc
 
 ---
 
-## SED extremes: normal galaxies vs ULIRGs
+## SED extremes - normal galaxies vs ULIRGs
 
 ![galaxies-63.png](../../assets/images/galaxies-63.png)
 
 - **normal spirals**: roughly balanced energy budget between direct optical starlight and infrared dust emission.
-- **Ultra-Luminous Infrared Galaxies (ULIRGs)**: defined by $L_{\text{IR}}(8-1000\,\mu\text{m}) > 10^{12} L_\odot$. triggered by violent major mergers (e.g. Arp 220); extreme nuclear starbursts are completely smothered in dense dust clouds: **over $99\%$ of their total bolometric luminosity emerges in the far-infrared!**
+- **Ultra-Luminous Infrared Galaxies (ULIRGs)**: defined by $L_{\text{IR}}(8-1000\,\mu\text{m}) > 10^{12} L_\odot$. triggered by violent major mergers (e.g. Arp 220). Extreme nuclear starbursts are completely smothered in dense dust clouds: **over $99\%$ of their total bolometric luminosity emerges in the far-infrared!**
 
 ---
 
@@ -134,6 +134,12 @@ measuring optical emission line ratios isolates the ionizing mechanism powering 
 ![galaxies-64.png](../../assets/images/galaxies-64.png)
 
 ---
+
+## where it goes wrong
+
+- $\nu L_\nu$ shows where the energy is. $L_\nu$ alone does not.
+- the peak of the dust emission gives the dust temperature only if the emissivity is known.
+- an AGN can dominate the mid infrared and look like star formation.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

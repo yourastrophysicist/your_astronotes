@@ -55,7 +55,7 @@ the joint pattern (Na up, Al up, Mg down, O down, C down, N up, He up, Fe consta
 
 ## the carretta-gratton legacy
 
-eugenio carretta + raffaele gratton + their collaborators (bragaglia, lucatello, d'orazi) ran the FLAMES@VLT survey of ~2500 RGB stars in 19 galactic GCs (carretta et al. 2009 a,b,c, 2010). they showed Na-O is universal, quantified its extension, + introduced the IQR[O/Na] as a cluster-level statistic that correlates with cluster mass + helium spread. this is one of the foundational data sets of modern GC astrophysics.
+eugenio carretta + raffaele gratton + their collaborators (bragaglia, lucatello, d'orazi) ran the FLAMES@VLT survey of ~2500 RGB stars in 19 galactic GCs (carretta et al. 2009 a,b,c, 2010). they showed Na-O is universal, quantified its extension, + introduced the IQR[O/Na] as a cluster-level statistic that correlates with cluster mass + helium spread. this is one of the data sets of modern GC astrophysics.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

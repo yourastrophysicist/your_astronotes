@@ -2,7 +2,7 @@
 layout: "default"
 title: "Blue straggler formation channels"
 ---
-[[Blue stragglers in star clusters\|blue stragglers]] cannot be made by single-star evolution; they need to acquire mass after the cluster formed. three main channels are discussed, and the relative contribution depends strongly on the cluster's local stellar density.
+[[Blue stragglers in star clusters\|blue stragglers]] cannot be made by single-star evolution. they need to acquire mass after the cluster formed. three main channels are discussed, and the relative contribution depends strongly on the cluster's local stellar density.
 
 **(i) stellar collisions in dense cores**
 
@@ -35,7 +35,7 @@ a tight primordial binary, hardened by magnetic braking or by tidal dissipation 
 in low-density open clusters and the haloes of GCs, channels (ii) and (iii) dominate. in dense GC cores, channel (i) becomes important. the radial distribution of BSS in many GCs (the "double-peak" found by ferraro et al. 2012) reflects this: collisional BSS sink fast to the centre, while binary BSS in the outskirts diffuse in slowly through two-body relaxation.
 
 distinguishing the channels uses:
-- rotation rate (collisions $\to$ fast; mass transfer $\to$ slow),
+- rotation rate (collisions $\to$ fast, mass transfer $\to$ slow),
 - C and O surface abundances (collisional products underabundant),
 - presence of a WD companion (mass transfer products show UV excess),
 - binary fraction of the BSS sample.

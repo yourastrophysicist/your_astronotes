@@ -8,7 +8,7 @@ classical Cepheids obey a tight relation between pulsation period and absolute l
 
 $$\boxed{\, M_V = a + b\,\log_{10} P(\text{days}) \,}$$
 
-with modern HST + Gaia + LMC EB calibrations: $b \approx -2.78$, $a \approx -1.35$. so a $10$-day Cepheid has $M_V \approx -4.1$; a $30$-day has $M_V \approx -5.5$.
+with modern HST + Gaia + LMC EB calibrations: $b \approx -2.78$, $a \approx -1.35$. so a $10$-day Cepheid has $M_V \approx -4.1$, and a $30$-day has $M_V \approx -5.5$.
 
 the Wesenheit magnitude (extinction-corrected):
 $$W = m_X - R(m_Y - m_Z)$$
@@ -30,7 +30,7 @@ three sources of zero-point:
 2. **LMC Cepheids**: $\sim 800$ classical Cepheids with NIR photometry, geometric LMC distance from eclipsing binaries (Pietrzyński 2019, $\mu_{\rm LMC} = 18.477 \pm 0.026$, $1\%$ precision).
 3. **water masers** in NGC 4258, an external galaxy with a directly-determined distance.
 
-each calibration is independent; all three agree at $\lesssim 0.05$ mag.
+each calibration is independent. all three agree at $\lesssim 0.05$ mag.
 
 ## metallicity dependence
 
@@ -60,6 +60,20 @@ this is the path to $H_0$ via the SH0ES program (Riess et al.), giving $H_0 = 73
 the $\sim 5\sigma$ disagreement with the Planck-derived $H_0 = 67.4 \pm 0.5$ km/s/Mpc is one of the major open problems in cosmology. is the local Cepheid ladder systematically high (dust corrections, blending in distant Cepheids, metallicity term)? or is there new physics in the early universe?
 
 JWST + TRGB cross-checks are testing the local-ladder hypothesis. early JWST results (Riess 2024) confirm the SH0ES Cepheid distances at $\sim 1\%$, leaning toward new physics.
+
+## worked example
+
+a Cepheid in a distant galaxy has $P = 30$ d and $\langle V\rangle = 25.0$. with $M_V = -2.43\,(\log_{10}P - 1) - 4.05$:
+
+$$M_V = -2.43 \times 0.477 - 4.05 = -5.21$$
+
+$\mu = 25.0 + 5.21 = 30.21$, so $d = 10^{(30.21 + 5)/5} = 11$ Mpc, before correcting for dust.
+
+## where it goes wrong
+
+- Type II Cepheids and RR Lyrae follow different relations. mixing them gave Hubble a distance scale wrong by a factor of two.
+- in the optical the relation depends on dust and metallicity. Wesenheit magnitudes or the infrared reduce both.
+- crowding by unresolved stars makes distant Cepheids look brighter, and the distance too short.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

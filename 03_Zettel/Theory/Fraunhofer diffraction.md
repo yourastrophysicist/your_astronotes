@@ -92,7 +92,7 @@ three reasons:
 
 ### 1. PSF is the diffraction pattern
 
-the **point spread function** (PSF) of an optical system is the Fraunhofer diffraction pattern of its aperture. Airy disk for a circular aperture. interferometric arrays have *much more complex* PSFs — the Fourier transform of their (u, v) coverage.
+the **point spread function** (PSF) of an optical system is the Fraunhofer diffraction pattern of its aperture. Airy disk for a circular aperture. interferometric arrays have *much more complex* PSFs, the Fourier transform of their (u, v) coverage.
 
 ### 2. Van Cittert-Zernike
 
@@ -106,7 +106,7 @@ so the Airy disk of the *array* contains: each telescope's diffraction-limited P
 
 ## the wave-equation perspective
 
-Fraunhofer's Fourier transform is not a coincidence; it is the *small-angle limit of free-space wave propagation*. the angular-spectrum decomposition writes any wave as a sum of plane waves, each with its own direction. the far-field is dominated by the plane wave directly toward the observation point, and the amplitudes of the contributing plane waves *are* the Fourier transform of the aperture amplitude.
+Fraunhofer's Fourier transform is not a coincidence. It is the *small-angle limit of free-space wave propagation*. the angular-spectrum decomposition writes any wave as a sum of plane waves, each with its own direction. the far-field is dominated by the plane wave directly toward the observation point, and the amplitudes of the contributing plane waves *are* the Fourier transform of the aperture amplitude.
 
 free-space propagation = Fourier transform = aperture function → diffraction pattern. this is the deepest level on which the Fourier connection lives.
 

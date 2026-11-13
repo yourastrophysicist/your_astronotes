@@ -24,7 +24,7 @@ minimized when $g \propto \lvert f\rvert$ (the optimal $g^*(x) = \lvert f(x)\rve
 
 ## when the variance gets *worse*
 
-if $g$ is small where $f$ is large, the ratio $f/g$ has heavy tails, and rare large samples dominate. variance can blow up — possibly even infinite if $\int f^2/g$ diverges.
+if $g$ is small where $f$ is large, the ratio $f/g$ has heavy tails, and rare large samples dominate. variance can blow up, possibly even infinite if $\int f^2/g$ diverges.
 
 **rule of thumb**: $g$ must have at least the tail behavior of $f$, never thinner. if $f$ is Gaussian and $g$ is also Gaussian but narrower, the importance sampler is broken.
 
@@ -38,7 +38,7 @@ def importance_sample(f, g_sampler, g_pdf, N):
     return np.mean(weights), np.std(weights) / np.sqrt(N)
 ```
 
-## an example: the standard MC vs IS comparison
+## an example - the standard MC vs IS comparison
 
 integrate $f(x) = e^{-x^2/2}$ over $[0, 5]$.
 
@@ -57,7 +57,7 @@ the speedup factor is the ratio of variances, often $10^2$ to $10^4$ in practica
 ## connection to other sampling methods
 
 - **inverse transform sampling** is importance sampling with $g = f$ exactly, so weights are 1. this is what we do whenever we can invert the CDF
-- **rejection sampling** uses an envelope $M g(x) \geq f(x)$ and accepts/rejects. importance sampling weights instead. neither dominates the other; rejection has a sharper probabilistic interpretation, IS has a smoother estimator
+- **rejection sampling** uses an envelope $M g(x) \geq f(x)$ and accepts/rejects. importance sampling weights instead. neither dominates the other. rejection has a sharper probabilistic interpretation, IS has a smoother estimator
 - **Markov-chain Monte Carlo (MCMC)** is sequential importance sampling, where the proposal $g$ at step $i$ depends on the position at step $i-1$
 
 ## the "effective sample size" diagnostic
@@ -66,7 +66,7 @@ after IS, not all weighted samples are equally informative. the effective sample
 
 $$N_{\rm eff} = \frac{(\sum w_i)^2}{\sum w_i^2}$$
 
-if a few samples dominate the weights, $N_{\rm eff} \ll N$ and the estimator has effectively used few samples. always check $N_{\rm eff}/N$; if it is < 0.1, the choice of $g$ is bad.
+if a few samples dominate the weights, $N_{\rm eff} \ll N$ and the estimator has effectively used few samples. always check $N_{\rm eff}/N$. if it is < 0.1, the choice of $g$ is bad.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

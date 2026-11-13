@@ -11,7 +11,7 @@ two test masses, $A$ and $B$, separated by a small spatial vector $\xi^\mu$. bot
 geodesic deviation equation:
 $$\frac{D^2\xi^i}{D\tau^2} = -R^i{}_{0j0}\,\xi^j$$
 
-(equatorial slice; only the spatial parts of Riemann matter for slow test masses.)
+(equatorial slice, only the spatial parts of Riemann matter for slow test masses.)
 
 ## linearised Riemann
 
@@ -38,13 +38,13 @@ this is the **strain**, the observable in GW detectors.
 LIGO has two perpendicular arms of length $L \approx 4$ km. a GW with $h^{TT}$ produces a differential arm-length change:
 $$\Delta L_x - \Delta L_y \approx \tfrac{1}{2}(h_{xx}^{TT} - h_{yy}^{TT}) L = h_+(t) \cdot L$$
 
-(for $h_+$ polarisation alone; $h_\times$ would be picked up by arms at $45°$).
+(for $h_+$ polarisation alone, $h_\times$ would be picked up by arms at $45°$).
 
 measured via Michelson interferometry: the output light intensity depends on the relative arm length, sensitive to $\Delta L \sim 10^{-18}$ m for typical $h \sim 10^{-21}$ and $L = 4$ km.
 
 GW150914 (first LIGO detection): $h \sim 10^{-21}$ at peak, signal duration $\sim 0.2$ s, energy $\sim 3 M_\odot c^2$ radiated in GW.
 
-## the picture: ring of test masses
+## the picture - ring of test masses
 
 if you arrange test masses in a circle in the $xy$-plane, a passing $h_+$ wave (propagating along $z$) makes the ring oscillate as an ellipse: stretched along $x$ + squeezed along $y$ at one phase, reversed half a period later.
 

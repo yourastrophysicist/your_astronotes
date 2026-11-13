@@ -23,9 +23,9 @@ $$V_{ij,\rm meas} = g_i \, g_j^* \, V_{ij,\rm true}$$
 
 where $g_i$ is the (complex) per-antenna gain (amplitude + phase). this is the **station-based gain** model.
 
-if I knew $V_{ij,\rm true}$ exactly, I could solve for the $g_i$ from the $V_{ij,\rm meas}$ data — a simple least-squares fit per antenna.
+if I knew $V_{ij,\rm true}$ exactly, I could solve for the $g_i$ from the $V_{ij,\rm meas}$ data, a simple least-squares fit per antenna.
 
-I don't know $V_{ij,\rm true}$ exactly — that's what I'm trying to recover. but I have a *CLEAN model* of the source from the previous iteration's image. compute the *predicted* visibilities from this model, use them as the "true" values in the gain solver.
+I don't know $V_{ij,\rm true}$ exactly. That's what I'm trying to recover. but I have a *CLEAN model* of the source from the previous iteration's image. compute the *predicted* visibilities from this model, use them as the "true" values in the gain solver.
 
 ## the iteration
 
@@ -53,7 +53,7 @@ dynamic range improvement: ~10-100× over phase-referenced data alone.
 
 self-cal *assumes* the CLEAN model is approximately correct. the gain corrections found are gains that make the data consistent with the model.
 
-so the *initial* CLEAN must be good enough to identify the source's main structure. for a faint source where the initial CLEAN doesn't cleanly find the source, self-cal can converge to a *wrong* model — recovering "the source you assumed" rather than the truth.
+so the *initial* CLEAN must be good enough to identify the source's main structure. for a faint source where the initial CLEAN doesn't cleanly find the source, self-cal can converge to a *wrong* model, recovering "the source you assumed" rather than the truth.
 
 ## phase-only vs amplitude-and-phase
 
@@ -61,7 +61,7 @@ two modes:
 
 ### phase-only self-cal
 
-solve only for $\arg(g_i)$ — the phase. doesn't change visibility amplitudes. used in early iterations or when amplitudes are well-calibrated.
+solve only for $\arg(g_i)$, the phase. doesn't change visibility amplitudes. used in early iterations or when amplitudes are well-calibrated.
 
 ### amplitude-and-phase
 
@@ -90,7 +90,7 @@ if the source is too faint to detect on individual baselines per integration tim
 
 ### 2. uniform extended emission
 
-a perfectly uniform source has visibility = constant — no spatial information to solve gains. self-cal stalls. real sources are never perfectly uniform, so this limit is rarely hit.
+a perfectly uniform source has visibility = constant, no spatial information to solve gains. self-cal stalls. real sources are never perfectly uniform, so this limit is rarely hit.
 
 ### 3. wrong initial model
 

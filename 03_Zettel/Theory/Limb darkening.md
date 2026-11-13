@@ -45,7 +45,7 @@ an exoplanet transiting its host star occults different parts of the limb darken
 
 ### interferometric stellar diameters
 
-interferometric measurements of stellar angular diameters depend on the limb-darkening law. uniform-disk model gives one diameter; limb-darkened model gives a slightly larger one. modern instruments (CHARA, VLTI) include limb-darkening corrections at the $1\%$ level.
+interferometric measurements of stellar angular diameters depend on the limb-darkening law. uniform-disk model gives one diameter. limb-darkened model gives a slightly larger one. modern instruments (CHARA, VLTI) include limb-darkening corrections at the $1\%$ level.
 
 ### eclipsing binaries
 
@@ -55,15 +55,15 @@ precise stellar masses and radii from EBs need limb-darkening for the light-curv
 
 direct imaging of stellar surfaces (TRAPPIST imaging, VLT/AMBER on Betelgeuse) shows limb darkening directly: a smooth gradient from disk centre to edge.
 
-## inversion: probing $T(\tau)$
+## inversion - probing $T(\tau)$
 
 since $I(\mu) = S(\tau = \mu)$ at LTE, observing $I(\mu)$ vs $\mu$ at multiple wavelengths lets you **reconstruct $S(\tau)$ throughout the photosphere**. this is how solar atmospheric models were calibrated.
 
-high-resolution full-disk solar spectra at multiple $\mu$ are routinely used for solar abundances; the same technique is being applied to interferometrically resolved bright stars.
+high-resolution full-disk solar spectra at multiple $\mu$ are routinely used for solar abundances. the same technique is being applied to interferometrically resolved bright stars.
 
 ## in cool giants and supergiants
 
-in extended atmospheres (Betelgeuse, R Doradus), the plane-parallel approximation fails. the limb is **brighter** than expected near the limb because the line of sight stays in cool dust-forming layers longer; sometimes "limb brightening" is observed.
+in extended atmospheres (Betelgeuse, R Doradus), the plane-parallel approximation fails. the limb is **brighter** than expected near the limb because the line of sight stays in cool dust-forming layers longer. sometimes "limb brightening" is observed.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -84,7 +84,7 @@ in extended atmospheres (Betelgeuse, R Doradus), the plane-parallel approximatio
 - [[Stellar atmosphere structure]]
 - [[Equation of radiative transfer]]
 - [[Bolometric correction and effective temperature]]
-- [[Type Ia supernovae as standard candles]] — uses transit-like analysis
+- [[Type Ia supernovae as standard candles]] - uses transit-like analysis
 
 
 

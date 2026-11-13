@@ -33,6 +33,10 @@ galaxies separate into distinct branches:
    - **Seyferts**: high $[\text{O III}] / \text{H}\beta$ and high $[\text{N II}] / \text{H}\alpha$.
    - **LINERs (Low-Ionization Nuclear Emission-line Regions)**: low $[\text{O III}] / \text{H}\beta$, high $[\text{N II}] / \text{H}\alpha$, excited by low-luminosity AGN or post-AGB stellar populations.
 
+## where it goes wrong
+
+- shocks and old stars (LINERs) can also produce AGN-like ratios.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

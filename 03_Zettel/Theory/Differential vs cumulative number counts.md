@@ -34,7 +34,11 @@ so the differential count has the *same* slope $0.6$ in $\log dN/dm$ vs $m$. sim
 
 ## reading bethermin 2010
 
-Bethermin et al. 2010 plot $S^{2.5}\, dN/dS$ at 24 μm and 70 μm. the curve is *not* flat: it rises by an order of magnitude from $S \sim 10^{-1}$ mJy to a peak around $S \sim 1$ mJy, then falls. the rise is the contribution of the $z \sim 1$–$2$ luminous infrared galaxy (LIRG) population, the peak corresponds to the resolved limit of Spitzer, and the fall is the convolution of the LF with cosmic geometry.
+Bethermin et al. 2010 plot $S^{2.5}\, dN/dS$ at 24 μm and 70 μm. the curve is *not* flat: it rises by an order of magnitude from $S \sim 10^{-1}$ mJy to a peak around $S \sim 1$ mJy, then falls. the rise is the contribution of the $z \sim 1$ to $2$ luminous infrared galaxy (LIRG) population, the peak corresponds to the resolved limit of Spitzer, and the fall is the convolution of the LF with cosmic geometry.
+
+## where it goes wrong
+
+- cumulative counts have correlated errors between bins. fits should use differential counts.
 
 ## connections
 

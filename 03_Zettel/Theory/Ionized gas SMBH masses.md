@@ -152,7 +152,7 @@ Blackboard presentation notes
       -0.4        -0.2         0.0        +0.2        +0.4   Slit Position (arcsec)
 ```
 
-Key quantitative takeaways for the blackboard
+Key quantitative points for the blackboard
 - Intrinsic gas dispersion is low ($\sigma_g \sim 30 - 50 \text{ km s}^{-1}$, cold disk).
 - Spatial beam smearing across the central PSF blends approaching and receding Keplerian velocities, creating an artificial observed central dispersion spike of $\sim 300 - 400 \text{ km s}^{-1}$.
 

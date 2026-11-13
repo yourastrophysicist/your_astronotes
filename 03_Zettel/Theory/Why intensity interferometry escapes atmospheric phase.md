@@ -4,7 +4,7 @@ title: "Why intensity interferometry escapes atmospheric phase"
 ---
 # Why intensity interferometry escapes atmospheric phase
 
-the fundamental advantage of HBT-style intensity interferometry over amplitude interferometry. the atmospheric phase corruption that plagues optical interferometry is **completely irrelevant** for intensity measurements. understanding why is the key insight.
+the fundamental advantage of HBT-style intensity interferometry over amplitude interferometry. the atmospheric phase corruption that plagues optical interferometry is **completely irrelevant** for intensity measurements. understanding why is the main point.
 
 ## the math
 
@@ -32,7 +32,7 @@ $$I_i = \lvert E_{i, \rm meas}\rvert^2 = \lvert E_{i, \rm source}\rvert^2 \cdot 
 so when we compute the intensity correlation:
 $$C_{12} = \langle I_1 I_2 \rangle - \langle I_1 \rangle \langle I_2 \rangle$$
 
-the result depends only on source-side properties — specifically, on the modulus squared of the source's spatial coherence:
+the result depends only on source-side properties, specifically, on the modulus squared of the source's spatial coherence:
 $$C_{12} \propto \lvert \gamma_{\rm source}^{(1)}(\mathbf B)\rvert^2$$
 
 **the atmosphere is gone**. measuring $C_{12}$ at multiple baselines traces $\lvert \gamma\rvert^2$ vs $\mathbf B$, recovering source structure exactly as amplitude interferometry would, but without phase-stability requirements.
@@ -43,11 +43,11 @@ think of a bright star. each telescope sees:
 - a slowly-varying mean intensity
 - rapid fluctuations from photon bunching (spatial coherence) and atmospheric scintillation
 
-the photon-bunching fluctuations are *correlated* between two telescopes within the coherence area; the scintillation fluctuations are *not* (atmosphere is different at the two telescopes).
+the photon-bunching fluctuations are *correlated* between two telescopes within the coherence area. the scintillation fluctuations are *not* (atmosphere is different at the two telescopes).
 
 so when I cross-correlate the intensities, the bunching contribution survives (correlated), the scintillation contribution averages out (uncorrelated). the residual is the bunching-induced HBT signal.
 
-## the key requirement: bandwidth and timing
+## the key requirement - bandwidth and timing
 
 intensity interferometry doesn't need optical-phase stability, but it *does* need:
 
@@ -65,13 +65,13 @@ intensity interferometry pays a steep price for atmospheric immunity:
 amplitude interferometry: SNR $\propto V \cdot \sqrt{N_{\rm photons}}$
 intensity interferometry: SNR $\propto V^2 \cdot N_{\rm photons}/\sqrt{\Delta\nu \tau}$
 
-for a fully-resolved source ($V = 0.1$): amplitude needs $100\times$ more photons; intensity needs $10000\times$ more. the difference compounds.
+for a fully-resolved source ($V = 0.1$): amplitude needs $100\times$ more photons. intensity needs $10000\times$ more. the difference compounds.
 
 so intensity interferometry is restricted to **bright stars** ($V < 6$ or so).
 
 ### 2. only $\lvert V\rvert^2$
 
-the intensity correlation gives the *squared modulus* of the visibility. phase information is lost — there's a parity ambiguity, just like basic speckle interferometry.
+the intensity correlation gives the *squared modulus* of the visibility. phase information is lost. there's a parity ambiguity, just like basic speckle interferometry.
 
 ### 3. broadband detection
 

@@ -11,7 +11,7 @@ in unresolved stellar populations, individual stars cannot be counted. The **sta
 #### 1. ultraviolet stellar continuum (unobscured star formation)
 - **physical origin**: non-ionizing continuum ($1500\text{--}2800$ Å) radiated directly by the photospheres of hot O, B, and early A main-sequence stars ($M \gtrsim 3\text{--}5\,M_\odot$).
 - **timescale**: $\tau \approx 10\text{--}100$ Myr, reaching a steady state after $\sim 100$ Myr of continuous star formation.
-- **calibration (Kennicutt 1998; Madau & Dickinson 2014)**:
+- **calibration (Kennicutt 1998, Madau & Dickinson 2014)**:
   $$\mathrm{SFR}_{\rm UV} [M_\odot/\mathrm{yr}] = 1.4 \times 10^{-28} L_\nu(\mathrm{UV})\,[\mathrm{erg\,s^{-1}\,Hz^{-1}}] \quad (\mathrm{Salpeter\ IMF})$$
   $$\mathrm{SFR}_{\rm UV} [M_\odot/\mathrm{yr}] = 0.88 \times 10^{-28} L_\nu(\mathrm{UV})\,[\mathrm{erg\,s^{-1}\,Hz^{-1}}] \quad (\mathrm{Chabrier\ IMF})$$
 - **dust sensitivity**: extremely severe. Interstellar dust grains attenuate UV flux by $A_{1500} \approx 2.5\text{--}4.5 \times A_V$. Uncorrected UV fluxes systematically underestimate the true SFR by factors of $3\text{--}50$.
@@ -19,7 +19,7 @@ in unresolved stellar populations, individual stars cannot be counted. The **sta
 #### 2. $\mathrm{H}\alpha$ recombination line (instantaneous ionized star formation)
 - **physical origin**: ionizing photons ($h\nu \ge 13.6$ eV, $\lambda \le 912$ Å) produced by very massive, short-lived O and early B stars ($M \ge 15\text{--}20\,M_\odot$) photoionize surrounding H II regions. Under Case B recombination, hydrogen atoms cascade down to the $n = 2$ state, emitting the $\mathrm{H}\alpha$ line at $\lambda = 6563$ Å.
 - **timescale**: $\tau \le 10$ Myr, tracking the instantaneous star formation rate.
-- **calibration (Kennicutt 1998; Hao et al. 2011)**:
+- **calibration (Kennicutt 1998, Hao et al. 2011)**:
   $$\mathrm{SFR}_{\mathrm{H}\alpha} [M_\odot/\mathrm{yr}] = 7.9 \times 10^{-42} L(\mathrm{H}\alpha)\,[\mathrm{erg\,s^{-1}}] \quad (\mathrm{Salpeter\ IMF})$$
   $$\mathrm{SFR}_{\mathrm{H}\alpha} [M_\odot/\mathrm{yr}] = 4.4 \times 10^{-42} L(\mathrm{H}\alpha)\,[\mathrm{erg\,s^{-1}}] \quad (\mathrm{Chabrier\ IMF})$$
 - **dust correction**: determined spectroscopically from the **Balmer decrement** ($(\mathrm{H}\alpha/\mathrm{H}\beta)_{\rm obs}$ relative to Case B intrinsic value $2.86$).
@@ -27,14 +27,14 @@ in unresolved stellar populations, individual stars cannot be counted. The **sta
 #### 3. total infrared thermal emission (obscured star formation)
 - **physical origin**: UV and optical starlight absorbed by interstellar dust grains is thermally re-emitted in the mid- and far-infrared ($8\text{--}1000\,\mu\mathrm{m}$) at equilibrium temperatures $T_{\rm dust} \approx 20\text{--}60$ K.
 - **timescale**: $\tau \approx 10\text{--}100$ Myr.
-- **calibration (Kennicutt 1998; Murphy et al. 2011)**:
+- **calibration (Kennicutt 1998, Murphy et al. 2011)**:
   $$\mathrm{SFR}_{\rm IR} [M_\odot/\mathrm{yr}] = 4.5 \times 10^{-44} L_{\rm TIR}\,[\mathrm{erg\,s^{-1}}] \quad (\mathrm{Salpeter\ IMF})$$
   $$\mathrm{SFR}_{\rm IR} [M_\odot/\mathrm{yr}] = 2.8 \times 10^{-44} L_{\rm TIR}\,[\mathrm{erg\,s^{-1}}] \quad (\mathrm{Chabrier\ IMF})$$
-- **dust sensitivity**: virtually immune to optical depth effects; directly captures obscured starbursts where $\gtrsim 99\%$ of star formation is hidden from UV/optical view (e.g., LIRGs and ULIRGs).
+- **dust sensitivity**: virtually immune to optical depth effects. directly captures obscured starbursts where $\gtrsim 99\%$ of star formation is hidden from UV/optical view (e.g., LIRGs and ULIRGs).
 
 ---
 
-### the panchromatic energy balance: UV + IR hybrid tracer
+### the panchromatic energy balance - UV + IR hybrid tracer
 
 because neither UV nor IR alone provides a complete inventory of star formation in normal star-forming galaxies, the most robust, model-independent estimator is the direct linear sum of the unobscured UV and obscured IR star formation:
 
@@ -50,7 +50,7 @@ this formulation enforces global energy conservation: every UV photon emitted by
 ### secondary and high-redshift SFR tracers
 
 - **$[\mathrm{O\,II}]\,\lambda 3727$ doublet**: collisionally excited nebular forbidden line. While metallicity- and excitation-dependent, it is the primary optical tracer for ground-based surveys at $1.2 \le z \le 1.6$ (the "redshift desert") where $\mathrm{H}\alpha$ shifts into the near-infrared.
-- **$1.4$ GHz radio continuum**: non-thermal synchrotron radiation from relativistic electrons accelerated in core-collapse supernova remnants, plus thermal free-free emission from H II regions. Completely unaffected by dust; calibrated via the tight empirical **far-IR / radio correlation** (Helou 1985; Yun et al. 2001).
+- **$1.4$ GHz radio continuum**: non-thermal synchrotron radiation from relativistic electrons accelerated in core-collapse supernova remnants, plus thermal free-free emission from H II regions. Completely unaffected by dust. calibrated via the tight empirical **far-IR / radio correlation** (Helou 1985, Yun et al. 2001).
 - **high-mass X-ray binaries (HMXBs)**: accretion onto neutron stars and black holes with massive O/B stellar companions emits hard X-rays ($2\text{--}10$ keV) on timescales $\sim 5\text{--}20$ Myr ($L_X \propto \mathrm{SFR}$).
 - **far-infrared fine-structure lines ($[\mathrm{C\,II}]\,158\,\mu\mathrm{m}$, $[\mathrm{O\,III}]\,88\,\mu\mathrm{m}$)**: dominant cooling lines of the neutral and ionized ISM, observed by ALMA up to $z > 7$.
 
@@ -60,9 +60,9 @@ this formulation enforces global energy conservation: every UV photon emitted by
 
 | tracer | characteristic timescale | dust sensitivity | primary systematic limitation | optimal observational regime |
 |---|---|---|---|---|
-| **$\mathrm{H}\alpha$** | $< 10$ Myr | Medium ($A_{\mathrm{H}\alpha} \approx 0.8 A_V$) | Underlying stellar absorption; $[N II]$ blend | Local Universe, JWST NIRSpec at $z \le 7$ |
+| **$\mathrm{H}\alpha$** | $< 10$ Myr | Medium ($A_{\mathrm{H}\alpha} \approx 0.8 A_V$) | Underlying stellar absorption, $[N II]$ blend | Local Universe, JWST NIRSpec at $z \le 7$ |
 | **UV ($1500$ Å)** | $\sim 10\text{--}100$ Myr | High ($A_{\rm UV} \approx 3\text{--}4 A_V$) | Extreme extinction uncertainty | Unobscured starbursts, LBGs at $z \ge 2$ |
-| **TIR ($8\text{--}1000\,\mu\mathrm{m}$)** | $\sim 10\text{--}100$ Myr | Inverted (requires dust) | Dust heating by old stars ("cirrus"); AGN | LIRGs, ULIRGs, dusty spirals |
+| **TIR ($8\text{--}1000\,\mu\mathrm{m}$)** | $\sim 10\text{--}100$ Myr | Inverted (requires dust) | Dust heating by old stars ("cirrus"), AGN | LIRGs, ULIRGs, dusty spirals |
 | **UV + IR** | $\sim 10\text{--}100$ Myr | Self-consistent | Requires panchromatic coverage | Benchmark single-galaxy measurements |
 | **Radio ($1.4$ GHz)** | $\sim 100$ Myr | None | AGN synchrotron contamination | Obscured high-$z$ star formation |
 | **$[\mathrm{O\,II}]\,\lambda 3727$** | $< 10$ Myr | Medium | Strong metallicity and ionization dependence | Redshift desert ($1.2 < z < 1.6$) |
@@ -77,6 +77,22 @@ $$\log_{10} \mathrm{SFR}_{\rm Chabrier} = \log_{10} \mathrm{SFR}_{\rm Salpeter} 
 $$\log_{10} \mathrm{SFR}_{\rm Kroupa} = \log_{10} \mathrm{SFR}_{\rm Salpeter} - 0.20$$
 
 ---
+
+## worked example
+
+the Kennicutt (1998) calibrations, for a Salpeter mass function:
+
+- H$\alpha$: $\mathrm{SFR} = 7.9 \times 10^{-42}\,L_{\mathrm{H}\alpha}$ [erg/s]. $L = 10^{42}$ gives $7.9\,M_\odot$/yr
+- ultraviolet: $\mathrm{SFR} = 1.4 \times 10^{-28}\,L_\nu$ [erg/s/Hz]. $L_\nu = 10^{29}$ gives $14\,M_\odot$/yr
+- infrared: $\mathrm{SFR} = 4.5 \times 10^{-44}\,L_{\rm IR}$ [erg/s]. $L_{\rm IR} = 10^{11}\,L_\odot$ gives $17\,M_\odot$/yr
+
+for a Chabrier mass function all three are divided by about 1.6.
+
+## where it goes wrong
+
+- each tracer averages over a different time. about 10 Myr for H$\alpha$, about 100 Myr for the ultraviolet.
+- the calibrations assume a constant rate over that time. after a burst or a sudden stop they are wrong.
+- every one of them assumes a mass function, because only the massive stars are seen.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

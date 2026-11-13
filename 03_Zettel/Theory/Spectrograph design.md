@@ -14,7 +14,7 @@ light path:
 5. **camera** (focal length $f_{\rm cam}$, diameter $D_{\rm cam}$) refocuses the dispersed beam.
 6. **detector** (CCD) records the image of the slit at each wavelength as a 2D image.
 
-the result on the CCD: along one axis, **wavelength** ($\propto x$); along the orthogonal axis, **spatial position along the slit** ($\propto y$).
+the result on the CCD: along one axis, **wavelength** ($\propto x$). along the orthogonal axis, **spatial position along the slit** ($\propto y$).
 
 ## key parameters per element
 
@@ -22,7 +22,7 @@ the result on the CCD: along one axis, **wavelength** ($\propto x$); along the o
 - **collimator focal length** $f_{\rm coll}$: fixed by mechanical layout. typical $\sim 200$ to $500$ mm.
 - **collimator beam size** $D_{\rm coll} = f_{\rm coll}/F_{\rm tel} \cdot D_{\rm tel}$ where $F_{\rm tel} = f_{\rm tel}/D_{\rm tel}$ is the telescope focal ratio. typical $\sim 50$ to $200$ mm.
 - **grating size** $W$: the width of the illuminated grating, $\sim D_{\rm coll}$. determines $R$ via $R = \rho m W$.
-- **grating $\rho$**: lines per mm, typical $50$ to $1200$ for first-order; very high for echelle.
+- **grating $\rho$**: lines per mm, typical $50$ to $1200$ for first-order. very high for echelle.
 - **camera focal length** $f_{\rm cam}$: typical similar to or smaller than $f_{\rm coll}$.
 - **detector pixel size** $\Delta x$: typical $15\,\mu$m. pixel scale = $f_{\rm cam}^{-1}$ in radians/pixel.
 
@@ -82,7 +82,7 @@ so $\eta_{\rm tot} \approx 0.2$ to $0.3$ at peak. spectrographs are inefficient 
 - [[Wavelength calibration]]
 - [[Flux calibration]]
 - [[Spectrum reduction pipeline]]
-- [[Atmospheric seeing]] — what sets the slit width
+- [[Atmospheric seeing]] - what sets the slit width
 - [[CCD detectors and SNR]]
 
 ---

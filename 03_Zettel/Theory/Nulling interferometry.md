@@ -10,7 +10,7 @@ a technique for *suppressing* the bright on-axis source while preserving off-axi
 
 an ordinary interferometer combines beams *constructively* on-axis: the path lengths are matched, fringes appear at the source, and a bright source produces a bright signal.
 
-a **nuller** introduces a $\pi$ phase shift in one arm, so the on-axis beams combine *destructively*. the on-axis source is suppressed by orders of magnitude. but at off-axis positions where the path differences differ from $\pi$, light is *not* fully canceled — emission survives.
+a **nuller** introduces a $\pi$ phase shift in one arm, so the on-axis beams combine *destructively*. the on-axis source is suppressed by orders of magnitude. but at off-axis positions where the path differences differ from $\pi$, light is *not* fully canceled, emission survives.
 
 result: the bright central source is "nulled out" while faint surrounding features (companions, dust) are preserved.
 
@@ -37,7 +37,7 @@ a *perfect* nuller would suppress the on-axis source by infinity. real nullers a
 - spectral bandwidth (fringes wash out at large path differences)
 - atmospheric phase fluctuations
 
-practical contrast: $10^4$-$10^5$ is achievable. for finding planets at $10^{-9}$ contrast, this is far from enough — but it's a powerful first step that other techniques (coronagraphy) can build on.
+practical contrast: $10^4$-$10^5$ is achievable. for finding planets at $10^{-9}$ contrast, this is far from enough, but it's a useful first step that other techniques (coronagraphy) can build on.
 
 ## the typical instrument
 
@@ -53,7 +53,7 @@ the two arms must transmit equal amplitudes. an imbalance reduces the null depth
 
 ### 3. broadband nulling
 
-the $\pi$ phase shift must be achromatic — uniform across the bandwidth. simple beam-splitter nullers work only at narrow bandwidth. **achromatic nullers** use either:
+the $\pi$ phase shift must be achromatic, uniform across the bandwidth. simple beam-splitter nullers work only at narrow bandwidth. **achromatic nullers** use either:
 - chromatic phase modulators (work across a wide band)
 - pupil rotation (Bracewell's original design)
 - four-quadrant phase plates
@@ -80,7 +80,7 @@ space-based proposed missions (2000s) for nulling interferometry. not realized d
 
 ## the Bracewell concept
 
-Bracewell's (1978) idea: a *space-based* two-element nuller could detect Earth-mass planets around nearby stars. on-axis null suppresses the star ~$10^9$ contrast; off-axis transmission peaks at planet-orbit positions.
+Bracewell's (1978) idea: a *space-based* two-element nuller could detect Earth-mass planets around nearby stars. on-axis null suppresses the star ~$10^9$ contrast. Off-axis transmission peaks at planet-orbit positions.
 
 modern realization: **TPF/Darwin proposals** of the 2000s. would have used $\sim 50$m baselines, $\sim 10^7$ contrast, dedicated mission to image Earth-like exoplanets.
 

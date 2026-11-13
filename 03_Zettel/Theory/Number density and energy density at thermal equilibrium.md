@@ -98,6 +98,20 @@ with $M_{\rm Pl} = (8\pi G)^{-1/2}$ the reduced Planck mass.
 
 ---
 
+## worked example
+
+photons at $T_0 = 2.725$ K, with $g = 2$:
+
+$$n_\gamma = \frac{2\zeta(3)}{\pi^2}\left(\frac{k_BT}{\hbar c}\right)^3 = 0.2436 \times (1.19 \times 10^{3}\ \text{m}^{-1})^3 = 4.1 \times 10^8\ \text{m}^{-3}$$
+
+410 photons per cm$^3$. the mean energy per photon is $2.70\,k_BT = 6.3 \times 10^{-4}$ eV.
+
+## where it goes wrong
+
+- fermions get $3/4$ in number and $7/8$ in energy relative to bosons with the same $g$.
+- these formulas are for relativistic species. non-relativistic ones are suppressed by $e^{-m/T}$.
+- $g$ counts internal states: 2 for the photon, 2 for each neutrino and antineutrino pair per flavour.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

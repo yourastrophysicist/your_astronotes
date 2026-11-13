@@ -4,7 +4,7 @@ title: "Deep-field surveys"
 ---
 # Deep-field surveys
 
-Deep-field extragalactic surveys represent the premier observational technique for charting the formation and morphological assembly of galaxies across cosmological lookback times spanning more than $13$ billion years ($z = 0$ to $z > 10$). By targeting small, unconfused, high-galactic-latitude fields free of bright foreground Milky Way stars and interstellar dust cirrus, space-borne and ground-based facilities accumulate ultra-long exposure times ($100 - 1000$ hours per pointing). Landmark campaigns include the Hubble Deep Field (HDF, 1995), Hubble Ultra Deep Field (HUDF, 2004), GOODS, COSMOS, CANDELS, and the James Webb Space Telescope Advanced Deep Extragalactic Survey (JWST JADES). These surveys revolutionized extragalactic astrophysics through two complementary methodologies - the color-selection Lyman-Break Galaxy (LBG) dropout technique, which isolates high-redshift starbursts via the photoelectric absorption edge of neutral hydrogen at $\lambda_{\rm rest} = 912$ \AA, and multi-band photometric redshift (photo-$z$) SED fitting.
+Deep-field extragalactic surveys represent the premier observational technique for charting the formation and morphological assembly of galaxies across cosmological lookback times spanning more than $13$ billion years ($z = 0$ to $z > 10$). By targeting small, unconfused, high-galactic-latitude fields free of bright foreground Milky Way stars and interstellar dust cirrus, space-borne and ground-based facilities accumulate ultra-long exposure times ($100 - 1000$ hours per pointing). Landmark campaigns include the Hubble Deep Field (HDF, 1995), Hubble Ultra Deep Field (HUDF, 2004), GOODS, COSMOS, CANDELS, and the James Webb Space Telescope Advanced Deep Extragalactic Survey (JWST JADES). These surveys changed extragalactic astrophysics through two complementary methodologies - the color-selection Lyman-Break Galaxy (LBG) dropout technique, which isolates high-redshift starbursts via the photoelectric absorption edge of neutral hydrogen at $\lambda_{\rm rest} = 912$ \AA, and multi-band photometric redshift (photo-$z$) SED fitting.
 
 ---
 
@@ -155,7 +155,7 @@ Conclusion - To derive robust cosmological luminosity functions and volume densi
 ## 6. Exact Textbook and Literature Provenance
 
 - Course Synthesis LaTeX Document
-  - `Astrophysics_of_Galaxies.tex` (Part II - Ground and Space Surveys, pages 17-19; Part III - High-z Classification, page 34) - Deep-field surveys, HUDF parameters, and Lyman-break technique.
+  - `Astrophysics_of_Galaxies.tex` (Part II - Ground and Space Surveys, pages 17-19, Part III - High-z Classification, page 34) - Deep-field surveys, HUDF parameters, and Lyman-break technique.
 - Course Dispensa `dispense_LF1_1_eng-1.pdf` (Prof. Alessandro Pizzella)
   - Section 4 - High-Redshift Galaxies (pages 20-24) - Deep surveys and UV luminosity functions.
 - Houjun Mo, Frank van den Bosch, Simon White, *Galaxy Formation and Evolution* (2010)

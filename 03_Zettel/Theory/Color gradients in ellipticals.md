@@ -16,12 +16,12 @@ $$\nabla_{(B - R)} \equiv \frac{d(B - R)}{d\log_{10} r} \approx \frac{\Delta(B -
 measured outside the seeing-dominated central core ($r \ge 2''$) out to the effective radius ($r \approx R_e$) or the background noise limit ($r \sim 2 - 3 R_e$).
 
 ### Typical Empirical Values
-Extensive photometric surveys of nearby early-type galaxies (Peletier et al. 1990; Bender, Burstein & Faber 1993; Tamura & Ohta 2003) establish universal negative gradients
+Extensive photometric surveys of nearby early-type galaxies (Peletier et al. 1990, Bender, Burstein & Faber 1993, Tamura & Ohta 2003) establish universal negative gradients
 - $\nabla_{(U - R)} \approx -0.16 \pm 0.04 \text{ mag decade}^{-1}$
 - $\nabla_{(B - R)} \approx -0.09 \pm 0.02 \text{ mag decade}^{-1}$
 - $\nabla_{(V - K)} \approx -0.16 \pm 0.03 \text{ mag decade}^{-1}$
 
-The negative sign indicates that the galaxy center is redder, and the stellar population becomes bluer toward the outskirts. Furthermore, the gradient steepness correlates with the wavelength separation of the filter pair, being largest for color indices that span the $4000$ \AA\ Balmer break (e.g. $U - R$).
+The negative sign indicates that the galaxy center is redder, and the stellar population becomes bluer toward the outskirts. The gradient steepness correlates with the wavelength separation of the filter pair, being largest for color indices that span the $4000$ \AA\ Balmer break (e.g. $U - R$).
 
 ---
 
@@ -56,7 +56,7 @@ Physical consequence - A typical giant elliptical galaxy drops in stellar metall
 
 ## 3. Physical Mechanisms and Cosmological Implications
 
-The quantitative value of $\nabla_{[Z/H]}$ serves as a powerful test between competing models of galaxy formation.
+The quantitative value of $\nabla_{[Z/H]}$ serves as a useful test between competing models of galaxy formation.
 
 ```
 +========================================================================================+

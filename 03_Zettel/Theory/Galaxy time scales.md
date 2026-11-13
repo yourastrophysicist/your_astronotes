@@ -24,7 +24,7 @@ a useful rule: a galaxy has $\sim 100$ orbits in a Hubble time.
 
 ### cooling time
 $$t_{\text{cool}} = \frac{3 n k_B T / 2}{n_e n_H \Lambda(T, Z)}$$
-sets whether hot halo gas can ever cool into a disk. comparable to or shorter than $t_H$ for $T < 10^6$ K gas in galactic halos; much longer than $t_H$ above $M_h \sim 10^{12}\,M_\odot$, which is why [[Halo gravity suppression of galaxy formation]] kicks in there.
+sets whether hot halo gas can ever cool into a disk. comparable to or shorter than $t_H$ for $T < 10^6$ K gas in galactic halos. much longer than $t_H$ above $M_h \sim 10^{12}\,M_\odot$, which is why [[Halo gravity suppression of galaxy formation]] kicks in there.
 
 ### star formation time
 $$t_{SF} = \frac{M_{\text{gas}}}{\psi}$$
@@ -36,10 +36,10 @@ in starburst galaxies $t_{SF}$ drops to $\sim 100$ Myr or less. this is why star
 the time for metals from one generation of stars to be recycled into the next. dominated by the lifetime of the relevant stellar donor:
 
 - SN II, α-elements: $\sim 10$ Myr (massive stars)
-- SN Ia, Fe peak: $\sim 100$ Myr–$1$ Gyr (WD progenitors)
+- SN Ia, Fe peak: $\sim 100$ Myr-$1$ Gyr (WD progenitors)
 - AGB, C/N/s-process: $\sim 1$ Gyr (intermediate-mass stars)
 
-so an [α/Fe] ratio above solar says "enrichment was fast, SN II dominated" (typical of massive ellipticals); [α/Fe] below solar says "slow, extended, SN Ia had time to contribute".
+so an [α/Fe] ratio above solar says "enrichment was fast, SN II dominated" (typical of massive ellipticals). [α/Fe] below solar says "slow, extended, SN Ia had time to contribute".
 
 ### merger and dynamical-friction time
 $$t_{\text{DF}} \approx \frac{V_c\, r^2}{G\, M_{\text{sat}}\, \ln \Lambda}$$
@@ -57,6 +57,10 @@ the time for a satellite of mass $M_{\text{sat}}$ to sink into its host via dyna
 | broadband SED fitting with parametric SFH | Gyr-averaged |
 
 a single galaxy measured in Hα and UV can disagree by factors of a few if SFR has varied in the last $100$ Myr. that's not an error, that's a signal about recent SFH.
+
+## worked example
+
+for the Milky Way: dynamical time $\sim 200$ Myr, gas depletion time $M_{\rm gas}/\psi = 5 \times 10^9/2 = 2.5$ Gyr, cooling time of halo gas several Gyr.
 
 ## connections
 

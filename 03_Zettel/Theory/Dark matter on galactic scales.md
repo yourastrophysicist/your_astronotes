@@ -50,15 +50,29 @@ this $R^{-2}$ density distribution corresponds to an **isothermal dark matter sp
 
 ![milkyway-37.png](../../assets/images/milkyway-37.png)
 
-### mass breakdown of the Milky Way:
+### mass breakdown of the Milky Way
 - total visible baryonic mass (stars + gas + dust): $M_{\text{vis}} \approx 6 \times 10^{10} M_\odot$.
 - total virial mass enclosed within the dark matter halo ($R \sim 200$ kpc):
   $$M_{\text{total}} \approx (1.0 - 1.5) \times 10^{12} M_\odot$$
 - **dark matter fraction**:
   $$\frac{M_{\text{DM}}}{M_{\text{total}}} \approx 90 - 95\%$$
-the Milky Way's visible disk is merely a tiny baryonic nugget sitting at the gravitational center of a colossal, spherical dark matter halo!
+the Milky Way's visible disk is merely a tiny baryonic nugget sitting at the gravitational center of a huge, spherical dark matter halo!
 
 ---
+
+## worked example
+
+if all the mass were inside $R_0$, the speed at 20 kpc would be $V = 220 \times \sqrt{8.2/20} = 141$ km/s. the observed speed stays near 220 km/s. the mass inside 20 kpc is then
+
+$$M = \frac{V^2R}{G} = 2.2 \times 10^{11}\,M_\odot$$
+
+about 2.4 times the mass inside the solar circle, while the light added beyond $R_0$ is small.
+
+## where it goes wrong
+
+- a flat curve means $M \propto R$ and $\rho \propto R^{-2}$, an isothermal sphere, not a constant density.
+- the rotation curve gives the total mass. separating the disk from the halo needs a mass-to-light ratio for the stars.
+- MOND explains rotation curves without dark matter, but it fails for clusters and the CMB.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -130,7 +130,7 @@ reading cue: ALMA's official signal path shows the whole radio chain: antenna co
 
 ![07_Images/Interferometry/radio_interferometer_signal_chain.svg](../../assets/images/radio_interferometer_signal_chain.svg)
 
-source: first figure from ALMA Observatory, "How ALMA Works"; second figure is a local study diagram of the same conceptual chain.
+source: first figure from ALMA Observatory, "How ALMA Works". second figure is a local study diagram of the same conceptual chain.
 
 ## see also
 

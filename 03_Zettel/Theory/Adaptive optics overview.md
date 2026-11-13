@@ -9,7 +9,7 @@ title: "Adaptive optics overview"
 every AO system has three essential pieces:
 
 1. **wavefront sensor (WFS)**: measures the local tilt or curvature of the incoming wavefront across many subapertures. typical types:
-   - **Shack-Hartmann WFS**: a lenslet array, each lenslet imaging a guide star; the displacement of each spot from its reference position gives the local tilt.
+   - **Shack-Hartmann WFS**: a lenslet array, each lenslet imaging a guide star. the displacement of each spot from its reference position gives the local tilt.
    - **curvature WFS**: measures intensity differences just inside and outside focus.
    - **pyramid WFS**: sensitive sensor on big modern AO (SPHERE, GPI).
 
@@ -22,7 +22,7 @@ every AO system has three essential pieces:
 the headline figure of merit is
 $$S \equiv \frac{I_{\rm peak}^{\rm observed}}{I_{\rm peak}^{\rm diffraction-limited}}$$
 
-between $0$ (no correction) and $1$ (perfect). a well-running AO system in the K-band can deliver $S \gtrsim 0.5$. in the visible, $S \sim 0.05$ to $0.15$ is more typical; the wavefront errors are a much larger fraction of $\lambda$.
+between $0$ (no correction) and $1$ (perfect). a well-running AO system in the K-band can deliver $S \gtrsim 0.5$. in the visible, $S \sim 0.05$ to $0.15$ is more typical. the wavefront errors are a much larger fraction of $\lambda$.
 
 Marechal approximation:
 $$S \approx \exp(-\sigma_\phi^2)$$
@@ -32,7 +32,7 @@ with $\sigma_\phi$ the residual wavefront RMS in radians.
 
 ### isoplanatic angle
 
-the corrected patch is small. AO sees the wavefront only along the line to the guide star; far from the guide star, the atmospheric path is different, so the correction is wrong.
+the corrected patch is small. AO sees the wavefront only along the line to the guide star. far from the guide star, the atmospheric path is different, so the correction is wrong.
 $$\theta_0 \propto \lambda^{6/5}$$
 typical at K-band: $\theta_0 \sim 30''$.
 typical at V-band: $\theta_0 \sim 5''$.
@@ -45,7 +45,7 @@ AO needs a bright reference, $V \lesssim 14$ for typical systems. the sky covera
 
 ### laser guide stars
 
-a sodium laser tuned to $589$ nm excites the mesospheric Na layer at $\sim 90$ km, producing an artificial point source. examples: Keck NGAO, VLT 4-LGS facility, Subaru. limitation: the laser samples only the lower atmosphere ("cone effect"); a natural tip-tilt star is still needed because the up-going and down-going laser path has zero net tip-tilt.
+a sodium laser tuned to $589$ nm excites the mesospheric Na layer at $\sim 90$ km, producing an artificial point source. examples: Keck NGAO, VLT 4-LGS facility, Subaru. limitation: the laser samples only the lower atmosphere ("cone effect"). a natural tip-tilt star is still needed because the up-going and down-going laser path has zero net tip-tilt.
 
 ### temporal lag
 
@@ -55,7 +55,7 @@ the WFS measurement has integration time + readout latency, then DM command late
 
 | band | typical Strehl | comments |
 |---|---|---|
-| V (550 nm) | $\sim 0.05$ to $0.15$ | hardest; "extreme AO" needed |
+| V (550 nm) | $\sim 0.05$ to $0.15$ | hardest, "extreme AO" needed |
 | I (800 nm) | $\sim 0.2$ | doable on good nights |
 | J (1.25$\,\mu$m) | $\sim 0.3$ to $0.4$ | comfortable |
 | H (1.65$\,\mu$m) | $\sim 0.4$ to $0.5$ | strong scientific case |

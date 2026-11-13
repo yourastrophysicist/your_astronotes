@@ -4,11 +4,11 @@ title: "Vectorization and python speed"
 ---
 # Vectorization and python speed
 
-the rule that explains every "why is my code so slow" complaint in scientific python: the bottleneck is the python interpreter, not the algorithm. vectorizing — replacing python loops with numpy array operations — is usually a 10× to 1000× speedup for free.
+the rule that explains every "why is my code so slow" complaint in scientific python: the bottleneck is the python interpreter, not the algorithm. vectorizing, replacing python loops with numpy array operations, is usually a 10× to 1000× speedup for free.
 
 ## the interpreter tax
 
-each line of pure python costs ~$100$ ns of overhead just for the interpreter to figure out what to do. for simple operations, that overhead *dwarfs* the actual computation. a C floating-point add takes ~1 ns; the python interpretation around it takes 100×.
+each line of pure python costs ~$100$ ns of overhead just for the interpreter to figure out what to do. for simple operations, that overhead *dwarfs* the actual computation. a C floating-point add takes ~1 ns. the python interpretation around it takes 100×.
 
 so a python loop running $10^6$ iterations of an arithmetic operation takes ~100 ms of interpreter overhead alone, even before the math.
 
@@ -34,11 +34,11 @@ both produce the same answer. the second runs entirely in compiled C, the first 
 1. **avoid python loops over array elements**. replace with array operations
 2. **avoid python conditionals inside loops**. use `np.where`, boolean masks, or `np.select`
 3. **avoid appending to lists in a loop** if you know the size ahead of time. preallocate `np.zeros(N)` and assign by index
-4. **avoid calling python functions per element**. if you need to apply $f(x)$ elementwise, use a "ufunc" (universal function) — `np.exp`, `np.sin`, `np.where(cond, a, b)`. for custom $f$, use `np.vectorize` (but this is just a python loop in disguise — sometimes faster numerically with jax/numba)
+4. **avoid calling python functions per element**. if you need to apply $f(x)$ elementwise, use a "ufunc" (universal function) - `np.exp`, `np.sin`, `np.where(cond, a, b)`. for custom $f$, use `np.vectorize` (but this is just a python loop in disguise - sometimes faster numerically with jax/numba)
 
-## broadcasting: vectorization across shapes
+## broadcasting - vectorization across shapes
 
-numpy automatically aligns arrays of compatible shapes. this lets me vectorize across pairs, triplets, grids — not just 1D.
+numpy automatically aligns arrays of compatible shapes. this lets me vectorize across pairs, triplets, grids, not just 1D.
 
 ```python
 # pairwise distances between N points in 3D, no python loop
@@ -107,9 +107,9 @@ this is now as fast as the vectorized version, but uses $O(1)$ extra memory beca
 
 ## astrophysics where this matters
 
-- **N-body force computation**: the vectorized $(N, N, 3)$ approach is fastest up to $N \sim 10^3$; beyond that, switch to numba or a tree code
+- **N-body force computation**: the vectorized $(N, N, 3)$ approach is fastest up to $N \sim 10^3$. Beyond that, switch to numba or a tree code
 - **image processing**: every per-pixel operation must be vectorized
-- **time-series analysis**: filtering, FFT, smoothing — all naturally vectorized
+- **time-series analysis**: filtering, FFT, smoothing, all naturally vectorized
 - **grid-based PDE updates**: stencil operations in numpy are clean and fast
 
 <!-- sources:wiki-arxiv -->

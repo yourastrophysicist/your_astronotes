@@ -6,7 +6,7 @@ a subtle but important distinction in working out the allowed terms of an atomic
 
 ## definitions
 
-- **nonequivalent electrons**: electrons in different $(n, \ell)$ orbitals. Pauli exclusion places no constraint between them; all $(L, S)$ combinations are allowed.
+- **nonequivalent electrons**: electrons in different $(n, \ell)$ orbitals. Pauli exclusion places no constraint between them. all $(L, S)$ combinations are allowed.
 - **equivalent electrons**: electrons in the **same** $(n, \ell)$ orbital. Pauli exclusion forbids two electrons with the same $(m_\ell, s)$, restricting the allowed terms.
 
 ## counting microstates
@@ -44,7 +44,7 @@ ground: $^3P_2$ (oxygen, since shell more than half-filled).
 
 ## why nonequivalent electrons are easier
 
-for nonequivalent electrons in different orbitals, all combinations of $L$ and $S$ are independently allowed; you just compute the vectorial sum. example: $1s^1\,2p^1$ has $L = 1$ from the $p$ electron, $S = 0$ or $1$ from spin coupling, giving $^1P$ and $^3P$ terms (4 + 12 = 16 microstates, all allowed).
+for nonequivalent electrons in different orbitals, all combinations of $L$ and $S$ are independently allowed. you just compute the vectorial sum. example: $1s^1\,2p^1$ has $L = 1$ from the $p$ electron, $S = 0$ or $1$ from spin coupling, giving $^1P$ and $^3P$ terms (4 + 12 = 16 microstates, all allowed).
 
 ## Slater's procedure (general)
 
@@ -53,7 +53,7 @@ for any configuration with both equivalent and nonequivalent groups:
 2. couple the resulting terms vectorially with the nonequivalent groups.
 3. the combinatorial count must match the binomial product.
 
-textbooks (Cowan, *Theory of Atomic Structure*; Condon-Shortley) tabulate the allowed-terms tables for $\ell^n$ configurations up to filled shells.
+textbooks (Cowan, *Theory of Atomic Structure*, Condon-Shortley) tabulate the allowed-terms tables for $\ell^n$ configurations up to filled shells.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

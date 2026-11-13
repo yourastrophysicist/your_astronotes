@@ -6,7 +6,7 @@ title: "Magorrian relation"
 
 ## 1. Empirical Definition and Scaling
 
-The **Magorrian relation** (Magorrian et al. 1998; Marconi & Hunt 2003; Häring & Rix 2004; Kormendy & Ho 2013) describes the fundamental empirical correlation between the mass of a central supermassive black hole $M_\bullet$ and the stellar mass of its host galaxy spheroidal component $M_{\rm bulge}$.
+The **Magorrian relation** (Magorrian et al. 1998, Marconi & Hunt 2003, Häring & Rix 2004, Kormendy & Ho 2013) describes the fundamental empirical correlation between the mass of a central supermassive black hole $M_\bullet$ and the stellar mass of its host galaxy spheroidal component $M_{\rm bulge}$.
 
 $$M_\bullet \approx 1.4 \times 10^{-3} \, M_{\rm bulge}$$
 
@@ -39,7 +39,7 @@ Only a small fraction $f_{\rm acc}$ of this radiated energy couples hydrodynamic
 
 $$E_{\rm feedback} = f_{\rm acc} E_{\rm acc} = f_{\rm acc} \eta M_\bullet c^2$$
 
-In the energy-driven feedback regime (Silk & Rees 1998; King 2003, 2005), the expanding shocked outflow sweeps up the interstellar gas until the feedback energy equals or exceeds the gravitational binding energy of the gas.
+In the energy-driven feedback regime (Silk & Rees 1998, King 2003, 2005), the expanding shocked outflow sweeps up the interstellar gas until the feedback energy equals or exceeds the gravitational binding energy of the gas.
 
 $$E_{\rm feedback} \ge E_{\rm bind}$$
 
@@ -187,6 +187,10 @@ When sketching the Magorrian relation during the oral examination.
 ![gal_bh-74.png](../../assets/images/gal_bh-74.png)
 
 
+
+## where it goes wrong
+
+- the relation is with the bulge, not the total galaxy. disks without bulges do not follow it.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

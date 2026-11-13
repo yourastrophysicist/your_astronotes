@@ -108,6 +108,20 @@ so once I know the three master equations and the sine rule, everything else is 
 
 ---
 
+## worked example
+
+a triangle with two sides $b = c = 60^\circ$ and a right angle between them, $A = 90^\circ$:
+
+$$\cos a = \cos b\cos c + \sin b\sin c\cos A = 0.25 + 0 = 0.25 \quad\Longrightarrow\quad a = 75.5^\circ$$
+
+on a plane the hypotenuse would be $60^\circ\sqrt{2} = 84.9^\circ$. the sphere closes the triangle sooner. for sides much smaller than one radian the cosine rule reduces to Pythagoras.
+
+## where it goes wrong
+
+- the sine rule alone leaves two possible angles. I always use the cosine rule together with it to fix the quadrant.
+- mixing hours and degrees. $1^{\rm h} = 15^\circ$, $1^{\rm m} = 15'$, $1^{\rm s} = 15''$.
+- using the planar formulas for triangles that span tens of degrees.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -122,7 +136,7 @@ so once I know the three master equations and the sine rule, everything else is 
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
-- [[Spherical_astronomy_complete]] — comprehensive narrative
+- [[Spherical_astronomy_complete]] - full narrative
 - [[Celestial sphere and great circles]]
 - [[Earth coordinates]]
 - [[Alt-azimuth ↔ equatorial transformations]]

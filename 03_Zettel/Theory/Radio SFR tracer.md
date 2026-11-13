@@ -15,13 +15,13 @@ at GHz frequencies, star-forming galaxies emit:
 
 the sum gives a radio continuum that is roughly a power law with $\alpha \simeq -0.7$ across the GHz band.
 
-## the FIR–radio correlation
+## the FIR-radio correlation
 
 one of the most important empirical relations in galaxy physics:
 
 $$q \equiv \log_{10}\!\left(\frac{L_{\text{FIR}}}{3.75 \times 10^{12}\,\text{W}}\right) - \log_{10}\!\left(\frac{L_{1.4\,\text{GHz}}}{\text{W/Hz}}\right) \approx 2.3$$
 
-scatter $\sim 0.2$ dex, holds over five decades in luminosity and out to $z \sim 4$ (Delhaize 2017, Magnelli 2015). physically: both tracers come from the same short-lived massive stars, just via different physics (IR = reprocessed UV; radio = SN-accelerated CR electrons radiating in $B$-field).
+scatter $\sim 0.2$ dex, holds over five decades in luminosity and out to $z \sim 4$ (Delhaize 2017, Magnelli 2015). physically: both tracers come from the same short-lived massive stars, just via different physics (IR = reprocessed UV, radio = SN-accelerated CR electrons radiating in $B$-field).
 
 ## calibration
 
@@ -43,6 +43,10 @@ for Kroupa IMF. very similar coefficient at 33 GHz, where thermal dominates.
 - **AGN contamination**: radio-loud AGN have $L_{1.4} \sim 10^{4}\,L_{\text{SFG}}$ at the same mass. even radio-quiet Seyferts leak some nuclear radio. must be cleaned
 - **magnetic-field dependence**: synchrotron brightness $\propto B^2$. galaxies with weaker B may underproduce radio at fixed SFR, breaking the FIR-radio correlation
 - at $z > 3$, the correlation starts to steepen (Delhaize 2017): $q \propto (1+z)^{-0.1}$. not fully understood. CR-escape at high sSFR is the leading hypothesis
+
+## where it goes wrong
+
+- the radio luminosity of low-mass galaxies is below the far-IR radio correlation, because cosmic rays escape.
 
 ## connections
 

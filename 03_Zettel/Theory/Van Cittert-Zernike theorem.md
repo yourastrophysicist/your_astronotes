@@ -6,7 +6,7 @@ title: "Van Cittert-Zernike theorem"
 
 the central theorem of interferometry. **the spatial coherence function (= visibility) of a wave field is the Fourier transform of the source brightness distribution.**
 
-every imaging interferometer — from Young's experiment to the Event Horizon Telescope — exploits this. it is the mathematical bridge that lets us *measure visibility* and *recover an image*.
+every imaging interferometer, from Young's experiment to the Event Horizon Telescope, exploits this. it is the mathematical bridge that lets us *measure visibility* and *recover an image*.
 
 ## the statement
 
@@ -61,7 +61,7 @@ each baseline $\mathbf B$ samples *one Fourier component* of the source. the spa
 
 so to image fine details, I need long baselines. to fill in low frequencies (smooth large-scale structure), I need short baselines and a single dish ("zero-spacing flux").
 
-## a concrete example: uniform disk
+## a concrete example - uniform disk
 
 source: a uniform disk of angular diameter $\theta_d$, brightness $I_0$ inside, 0 outside.
 
@@ -75,7 +75,7 @@ this is the classic *uniform disk visibility* curve. first null at $u_1 = 1.22/\
 
 measure the visibility at several baselines, find where it nulls, infer the diameter.
 
-## a concrete example: binary star
+## a concrete example - binary star
 
 source: two unresolved point sources at positions $\mathbf l_1, \mathbf l_2$ with intensities $I_1, I_2$. brightness:
 $$I(\mathbf l) = I_1 \delta(\mathbf l - \mathbf l_1) + I_2 \delta(\mathbf l - \mathbf l_2)$$
@@ -93,7 +93,7 @@ oscillates with baseline projection along $\boldsymbol\rho$. period in baseline 
 
 so a "fringe in the visibility" reveals the binary nature.
 
-## the inverse: from visibility to image
+## the inverse - from visibility to image
 
 if I have *complete* (u, v) coverage:
 $$I(\mathbf l) = \int \mathcal V(\mathbf u) e^{+2\pi i \mathbf u \cdot \mathbf l} d^2\mathbf u$$
@@ -111,7 +111,7 @@ named after Pieter van Cittert (1934) and Frits Zernike (1938) who derived it in
 in radio astronomy, the same formula appears in slightly different notation. the **complex visibility**:
 $$V(\mathbf u, \mathbf v) = \int\int I(l, m) e^{-2\pi i (u l + v m)} dl \, dm$$
 
-with $(u, v)$ the projected baseline in wavelengths and $(l, m)$ direction cosines. measured visibilities go in the $(u, v)$ plane; FT gives the dirty image.
+with $(u, v)$ the projected baseline in wavelengths and $(l, m)$ direction cosines. measured visibilities go in the $(u, v)$ plane. FT gives the dirty image.
 
 at radio wavelengths, this is the *foundation* of synthesis imaging.
 
@@ -122,7 +122,7 @@ four assumptions, all reasonable for astronomy:
 1. **far field**: source is much further than $D^2/\lambda$ ($D$ is the source size). always true for stars and galaxies
 2. **quasi-monochromatic**: narrow bandwidth, $\Delta\lambda/\lambda \ll 1$. interferometers use spectral filtering or correlator channels to enforce this
 3. **stationary source**: source brightness doesn't change during the observation. mostly true except for transients
-4. **incoherent source**: thermal sources are incoherent (different parts emit independently). true for stars; not always for masers and lasers
+4. **incoherent source**: thermal sources are incoherent (different parts emit independently). true for stars. not always for masers and lasers
 
 ## scientific figure
 

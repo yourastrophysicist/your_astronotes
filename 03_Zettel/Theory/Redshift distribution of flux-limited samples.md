@@ -33,12 +33,16 @@ the peak is the place these two curves cross.
 
 ## why this matters
 
-every survey analysis that quotes $\rho_{SFR}(z)$, $\phi(M_*, z)$, or any volume-limited quantity has to **invert this convolution**. the LF is the unknown; the observable is the $(m, z)$ density of sources. you need either:
+every survey analysis that quotes $\rho_{SFR}(z)$, $\phi(M_*, z)$, or any volume-limited quantity has to **invert this convolution**. the LF is the unknown. the observable is the $(m, z)$ density of sources. you need either:
 
 - a complete spectroscopic redshift for each source (expensive, doable only for $\sim 10^5$ to $10^6$ sources), or
 - [[Photometric redshifts]] (cheap, doable for $\sim 10^8$ sources but with biases).
 
 and both are subject to [[Malmquist bias]] at the sample edge.
+
+## where it goes wrong
+
+- the peak of $N(z)$ reflects the flux limit, not a real peak in galaxy numbers.
 
 ## connections
 

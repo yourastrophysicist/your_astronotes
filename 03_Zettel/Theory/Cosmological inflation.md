@@ -65,6 +65,10 @@ despite the success:
 
 these are some of the deepest open questions in physics.
 
+## where it goes wrong
+
+- inflation predicts flatness to $10^{-5}$, not exact flatness.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -94,7 +98,7 @@ these are some of the deepest open questions in physics.
 - Cosmic relics and Kibble mechanism
 - Horizon problem and causal structure
 - [[Phase transitions]]
-- [[Cosmology_of_the_Early_Universe_MOC]]
+- Cosmology_of_the_Early_Universe_MOC
 - [[Observational_Cosmology_MOC]]
 
 

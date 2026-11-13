@@ -40,7 +40,7 @@ map $\lambda_R$ for thousands of galaxies. confirm fast-rotator vs slow-rotator 
 
 age + metallicity + $\alpha$/Fe gradients across galaxies. ellipticals have **negative metallicity gradients** (metal-rich centre, metal-poor outskirts) + flat or slightly positive $\alpha$/Fe gradients.
 
-interpretation: inside-out formation; central regions formed first + on shorter timescales.
+interpretation: inside-out formation. central regions formed first + on shorter timescales.
 
 ### gas vs stellar kinematics
 

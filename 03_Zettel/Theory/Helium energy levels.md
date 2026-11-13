@@ -2,7 +2,7 @@
 layout: "default"
 title: "Helium energy levels"
 ---
-helium has two electrons; their spins can be antiparallel (singlet, $S = 0$, **parahelium**) or parallel (triplet, $S = 1$, **orthohelium**). these are essentially **two decoupled Grötrian diagrams** because intersystem transitions are spin-forbidden.
+helium has two electrons. their spins can be antiparallel (singlet, $S = 0$, **parahelium**) or parallel (triplet, $S = 1$, **orthohelium**). these are essentially **two decoupled Grötrian diagrams** because intersystem transitions are spin-forbidden.
 
 ## the ground state
 
@@ -47,7 +47,7 @@ helium is the **second-most abundant element**, $\sim 24\%$ by mass in stars. it
 - **He I lines** appear in B stars, peak at B2 ($T \sim 22\,000$ K).
 - **He II lines** appear in O stars, peak at O5 ($T \sim 40\,000$ K).
 - both absent in cooler stars (A and later) because no excitation at low $T$.
-- both absent in hottest stars (Wolf-Rayet) because all helium is fully ionised; only He III continuum.
+- both absent in hottest stars (Wolf-Rayet) because all helium is fully ionised. only He III continuum.
 
 so the He I / He II ratio is a temperature thermometer for early-type stars. plus, He I and He II emission diagnose AGN (Seyfert) and hot evolved stars (PN central stars, sdO).
 

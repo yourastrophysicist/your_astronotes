@@ -57,7 +57,7 @@ this is why **dense compact HII regions** (around O stars) have very high surfac
 since recombination rate $= n_e n_p \alpha_B$, equilibrium at steady state requires this to balance the ionising-photon rate per unit volume. so:
 $$Q_{H,\rm ion} = \int n_e n_p \alpha_B\,dV$$
 
-each recombination produces **one Balmer photon** on average (about $0.45$ H$\alpha$ photons; the fraction varies with $T_e$). so HII regions are recombination-line "engines" that convert ionising photons (mostly UV) into Balmer-line photons (visible).
+each recombination produces **one Balmer photon** on average (about $0.45$ H$\alpha$ photons, the fraction varies with $T_e$). so HII regions are recombination-line "engines" that convert ionising photons (mostly UV) into Balmer-line photons (visible).
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

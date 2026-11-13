@@ -8,7 +8,7 @@ Parent [[Pablo_02_Statistical_properties_of_galaxies]]
 
 ## The Observed Relation
 
-Elliptical galaxies do not populate the full three-dimensional parameter space spanned by their structural observables, but instead lie on a tight two-dimensional planar manifold called the **Fundamental Plane (FP)** (Djorgovski & Davis 1987; Dressler et al. 1987).
+Elliptical galaxies do not populate the full three-dimensional parameter space spanned by their structural observables, but instead lie on a tight two-dimensional planar manifold called the **Fundamental Plane (FP)** (Djorgovski & Davis 1987, Dressler et al. 1987).
 
 $$\boxed{\log_{10} R_e = \alpha \log_{10} \sigma_0 + \beta \log_{10} \langle I \rangle_e + \gamma}$$
 
@@ -17,7 +17,7 @@ where -
 - $\sigma_0$ - Central stellar velocity dispersion ($\mathrm{km\,s^{-1}}$), tracing the depth of the gravitational potential well.
 - $\langle I \rangle_e$ - Mean surface brightness within the effective radius ($L_\odot\,\mathrm{pc}^{-2}$), related to mean surface magnitude by $\langle\mu\rangle_e = -2.5 \log_{10} \langle I \rangle_e + \text{const}$.
 
-In the optical $r$-band (Coma cluster; Jørgensen, Franx & Kjærgaard 1996).
+In the optical $r$-band (Coma cluster, Jørgensen, Franx & Kjærgaard 1996).
 $$\alpha \approx 1.24 \pm 0.07, \quad \beta \approx -0.82 \pm 0.03$$
 The intrinsic scatter perpendicular to the plane is exceptionally small - $\sigma_{\perp} \approx 0.05$ to $0.07$ dex in $\log R_e$ ($\sim 12-15\%$ uncertainty in distance).
 
@@ -136,7 +136,7 @@ This method was used to detect peculiar velocity flows across the local universe
   - Chapter 13, Section 13.4 "The Fundamental Plane of Elliptical Galaxies", pp. 624-628 (virial origin, tilt, physical mechanisms).
 - **Binney & Merrifield (1998), *Galactic Astronomy***.
   - File `Galactic Astronomy (James Binney Michael Merrifield) (z-library.sk, 1lib.sk, z-lib.sk).pdf`
-  - Chapter 4, Section 4.3.4 "Correlations among global parameters", pp. 204-210; Chapter 7, Section 7.3.2, pp. 425-429 ($D_n - \sigma$ distance indicator).
+  - Chapter 4, Section 4.3.4 "Correlations among global parameters", pp. 204-210. Chapter 7, Section 7.3.2, pp. 425-429 ($D_n - \sigma$ distance indicator).
 - **Peter Schneider (2015), *Extragalactic Astronomy and Cosmology***.
   - File `Extrag_Astro_144-171.pdf`
   - Chapter 3, Section 3.4.3 "Scaling relations for elliptical galaxies", pp. 165-171.
@@ -149,6 +149,12 @@ This method was used to detect peculiar velocity flows across the local universe
 ---
 
 ---
+
+## where it goes wrong
+
+- the tilt with respect to the virial plane means that $M/L$ changes with mass.
+- the effective radius depends on the profile fit. a Sérsic and a de Vaucouleurs fit give different values.
+- peculiar velocities of clusters set the limit on distances, not the scatter of the plane.
 
 ## observational astrophysics course slides (Prof. Paolo Cassata)
 
@@ -163,7 +169,7 @@ This method was used to detect peculiar velocity flows across the local universe
 ## astrophysics of galaxies figures and slides (Prof. Alessandro Pizzella)
 
 ![gal_srs-04.png](../../assets/images/gal_srs-04.png)
-*The Fundamental Plane (Djorgovski & Davis 1987; Dressler et al. 1987).*
+*The Fundamental Plane (Djorgovski & Davis 1987, Dressler et al. 1987).*
 
 ![gal_srs-05.png](../../assets/images/gal_srs-05.png)
 *Three-dimensional parameter space - log R_e = a * log sigma_0 + b * log <I>_e + c.*

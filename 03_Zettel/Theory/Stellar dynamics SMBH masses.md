@@ -144,12 +144,12 @@ Measuring $h_4(R)$ alongside $\sigma(R)$ provides the mathematical leverage to s
 
 ### Advance 2. Schwarzschild's Orbit Superposition Method
 
-Schwarzschild's (1979) method represents the gold standard for stellar dynamical mass determination. It does not rely on ad-hoc assumptions about the velocity anisotropy $\beta(r)$.
+Schwarzschild's (1979) method represents the standard for stellar dynamical mass determination. It does not rely on ad-hoc assumptions about the velocity anisotropy $\beta(r)$.
 
 The step-by-step Schwarzschild procedure operates as follows
 1. Deproject the surface brightness - Construct an axisymmetric or triaxial 3D stellar luminosity density $\nu(\mathbf{r})$ from high-resolution HST and ground-based imaging.
 2. Formulate the trial gravitational potential - Compute the total potential $\Phi(\mathbf{r}) = (M/L)_* \Phi_*(\mathbf{r}) + \Phi_{\text{DM}}(\mathbf{r}) - G M_{\text{BH}} / r$ for fixed trial values of $(M_{\text{BH}}, (M/L)_*)$.
-3. Integrate the orbit library - Numerically integrate a comprehensive library of tens of thousands of individual stellar orbits (spanning box orbits, tube orbits, and chaotic orbits) in the trial potential over thousands of orbital periods.
+3. Integrate the orbit library - Numerically integrate a full library of tens of thousands of individual stellar orbits (spanning box orbits, tube orbits, and chaotic orbits) in the trial potential over thousands of orbital periods.
 4. Calculate orbital observables - For each orbit $k$, determine the fraction of time spent in each spatial grid cell $i$ and each line-of-sight velocity bin $j$, generating the orbital kinematic matrix $B_{ijk}$.
 5. Solve for non-negative weights - Find non-negative orbital weights $w_k \ge 0$ that reproduce both the stellar density and the observed kinematic observables ($V, \sigma, h_3, h_4$) by minimizing
 $$\chi^2 = \sum_{\text{apertures}} \left[ \frac{\text{Data} - \sum_k w_k \text{Model}_k}{\text{Error}} \right]^2$$
@@ -207,7 +207,7 @@ Blackboard presentation notes
        4.0          5.0          6.0         7.0   (M/L)* (Solar units)
 ```
 
-Key quantitative takeaways for the blackboard
+Key quantitative points for the blackboard
 - Long-slit spectroscopy yields open, elongated banana contours where $(M/L)_*$ trades off directly against $M_{\text{BH}}$, often consistent with $M_{\text{BH}} = 0$ within 2 sigma.
 - Two-dimensional IFU stellar kinematics from adaptive optics tightly constrain $(M/L)_*$ at large radii while isolating $M_{\text{BH}}$ within $r_{\text{infl}}$, generating closed, compact $\chi^2$ confidence ellipses.
 

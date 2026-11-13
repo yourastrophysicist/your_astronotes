@@ -10,7 +10,7 @@ a pseudo-random number generator (PRNG) is a deterministic recurrence. given the
 
 three reasons to *always* set the seed in production code:
 
-1. **reproducibility**: a colleague (or my future self) can rerun the script and get the same plot. without seeds, every run is different — debugging becomes impossible
+1. **reproducibility**: a colleague (or my future self) can rerun the script and get the same plot. without seeds, every run is different, debugging becomes impossible
 2. **debugging**: if the code crashes intermittently, seeds let me reproduce the exact failing case
 3. **interpretation**: when comparing two algorithms on "the same" random input, I need *literally the same* input. seeds give me that
 
@@ -62,15 +62,15 @@ rng = np.random.default_rng(args.seed)
 
 ## what the seed *is*
 
-for `np.random.default_rng`, the seed is processed via a **SeedSequence** that hashes the input integer into a long internal state for the PCG64 generator. so seed=0 and seed=1 produce statistically *uncorrelated* streams — there is no "neighborhood" structure.
+for `np.random.default_rng`, the seed is processed via a **SeedSequence** that hashes the input integer into a long internal state for the PCG64 generator. so seed=0 and seed=1 produce statistically *uncorrelated* streams. there is no "neighborhood" structure.
 
 for the legacy `np.random.seed`, the seed directly sets the Mersenne Twister state. same property: no structure between consecutive seeds.
 
-## parallel work: the gotcha
+## parallel work - the gotcha
 
-if I launch $K$ parallel processes each calling `np.random.default_rng()` with no seed, they each get a stream from system entropy — *probably* independent but not guaranteed.
+if I launch $K$ parallel processes each calling `np.random.default_rng()` with no seed, they each get a stream from system entropy, *probably* independent but not guaranteed.
 
-if I do `np.random.default_rng(seed=42)` in each process, they all get the **identical** stream — definitely correlated, very bad.
+if I do `np.random.default_rng(seed=42)` in each process, they all get the **identical** stream, definitely correlated, very bad.
 
 correct pattern:
 
@@ -95,7 +95,7 @@ both work. the `spawn` method is slightly more elegant.
 
 `np.random.default_rng(42)` produces the same stream:
 - on the same numpy version
-- on the same platform (mostly — endianness and float precision are uniform)
+- on the same platform (mostly, endianness and float precision are uniform)
 
 it can *differ* between numpy versions if the algorithm is updated. for long-term reproducibility, pin numpy with `requirements.txt` or `environment.yml`.
 
@@ -113,7 +113,7 @@ print(rng.uniform(size=3))
 
 this is sometimes a unit test in serious code: "given seed 42, the first 3 uniforms should be these specific values."
 
-## astrophysics example: an MC simulation ensemble
+## astrophysics example - an MC simulation ensemble
 
 ```python
 N_realizations = 100

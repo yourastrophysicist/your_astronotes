@@ -9,14 +9,14 @@ $$\beta = \frac{\pi}{\lambda}b\sin\theta, \quad \gamma = \frac{\pi}{\lambda}d\si
 
 ## the two terms
 
-- **$\sin^2\beta/\beta^2$**: the **single-slit envelope**. wide, slow; sets the overall throughput shape. see [[Single slit diffraction]].
-- **$\sin^2 N\gamma/\sin^2\gamma$**: the **N-slit interference**. narrow, sharp peaks; sets the spectral lines.
+- **$\sin^2\beta/\beta^2$**: the **single-slit envelope**. wide, slow. sets the overall throughput shape. see [[Single slit diffraction]].
+- **$\sin^2 N\gamma/\sin^2\gamma$**: the **N-slit interference**. narrow, sharp peaks. sets the spectral lines.
 
-## principal maxima: the grating equation
+## principal maxima - the grating equation
 
 the second factor has principal maxima where $\gamma = m\pi$, $m \in \mathbb Z$, equivalently:
 $$\boxed{\, d\sin\theta = m\lambda \,}$$
-this is the **grating equation** in normal-incidence form. for $m = 0$, undispersed (zero-order); for $m \ge 1$, dispersed. the higher the order, the bigger the angular separation at fixed $\lambda$.
+this is the **grating equation** in normal-incidence form. for $m = 0$, undispersed (zero-order). for $m \ge 1$, dispersed. the higher the order, the bigger the angular separation at fixed $\lambda$.
 
 at each principal maximum, the value of the interference factor is $N^2$ (constructive). between principal maxima, $N - 2$ secondary maxima appear (rapidly suppressed) and $N - 1$ zeros.
 

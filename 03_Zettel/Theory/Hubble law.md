@@ -2,7 +2,7 @@
 layout: "default"
 title: "Hubble law"
 ---
-**Hubble's law**: in the local universe, galaxies recede from us with velocity proportional to their distance. the foundational observational fact that the universe is expanding.
+**Hubble's law**: in the local universe, galaxies recede from us with velocity proportional to their distance. the observational fact that the universe is expanding.
 
 ## the law
 
@@ -23,7 +23,7 @@ historical:
 
 ## what the law means
 
-a key insight: in an expanding universe described by FLRW, every observer sees the same Hubble flow regardless of position. the universe doesn't have a centre; everywhere expands away from everywhere else.
+one point: in an expanding universe described by FLRW, every observer sees the same Hubble flow regardless of position. the universe doesn't have a centre. everywhere expands away from everywhere else.
 
 a useful analogy: dots painted on a balloon. as the balloon inflates, every dot sees neighbours receding, with velocity proportional to current distance. this is the **expansion of space**, not the motion of galaxies through space.
 
@@ -44,7 +44,7 @@ derived scales:
 - **Hubble length** $d_H = c/H_0 \approx 4300$ Mpc. rough size of the observable universe.
 - **Hubble volume** $V_H = (4\pi/3)d_H^3 \approx 3.4 \times 10^{11}$ Mpc$^3$.
 
-these are not exact; the universe is older than $1/H_0$ in $\Lambda$CDM (by factor $\sim 1.4$), and the particle horizon is larger than $d_H$.
+these are not exact. the universe is older than $1/H_0$ in $\Lambda$CDM (by factor $\sim 1.4$), and the particle horizon is larger than $d_H$.
 
 ## the Hubble tension
 
@@ -57,6 +57,11 @@ these disagree at $\sim 5\sigma$. the **Hubble tension** is one of the major ope
 - the CMB-anchored value misses new physics (early dark energy, $N_{\rm eff}$, non-standard recombination).
 
 JWST + future GW standard sirens will help resolve.
+
+## where it goes wrong
+
+- the Hubble law alone does not tell which cosmology is right. it is the low-$z$ limit of all of them.
+- a Hubble diagram plotted with $v = cz$ instead of $z$ hides the departure from linearity.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

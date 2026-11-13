@@ -16,11 +16,11 @@ at the point $p$:
 
 so locally, **special relativity holds**. only at second order do tidal effects show up, encoded in $R^\rho{}_{\sigma\mu\nu}$.
 
-## why this matters: the equivalence principle
+## why this matters - the equivalence principle
 
 Einstein's central insight: **a freely-falling observer in a gravitational field is locally indistinguishable from an inertial observer in flat spacetime**. an astronaut in a windowless free-falling capsule cannot tell, from local experiments, whether they're in deep space or falling toward a planet.
 
-mathematically, this is exactly the statement that LIC exist at every point. gravity is **not** a force in the local frame; it's a property of the global geometry that shows up only when you compare nearby free-falling observers (geodesic deviation).
+mathematically, this is exactly the statement that LIC exist at every point. gravity is **not** a force in the local frame. it's a property of the global geometry that shows up only when you compare nearby free-falling observers (geodesic deviation).
 
 ## the construction
 
@@ -31,7 +31,7 @@ infinitesimally near $p$: $g_{\mu\nu} = \eta_{\mu\nu} - \frac{1}{3}R_{\mu\rho\nu
 
 ## what LIC do for me
 
-several powerful consequences:
+several useful consequences:
 1. **derive equations**: any tensor equation valid in flat spacetime + $\partial \to \nabla$ is automatically valid in curved spacetime, because in LIC at any point both equations coincide. this is the *minimal coupling* prescription.
 2. **proper time**: an observer's proper time is just $d\tau^2 = -ds^2$ along their world line, computable in any LIC.
 3. **physical interpretation**: the LIC observer's instruments behave just like in special relativity. Maxwell's equations, the Dirac equation, etc., look unchanged at the local point.

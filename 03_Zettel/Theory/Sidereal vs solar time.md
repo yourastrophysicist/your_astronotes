@@ -10,7 +10,7 @@ two natural ways to define a "day," and they are not the same.
 
 the **sidereal day** is the interval after which the stars return to the same position in the sky.
 
-equivalently: one full rotation of the Earth with respect to the fixed stars — i.e. with respect to the $\gamma$ point.
+equivalently: one full rotation of the Earth with respect to the fixed stars, i.e. with respect to the $\gamma$ point.
 
 duration: $23$ h $56$ m $4$ s of solar time.
 
@@ -26,18 +26,18 @@ duration: $24$ h, by definition.
 
 ## why the two differ
 
-while the Earth spins on its axis, it is *also* moving around the Sun. so to bring the Sun back to the same apparent position requires the Earth to rotate slightly more than one full sidereal turn — by an extra $\sim 1°$ per day, since Earth advances about $1°$ in its orbit each day ($360°/365.25 \approx 0.986°$).
+while the Earth spins on its axis, it is *also* moving around the Sun. so to bring the Sun back to the same apparent position requires the Earth to rotate slightly more than one full sidereal turn, by an extra $\sim 1°$ per day, since Earth advances about $1°$ in its orbit each day ($360°/365.25 \approx 0.986°$).
 
 that extra little rotation takes about $4$ minutes:
 $$\text{solar day} - \text{sidereal day} \approx 3\,\text{m}\,56\,\text{s}$$
 
-so **sidereal time runs about 4 minutes faster per day than solar time**. over a year (365.25 solar days), this offset accumulates to exactly $24$ h — which is why the night sky on a given solar date repeats year after year.
+so **sidereal time runs about 4 minutes faster per day than solar time**. over a year (365.25 solar days), this offset accumulates to exactly $24$ h, which is why the night sky on a given solar date repeats year after year.
 
 ---
 
 ## time units for $\alpha$ and $h$
 
-both sidereal time and the hour angle $h$ change at the same rate — that's the whole point of measuring along the celestial equator. it is convenient to express them, and right ascension $\alpha$, in **time units**:
+both sidereal time and the hour angle $h$ change at the same rate. that's the whole point of measuring along the celestial equator. it is convenient to express them, and right ascension $\alpha$, in **time units**:
 
 $$24\,\text{h} \leftrightarrow 360°, \qquad 1\,\text{h} \leftrightarrow 15°, \qquad 1\,\text{m} \leftrightarrow 15', \qquad 1\,\text{s} \leftrightarrow 15''$$
 
@@ -56,6 +56,18 @@ gives the local sidereal time at that instant.
 a sidereal clock at the observatory then keeps track of $\Theta$ continuously. solar clocks are no good for astronomy because they drift by 4 minutes a day.
 
 ---
+
+## worked example
+
+the sidereal day is shorter by $3^{\rm m}56^{\rm s}$. after 30 days the stars rise $30 \times 3.94 = 118$ minutes earlier, about two hours per month and 24 hours per year.
+
+a rule for planning: at the March equinox the Sun has $\alpha = 0^{\rm h}$, so at local midnight $\Theta = 12^{\rm h}$. each month adds two hours. in mid November, almost 8 months later, the sidereal time at midnight is about $12 + 16 - 24 = 4^{\rm h}$, so objects with $\alpha \approx 4^{\rm h}$ culminate at midnight.
+
+## where it goes wrong
+
+- a year has 365.24 solar days but 366.24 sidereal days. the extra turn is the orbit itself.
+- the true Sun does not move uniformly. apparent and mean solar time differ by up to 16 minutes, the equation of time.
+- sidereal time is local. two observatories at different longitudes read different values at the same instant.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -54,7 +54,7 @@ $$A_c \approx \left(\frac{\lambda}{\theta_s}\right)^2$$
 for a source of angular size $\theta_s$.
 
 examples:
-- the Sun ($\theta_s \approx 0.5°$): $A_c$ at 500 nm is $\sim (500\,\text{nm}/0.01\,\text{rad})^2 \sim (50\,\mu\text{m})^2$. so two slits more than 50 μm apart see incoherent sunlight — no fringes
+- the Sun ($\theta_s \approx 0.5°$): $A_c$ at 500 nm is $\sim (500\,\text{nm}/0.01\,\text{rad})^2 \sim (50\,\mu\text{m})^2$. so two slits more than 50 μm apart see incoherent sunlight, no fringes
 - a star at 10 pc with $R_\odot$ ($\theta_s \sim 1$ mas): $A_c$ at 500 nm is $\sim (500\,\text{nm}/5\times10^{-9}\,\text{rad})^2 \sim (100\,\text{m})^2$. so over a 100m baseline, fringes are still visible. that's why stellar interferometry uses 100m baselines
 
 the coherence area sets the *baseline range* useful for resolving a given source.
@@ -77,13 +77,13 @@ this is why optical interferometry is hard: the atmosphere limits baselines to $
 
 at radio wavelengths, $r_0 \sim 10^4$ m. virtually all baselines are atmospheric-coherent.
 
-## a worked example: the Sun
+## a worked example - the Sun
 
 is sunlight spatially coherent? at 500 nm, the Sun's angular size is 30 arcmin = $9 \times 10^{-3}$ rad. the coherence length on Earth is
 
 $$\ell_c \sim \lambda/\theta_s \sim 500\,\text{nm}/(9 \times 10^{-3}) \sim 55\,\mu\text{m}$$
 
-so two pinholes more than 55 μm apart see independent light from the Sun and no Young fringes form. closer than 55 μm, fringes are visible. this is exactly Stéphan's argument for measuring the Sun's size by Young's slits — except the Sun is too large to give a useful test.
+so two pinholes more than 55 μm apart see independent light from the Sun and no Young fringes form. closer than 55 μm, fringes are visible. this is exactly Stéphan's argument for measuring the Sun's size by Young's slits, except the Sun is too large to give a useful test.
 
 ## the implications for interferometry
 
@@ -91,7 +91,7 @@ three:
 
 1. **why we want long baselines**: longer baselines $\to$ smaller $\theta_s$ probed. resolution scales as $\lambda/B$
 2. **why visibility falls with baseline**: the source has finite angular size, $\lvert \gamma\rvert$ tracks the FT
-3. **why we measure visibility at multiple baselines**: each baseline samples one Fourier component; many baselines reconstruct the source
+3. **why we measure visibility at multiple baselines**: each baseline samples one Fourier component. many baselines reconstruct the source
 
 ## see also
 

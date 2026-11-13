@@ -18,7 +18,7 @@ an unreddened, star-forming galaxy with a constant SFR lasting $> 100$ Myr has a
 
 $$\text{IRX} \equiv \frac{L_{\text{IR}}}{L_{\text{UV}}}$$
 
-with $L_{\text{UV}}$ the observed (attenuated) UV luminosity and $L_{\text{IR}}$ the total $8$–$1000\,\mu$m luminosity. physically: every UV photon absorbed by dust ends up in the IR, so IRX is a direct measure of the fraction of UV radiation that was obscured.
+with $L_{\text{UV}}$ the observed (attenuated) UV luminosity and $L_{\text{IR}}$ the total $8$ to $1000\,\mu$m luminosity. physically: every UV photon absorbed by dust ends up in the IR, so IRX is a direct measure of the fraction of UV radiation that was obscured.
 
 ## the Meurer 1999 relation
 
@@ -38,7 +38,11 @@ this is the single most-used recipe for correcting rest-UV fluxes without IR dat
 
 ## application to high-$z$
 
-at $z = 4$–$10$, rest-frame UV sits in HST/JWST bands, and the β-IRX relation is the main tool for recovering dust-obscured SFR. Bouwens 2009–2016 used β maps to argue that Lyman-break galaxies at $z \gtrsim 5$ are nearly dust-free. this is being revised post-ALMA and post-JWST (Inami 2022, Ferrara 2023).
+at $z = 4$ to $10$, rest-frame UV sits in HST/JWST bands, and the β-IRX relation is the main tool for recovering dust-obscured SFR. Bouwens 2009-2016 used β maps to argue that Lyman-break galaxies at $z \gtrsim 5$ are nearly dust-free. this is being revised post-ALMA and post-JWST (Inami 2022, Ferrara 2023).
+
+## where it goes wrong
+
+- the relation differs between local starbursts, the SMC and high-$z$ galaxies. one calibration does not fit all.
 
 ## connections
 

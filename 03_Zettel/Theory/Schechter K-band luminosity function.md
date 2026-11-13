@@ -37,6 +37,10 @@ with $\phi^* = 0.0166\, h^3\, \text{Mpc}^{-3}$, the number density of $L^*$ gala
 
 $\alpha = -0.81$ is *flatter* than the typical optical LF ($\alpha \sim -1.2$). that is because K-band is biased toward older, more massive populations, so the dwarf-galaxy contribution to $\alpha$ is suppressed. the *intrinsic* faint-end slope at fixed stellar mass is steeper.
 
+## where it goes wrong
+
+- the K band follows stellar mass best, but the faint end is still incomplete for low surface brightness galaxies.
+
 ## connections
 
 - the form: [[Schechter function]], [[Schechter function in magnitudes]]

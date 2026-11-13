@@ -35,7 +35,7 @@ this is why "stars twinkle, planets don't."
 scintillation matters mainly when:
 - **transit photometry**: exoplanet transits are $\Delta F/F \sim 10^{-3}$, comparable to scintillation. precision photometry from ground requires sites with low scintillation, large telescopes, and special techniques (e.g. defocusing the telescope to spread the PSF over many pixels, simultaneous multi-band).
 - **high-speed photometry**: occultations, asteroseismology, fast variability.
-- **interferometric phase**: scintillation-like wavefront fluctuations limit ground-based interferometers; AO partly mitigates.
+- **interferometric phase**: scintillation-like wavefront fluctuations limit ground-based interferometers, and AO partly mitigates.
 
 for typical broadband imaging integrating over $\gtrsim 30$ s, **photon noise dominates** and scintillation is irrelevant.
 
@@ -45,7 +45,7 @@ these are related but different:
 - **seeing** $r_0$, $\theta_{\rm seeing}$: spatial blurring of an image (PSF FWHM).
 - **scintillation** $\sigma_I/I$: temporal flickering of intensity.
 
-both come from the same atmospheric turbulence, but they live in different observables. seeing is the dominant problem for *imaging resolution*; scintillation is the dominant problem for *time-series photometry from small telescopes*.
+both come from the same atmospheric turbulence, but they live in different observables. seeing is the dominant problem for *imaging resolution*. scintillation is the dominant problem for *time-series photometry from small telescopes*.
 
 ## see also
 

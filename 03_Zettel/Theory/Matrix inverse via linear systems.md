@@ -4,14 +4,14 @@ title: "Matrix inverse via linear systems"
 ---
 # Matrix inverse via linear systems
 
-the right way to compute $A^{-1}$ when I actually need it: solve $AX = I$ column by column, never use cofactor expansion or any direct inversion formula. and most of the time, **I don't need $A^{-1}$ at all** — I need $A^{-1}\mathbf{b}$, which is just `np.linalg.solve(A, b)`.
+the right way to compute $A^{-1}$ when I actually need it: solve $AX = I$ column by column, never use cofactor expansion or any direct inversion formula. and most of the time, **I don't need $A^{-1}$ at all**. I need $A^{-1}\mathbf{b}$, which is just `np.linalg.solve(A, b)`.
 
 ## why never invert directly
 
 three problems with computing the inverse explicitly and then multiplying:
 
 1. **slower**: solving $A\mathbf{x} = \mathbf{b}$ once is $O(N^3)$. computing $A^{-1}$ is also $O(N^3)$ but with a worse constant ($\sim 3\times$). then multiplying $A^{-1}\mathbf{b}$ is $O(N^2)$. total: $\sim 4 N^3/3$ vs $N^3/3$ for direct solve
-2. **less accurate**: each operation accumulates roundoff. inverting then multiplying is two roundoff-laden operations; a direct solve is one
+2. **less accurate**: each operation accumulates roundoff. inverting then multiplying is two roundoff-laden operations. a direct solve is one
 3. **wasteful when $A$ is sparse**: the inverse of a sparse matrix is generally **dense**, even if $A$ is mostly zeros. for huge sparse systems (PDE discretizations), forming $A^{-1}$ is impossible
 
 so: never write `inv(A) @ b`. write `np.linalg.solve(A, b)`.
@@ -24,7 +24,7 @@ a few legitimate use cases:
 - **many right-hand sides** that aren't known in advance: precompute $A^{-1}$, then apply it $M$ times. but **LU is better**: factor once, solve $M$ times in $O(M N^2)$
 - **the inverse is intrinsic to the formula**: in some pedagogical or theoretical contexts
 
-## the algorithm: solve $AX = I$ column by column
+## the algorithm - solve $AX = I$ column by column
 
 let $X = (\mathbf{x}_0, \mathbf{x}_1, \ldots, \mathbf{x}_{N-1})$ and $I = (\mathbf{e}_0, \mathbf{e}_1, \ldots, \mathbf{e}_{N-1})$ where $\mathbf{e}_i$ is the $i$-th standard basis vector. then $AX = I$ means $A\mathbf{x}_i = \mathbf{e}_i$ for each $i$. solve each:
 
@@ -48,7 +48,7 @@ where $\text{adj}(A)_{ij} = (-1)^{i+j} M_{ji}$ and $M_{ji}$ is a minor determina
 
 ```python
 A_inv = np.linalg.inv(A)             # if you really need the inverse
-x = np.linalg.solve(A, b)            # if you just need A^{-1} b — preferred
+x = np.linalg.solve(A, b)            # if you just need A^{-1} b - preferred
 ```
 
 `np.linalg.inv` does exactly the column-by-column LU procedure under the hood.
@@ -75,7 +75,7 @@ for full-rank tall $A$ ($M > N$), $A^+ = (A^T A)^{-1} A^T$, and $A^+ \mathbf{b}$
 ## astrophysics use cases
 
 - **fisher matrix inversion** for forecasting parameter constraints from a dataset
-- **propagating error covariance** through a linear transformation: $\Sigma_{\rm new} = J \Sigma J^T$ where $J$ is the Jacobian of the transformation — needs the covariance, not its inverse, but the analogous operation does need inversion
+- **propagating error covariance** through a linear transformation: $\Sigma_{\rm new} = J \Sigma J^T$ where $J$ is the Jacobian of the transformation, needs the covariance, not its inverse, but the analogous operation does need inversion
 - **deconvolution of an image with a known PSF**: ill-conditioned, regularization essential
 - **inverting a rotation matrix**: trivial since $R^{-1} = R^T$, no general algorithm needed
 

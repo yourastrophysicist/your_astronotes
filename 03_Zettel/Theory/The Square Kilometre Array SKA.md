@@ -3,7 +3,7 @@ layout: "default"
 title: "The Square Kilometre Array SKA"
 tags: ""
 ---
-> The SKA is the ultimate next-generation radio observatory, combining unprecedented collecting area and computing power across two continents.
+> The SKA is the next-generation radio observatory, combining very large collecting area and computing power across two continents.
 
 ---
 
@@ -12,7 +12,7 @@ tags: ""
 ![Square Kilometre Array (SKA): next-generation radio observatory spanning Australia and South Africa.](../../assets/images/The_Square_Kilometre_Array_SKA.png)
 
 
-Radio signals from the early universe and distant galaxies are incredibly faint. To detect them, you need an enormous amount of metal pointing at the sky to collect the photons. The Square Kilometre Array aims to build a total collecting area approaching one square kilometer, vastly surpassing any existing instrument.
+Radio signals from the early universe and distant galaxies are very faint. To detect them, you need an enormous amount of metal pointing at the sky to collect the photons. The Square Kilometre Array aims to build a total collecting area approaching one square kilometer, vastly surpassing any existing instrument.
 
 Because different science goals require observing at different frequencies, the SKA is split into two entirely different types of arrays. The low-frequency array looks like fields of metal wire antennas to catch long wavelengths, while the mid-frequency array uses traditional steerable dishes. By networking thousands of these receivers together over baselines stretching hundreds of kilometers, the SKA will provide extreme sensitivity and high angular resolution, generating exabytes of data that will push the limits of modern supercomputing.
 

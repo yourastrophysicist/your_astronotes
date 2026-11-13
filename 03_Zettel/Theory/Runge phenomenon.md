@@ -29,7 +29,7 @@ $$f(x) - L(x) = \frac{f^{(N+1)}(\xi)}{(N+1)!} \prod_{i=0}^N (x - x_i)$$
 
 the issue is the **node polynomial** $\omega(x) = \prod (x - x_i)$. for equispaced $x_i$, $\lvert \omega\rvert$ is small in the middle of the interval but grows rapidly toward the endpoints. for $f$ analytic but with poles in the complex plane near $\pm 1$ (Runge's example has poles at $x = \pm i/5$), $f^{(N+1)}/(N+1)!$ does not decay fast enough to compensate.
 
-## the cure: Chebyshev nodes
+## the cure - Chebyshev nodes
 
 place the interpolation points at the **Chebyshev nodes**:
 
@@ -42,7 +42,7 @@ with Chebyshev nodes:
 - polynomial interpolation becomes a robust high-accuracy method
 - this is the foundation of **spectral methods** in PDE solving
 
-## the alternative cure: piecewise polynomials
+## the alternative cure - piecewise polynomials
 
 instead of one high-degree polynomial through all points, use *low-degree* polynomials on each interval, stitched together. examples:
 
@@ -54,7 +54,7 @@ these *cannot* exhibit Runge because the polynomial degree is bounded (1, 3, etc
 
 **this is why we use cubic splines in practice and not high-degree polynomials.**
 
-## diagnostic: when am I in danger?
+## diagnostic - when am I in danger?
 
 three warning signs that I am at risk:
 
@@ -64,7 +64,7 @@ three warning signs that I am at risk:
 
 if any of these, switch to splines.
 
-## the practical takeaways
+## the practical points
 
 | degree | nodes | risk |
 |---|---|---|
@@ -77,13 +77,13 @@ if any of these, switch to splines.
 
 ## astrophysics implications
 
-- **table interpolation**: the standard approach (`scipy.interpolate.interp1d` with `kind='cubic'` or `CubicSpline`) is *not* high-degree polynomial — it is piecewise cubic. so it is Runge-safe by construction
+- **table interpolation**: the standard approach (`scipy.interpolate.interp1d` with `kind='cubic'` or `CubicSpline`) is *not* high-degree polynomial. it is piecewise cubic. so it is Runge-safe by construction
 - **polynomial fitting** of order > 5 to data is bad practice, period. fit splines instead
 - **spectral methods** in PDE solving rely on Chebyshev or Fourier expansions precisely because they avoid Runge
 
-## a beautiful counterintuition
+## a counterintuition
 
-the Runge phenomenon is a striking example of "more is less" in numerical analysis. it teaches a lesson: *the choice of method must respect the geometry of the problem*. uniform sampling looks fair and democratic but it is the wrong choice for global polynomial interpolation. clustering at the boundaries — the Chebyshev distribution — looks suspicious but is mathematically optimal.
+the Runge phenomenon is a striking example of "more is less" in numerical analysis. it teaches a lesson: *the choice of method must respect the geometry of the problem*. uniform sampling looks fair and democratic but it is the wrong choice for global polynomial interpolation. clustering at the boundaries, the Chebyshev distribution, looks suspicious but is mathematically optimal.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

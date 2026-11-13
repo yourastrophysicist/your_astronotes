@@ -8,7 +8,7 @@ title: "Multi-object spectroscopy MOS"
 
 ### slit-mask MOS
 
-a custom-cut **mask** with multiple short slits at the positions of pre-selected targets. the focal-plane image lands on the mask; only light passing through the slits enters the spectrograph. the dispersing element produces a stack of short spectra on the detector, one per slit.
+a custom-cut **mask** with multiple short slits at the positions of pre-selected targets. the focal-plane image lands on the mask. only light passing through the slits enters the spectrograph. the dispersing element produces a stack of short spectra on the detector, one per slit.
 
 - **slit width**: $\sim 1''$ to $2''$.
 - **slit length**: typically $\sim 5''$ to $20''$ to allow sky-subtraction with the target plus its surroundings.
@@ -23,7 +23,7 @@ optical **fibers** are positioned at target locations in the focal plane (manual
 
 - **fiber diameter**: $\sim 2''$ to $3''$ on the sky.
 - **multiplexing**: thousands of fibers in modern systems.
-- **positioning**: robotic in modern instruments (DESI: $5000$ fibers, repositioned in $\sim 30$ s; LAMOST: $4000$).
+- **positioning**: robotic in modern instruments (DESI: $5000$ fibers, repositioned in $\sim 30$ s, LAMOST: $4000$).
 
 examples: SDSS BOSS/eBOSS ($1000$ fibers), DESI ($5000$), LAMOST ($4000$), 4MOST ($2436$), MOONS (VLT, $1000$).
 
@@ -50,9 +50,9 @@ velocity dispersions, mass measurements, star-formation classification.
 ## practical issues
 
 - **target selection**: must be done from imaging in advance.
-- **slit/fiber assignment**: optimisation problem (avoid collisions between adjacent fibers; cover as many targets as possible).
-- **sky subtraction**: small slits limit local sky; fibers need dedicated sky fibers spread across the field.
-- **flux calibration**: harder than longslit because each fiber/slit has a slightly different throughput; cross-calibration via standard star fibers and sky-line normalisation.
+- **slit/fiber assignment**: optimisation problem (avoid collisions between adjacent fibers, cover as many targets as possible).
+- **sky subtraction**: small slits limit local sky. fibers need dedicated sky fibers spread across the field.
+- **flux calibration**: harder than longslit because each fiber/slit has a slightly different throughput. cross-calibration via standard star fibers and sky-line normalisation.
 
 ## limits
 
@@ -81,7 +81,7 @@ velocity dispersions, mass measurements, star-formation classification.
 - [[Wavelength calibration]]
 - [[Flux calibration]]
 - [[Survey resources for Obs Astro]]
-- [[Photometric redshifts]] — what MOS surveys spectroscopically confirm
+- [[Photometric redshifts]] - what MOS surveys spectroscopically confirm
 
 
 

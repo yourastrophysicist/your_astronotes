@@ -20,7 +20,7 @@ cumulative shell capacities: $1s$ (2), $2s + 2p$ (8), $3s + 3p$ (8), $3d$ (10), 
 electrons fill orbitals from lowest energy to highest, following the **Madelung rule** ($n + \ell$ ascending, ties broken by smaller $n$):
 $$1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p, 7s, 5f, 6d, 7p$$
 
-this is approximate; some elements have anomalies (e.g. Cr is $[Ar] 3d^5 4s^1$, not $3d^4 4s^2$, because half-filled $d$-shell is energetically favourable).
+this is approximate. some elements have anomalies (e.g. Cr is $[Ar] 3d^5 4s^1$, not $3d^4 4s^2$, because half-filled $d$-shell is energetically favourable).
 
 ## the configurations of common astronomical species
 

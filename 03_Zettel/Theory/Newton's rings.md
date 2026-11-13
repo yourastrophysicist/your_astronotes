@@ -6,7 +6,7 @@ title: "Newton's rings"
 
 the most famous example of [[Fringes of equal thickness]]: concentric circular interference fringes in the air gap between a curved lens and a flat reference. observed by Newton, predicted (correctly!) by Hooke before him, and definitively explained by Young and Fresnel in the early 1800s.
 
-historically: the experiment that *should have* convinced Newton of the wave nature of light (it didn't; he persisted with corpuscular theory).
+historically: the experiment that *should have* convinced Newton of the wave nature of light (it didn't, he persisted with corpuscular theory).
 
 ## the geometry
 
@@ -31,14 +31,14 @@ $$\Lambda(r) = 2 d(r) = \frac{r^2}{R}$$
 with one of the reflections being a $\pi$-phase shift (air-to-glass at the bottom interface), the *bright* fringes occur at:
 $$2d(r) = (m + 1/2) \lambda \implies r_m = \sqrt{(m + 1/2) R \lambda}$$
 
-so the bright rings have radii proportional to $\sqrt m$ — they get closer together at larger radii. the central spot at $r = 0$ is *dark* (because of the $\pi$ phase shift and zero geometric OPD).
+so the bright rings have radii proportional to $\sqrt m$. they get closer together at larger radii. the central spot at $r = 0$ is *dark* (because of the $\pi$ phase shift and zero geometric OPD).
 
 ## the wavelength-measurement trick
 
 count the radii of the bright rings, and you can solve for $\lambda$:
 $$\lambda = \frac{r_m^2}{(m + 1/2) R}$$
 
-for $R = 2$ m and $\lambda = 500$ nm: $r_1 \sim 1.2$ mm; the radii are $\sim$ mm-scale, easily measured with a ruler.
+for $R = 2$ m and $\lambda = 500$ nm: $r_1 \sim 1.2$ mm. the radii are $\sim$ mm-scale, easily measured with a ruler.
 
 historically: this was a primary way to measure wavelengths of light in the 19th century.
 
@@ -53,7 +53,7 @@ this is one of the cleanest demonstrations of the *half-wavelength reflection ru
 ## the historical context
 
 - **Hooke** (1660s): observed colored rings between a lens and flat, attributed them correctly to the air gap
-- **Newton** (1672): performed the experiment systematically, attributed the rings to "fits of easy reflection" — a crude wave-particle hybrid theory
+- **Newton** (1672): performed the experiment systematically, attributed the rings to "fits of easy reflection", a crude wave-particle hybrid theory
 - **Young** (1801): correctly explained as interference
 - **Fresnel** (1819): full mathematical treatment
 
@@ -66,7 +66,7 @@ Newton's rings are still used as a diagnostic in optical-shop testing:
 - count the rings to gauge surface quality
 - a "good" lens has 0-2 rings of departure from the reference
 
-the modern descendant is **phase-shifting Fizeau interferometry** — much more sensitive, but the basic geometry is the same.
+the modern descendant is **phase-shifting Fizeau interferometry**, much more sensitive, but the basic geometry is the same.
 
 ## the soap-bubble color analog
 

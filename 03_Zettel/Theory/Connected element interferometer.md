@@ -12,7 +12,7 @@ a radio interferometer in which all antennas share a single common local oscilla
 - **central correlator**: signals from all antennas come back to the central facility for real-time correlation
 - **synchronized clocks**: every antenna's data stream is timestamped with the same master clock
 
-result: phase coherence is maintained across all antennas automatically. no post-correlation phase calibration needed for atmospheric stability — only for source-position tracking.
+result: phase coherence is maintained across all antennas automatically. no post-correlation phase calibration needed for atmospheric stability, only for source-position tracking.
 
 ## the advantages
 
@@ -39,7 +39,7 @@ three:
 
 ### 1. signal transport over cable
 
-at high frequency (e.g. ALMA 230 GHz), signals attenuate severely in cables. so each antenna does the LO mixing locally and only the IF (which is at a manageable few GHz) is transported to the central facility. but even IF over fiber has limits — typically 100-300 km maximum.
+at high frequency (e.g. ALMA 230 GHz), signals attenuate severely in cables. so each antenna does the LO mixing locally and only the IF (which is at a manageable few GHz) is transported to the central facility. but even IF over fiber has limits, typically 100-300 km maximum.
 
 ### 2. reconfiguration logistics
 
@@ -47,7 +47,7 @@ moving 50+ antennas physically is non-trivial. ALMA reconfigures take ~weeks of 
 
 ### 3. atmospheric phase
 
-even with locked LOs, the atmospheric phase corruption is identical to optical interferometry — though slower at radio wavelengths. CEIs at mm wavelengths still need atmospheric phase tracking (water vapor radiometers, fast switching).
+even with locked LOs, the atmospheric phase corruption is identical to optical interferometry, though slower at radio wavelengths. CEIs at mm wavelengths still need atmospheric phase tracking (water vapor radiometers, fast switching).
 
 ## examples
 

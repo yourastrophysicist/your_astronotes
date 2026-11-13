@@ -8,7 +8,7 @@ up: [[Pablo_03_Star_formation_in_galaxies]]
 
 ## the defining signature
 
-a galaxy that had a recent, intense starburst (last $\sim 0.1$–$1$ Gyr), whose nebular emission has now faded but whose A-star population still dominates the optical. spectroscopically:
+a galaxy that had a recent, intense starburst (last $\sim 0.1$ to $1$ Gyr), whose nebular emission has now faded but whose A-star population still dominates the optical. spectroscopically:
 
 - **strong Balmer absorption lines** (Hδ, Hγ, Hβ equivalent widths $> 5$ Å): A-type MS stars, lifetimes $\sim 1$ Gyr, ideal age marker of a recent burst
 - **no emission lines** ([OII], Hα absent or weak): current SFR $\sim 0$, all O stars dead
@@ -16,13 +16,13 @@ a galaxy that had a recent, intense starburst (last $\sim 0.1$–$1$ Gyr), whose
 
 ## why the window is narrow
 
-the Balmer absorption strength peaks at $\sim 0.5$ Gyr after the burst and fades as A stars evolve off the MS. so post-starburst status is visible for only a $\sim 0.5$–$1$ Gyr window, a narrow slice of galaxy history.
+the Balmer absorption strength peaks at $\sim 0.5$ Gyr after the burst and fades as A stars evolve off the MS. so post-starburst status is visible for only a $\sim 0.5$ to $1$ Gyr window, a narrow slice of galaxy history.
 
 the short window means PSBs are rare: $\sim 1$% of galaxies in low-$z$ surveys, growing to $\sim 5$% at $z \sim 1$ (Wild 2009, Wu 2020).
 
 ## the Kriek 2010 figure
 
-the Pablo slide shows Kriek et al. 2010 SEDs of 8.77–9.20 log-age templates. key points:
+the Pablo slide shows Kriek et al. 2010 SEDs of 8.77-9.20 log-age templates. key points:
 
 - the continuum is dominated by A-star Balmer breaks at 4000 Å
 - model library (BC03 vs M05) differences appear in the NIR
@@ -42,6 +42,10 @@ evidence:
 - PSBs mark the **instantaneous quenching channel**: the fast-quench route in Schawinski 2014's "two pathways"
 - their number density constrains the total mass flux from blue cloud to red sequence
 - at $z > 1$ they may dominate the growth of the red sequence (Tran 2004, Wild 2016)
+
+## where it goes wrong
+
+- strong Balmer absorption with no emission can also come from dust hiding the emission lines.
 
 ## connections
 

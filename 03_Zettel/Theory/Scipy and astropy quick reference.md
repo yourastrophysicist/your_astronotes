@@ -6,7 +6,7 @@ title: "Scipy and astropy quick reference"
 
 the two ecosystems that turn raw numpy + matplotlib into a proper astrophysics toolkit.
 
-## scipy: the numerical-methods sister of numpy
+## scipy - the numerical-methods sister of numpy
 
 scipy is organized as submodules. import what you need:
 
@@ -85,7 +85,7 @@ Q, R = qr(A)
 U, s, Vt = svd(A)
 ```
 
-## astropy: astrophysics-specific tools
+## astropy - astrophysics-specific tools
 
 ### units
 

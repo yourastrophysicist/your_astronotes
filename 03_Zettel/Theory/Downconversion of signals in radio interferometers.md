@@ -59,7 +59,7 @@ connected arrays distribute a coherent LO or clock reference. VLBI stations use 
 
 ## relation to optical direct detection
 
-radio can downconvert and record voltages. optical interferometry usually cannot; optical/IR systems must physically combine beams before detection. this is the core difference in [[Heterodyne vs direct detection]].
+radio can downconvert and record voltages. optical interferometry usually cannot. optical/IR systems must physically combine beams before detection. this is the core difference in [[Heterodyne vs direct detection]].
 
 ## exam sentence
 

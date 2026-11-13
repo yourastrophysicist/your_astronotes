@@ -10,7 +10,7 @@ up: [[Pablo_03_Star_formation_in_galaxies]]
 
 different SFR tracers probe different stellar populations, different timescales, and suffer different systematics. when a galaxy has SFR(Hα) ≠ SFR(UV) ≠ SFR(IR), is one of them wrong, or are they all right and telling me about the galaxy's recent history?
 
-## the Pablo slide: Cardiel 2003
+## the Pablo slide - Cardiel 2003
 
 Pablo shows a plot of SFR(IR) / SFR(Hα) vs $L_{\text{IR}}$ for galaxies at $z \sim 0$, $z \sim 0.4$, and $z \sim 0.8$ (Cardiel et al. 2003). key features:
 
@@ -30,7 +30,7 @@ if a galaxy has:
 
 then UV, Hα, IR, and radio all return the same SFR to within $\sim 0.2$ dex.
 
-## when they disagree: diagnostic value
+## when they disagree - diagnostic value
 
 - **Hα > UV**: recent burst (last $\sim 10$ Myr), UV still catching up
 - **UV > Hα**: recent quench (Hα from dying O stars vanishes in 10 Myr, UV persists for $\sim 100$ Myr). post-starburst regime
@@ -55,6 +55,10 @@ if no IR, use UV + IRX-β. if no β, use Balmer-decrement-corrected Hα. in all 
 - Buat et al. 2002: UV + IR consistency
 - Sullivan et al. 2000: Hα vs UV in deep-field SFGs
 - Cardiel et al. 2003: tracer ratios vs $L_{\text{IR}}$ and $z$
+
+## where it goes wrong
+
+- agreement within a factor of two between tracers is normal, not a failure.
 
 ## connections
 

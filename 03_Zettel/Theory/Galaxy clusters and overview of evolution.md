@@ -2,9 +2,9 @@
 layout: "default"
 title: "Galaxy clusters and overview of evolution"
 ---
-**galaxy clusters** are the largest gravitationally bound structures in the universe. they contain $10^{14}$–$10^{15}\, M_\odot$ in dark matter, hot gas, and (a relatively small fraction in) galaxies. they are the cosmological "lighthouses" — their abundance and evolution trace the growth of cosmic structure.
+**galaxy clusters** are the largest gravitationally bound structures in the universe. they contain $10^{14}$ to $10^{15}\, M_\odot$ in dark matter, hot gas, and (a relatively small fraction in) galaxies. they are the cosmological "lighthouses" - their abundance and evolution trace the growth of cosmic structure.
 
-beyond clusters, the universe is structured into **superclusters** (loosely bound), **filaments** (the cosmic web), and **voids** — the large-scale structure that is the modern observational frontier.
+beyond clusters, the universe is structured into **superclusters** (loosely bound), **filaments** (the cosmic web), and **voids**, the large-scale structure that is the modern observational frontier.
 
 ---
 
@@ -33,7 +33,7 @@ three roughly comparable mass components:
 | **hot intracluster medium (ICM)** | $\sim 13\%$ | X-ray emission, SZ effect |
 | **galaxies (stars)** | $\sim 2\%$ | optical/NIR imaging |
 
-the **galaxies are the smallest mass component**! most baryons in clusters are in the ICM — diffuse hot gas at $T \sim 10^7$–$10^8$ K, emitting X-rays via thermal Bremsstrahlung (see [[Bremsstrahlung]]).
+the **galaxies are the smallest mass component**! most baryons in clusters are in the ICM, diffuse hot gas at $T \sim 10^7$ to $10^8$ K, emitting X-rays via thermal Bremsstrahlung (see [[Bremsstrahlung]]).
 
 ---
 
@@ -61,7 +61,7 @@ CMB photons passing through the hot ICM get **inverse Compton scattered** by the
 - **thermal SZ**: $\Delta T/T \sim -2 y$ at low frequencies, $+ 2 y$ at high frequencies, where $y$ is the **Compton y-parameter** $\propto n_e T_e$ integrated along the line of sight
 - **kinetic SZ**: from the bulk motion of the cluster (much smaller)
 
-SZ is **redshift-independent**: the SZ flux depends only on the cluster's gas content, not on its distance. this makes SZ surveys (Planck, ACT, SPT) excellent for cluster cosmology — sensitive to clusters at any redshift.
+SZ is **redshift-independent**: the SZ flux depends only on the cluster's gas content, not on its distance. this makes SZ surveys (Planck, ACT, SPT) excellent for cluster cosmology, sensitive to clusters at any redshift.
 
 ---
 
@@ -97,7 +97,7 @@ beyond individual clusters, the **large-scale structure** consists of:
 - **filaments** connecting them (containing most of the cosmic baryons in the **WHIM**)
 - **voids** between filaments
 
-the cosmic web is the result of gravitational growth of primordial perturbations (see [[Linear evolution of perturbations in expanding universe]]). N-body simulations (Millennium, IllustrisTNG, EAGLE) reproduce the observed structure remarkably well.
+the cosmic web is the result of gravitational growth of primordial perturbations (see [[Linear evolution of perturbations in expanding universe]]). N-body simulations (Millennium, IllustrisTNG, EAGLE) reproduce the observed structure well.
 
 → see [[Matter power spectrum and BAO]] for the statistical description.
 
@@ -116,6 +116,20 @@ a brief summary of how galaxies evolve from $z \sim 10$ to today:
 → see [[Cosmic star formation history]] for the integrated SFR vs cosmic time (the Madau-Dickinson plot).
 
 ---
+
+## worked example
+
+a virial mass for Coma, with $\sigma = 1000$ km/s and $R = 2$ Mpc:
+
+$$M \simeq \frac{3\sigma^2R}{G} = \frac{3 \times 10^{12} \times 6.2 \times 10^{22}}{6.67 \times 10^{-11}} = 2.8 \times 10^{45}\ \text{kg} = 1.4 \times 10^{15}\,M_\odot$$
+
+the stars add up to a few $10^{13}\,M_\odot$, the hot gas to about $10^{14}\,M_\odot$. the rest is dark matter.
+
+## where it goes wrong
+
+- the virial theorem assumes the cluster is relaxed. a merging cluster gives a mass that is too high.
+- the factor in front of $\sigma^2R/G$ depends on the density profile and on how $R$ is defined.
+- the hot gas outweighs the galaxies by a factor of five to ten.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -139,7 +153,7 @@ a brief summary of how galaxies evolve from $z \sim 10$ to today:
 - [[Linear evolution of perturbations in expanding universe]]
 - [[Matter power spectrum and BAO]]
 - [[Cosmic star formation history]]
-- [[Bremsstrahlung]] — for the ICM X-ray emission
+- [[Bremsstrahlung]] - for the ICM X-ray emission
 - [[Observational_Cosmology_MOC]]
 
 

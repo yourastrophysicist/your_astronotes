@@ -14,7 +14,7 @@ valid in LS coupling, electric dipole approximation:
 4. **$\Delta L = 0, \pm 1$** but not $0 \to 0$.
 5. **$\Delta J = 0, \pm 1$** but not $0 \to 0$.
 6. **$\Delta M_J = 0, \pm 1$** but not $0 \to 0$ if $\Delta J = 0$.
-7. **$\Delta S = 0$** (no spin flip; total spin is preserved in LS coupling).
+7. **$\Delta S = 0$** (no spin flip, total spin is preserved in LS coupling).
 
 so a permitted E1 transition is one that:
 - changes parity.
@@ -53,7 +53,7 @@ at laboratory densities ($n \sim 10^{19}$ cm$^{-3}$), an excited atom in a forbi
 
 at nebular densities ($n \sim 10^2$ to $10^5$ cm$^{-3}$), collisional de-excitation rate is much smaller than the small radiative rate, so the forbidden-line photon escapes. hence "forbidden" lines are abundant and even **bright** in nebulae.
 
-the **critical density** is $n_c = A_{ul}/q_{ul}$. below $n_c$, line is at full strength; above, it is suppressed. forbidden lines have very low $n_c$ ($\sim 10^4$ to $10^7$ cm$^{-3}$), hence the density-diagnostic role of $[SII]\,\lambda 6716/6731$ ratios.
+the **critical density** is $n_c = A_{ul}/q_{ul}$. below $n_c$, line is at full strength. above, it is suppressed. forbidden lines have very low $n_c$ ($\sim 10^4$ to $10^7$ cm$^{-3}$), hence the density-diagnostic role of $[SII]\,\lambda 6716/6731$ ratios.
 
 ## practical use on the exam
 

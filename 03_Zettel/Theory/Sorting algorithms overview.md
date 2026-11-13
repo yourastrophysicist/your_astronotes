@@ -4,13 +4,13 @@ title: "Sorting algorithms overview"
 ---
 # Sorting algorithms overview
 
-a small but unavoidable block. sorting comes up everywhere: building histograms, finding nearest neighbors, ranking, merging catalogs, computing percentiles. and it is the canonical example for "complexity of an algorithm" — every textbook walks through the $O(N^2)$ vs $O(N \log N)$ comparison here.
+a small but unavoidable block. sorting comes up everywhere: building histograms, finding nearest neighbors, ranking, merging catalogs, computing percentiles. and it is the canonical example for "complexity of an algorithm", every textbook walks through the $O(N^2)$ vs $O(N \log N)$ comparison here.
 
 ## the four classical algorithms
 
 ### bubble sort
 
-repeatedly compare adjacent elements and swap if out of order. one pass moves the largest element to the end; $N$ passes sort the whole array.
+repeatedly compare adjacent elements and swap if out of order. one pass moves the largest element to the end. $N$ passes sort the whole array.
 
 ```python
 def bubble_sort(a):
@@ -71,7 +71,7 @@ def merge(a, b):
     return out
 ```
 
-complexity: $O(N \log N)$ in *all* cases — guaranteed, no worst-case explosion. needs $O(N)$ extra memory.
+complexity: $O(N \log N)$ in *all* cases, guaranteed, no worst-case explosion. needs $O(N)$ extra memory.
 
 ## the comparison
 
@@ -105,7 +105,7 @@ these are rarely useful in scientific computing because the constants are large 
 
 - **python's `sorted()` and `list.sort()`**: Timsort, a hybrid of mergesort and insertion sort that exploits already-sorted runs in real-world data
 - **numpy's `np.sort()`**: defaults to quicksort, with `kind='mergesort'` and `kind='heapsort'` available
-- **numpy's `np.argsort()`**: returns the *indices* that would sort the array — extremely useful for sorting one array by the order of another
+- **numpy's `np.argsort()`**: returns the *indices* that would sort the array, extremely useful for sorting one array by the order of another
 
 never write a sorting algorithm in production. use the built-in:
 
@@ -121,8 +121,8 @@ arr_sorted_by_b = arr[np.argsort(b)]    # sort arr by the order of b
 - **building a histogram from sample positions**: bin assignment is essentially a sort
 - **k-nearest-neighbor search**: sort by distance, take the first k
 - **finding the brightest sources** in a catalog: $O(N \log N)$ sort, take top
-- **median computations**: sort then index — $O(N \log N)$. or use `np.partition` for $O(N)$
-- **merging two catalogs**: stable sort by RA, then sort by Dec, with index tracking — Timsort handles stability
+- **median computations**: sort then index, $O(N \log N)$. or use `np.partition` for $O(N)$
+- **merging two catalogs**: stable sort by RA, then sort by Dec, with index tracking, Timsort handles stability
 - **MCMC posterior quantiles**: `np.percentile` does the right thing internally
 
 <!-- sources:wiki-arxiv -->

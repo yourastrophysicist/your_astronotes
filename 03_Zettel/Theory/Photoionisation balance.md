@@ -51,7 +51,7 @@ this is the **ionisation stratification** ([[Ionisation stratification]]).
 
 ## photoionisation codes
 
-modern photoionisation codes (Cloudy, MAPPINGS V, MOCASSIN) solve the full ionisation balance for $\sim 30$ elements, $\sim 10$ ionisation stages each, plus thermal balance, line emission, dust, all self-consistently. the gold standard for nebular modelling.
+modern photoionisation codes (Cloudy, MAPPINGS V, MOCASSIN) solve the full ionisation balance for $\sim 30$ elements, $\sim 10$ ionisation stages each, plus thermal balance, line emission, dust, all self-consistently. the standard for nebular modelling.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -72,7 +72,7 @@ modern photoionisation codes (Cloudy, MAPPINGS V, MOCASSIN) solve the full ionis
 - [[Ionisation parameter U]]
 - Strömgren sphere
 - [[Ionisation stratification]]
-- [[Saha ionisation equation]] — LTE analogue
+- [[Saha ionisation equation]] - LTE analogue
 
 
 

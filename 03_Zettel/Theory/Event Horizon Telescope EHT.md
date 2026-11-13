@@ -4,13 +4,13 @@ title: "Event Horizon Telescope EHT"
 ---
 # Event Horizon Telescope (EHT)
 
-a global mm-wave VLBI array assembled to image the event-horizon-scale shadows of supermassive black holes. **first-ever images** of M87's central black hole (April 2019) and Sgr A* (May 2022). the highest-resolution astronomical instrument ever built — $\sim 25$ μas at 230 GHz, comparable to *resolving a CD on the Moon*.
+a global mm-wave VLBI array assembled to image the event-horizon-scale shadows of supermassive black holes. **first-ever images** of M87's central black hole (April 2019) and Sgr A* (May 2022). the highest-resolution astronomical instrument ever built, $\sim 25$ μas at 230 GHz, comparable to *resolving a CD on the Moon*.
 
 ## the telescope-of-telescopes
 
-EHT is a *VLBI campaign* — not a single facility, but a network of mm-wave radio telescopes acting in unison for a few days each year:
+EHT is a *VLBI campaign*, not a single facility, but a network of mm-wave radio telescopes acting in unison for a few days each year:
 
-- **ALMA** (Atacama, Chile): the most sensitive station, providing crucial calibration
+- **ALMA** (Atacama, Chile): the most sensitive station, providing calibration
 - **APEX** (Atacama, Chile): adjacent to ALMA, similar capability
 - **JCMT** (Mauna Kea, Hawaii): 15m dish, K-correlator
 - **SMA** (Mauna Kea, Hawaii): 8-element array used in coherent mode
@@ -25,13 +25,13 @@ baselines span 8000-13000 km, comparable to Earth's diameter. resolution at 230 
 
 ### M87 (April 2019)
 
-the image: a *bright ring* of size ~42 μas, with a dark central depression. the ring is the photon sphere — the radius at which light can orbit the black hole. the dark center is the "shadow" cast by the event horizon.
+the image: a *bright ring* of size ~42 μas, with a dark central depression. the ring is the photon sphere, the radius at which light can orbit the black hole. the dark center is the "shadow" cast by the event horizon.
 
 the ring diameter and asymmetry consistent with **a 6.5 × 10⁹ M_⊙ black hole** at distance 16.8 Mpc, in agreement with prior gas-dynamical and stellar-dynamical mass estimates.
 
 ### Sgr A* (May 2022)
 
-the image: a smaller bright ring, ~50 μas (Sgr A* is closer than M87). the ring diameter consistent with $\sim 4.3 \times 10^6$ M_⊙ at 8 kpc — agreeing with prior dynamical estimates from S-star orbits.
+the image: a smaller bright ring, ~50 μas (Sgr A* is closer than M87). the ring diameter consistent with $\sim 4.3 \times 10^6$ M_⊙ at 8 kpc, agreeing with prior dynamical estimates from S-star orbits.
 
 both images:
 - demonstrate that GR predictions for the photon-orbit geometry match observation
@@ -48,7 +48,7 @@ at 230 GHz, atmospheric water absorption is severe. only the highest, driest sit
 
 ### 2. global timing
 
-each station has its own H-maser. clocks must be cross-calibrated to picosecond precision. before each observation, GPS-based clock comparisons are made; after each observation, clock data is uploaded for offline alignment.
+each station has its own H-maser. clocks must be cross-calibrated to picosecond precision. before each observation, GPS-based clock comparisons are made. after each observation, clock data is uploaded for offline alignment.
 
 ### 3. data volume
 
@@ -56,7 +56,7 @@ EHT 2017 observation: 8 stations × 8 GHz × 32 hours → 5 PB of raw data. ship
 
 ### 4. imaging algorithms
 
-EHT (u, v) coverage is sparse — only $N(N-1)/2 = 28$ baselines for $N = 8$ stations. plus elliptical Earth-rotation tracks fill in gaps. but the resulting dirty beam has very high sidelobes — making image reconstruction difficult.
+EHT (u, v) coverage is sparse, only $N(N-1)/2 = 28$ baselines for $N = 8$ stations. plus elliptical Earth-rotation tracks fill in gaps. but the resulting dirty beam has very high sidelobes, making image reconstruction difficult.
 
 three methods used in parallel for cross-validation:
 - **CLEAN** (traditional): iterative deconvolution
@@ -104,7 +104,7 @@ it is a model for future high-resolution astronomy facilities.
 
 ![07_Images/Interferometry/eht_planet_scale_array_eso1907j.jpg](../../assets/images/eht_planet_scale_array_eso1907j.jpg)
 
-reading cue: the EHT is a planet-scale VLBI array. the telescope is not one dish; it is Earth-sized Fourier sampling at 1.3 mm.
+reading cue: the EHT is a planet-scale VLBI array. the telescope is not one dish. it is Earth-sized Fourier sampling at 1.3 mm.
 
 ![07_Images/Interferometry/eht_m87_eso1907a.jpg](../../assets/images/eht_m87_eso1907a.jpg)
 

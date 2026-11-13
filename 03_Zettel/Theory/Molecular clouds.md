@@ -89,7 +89,7 @@ where $\bar{\rho} \approx M / R^3 \propto \Sigma / R$ is the mean volume density
 More fundamentally, if we express the ratio in terms of mean column density $N(\text{H}_2) = \Sigma / (\mu m_{\text{H}})$ and integrated velocity width $W_{\text{CO}} = \int T_{\text{mb}} dv \approx T_k \sigma_v$
 $$X_{\text{CO}} \equiv \frac{N(\text{H}_2)}{W_{\text{CO}}} \propto \frac{\Sigma}{T_k \sigma_v} \propto \frac{\Sigma}{T_k \sqrt{G \Sigma R}} \propto \frac{\sqrt{\Sigma / R}}{T_k \sqrt{G}} \propto \frac{\sqrt{\bar{n}(\text{H}_2)}}{T_k}$$
 
-Because all self-gravitating clouds in galactic disks share comparable mean volume densities ($\bar{n} \sim 10^2 - 10^3 \text{ cm}^{-3}$) and gas kinetic temperatures ($T_k \sim 10 - 15 \text{ K}$), the ratio $\alpha_{\text{CO}}$ is remarkably invariant!
+Because all self-gravitating clouds in galactic disks share comparable mean volume densities ($\bar{n} \sim 10^2 - 10^3 \text{ cm}^{-3}$) and gas kinetic temperatures ($T_k \sim 10 - 15 \text{ K}$), the ratio $\alpha_{\text{CO}}$ is nearly invariant!
 
 Physical summary - Even though individual lines of sight are optically thick, the Doppler linewidth $\sigma_v$ reflects the gravitational potential depth of the cloud ($M \propto \sigma_v^2 R$). Clouds with more mass have broader linewidths, allowing CO photons from different velocity channels to escape without self-absorption. The cloud-integrated CO luminosity scales directly with the total virial mass.
 
@@ -156,7 +156,7 @@ The virial parameter $\alpha_{\text{vir}} \equiv 5 \sigma_v^2 R / (G M) \approx 
 ```
 
 Presentation notes for the blackboard
-- Extends seamlessly from sub-parsec star-forming dense cores to massive $10^6 M_\odot$ giant molecular cloud complexes.
+- Extends from sub-parsec star-forming dense cores to massive $10^6 M_\odot$ giant molecular cloud complexes.
 - Demonstrates that turbulence is scale-dependent, transferring energy from galactic shear on large scales down to dissipation scales.
 
 ### Graph 2. The Metallicity Dependence of the CO Conversion Factor $\alpha_{\text{CO}}$
@@ -177,7 +177,7 @@ Presentation notes for the blackboard
                                  12 + log10(O/H)
 ```
 
-Key quantitative takeaways for the blackboard
+Key quantitative points for the blackboard
 - At solar metallicity ($12 + \log(\text{O}/\text{H}) \approx 8.7$) - Standard Milky Way factor $\alpha_{\text{CO}} \approx 4.35$.
 - In metal-poor dwarfs ($12 + \log(\text{O}/\text{H}) < 8.2$) - $\alpha_{\text{CO}}$ shoots upward because dust shielding fails and CO photodissociates, while $\text{H}_2$ self-shields.
 - In extreme starbursts and ULIRGs - $\alpha_{\text{CO}}$ drops to $\sim 0.8$ because the entire interstellar medium is a warm, high-pressure, space-filling molecular medium where gas is not confined to discrete bound clouds.

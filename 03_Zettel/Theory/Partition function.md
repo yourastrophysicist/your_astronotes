@@ -55,7 +55,7 @@ quick-and-dirty: for most species below $T = 10^4$ K, $Z_i \approx g_i^{\rm grou
 - [[Saha ionisation equation]]
 - [[Statistical weight g]]
 - [[Population of excited levels]]
-- [[Number density and energy density at thermal equilibrium]] — analogous in cosmological / photon-gas context
+- [[Number density and energy density at thermal equilibrium]] - analogous in cosmological / photon-gas context
 
 
 

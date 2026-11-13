@@ -18,7 +18,7 @@ Because maser amplification is exponential along lines of sight with constant ve
 
 ## 2. Geometry of the Circum-Nuclear Disk in NGC 4258
 
-The prototype and gold standard is the active galaxy **NGC 4258** (M106, Miyoshi et al. 1995; Herrnstein et al. 1999; Humphreys et al. 2013; Reid et al. 2019), observed with the Very Long Baseline Array (VLBA) at sub-milliarcsecond angular resolution ($\theta_{\rm beam} \sim 0.2\,\mathrm{mas}$).
+The prototype and standard is the active galaxy **NGC 4258** (M106, Miyoshi et al. 1995, Herrnstein et al. 1999, Humphreys et al. 2013, Reid et al. 2019), observed with the Very Long Baseline Array (VLBA) at sub-milliarcsecond angular resolution ($\theta_{\rm beam} \sim 0.2\,\mathrm{mas}$).
 
 The observations reveal a razor-thin, slightly warped edge-on accretion disk (inclination $i \approx 82^\circ - 83^\circ$) spanning radii from.
 

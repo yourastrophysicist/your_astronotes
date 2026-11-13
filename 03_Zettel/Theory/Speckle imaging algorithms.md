@@ -8,7 +8,7 @@ algorithms that recover *full* (amplitude + phase) image information from speckl
 
 ## why we need them
 
-basic speckle interferometry recovers $\lvert \tilde O\rvert^2$, the autocorrelation. it's blind to the source's *parity* — a source and its mirror image have identical autocorrelations. so asymmetric sources cannot be uniquely reconstructed.
+basic speckle interferometry recovers $\lvert \tilde O\rvert^2$, the autocorrelation. it's blind to the source's *parity*, a source and its mirror image have identical autocorrelations. so asymmetric sources cannot be uniquely reconstructed.
 
 we need techniques that preserve phase. two main approaches:
 
@@ -22,7 +22,7 @@ for small $\delta\mathbf u$, the atmospheric corruptions at $\mathbf u$ and $\ma
 
 $$\arg C(\mathbf u, \mathbf u + \delta\mathbf u) \approx \phi_O(\mathbf u + \delta\mathbf u) - \phi_O(\mathbf u)$$
 
-integrating these phase differences across the (u, v) plane recovers $\phi_O(\mathbf u)$ — the source phase — modulo a global piston.
+integrating these phase differences across the (u, v) plane recovers $\phi_O(\mathbf u)$, the source phase, modulo a global piston.
 
 combined with $\lvert \tilde O\rvert^2$ from basic speckle interferometry, we have $\tilde O(\mathbf u) = \lvert \tilde O(\mathbf u)\rvert e^{i\phi_O(\mathbf u)}$, fully reconstructing the image.
 
@@ -54,7 +54,7 @@ triple correlation is the *time-domain* equivalent of the bispectrum, computing 
 
 bispectrum is more rigorous and now standard. Knox-Thompson is mostly historical but pedagogically useful.
 
-## the spectral version: spectral speckle masking
+## the spectral version - spectral speckle masking
 
 extension to spectroscopic data. take many short-exposure spectra (rather than images), compute their bispectrum at each spectral channel. recover diffraction-limited spatial information *and* spectral resolution simultaneously.
 

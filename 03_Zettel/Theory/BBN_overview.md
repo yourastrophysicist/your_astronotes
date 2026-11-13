@@ -2,14 +2,9 @@
 layout: "default"
 title: "BBN_overview"
 ---
-primordial nucleosynthesis is the moment, around 3 minutes into cosmic history,
-	when the first nuclei were forged.
-		before this, the universe was so hot that any nucleus made would be photo-dissociated immediately:
-			$T \gtrsim 1$ MeV is enough to keep things ionized down to bare protons and neutrons.
+primordial nucleosynthesis is the moment, around 3 minutes into cosmic history, when the first nuclei were forged. before this, the universe was so hot that any nucleus made would be photo-dissociated immediately: $T \gtrsim 1$ MeV is enough to keep things ionized down to bare protons and neutrons.
 
-as the universe cools below the binding energies of nuclei, light elements start to form
-	first because their binding energies are lower
-		and because heavier elements need lighter ones as fuels in the chain.
+as the universe cools below the binding energies of nuclei, light elements start to form first because their binding energies are lower and because heavier elements need lighter ones as fuels in the chain.
 
 what comes out of BBN, three minutes later:
 - a **large** amount of $^4$He (2 protons + 2 neutrons)
@@ -29,7 +24,7 @@ essentially nothing heavier. the absence of tightly-bound isotopes at mass numbe
 BBN takes place in three rough steps:
 1. $T \sim 10$ MeV (a hundredth of a second after the Big Bang): everything in NSE, nuclear abundances negligible
 2. $T \sim 1$ MeV (one second): the n/p ratio freezes out at $\sim 1/6$
-3. $T \sim 0.3$ to $0.1$ MeV (1 to 3 minutes): D, $^3$H, $^3$He pile up, then $^4$He synthesizes; the **deuterium bottleneck** delays everything until 0.1 MeV
+3. $T \sim 0.3$ to $0.1$ MeV (1 to 3 minutes): D, $^3$H, $^3$He pile up, then $^4$He synthesizes. the **deuterium bottleneck** delays everything until 0.1 MeV
 
 schematically:
 $$(D, {}^3\text{He}, {}^3\text{H}) \to {}^4\text{He} \quad \text{(via various reactions)}$$
@@ -37,7 +32,7 @@ $$\text{and}\quad {}^4\text{He} + ({}^3\text{H}, {}^3\text{He}) \to {}^7\text{Li
 
 the leftover, "unburnt" amounts of D and $^3$He are the BBN abundances we observe today. for example: $p+n \to D + \gamma$, then $D + D \to n + {}^3$He, then ${}^3$He $+ D \to {}^4$He $+ p$.
 
-since nuclei are made of protons and neutrons, the **neutron-to-proton ratio** $n/p$ is the single most important quantity for BBN — essentially all of the neutrons in the universe end up bound into $^4$He.
+since nuclei are made of protons and neutrons, the **neutron-to-proton ratio** $n/p$ is the single most important quantity for BBN. essentially all of the neutrons in the universe end up bound into $^4$He.
 
 ![bbn-03.png](../../assets/images/bbn-03.png)
 
@@ -81,7 +76,7 @@ now substitute back into (1) and use $B_A = Zm_p + (A-Z)m_n - m_A$:
 
 $$\boxed{\,n_A = g_A A^{3/2}\, 2^{-A}(n_p)^Z(n_n)^{A-Z}\,(2\pi/m_N T)^{(3/2)(A-1)}\,e^{B_A/T}\,} \qquad (7)$$
 
-this is the master NSE expression. the exponential factor $e^{B_A/T}$ is the binding-energy enhancement we expect; the prefactors carry the kinematic information.
+this is the master NSE expression. the exponential factor $e^{B_A/T}$ is the binding-energy enhancement we expect. the prefactors carry the kinematic information.
 
 ![bbn-06.png](../../assets/images/bbn-06.png)
 
@@ -130,7 +125,7 @@ $$\eta = \frac{n_N}{n_\gamma} = 1.8\, g_{*s}(T) \cdot \frac{n_N}{s}$$
 
 is **not** strictly constant in general, because $g_{*s}$ changes with temperature. it *is* constant after $e^\pm$ annihilation (which transfers $e^\pm$ entropy to photons at $T \sim m_e/3 \sim 0.5$ MeV), because after that $g_{*s}$ is fixed and $n_\gamma \propto a^{-3}$ rigorously.
 
-since BBN happens at $T \sim 0.3$–$0.1$ MeV (well after $e^\pm$ annihilation), I can treat $\eta$ as a constant equal to its present value.
+since BBN happens at $T \sim 0.3$ to $0.1$ MeV (well after $e^\pm$ annihilation), I can treat $\eta$ as a constant equal to its present value.
 
 ![bbn-13.png](../../assets/images/bbn-13.png)
 
@@ -141,13 +136,13 @@ since BBN happens at $T \sim 0.3$–$0.1$ MeV (well after $e^\pm$ annihilation),
 starting from (7) and the definition of $X_A$, after a few substitutions:
 $$X_A = g_A\,[\zeta(3)^{A-1}\, 2^{(3A-5)/2}\, \pi^{(1-A)/2}]\, A^{5/2}\, (T/m_N)^{(3/2)(A-1)}\, (X_p)^Z (X_n)^{A-Z}\, e^{B_A/T}\, \eta^{A-1}$$
 
-so $X_A \propto \eta^{A-1}$ — a strong dependence on the baryon-to-photon ratio for heavier species.
+so $X_A \propto \eta^{A-1}$, a strong dependence on the baryon-to-photon ratio for heavier species.
 
 ![bbn-15.png](../../assets/images/bbn-15.png)
 
 ---
 
-## initial conditions: the n/p ratio at $T \gg 1$ MeV
+## initial conditions - the n/p ratio at $T \gg 1$ MeV
 
 at very high temperatures (and at $t \ll 1$ s), the balance between neutrons and protons is determined by **weak interactions**:
 
@@ -179,9 +174,9 @@ so as long as $T \gg 1$ MeV, weak interactions are fast, n/p tracks its equilibr
 
 ![bbn-18.png](../../assets/images/bbn-18.png)
 
-### the bigger picture: NSE delays nucleosynthesis to $T \ll \text{MeV}$
+### the bigger picture - NSE delays nucleosynthesis to $T \ll \text{MeV}$
 
-at $T \gg 1$ MeV, the rates for the *nuclear* (electromagnetic) reactions building up light elements are also efficient — so NSE among the various nuclear species holds. but the abundances are still tiny because temperatures are far above the nuclear binding energies.
+at $T \gg 1$ MeV, the rates for the *nuclear* (electromagnetic) reactions building up light elements are also efficient, so NSE among the various nuclear species holds. but the abundances are still tiny because temperatures are far above the nuclear binding energies.
 
 an example: a system of n, p, D, $^3$He, $^4$He, and $^{12}$C in NSE has
 $$(X_n/X_p) = e^{-Q/T}$$
@@ -199,18 +194,18 @@ plotting these abundances as a function of $T$:
 
 (at log $T_{\rm MeV} = -0.5$, i.e. $T \approx 0.3$ MeV, you see $^4$He and $^{12}$C cross over into significant abundance.)
 
-despite the binding energies being 1–8 MeV, **the NSE abundances of nuclear species reach order unity only well below those binding energies, around 0.3 MeV**. why?
+despite the binding energies being 1-8 MeV, **the NSE abundances of nuclear species reach order unity only well below those binding energies, around 0.3 MeV**. why?
 
 > *this is due to the very high entropy of the universe, i.e. the very small baryon-to-photon ratio $\eta \sim 10^{-10}$. even when $T$ is at or below a few MeV, energetic considerations would favor the formation of nuclei, but **entropy** considerations favor still free nucleons.*
 
 a quick estimate: the temperature at which species $A$ becomes abundant ($X_A \sim 1$) is
 $$T_{\rm NUCL} \approx \frac{B_A/(A-1)}{\ln(\eta^{-1}) + 1.5\ln(m_N/T)}$$
 
-so for D one finds $T_{\rm NUCL} \approx 0.07$ MeV; for $^3$He, 0.11 MeV; for $^4$He, 0.28 MeV.
+so for D one finds $T_{\rm NUCL} \approx 0.07$ MeV, for $^3$He, 0.11 MeV, for $^4$He, 0.28 MeV.
 
 ![bbn-21.png](../../assets/images/bbn-21.png)
 
-### the deuterium "bottleneck" — actually entropy
+### the deuterium "bottleneck" - actually entropy
 
 the standard textbook explanation says nucleosynthesis is delayed by the small binding energy of deuterium (2.22 MeV). Bartolo's slides correct this:
 
@@ -224,7 +219,7 @@ a small bottleneck due to D (and $^3$He) does exist around $T \sim 0.1$ MeV: the
 
 ## the three steps of BBN
 
-### Step 1: $T \sim 10$ MeV ($t \sim 10^{-2}$ sec)
+### Step 1 - $T \sim 10$ MeV ($t \sim 10^{-2}$ sec)
 
 universe is **radiation-dominated**. relativistic species: photons, $e^\pm$, three light neutrino species, total $g_* = 10.75$ ($T_\nu = T_\gamma$ at this epoch).
 
@@ -237,14 +232,14 @@ $$X_2 \sim 10^{-12}, \quad X_3 \sim 10^{-23}, \quad X_4 \sim 10^{-30}$$
 
 ![bbn-23.png](../../assets/images/bbn-23.png)
 
-### Step 2: $T \sim 1$ MeV ($t \sim 1$ sec)
+### Step 2 - $T \sim 1$ MeV ($t \sim 1$ sec)
 
 this is where the action happens.
 
 just before this, neutrinos decouple. then at $T \sim m_e/3$, electrons and positrons annihilate, transferring their entropy to photons and raising the photon temperature relative to neutrinos by a factor:
 $$\frac{T_\gamma}{T_\nu} = (11/4)^{1/3} \approx 1.4$$
 
-at around $T \sim 1$ MeV, weak interactions interconverting n and p **freeze out** — $\Gamma_w$ becomes inefficient relative to $H$ — so the n/p ratio gets frozen at approximately its equilibrium value at this epoch, $T_F \sim 0.8$ MeV:
+at around $T \sim 1$ MeV, weak interactions interconverting n and p **freeze out** when $\Gamma_w$ becomes inefficient relative to $H$, so the n/p ratio gets frozen at approximately its equilibrium value at this epoch, $T_F \sim 0.8$ MeV:
 
 $$\left(\frac{n}{p}\right)_{\rm freeze-out} = e^{-Q/T_F} = e^{-1.293/0.8} \approx \frac{1}{6}$$
 
@@ -278,7 +273,7 @@ $$\sigma \propto \exp[-2(A_1 A_2/(A_1+A_2))^{1/3} Z_1 Z_2 T_{\rm MeV}^{-1/3}]$$
 
 ![bbn-28.png](../../assets/images/bbn-28.png)
 
-once the abundances of D, $^3$He, $^3$H reach order unity at $T_{\rm NUCL} \sim 0.1$ MeV, the reactions become fast enough — and **essentially all the neutrons are bound into $^4$He**, the most tightly bound light species.
+once the abundances of D, $^3$He, $^3$H reach order unity at $T_{\rm NUCL} \sim 0.1$ MeV, the reactions become fast enough, and **essentially all the neutrons are bound into $^4$He**, the most tightly bound light species.
 
 mass fraction of $^4$He, assuming all neutrons go into $^4$He:
 $$X_4 = \frac{4 n_4}{n_N} \simeq \frac{4(n_n/2)}{n_n + n_p} = \frac{2(n/p)_{\rm NUCL}}{1 + (n/p)_{\rm NUCL}} \simeq \frac{2(1/7)}{1 + (1/7)} = \frac{1}{4} = 25\%$$
@@ -287,11 +282,11 @@ this is the most famous prediction of BBN: roughly a quarter of the universe's b
 
 ![bbn-29.png](../../assets/images/bbn-29.png)
 
-### Step 3: $T \sim 0.3 \to 0.1$ MeV ($t \sim 1$ to 3 minutes)
+### Step 3 - $T \sim 0.3 \to 0.1$ MeV ($t \sim 1$ to 3 minutes)
 
-at this epoch $g_* = 3.36$ (3 light neutrinos + photons; $e^\pm$ have annihilated). the n/p ratio has slowly decayed to $\sim 1/7$ because of occasional weak processes, mainly free neutron decay.
+at this epoch $g_* = 3.36$ (3 light neutrinos + photons, since $e^\pm$ have annihilated). the n/p ratio has slowly decayed to $\sim 1/7$ because of occasional weak processes, mainly free neutron decay.
 
-(an interesting check: at NSE, $T = 0.3$ MeV would give $(n/p)_{EQ} = e^{-Q/T} = e^{-4.31} \sim 1/74$, much smaller than the actual $1/7$. so the n/p ratio has *decoupled from equilibrium* — exactly what we expect from the freeze-out picture.)
+(an interesting check: at NSE, $T = 0.3$ MeV would give $(n/p)_{EQ} = e^{-Q/T} = e^{-4.31} \sim 1/74$, much smaller than the actual $1/7$. so the n/p ratio has *decoupled from equilibrium*, exactly what we expect from the freeze-out picture.)
 
 ![bbn-26.png](../../assets/images/bbn-26.png)
 
@@ -303,7 +298,7 @@ $$D/H \sim {}^3\text{He}/H \sim 10^{-5} \text{ to } 10^{-4}$$
 this happens because the rates burning them into $^4$He depend on $\eta$:
 $$\Gamma \propto n_{2,3} \sigma v \propto X_{2,3} (\eta n_\gamma) \sigma v$$
 
-so as $X_2$, $X_3$ decrease (because $^4$He is being made), the rates fall and the reactions freeze out — leaving leftover D and $^3$He.
+so as $X_2$, $X_3$ decrease (because $^4$He is being made), the rates fall and the reactions freeze out, leaving leftover D and $^3$He.
 
 since these rates depend on a *power* of $\eta$, **higher $\eta$ → faster burning → less unburnt D and $^3$He**:
 > abundances of D and $^3$He decrease with increasing $\eta$.
@@ -338,9 +333,9 @@ an **increase** in $\tau_{1/2}(n)$ (longer-lived neutron) decreases all weak int
 
 ![bbn-32.png](../../assets/images/bbn-32.png)
 
-### 2. cosmological parameters: $g_*(T)$ and $\eta$
+### 2. cosmological parameters - $g_*(T)$ and $\eta$
 
-since $H \propto g_*^{1/2} T^2$, an increase in $g_*$ leads to a faster expansion, an earlier freeze-out of n/p, and a higher $^4$He abundance. **this is how BBN constrains the number of light particle species in the universe** — extra neutrino species, or primordial gravitational waves, would all increase $g_*$.
+since $H \propto g_*^{1/2} T^2$, an increase in $g_*$ leads to a faster expansion, an earlier freeze-out of n/p, and a higher $^4$He abundance. **this is how BBN constrains the number of light particle species in the universe**. extra neutrino species, or primordial gravitational waves, would all increase $g_*$.
 
 ![bbn-33.png](../../assets/images/bbn-33.png)
 
@@ -380,13 +375,13 @@ the $^4$He mass fraction $Y_p$ slowly increases with $\eta$ (and with $N_\nu$). 
 ### deuterium
 
 the textbook way to measure D historically was through molecules (HD) and meteorites in the solar system. these measurements gave
-$$D/H \sim (1\text{–}4) \times 10^{-10}$$
+$$D/H \sim (1\text{-}4) \times 10^{-10}$$
 
 (after correcting for non-primordial isotopic effects).
 
 D is **easily burned** at $T > 0.5 \times 10^6$ K and **difficult to produce**, so any local D measurement is really a **lower bound** on the primordial abundance, hence a **upper limit on $\eta$**.
 
-the modern way: **absorption lines of quasars by D at high redshift** ($z \sim 3$–$4$) in intervening gas systems. high-z is important because there has been less stellar processing.
+the modern way: **absorption lines of quasars by D at high redshift** ($z \sim 3$ to $4$) in intervening gas systems. high-z is important because there has been less stellar processing.
 
 these measurements actually give a **direct precise determination** of $(D/H)_{\rm prim}$, not just a lower bound:
 
@@ -407,7 +402,7 @@ $$\frac{D + {}^3\text{He}}{H} \sim 10^{-5}$$
 
 (since D burns into $^3$He, the measurements are really for the sum.)
 
-$^3$He is **harder to destroy** than D — at most a factor 2 of stellar processing (the "astration factor"). so these measurements are an **upper bound** on the primordial $^3$He abundance, and a **lower bound on $\eta$** combined with D.
+$^3$He is **harder to destroy** than D. at most a factor 2 of stellar processing (the "astration factor"). so these measurements are an **upper bound** on the primordial $^3$He abundance, and a **lower bound on $\eta$** combined with D.
 
 historically the consistency of BBN predictions for D and $^3$He gave $4 \le \eta \times 10^{10} \le 10$. now with precise D measurements alone, we get a precise $\eta$.
 
@@ -417,7 +412,7 @@ historically the consistency of BBN predictions for D and $^3$He gave $4 \le \et
 
 measurements first came from meteorites and the local interstellar medium. but $^7$Li is both easily destroyed (at $T > 2 \times 10^6$ K) and easily produced (cosmic-ray spallation, AGB stars), so these are not primordial.
 
-starting in 1982, $^7$Li lines were measured in **old, metal-poor stars**. a remarkable correlation appeared: for low-mass metal-poor stars, $^7$Li abundance dropped sharply with mass, but for higher mass stars it formed a **plateau** (the **Spite plateau**):
+starting in 1982, $^7$Li lines were measured in **old, metal-poor stars**. a clear correlation appeared: for low-mass metal-poor stars, $^7$Li abundance dropped sharply with mass, but for higher mass stars it formed a **plateau** (the **Spite plateau**):
 $$\frac{^{7}\text{Li}}{H} \sim O(1) \times 10^{-10}$$
 
 this was the sign that $^7$Li survived in higher-mass envelopes. it sits in the "trough" of the predicted $^7$Li($\eta$) curve, making it a sensitive probe of $\eta$.
@@ -432,7 +427,7 @@ this was the sign that $^7$Li survived in higher-mass envelopes. it sits in the 
 
 modern $^4$He measurements rely on **recombination lines** of (metal-poor) HII regions, both galactic and extragalactic.
 
-stars produce $^4$He, so high-metallicity environments will overestimate the primordial value. but stars also produce metals, and you'd expect a correlation: lower $^4$He at lower metallicity. that is exactly what we see — so the **best environments to measure primordial $^4$He are metal-poor HII regions**.
+stars produce $^4$He, so high-metallicity environments will overestimate the primordial value. but stars also produce metals, and you'd expect a correlation: lower $^4$He at lower metallicity. that is exactly what we see, so the **best environments to measure primordial $^4$He are metal-poor HII regions**.
 
 extrapolating to zero metallicity:
 
@@ -441,7 +436,7 @@ extrapolating to zero metallicity:
 most up-to-date (Aver et al. 2015):
 $$Y_p = \frac{4 n_{^4\text{He}}}{n_N} = 0.2449 \pm 0.0040 \quad (68\%\,\text{CL})$$
 
-remarkably consistent with the prediction of $\sim 25\%$.
+consistent with the prediction of $\sim 25\%$.
 
 ![bbn-43.png](../../assets/images/bbn-43.png)
 
@@ -458,7 +453,7 @@ these are **two completely independent** measurements of the baryon content, and
 
 ![bbn-46.png](../../assets/images/bbn-46.png)
 
-a beautiful summary plot:
+the summary plot:
 
 ![bbn-47.png](../../assets/images/bbn-47.png)
 
@@ -469,7 +464,7 @@ both elements pin down $\omega_b$ at the *same* place that the CMB does. this is
 
 ---
 
-## takeaway
+## in short
 
 BBN is the moment when:
 - the **n/p ratio** got frozen at $\sim 1/6$ at $T \sim 0.8$ MeV
@@ -489,9 +484,20 @@ it predicts:
 
 and the inferred $\eta$ from BBN agrees with $\eta$ from the CMB peak structure, two completely independent windows.
 
-this is why BBN is one of the three observational pillars of the standard hot Big Bang model — together with the Hubble diagram and the CMB blackbody.
+this is why BBN is one of the three observational pillars of the standard hot Big Bang model, together with the Hubble diagram and the CMB blackbody.
 
 ---
+
+## worked example
+
+from $n/p = 1/7$ at the start of nucleosynthesis:
+
+$$Y_p = \frac{2\,(n/p)}{1 + n/p} = \frac{2/7}{8/7} = 0.25$$
+
+## where it goes wrong
+
+- helium is not sensitive to $\eta$. deuterium is the baryometer.
+- $Y_p$ is a mass fraction, not a number fraction.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -508,9 +514,9 @@ this is why BBN is one of the three observational pillars of the standard hot Bi
 - [[Cosmic_inventory_overview]]
 - [[Cosmic_inventory_baryons]]
 - [[Brief thermal history]]
-- [[Saha equation and recombination]] — same entropy logic, different epoch
-- [[Stellar nucleosynthesis]] — what happens *after* BBN, in stars
-- [[Baumann_reference]] — chapter 3.3.4 is the Boltzmann-equation derivation
+- [[Saha equation and recombination]] - same entropy logic, different epoch
+- [[Stellar nucleosynthesis]] - what happens *after* BBN, in stars
+- [[Baumann_reference]] - chapter 3.3.4 is the Boltzmann-equation derivation
 
 
 

@@ -2,7 +2,7 @@
 layout: "default"
 title: "Peculiar velocities of galaxies and structures"
 ---
-galaxies don't only follow the Hubble flow; they also have **peculiar velocities** $\vec v_{\rm pec}$ relative to it, driven by gravitational pulls from nearby structure. understanding peculiar velocities is essential at low $z$ + as a cosmological probe.
+galaxies don't only follow the Hubble flow. they also have **peculiar velocities** $\vec v_{\rm pec}$ relative to it, driven by gravitational pulls from nearby structure. understanding peculiar velocities is essential at low $z$ + as a cosmological probe.
 
 ## the definition
 
@@ -59,6 +59,14 @@ these anisotropies probe $f\sigma_8$ where $f \approx \Omega_m^{0.55}$ is the li
 
 ### the Tully-Fisher and FP residuals
 at fixed redshift, peculiar velocities show up as residuals in distance-redshift relations. comparing TF or FP distances + redshifts gives a $v_{\rm pec}$ map.
+
+## worked example
+
+$v = H_0\,f\,\delta\,R/3$. for a region of $R = 10$ Mpc with $\delta = 1$ and $f = 0.53$: $v = 67.4 \times 0.53 \times 10/3 = 119$ km/s.
+
+## where it goes wrong
+
+- peculiar velocities distort the redshift distance, making clusters look elongated along the line of sight.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

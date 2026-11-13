@@ -10,7 +10,7 @@ almost all astrophysical information gathered from the cosmos arrives carried by
 
 ---
 
-## nature of electromagnetic radiation: waves and photons
+## nature of electromagnetic radiation - waves and photons
 
 electromagnetic radiation exhibits fundamental wave-particle duality:
 1. **as a classical wave**: an oscillating electric field $\vec{E}$ and magnetic field $\vec{B}$ propagating perpendicularly to each other and to the direction of propagation with the speed of light in vacuum $c \approx 2.99792 \times 10^8$ m/s:
@@ -48,7 +48,7 @@ astrophysical processes produce photons spanning over 20 orders of magnitude in 
 
 ## atmospheric opacity and transmission windows
 
-Earth's atmosphere is completely opaque to the vast majority of the electromagnetic spectrum due to molecular and electronic absorption by atmospheric gases ($O_2, O_3, H_2O, CO_2, N_2$) and ionospheric reflection:
+Earth's atmosphere is completely opaque to the Vast majority of the electromagnetic spectrum due to molecular and electronic absorption by atmospheric gases ($O_2, O_3, H_2O, CO_2, N_2$) and ionospheric reflection:
 
 ![radiative-05.png](../../assets/images/radiative-05.png)
 
@@ -61,6 +61,21 @@ consequence: high-energy astrophysics (gamma-ray, X-ray, extreme UV) and mid/far
 ![radiative-06.png](../../assets/images/radiative-06.png)
 
 ---
+
+## worked example
+
+the shortcut $E\,[\text{eV}] = 1240/\lambda\,[\text{nm}]$:
+
+- green light, 550 nm: $2.25$ eV, $\nu = 5.45 \times 10^{14}$ Hz
+- Lyman $\alpha$, 121.6 nm: $10.2$ eV
+- an X-ray photon of 1 keV: $1.24$ nm
+- the 21 cm line: $5.9 \times 10^{-6}$ eV
+
+## where it goes wrong
+
+- $F_\lambda$ and $F_\nu$ are not the same curve. $F_\nu = \lambda^2F_\lambda/c$, and only $\nu F_\nu = \lambda F_\lambda$ is the same in both.
+- optical wavelengths are usually quoted in air above 200 nm and in vacuum below. the difference is about 0.03%, larger than many radial velocity errors.
+- the observed wavelength of a distant source is stretched by $(1+z)$, so the rest-frame energy is higher than what I detect.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

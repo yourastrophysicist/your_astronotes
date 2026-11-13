@@ -4,7 +4,7 @@ title: "Modified midpoint method"
 ---
 # Modified midpoint method
 
-the workhorse subroutine for [[Bulirsch-Stoer extrapolation]]. integrates an ODE from $t$ to $t + H$ using $n$ substeps of the midpoint rule, with a clever final correction step. the result is an estimate that has only *even* powers of $h = H/n$ in its error expansion — exactly what Richardson extrapolation wants.
+the workhorse subroutine for [[Bulirsch-Stoer extrapolation]]. integrates an ODE from $t$ to $t + H$ using $n$ substeps of the midpoint rule, with a clever final correction step. the result is an estimate that has only *even* powers of $h = H/n$ in its error expansion, exactly what Richardson extrapolation wants.
 
 ## the algorithm
 
@@ -16,7 +16,7 @@ $$\mathbf{y}_{i+1} = \mathbf{y}_{i-1} + 2h \mathbf{f}(\mathbf{y}_i, t + ih)$$
 3. **smoothing step** at the end:
 $$\mathbf{y}(t + H) \approx \tfrac12 [\mathbf{y}_n + \mathbf{y}_{n-1} + h \mathbf{f}(\mathbf{y}_n, t + H)]$$
 
-the smoothing step is the "modified" part. without it, the bare midpoint rule has both even and odd powers of $h$ in its error; with it, only even powers remain. this allows Richardson extrapolation in $h^2$ rather than $h$, doubling the convergence rate of each extrapolation level.
+the smoothing step is the "modified" part. without it, the bare midpoint rule has both even and odd powers of $h$ in its error. with it, only even powers remain. this allows Richardson extrapolation in $h^2$ rather than $h$, doubling the convergence rate of each extrapolation level.
 
 ## why the structure matters
 

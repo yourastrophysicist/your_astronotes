@@ -9,8 +9,8 @@ title: "Population III stars"
 ## the predicted IMF
 
 without metals, the gas cooling channels are restricted to:
-- molecular hydrogen H$_2$ (rotational + vibrational lines, weak below $\sim 200$ K);
-- HD cooling (slightly more efficient at low $T$);
+- molecular hydrogen H$_2$ (rotational + vibrational lines, weak below $\sim 200$ K).
+- HD cooling (slightly more efficient at low $T$).
 - atomic hydrogen Lyman-$\alpha$ (above $10^4$ K).
 
 these are weak compared to metal-line cooling. the consequence: gas in primordial halos cannot fragment into low-mass clouds. simulations (Bromm & Larson 2004 review, ARA&A 42, 79) predict a **top-heavy IMF** with characteristic mass $\langle M \rangle \sim 100\,M_\odot$ and stars potentially up to $1000\,M_\odot$.
@@ -41,13 +41,13 @@ Pop III stars formed at $z \sim 15$-$30$, within $\sim 100$-$300$ Myr after the 
 
 candidate Pop III SF regions identified at $z \sim 10$-$15$ (LAP1-B, GLASS-z12, etc.) are tantalising but not yet definitive. see [[JWST and the first stars]].
 
-## the indirect evidence: CEMP-no + r-II stars
+## the indirect evidence - CEMP-no + r-II stars
 
 Pop III nucleosynthesis is fingerprinted in the chemistry of extremely metal-poor ($[{\rm Fe/H}] < -3$) Galactic halo + UFDG stars:
 
-- **CEMP-no stars** (carbon-enhanced metal-poor, no s-process): high [C/Fe] without the s-process pattern of AGB stars; consistent with the predicted yields of zero-metallicity faint SNe (Christlieb et al. 2002, HE 0107-5240).
-- **r-process II stars**: [Eu/Fe] $> +1$, requiring rare neutron-star mergers or magnetorotational SNe; some observed in UFDGs (Ji et al. 2016 in Reticulum II).
-- **near-zero metallicity giants**: HE 1327-2326 with $[{\rm Fe/H}] = -5.4$ (Frebel et al. 2005, Nature 434, 871) — among the most iron-poor stars ever found.
+- **CEMP-no stars** (carbon-enhanced metal-poor, no s-process): high [C/Fe] without the s-process pattern of AGB stars. Consistent with the predicted yields of zero-metallicity faint SNe (Christlieb et al. 2002, HE 0107-5240).
+- **r-process II stars**: [Eu/Fe] $> +1$, requiring rare neutron-star mergers or magnetorotational SNe. some observed in UFDGs (Ji et al. 2016 in Reticulum II).
+- **near-zero metallicity giants**: HE 1327-2326 with $[{\rm Fe/H}] = -5.4$ (Frebel et al. 2005, Nature 434, 871), among the most iron-poor stars ever found.
 
 these stars are direct chemical fossils of single-progenitor Pop III enrichment events: each is a "ghost" of a single Pop III progenitor that polluted a small protocloud.
 
@@ -55,8 +55,8 @@ these stars are direct chemical fossils of single-progenitor Pop III enrichment 
 
 Pop III stars set the timing of:
 
-1. the **end of the cosmic dark ages** (their UV photons reionise H);
-2. the **transition from Pop III to Pop II** at $Z = Z_{\rm crit} \sim 10^{-5}$-$10^{-4}\,Z_\odot$ (see [[Critical metallicity for fragmentation]]);
+1. the **end of the cosmic dark ages** (their UV photons reionise H).
+2. the **transition from Pop III to Pop II** at $Z = Z_{\rm crit} \sim 10^{-5}$-$10^{-4}\,Z_\odot$ (see [[Critical metallicity for fragmentation]]).
 3. the **seeding of supermassive black holes** (direct-collapse Pop III stars $> 260\,M_\odot$ may form intermediate-mass BHs that later grow into SMBHs).
 
 ## surveys for extremely metal-poor stars
@@ -70,15 +70,15 @@ the hunt for Pop III fossils is carried out by several ongoing survey programs (
 
 ## reference papers
 
-- **Bromm & Larson 2004, ARA&A 42, 79** — review of Pop III stars + critical metallicity.
-- **Christlieb et al. 2002, Nature 419, 904** — HE 0107-5240, an ultra-iron-poor giant.
-- **Frebel et al. 2005, Nature 434, 871** — HE 1327-2326, $[{\rm Fe/H}] = -5.4$.
-- **Beers & Christlieb 2005, ARA&A 43, 531** — review of metal-poor stars.
-- **Heger & Woosley 2002, ApJ 567, 532** — Pop III nucleosynthesis predictions.
-- **Karlsson et al. 2013, RvMP 85, 809** — review of stellar archaeology.
-- **Wolf et al. 2018** — SkyMapper survey for metal-poor stars.
-- **Starkenburg et al. 2017** — Pristine CaHK photometric metallicity survey.
-- **Hansen et al. 2018** — R-Process Alliance.
+- **Bromm & Larson 2004, ARA&A 42, 79** - review of Pop III stars + critical metallicity.
+- **Christlieb et al. 2002, Nature 419, 904** - HE 0107-5240, an ultra-iron-poor giant.
+- **Frebel et al. 2005, Nature 434, 871** - HE 1327-2326, $[{\rm Fe/H}] = -5.4$.
+- **Beers & Christlieb 2005, ARA&A 43, 531** - review of metal-poor stars.
+- **Heger & Woosley 2002, ApJ 567, 532** - Pop III nucleosynthesis predictions.
+- **Karlsson et al. 2013, RvMP 85, 809** - review of stellar archaeology.
+- **Wolf et al. 2018** - SkyMapper survey for metal-poor stars.
+- **Starkenburg et al. 2017** - Pristine CaHK photometric metallicity survey.
+- **Hansen et al. 2018** - R-Process Alliance.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -105,98 +105,98 @@ the hunt for Pop III fossils is carried out by several ongoing survey programs (
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 14 — Population III & The First Stars)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 14 - Population III & The First Stars)
 
 > **Context**: *Zero-metallicity star formation, H2 molecular cooling, top-heavy IMF (M ~ 10-1000 Msun), pair-instability supernovae (PISN), and critical metallicity Z_crit.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![LAntonino_p14_01.png](../../assets/images/LAntonino_p14_01.png)
-*Figure P14-01: LAntonino_p14_01.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-01: LAntonino_p14_01.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_02.png](../../assets/images/LAntonino_p14_02.png)
-*Figure P14-02: LAntonino_p14_02.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-02: LAntonino_p14_02.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_03.png](../../assets/images/LAntonino_p14_03.png)
-*Figure P14-03: LAntonino_p14_03.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-03: LAntonino_p14_03.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_04.png](../../assets/images/LAntonino_p14_04.png)
-*Figure P14-04: LAntonino_p14_04.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-04: LAntonino_p14_04.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_05.png](../../assets/images/LAntonino_p14_05.png)
-*Figure P14-05: LAntonino_p14_05.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-05: LAntonino_p14_05.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_06.png](../../assets/images/LAntonino_p14_06.png)
-*Figure P14-06: LAntonino_p14_06.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-06: LAntonino_p14_06.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_07.png](../../assets/images/LAntonino_p14_07.png)
-*Figure P14-07: LAntonino_p14_07.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-07: LAntonino_p14_07.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_08.png](../../assets/images/LAntonino_p14_08.png)
-*Figure P14-08: LAntonino_p14_08.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-08: LAntonino_p14_08.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_09.png](../../assets/images/LAntonino_p14_09.png)
-*Figure P14-09: LAntonino_p14_09.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-09: LAntonino_p14_09.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_10.png](../../assets/images/LAntonino_p14_10.png)
-*Figure P14-10: LAntonino_p14_10.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-10: LAntonino_p14_10.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_11.png](../../assets/images/LAntonino_p14_11.png)
-*Figure P14-11: LAntonino_p14_11.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-11: LAntonino_p14_11.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_12.png](../../assets/images/LAntonino_p14_12.png)
-*Figure P14-12: LAntonino_p14_12.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-12: LAntonino_p14_12.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_13.png](../../assets/images/LAntonino_p14_13.png)
-*Figure P14-13: LAntonino_p14_13.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-13: LAntonino_p14_13.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_14.png](../../assets/images/LAntonino_p14_14.png)
-*Figure P14-14: LAntonino_p14_14.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-14: LAntonino_p14_14.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_15.png](../../assets/images/LAntonino_p14_15.png)
-*Figure P14-15: LAntonino_p14_15.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-15: LAntonino_p14_15.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_16.png](../../assets/images/LAntonino_p14_16.png)
-*Figure P14-16: LAntonino_p14_16.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-16: LAntonino_p14_16.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_17.png](../../assets/images/LAntonino_p14_17.png)
-*Figure P14-17: LAntonino_p14_17.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-17: LAntonino_p14_17.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_18.png](../../assets/images/LAntonino_p14_18.png)
-*Figure P14-18: LAntonino_p14_18.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-18: LAntonino_p14_18.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_19.png](../../assets/images/LAntonino_p14_19.png)
-*Figure P14-19: LAntonino_p14_19.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-19: LAntonino_p14_19.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_20.png](../../assets/images/LAntonino_p14_20.png)
-*Figure P14-20: LAntonino_p14_20.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-20: LAntonino_p14_20.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_21.png](../../assets/images/LAntonino_p14_21.png)
-*Figure P14-21: LAntonino_p14_21.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-21: LAntonino_p14_21.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_22.png](../../assets/images/LAntonino_p14_22.png)
-*Figure P14-22: LAntonino_p14_22.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-22: LAntonino_p14_22.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_23.png](../../assets/images/LAntonino_p14_23.png)
-*Figure P14-23: LAntonino_p14_23.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-23: LAntonino_p14_23.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_24.png](../../assets/images/LAntonino_p14_24.png)
-*Figure P14-24: LAntonino_p14_24.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-24: LAntonino_p14_24.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![LAntonino_p14_25.png](../../assets/images/LAntonino_p14_25.png)
-*Figure P14-25: LAntonino_p14_25.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-25: LAntonino_p14_25.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![Lecture14_p15-15.png](../../assets/images/Lecture14_p15-15.png)
-*Figure P14-26: Lecture14_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-26: Lecture14_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![Lecture14_p25-25.png](../../assets/images/Lecture14_p25-25.png)
-*Figure P14-27: Lecture14_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-27: Lecture14_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![Lecture14_p35-35.png](../../assets/images/Lecture14_p35-35.png)
-*Figure P14-28: Lecture14_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-28: Lecture14_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 ![Lecture14_p5-05.png](../../assets/images/Lecture14_p5-05.png)
-*Figure P14-29: Lecture14_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 14 — Population III & The First Stars.*
+*Figure P14-29: Lecture14_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 14 - Population III & The First Stars.*
 
 
 

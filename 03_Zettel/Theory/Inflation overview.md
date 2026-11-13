@@ -23,10 +23,10 @@ $$\rho_\phi \approx V(\phi), \quad p_\phi \approx -V(\phi) \quad \Rightarrow \qu
 ## the four key features
 
 inflation must:
-1. **last long enough** to dilute the pre-inflation problems — typically $N \approx 50$–$60$ **e-folds**
-2. **end gracefully** — turning the inflaton's potential energy into thermal radiation in the **reheating** phase, allowing the standard hot Big Bang to start
-3. **leave generic, scale-invariant perturbations** — primordial density perturbations with nearly the same amplitude on all scales, in agreement with CMB measurements
-4. **predict gravitational waves** at a (small but possibly observable) level — primordial tensor modes leaving B-mode polarization in the CMB
+1. **last long enough** to dilute the pre-inflation problems - typically $N \approx 50$ to $60$ **e-folds**
+2. **end gracefully** - turning the inflaton's potential energy into thermal radiation in the **reheating** phase, allowing the standard hot Big Bang to start
+3. **leave generic, scale-invariant perturbations** - primordial density perturbations with nearly the same amplitude on all scales, in agreement with CMB measurements
+4. **predict gravitational waves** at a (small but possibly observable) level - primordial tensor modes leaving B-mode polarization in the CMB
 
 ---
 
@@ -34,10 +34,10 @@ inflation must:
 
 ### flatness
 
-during inflation $\lvert \Omega_K\rvert \propto a^{-2}$ — *decreases* exponentially. starting from any pre-inflation curvature and inflating $N \approx 60$ e-folds:
+during inflation $\lvert \Omega_K\rvert \propto a^{-2}$, *decreases* exponentially. starting from any pre-inflation curvature and inflating $N \approx 60$ e-folds:
 $$\lvert \Omega_K\rvert_{\rm post} = \lvert \Omega_K\rvert_{\rm pre} \cdot e^{-2N} \sim \lvert \Omega_K\rvert_{\rm pre} \cdot 10^{-52}$$
 
-so any reasonable starting curvature gets driven to $\lvert \Omega_K\rvert \approx 0$ — explaining today's $\lvert \Omega_K\rvert < 10^{-3}$.
+so any reasonable starting curvature gets driven to $\lvert \Omega_K\rvert \approx 0$, explaining today's $\lvert \Omega_K\rvert < 10^{-3}$.
 
 ### horizon
 
@@ -81,14 +81,23 @@ so the timeline is:
 
 ## what we still don't know
 
-- **the inflaton field**: not part of the SM; it could be the Higgs, or something completely new (axions, GUT-scale scalars, R^2 gravity from Starobinsky's model)
+- **the inflaton field**: not part of the SM. it could be the Higgs, or something completely new (axions, GUT-scale scalars, R^2 gravity from Starobinsky's model)
 - **the energy scale of inflation**: $V^{1/4}$ could be anywhere from $\sim 10^{16}$ GeV (if $r$ is large) down to far lower
 - **what came before inflation**: bouncing cosmology? eternal inflation? a true beginning?
 - **why $r$ has not been detected yet**: implies the energy scale of inflation is below $10^{16}$ GeV, which is interesting
 
-inflation is a beautiful idea that solves real problems and has made specific predictions verified by data ($n_s$ slightly less than 1, gaussian and adiabatic perturbations). but it is not yet a "theory of inflation" in the same sense that ΛCDM is — there are still many models, all consistent with current data.
+inflation is an idea that solves real problems and has made specific predictions verified by data ($n_s$ slightly less than 1, gaussian and adiabatic perturbations). but it is not yet a "theory of inflation" in the same sense that ΛCDM is. there are still many models, all consistent with current data.
 
 ---
+
+## worked example
+
+$N = 60$ e-folds stretch a length by $e^{60} = 1.1 \times 10^{26}$. a region of $10^{-26}$ m at the start becomes 1 m at the end, and grows to the size of the observable universe by today.
+
+## where it goes wrong
+
+- inflation is a framework with many models, not one theory.
+- it does not explain the origin of the universe. it explains its initial conditions.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -107,7 +116,7 @@ inflation is a beautiful idea that solves real problems and has made specific pr
 - [[Old vs new vs chaotic inflation, slow-roll]]
 - [[Brief thermal history]]
 - [[Baryogenesis]]
-- [[Baumann_reference]] — chapter 2 is the rigorous treatment
+- [[Baumann_reference]] - chapter 2 is the rigorous treatment
 
 
 

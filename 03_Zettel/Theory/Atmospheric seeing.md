@@ -6,7 +6,7 @@ seeing is the **spatial blurring** of astronomical images caused by atmospheric 
 
 ## the physical picture
 
-a plane wave from a distant star arriving at the top of the atmosphere is essentially flat. on the way down through 100 km of turbulent air, refractive-index fluctuations distort the wavefront into a wrinkled surface. by the time it reaches the telescope, it is no longer a plane wave; the focal-plane image is no longer a diffraction-limited Airy disk; instead it is a smeared blob.
+a plane wave from a distant star arriving at the top of the atmosphere is essentially flat. on the way down through 100 km of turbulent air, refractive-index fluctuations distort the wavefront into a wrinkled surface. by the time it reaches the telescope, it is no longer a plane wave. the focal-plane image is no longer a diffraction-limited Airy disk. instead it is a smeared blob.
 
 ## the Fried parameter
 
@@ -65,14 +65,14 @@ site-monitoring instruments:
 - **DIMM** (Differential Image Motion Monitor): measures seeing via differential motion of two PSFs from a single star, isolated from telescope tracking errors.
 - **MASS** (Multi-Aperture Scintillation Sensor): vertical profile of turbulence.
 
-published seeing for a site is the median over many years; a given night can be much better or much worse.
+published seeing for a site is the median over many years. a given night can be much better or much worse.
 
 ## see also
 
 - [[Earth atmosphere for observations]]
 - [[Adaptive optics overview]]
 - [[Atmospheric scintillation]]
-- [[Seeing Effect]] — additional notes
+- [[Seeing Effect]] - additional notes
 - [[Atmospheric layers]]
 - [[Point Spread Function (PSF)]]
 - [[Telescope resolving power]]

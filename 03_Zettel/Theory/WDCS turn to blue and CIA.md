@@ -20,7 +20,7 @@ the photosphere becomes nearly opaque in the infrared while remaining relatively
 
 ## why it matters
 
-the blue turn is set by a **specific combination of $T_{\rm eff}$, $\log g$, and atmospheric composition**, and atmosphere models (e.g. Hansen et al. 2007) reproduce it quantitatively. since cooler WDs are older, the blue turn corresponds to a definite age. clusters that show a clear hook are old enough that the oldest WDs have cooled into the CIA regime; clusters that don't reach the hook are too young or too distant. the position of the hook in absolute magnitude is therefore one of the cleanest age estimators available, with little dependence on metallicity (see [[White dwarf cooling theory]] for why WDCS ages are metallicity-insensitive in general).
+the blue turn is set by a **specific combination of $T_{\rm eff}$, $\log g$, and atmospheric composition**, and atmosphere models (e.g. Hansen et al. 2007) reproduce it quantitatively. since cooler WDs are older, the blue turn corresponds to a definite age. clusters that show a clear hook are old enough that the oldest WDs have cooled into the CIA regime. clusters that don't reach the hook are too young or too distant. the position of the hook in absolute magnitude is therefore one of the cleanest age estimators available, with little dependence on metallicity (see [[White dwarf cooling theory]] for why WDCS ages are metallicity-insensitive in general).
 
 it is one of the few places in stellar astrophysics where molecular physics in a strange regime (dense H$_2$ at $\rho \gtrsim 0.1$ g cm$^{-3}$) directly maps onto a measurable colour-magnitude feature used to date the Galaxy.
 

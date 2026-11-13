@@ -6,7 +6,7 @@ are there black holes in [[Globular Clusters\|Globular clusters]]? for decades t
 
 **the formation argument**
 
-a [[Salpeter Kroupa Chabrier IMFs\|standard IMF]] forms one stellar-mass BH per $\sim 500\,M_\odot$ of stars. for a typical massive GC of total stellar mass $\sim 10^6\,M_\odot$, that gives $\sim 2000$ BH progenitors. the ZAMS masses are $M \gtrsim 25\,M_\odot$; their MS lifetimes are $\sim 10\,\text{Myr}$, vanishingly short on cluster timescales. so all the BHs were made within the first few Myr of cluster formation, and any present today have been there for $\sim 12\,\text{Gyr}$.
+a [[Salpeter Kroupa Chabrier IMFs\|standard IMF]] forms one stellar-mass BH per $\sim 500\,M_\odot$ of stars. for a typical massive GC of total stellar mass $\sim 10^6\,M_\odot$, that gives $\sim 2000$ BH progenitors. the ZAMS masses are $M \gtrsim 25\,M_\odot$. their MS lifetimes are $\sim 10\,\text{Myr}$, vanishingly short on cluster timescales. so all the BHs were made within the first few Myr of cluster formation, and any present today have been there for $\sim 12\,\text{Gyr}$.
 
 **the retention problem**
 
@@ -20,7 +20,7 @@ complications:
 
 **modern picture**
 
-monte carlo simulations (chatterjee, rodriguez, breen) and N-body simulations (wang, hurley) since 2015 show that **hundreds of stellar-mass BHs survive in many GCs today**. the BH subcluster does not fully eject; instead it reaches a quasi-steady state where the BH-BH ejection rate roughly balances the slow segregation. predicted retention fractions are $\sim 5\text{--}30\%$ of the initial population.
+monte carlo simulations (chatterjee, rodriguez, breen) and N-body simulations (wang, hurley) since 2015 show that **hundreds of stellar-mass BHs survive in many GCs today**. the BH subcluster does not fully eject. instead it reaches a quasi-steady state where the BH-BH ejection rate roughly balances the slow segregation. predicted retention fractions are $\sim 5\text{--}30\%$ of the initial population.
 
 **observational confirmation**
 

@@ -2,14 +2,13 @@
 layout: "default"
 title: "Supernovae and compact remnants"
 ---
-{% raw %}
 when a star exhausts all viable thermonuclear fuel, gravity prevails uncontested. depending on the progenitor's zero-age main-sequence mass and core composition, the star undergoes catastrophic explosive death, leaving behind one of three types of **compact remnants**: a **white dwarf**, a **neutron star**, or a **black hole**.
 
 ![stellar-81.png](../../assets/images/stellar-81.png)
 
 ---
 
-## 1. core-collapse supernovae (massive stars: $M \ge 8 M_\odot$)
+## 1. core-collapse supernovae (massive stars - $M \ge 8 M_\odot$)
 
 massive stars synthesize elements up to iron in an onion-skin core structure. once the iron core reaches the Chandrasekhar limit ($M_{\text{core}} \approx 1.4 M_\odot$), two endothermic catastrophes trigger instantaneous core collapse:
 1. **photodisintegration**: high-energy gamma photons shatter iron nuclei into alpha particles and neutrons, draining thermal pressure:
@@ -73,6 +72,20 @@ astronomers classify supernovae observationally based on spectral features near 
 
 ---
 
+## worked example
+
+the energy of a core collapse is the binding energy of the neutron star. for $M = 1.4\,M_\odot$ and $R = 12$ km:
+
+$$E \simeq \frac{3}{5}\frac{GM^2}{R} = \frac{3.1 \times 10^{50}}{1.2 \times 10^4} = 2.6 \times 10^{46}\ \text{J} = 2.6 \times 10^{53}\ \text{erg}$$
+
+about 99% leaves as neutrinos, 1% ($10^{51}$ erg) is the kinetic energy of the ejecta, and only 0.01% ($10^{49}$ erg) is light.
+
+## where it goes wrong
+
+- the types are defined by the spectrum, not by the mechanism. Type Ib and Ic have no hydrogen but are core collapses, like Type II.
+- the Chandrasekhar limit ($1.44\,M_\odot$) is for white dwarfs. neutron stars have their own limit, a little above $2\,M_\odot$.
+- the neutrinos of SN 1987A arrived hours before the light, because the shock needs time to reach the surface.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -91,16 +104,16 @@ astronomers classify supernovae observationally based on spectral features near 
 - [[Stellar nucleosynthesis]]
 - [[Type Ia supernovae as standard candles]]
 - [[Galactic Center]]
-{% endraw %}
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (6)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Binary%20star%20evolution%20and%20mass%20transfer.html" class="backlink-item">Binary star evolution and mass transfer</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Galactic%20Center.html" class="backlink-item">Galactic Center</a></li>
-    <li class="backlink-item-wrap"><a href="./Solar%20evolution%20and%20final%20stages.html" class="backlink-item">Solar evolution and final stages</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20nucleosynthesis.html" class="backlink-item">Stellar nucleosynthesis</a></li>
-    <li class="backlink-item-wrap"><a href="./Type%20Ia%20supernovae%20as%20standard%20candles.html" class="backlink-item">Type Ia supernovae as standard candles</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Binary star evolution and mass transfer]]
+- [[Galactic Center]]
+- [[Solar evolution and final stages]]
+- [[Stellar nucleosynthesis]]
+- [[Type Ia supernovae as standard candles]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
+

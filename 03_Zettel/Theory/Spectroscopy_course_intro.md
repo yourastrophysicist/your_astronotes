@@ -23,7 +23,7 @@ every diagnostic in this course lives in one of two regimes:
 - **`intro_spec.pdf`**: instrumentation focus. diffraction $\to$ gratings $\to$ spectrographs $\to$ stellar classification $\to$ object catalogue.
 - **`notes_28Jul2021.pdf`**: theory focus. atomic spectroscopy $\to$ level populations $\to$ radiative transport $\to$ line physics $\to$ photoionisation equilibrium $\to$ thermal balance.
 
-read together: the theory volume tells you *why* a line forms; the instrumentation volume tells you *how* you measure it.
+read together: the theory volume tells you *why* a line forms. the instrumentation volume tells you *how* you measure it.
 
 ## the seven examinable categories of diagnostic
 

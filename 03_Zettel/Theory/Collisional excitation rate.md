@@ -18,11 +18,11 @@ with $\Omega(l, u)$ the **collision strength** (a tabulated atomic-physics quant
 
 ## what each term does
 
-- $T_e^{-1/2}$: faster electrons spend less time near the atom; Boltzmann velocity distribution narrows with $T$.
+- $T_e^{-1/2}$: faster electrons spend less time near the atom. Boltzmann velocity distribution narrows with $T$.
 - $\Omega(l, u)/g_l$: weighted cross section.
 - $e^{-E_{ul}/k_BT_e}$: Boltzmann suppression. only fast-tail electrons can excite.
 
-## the inverse: collisional de-excitation
+## the inverse - collisional de-excitation
 
 related by detailed balance (microscopic reversibility):
 $$q_{ul}(T_e) = \frac{g_l}{g_u}\,e^{E_{ul}/k_BT_e}\,q_{lu}(T_e)$$

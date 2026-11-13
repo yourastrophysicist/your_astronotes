@@ -23,7 +23,7 @@ $$F_1 = \int F_\lambda\, T_1(\lambda)\, d\lambda, \qquad F_2 = \int F_\lambda\, 
 
 if $T_1 \neq T_2$, the ratio $F_1/F_2$ depends on the **shape** of $F_\lambda$, not just its overall normalisation.
 
-worked example from `obs6.pdf`: a $6000$ K star has more flux in the bluer half of the i-band; SDSS-i with a slightly bluer effective wavelength catches more of it than Cousins-I. for a $3000$ K star, the SED is steeply rising into the red, so the redder Cousins-I catches more flux. the magnitude shift between the two systems thus *changes sign* with stellar temperature.
+worked example from `obs6.pdf`: a $6000$ K star has more flux in the bluer half of the i-band. SDSS-i with a slightly bluer effective wavelength catches more of it than Cousins-I. for a $3000$ K star, the SED is steeply rising into the red, so the redder Cousins-I catches more flux. the magnitude shift between the two systems thus *changes sign* with stellar temperature.
 
 so the "right" conversion needs a SED-dependent term. the color $g - r$ (or equivalent) is a proxy for SED shape, and a linear term in this color absorbs most of the dependence.
 
@@ -47,6 +47,18 @@ or you need a different proxy color. extreme cases (e.g. emission-line galaxies,
 
 cross-matching catalogs from different surveys without a color-term correction biases the magnitudes by $\sim 0.05$ to $0.5$ mag in a systematic, color-dependent way. this is a **major source of systematic error** in cluster CMDs, photometric redshift catalogs, and Hubble-diagram analyses that combine SDSS, Pan-STARRS, DECam, and HST data.
 
+## worked example
+
+a star gives $5000$ e$^-$/s, so $v_{\rm inst} = -2.5\log_{10}5000 = -9.25$. with zero point $25.00$, extinction $k = 0.15$ at airmass $X = 1.2$, and a colour term $c = 0.05$ for $B - V = 0.8$:
+
+$$V = v_{\rm inst} + ZP - kX + c\,(B-V) = -9.25 + 25.00 - 0.18 + 0.04 = 15.61$$
+
+## where it goes wrong
+
+- the colour term is fitted on standard stars. it is valid only inside their range of colours.
+- the transformation assumes a stellar spectrum. for a galaxy with strong emission lines or a supernova it can be wrong by tenths of a magnitude.
+- mixing Vega and AB zero points in the same equation.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -62,7 +74,7 @@ cross-matching catalogs from different surveys without a color-term correction b
 - [[Color indices]]
 - [[Pogson magnitudes and flux relation]]
 - [[Photometric standard stars]]
-- [[Photometric redshifts]] — extreme version of the conversion problem
+- [[Photometric redshifts]] - extreme version of the conversion problem
 
 ---
 

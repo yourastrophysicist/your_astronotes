@@ -192,6 +192,10 @@ When asked by Prof. Pizzella - *"Why does the Schechter function fail at the bri
 
 
 
+## worked example
+
+a double power law $\phi(L) = \phi^*/[(L/L^*)^{-\alpha} + (L/L^*)^{-\beta}]$ falls more slowly than a Schechter function at the bright end. it fits quasars and the infrared luminosity function better.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

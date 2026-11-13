@@ -35,9 +35,9 @@ over what *angular* range is the atmospheric distortion constant? the **isoplana
 
 ### 3. coherence time
 
-over what *time* is the atmospheric distortion constant? the **Greenwood time** $\tau_0 \sim 5$-10 ms at visible wavelengths. AO must run faster than this; interferometric integrations must be shorter than this.
+over what *time* is the atmospheric distortion constant? the **Greenwood time** $\tau_0 \sim 5$-10 ms at visible wavelengths. AO must run faster than this. interferometric integrations must be shorter than this.
 
-## the physics: Kolmogorov turbulence
+## the physics - Kolmogorov turbulence
 
 the turbulence is well-described by Kolmogorov's 1941 theory of homogeneous, isotropic turbulence in the inertial range. the structure function of the refractive index is
 
@@ -88,7 +88,7 @@ a measured **$C_n^2(h)$ profile** characterizes a site. integrated $C_n^2$ gives
 
 best sites (Paranal, Mauna Kea, Atacama plateau): low total $C_n^2$, dominated by ground layer (which is correctable by ground-layer AO).
 
-## frozen turbulence: the Taylor hypothesis
+## frozen turbulence - the Taylor hypothesis
 
 turbulent eddies are advected by the wind faster than they evolve internally. so the temporal fluctuations at a fixed point are equivalent to a *frozen pattern* moving across the aperture at the wind speed:
 
@@ -96,9 +96,9 @@ $$\phi(\mathbf x, t) = \phi_0(\mathbf x - \mathbf v_{\rm wind} t)$$
 
 (approximately). this is the **Taylor frozen-turbulence hypothesis**, and it makes wavefront prediction tractable: an AO system can use *previous* wavefront measurements to predict the *next* state.
 
-## scintillation: amplitude fluctuations
+## scintillation - amplitude fluctuations
 
-so far we've considered phase. there is also amplitude scintillation — the wavefront curvature induced by turbulence causes light to focus and defocus, creating bright/dark patterns on the ground. this is the **twinkling** of stars.
+so far we've considered phase. there is also amplitude scintillation, the wavefront curvature induced by turbulence causes light to focus and defocus, creating bright/dark patterns on the ground. this is the **twinkling** of stars.
 
 scintillation is usually a few percent of total flux but can rise to tens of percent at high airmass. it is the "noise" of differential photometry of bright stars.
 

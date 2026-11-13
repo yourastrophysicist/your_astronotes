@@ -24,7 +24,7 @@ for a Gaussian intrinsic distribution, the classical Malmquist correction to the
 
 $$\langle M \rangle_{\text{obs}}(d) = \langle M \rangle - 1.382\, \sigma_M^2$$
 
-at the sample boundary; it grows worse as you get closer to the limit.
+at the sample boundary. it grows worse as you get closer to the limit.
 
 ## what it does to your science
 
@@ -36,13 +36,21 @@ if you do not correct for Malmquist:
 
 most modern analyses use [[1Vmax estimator]] or maximum-likelihood (Sandage-Tammann-Yahil 1979) techniques to invert the bias rather than trying to apply a correction. the principle is the same: weight each source by the inverse volume in which it could have been detected.
 
-## a related effect: eddington bias
+## a related effect - eddington bias
 
 Eddington bias is similar in spirit but applies in *flux* space: photometric scatter scatters more sources up across the flux cutoff than down (because the source counts rise toward fainter fluxes). this *boosts* observed counts at the limit. some authors lump both under "Malmquist", but they are different.
 
 ## what i remember
 
 it is the cosmologists' version of survivorship bias. the sample edge selects, the population statistics get distorted, and the only honest fix is to model the selection function explicitly.
+
+## worked example
+
+for a population with Gaussian scatter $\sigma$ in absolute magnitude, a flux-limited sample is brighter on average by $\Delta M = -1.38\,\sigma^2$ in a Euclidean universe. with $\sigma = 0.4$ mag, $\Delta M = -0.22$ mag, and distances are underestimated by 10%.
+
+## where it goes wrong
+
+- the bias grows with distance. it cannot be fixed with one constant correction.
 
 ## connections
 

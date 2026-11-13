@@ -30,9 +30,9 @@ improved over old inflation, but still required fine-tuning.
 
 ## chaotic inflation (Linde 1983)
 
-Linde's elegant fix. take a simple potential like $V(\phi) = \tfrac{1}{2}m^2\phi^2$ or $\tfrac{1}{4}\lambda\phi^4$. inflation happens *anywhere on this potential* where the field is far from the origin, $\phi \gg M_{\rm Pl}$. the field then slowly rolls down the potential, with Hubble friction sustaining slow-roll for ~60 e-folds.
+Linde's fix. take a simple potential like $V(\phi) = \tfrac{1}{2}m^2\phi^2$ or $\tfrac{1}{4}\lambda\phi^4$. inflation happens *anywhere on this potential* where the field is far from the origin, $\phi \gg M_{\rm Pl}$. the field then slowly rolls down the potential, with Hubble friction sustaining slow-roll for ~60 e-folds.
 
-key insight: in any reasonable region of the universe, the field starts at a random ("chaotic") value. some regions have $\phi$ large enough to drive inflation. those regions inflate; the rest don't matter (we live in one of the inflated patches).
+key insight: in any reasonable region of the universe, the field starts at a random ("chaotic") value. some regions have $\phi$ large enough to drive inflation. those regions inflate. the rest don't matter (we live in one of the inflated patches).
 
 → **no fine-tuning of initial conditions**, just a generic chaotic field configuration in the early universe.
 
@@ -82,9 +82,14 @@ so from "any model works" in the early days, we now have a **narrow band** of in
 - **the multiverse** question: is inflation eternal, with infinitely many post-inflation universes?
 - **the trans-Planckian problem**: do effective field theory descriptions break down at large $\phi$?
 
-these are all open questions. but the basic framework — slow-roll inflation by a scalar field — is the working hypothesis.
+these are all open questions. but the basic framework, slow-roll inflation by a scalar field, is the working hypothesis.
 
 ---
+
+## where it goes wrong
+
+- old inflation fails because bubbles never percolate, not because inflation does not happen.
+- chaotic inflation is about the initial conditions, not about chaos in the dynamics.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -100,7 +105,7 @@ these are all open questions. but the basic framework — slow-roll inflation by
 - [[Inflation overview]]
 - [[Inflaton scalar field dynamics]]
 - [[Standard model problems]]
-- [[Baumann_reference]] — chapter 2 has the modern derivation
+- [[Baumann_reference]] - chapter 2 has the modern derivation
 
 
 

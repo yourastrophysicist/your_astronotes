@@ -4,7 +4,7 @@ title: "Stellar rotation v sini"
 ---
 # stellar rotation v sin i
 
-if a star rotates with equatorial velocity $v$, different parts of the visible hemisphere have different line-of-sight velocity components, with the approaching limb contributing blueshifted absorption and the receding limb contributing redshifted absorption. the integrated profile is the convolution of the local profile with a **rotation kernel** spanning $\pm v\sin i$, where $i$ is the inclination of the rotation axis to the line of sight. spectroscopy gives only the projected combination $v\sin i$; the actual equatorial $v$ requires an independent inclination measurement.
+if a star rotates with equatorial velocity $v$, different parts of the visible hemisphere have different line-of-sight velocity components, with the approaching limb contributing blueshifted absorption and the receding limb contributing redshifted absorption. the integrated profile is the convolution of the local profile with a **rotation kernel** spanning $\pm v\sin i$, where $i$ is the inclination of the rotation axis to the line of sight. spectroscopy gives only the projected combination $v\sin i$. the actual equatorial $v$ requires an independent inclination measurement.
 
 ## the rotation broadening kernel
 
@@ -47,7 +47,7 @@ at moderate $v\sin i$ (5-20 km/s) the rotation kernel can be confused with **mac
 - $v\sin i$ traces stellar evolution: angular momentum loss on the main sequence, conservation on the giant branch.
 - it sets a floor on RV precision and abundance precision.
 - combined with rotational period from photometry (spots), $v\sin i$ gives stellar inclination.
-- in clusters, rotation distributions trace age and binary history; in stellar populations, fast rotators may produce extended turn-offs in the [[Color-magnitude diagrams of clusters]].
+- in clusters, rotation distributions trace age and binary history. in stellar populations, fast rotators may produce extended turn-offs in the [[Color-magnitude diagrams of clusters]].
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

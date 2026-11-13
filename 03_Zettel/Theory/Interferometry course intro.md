@@ -8,14 +8,14 @@ A.Y. 2025/2026 at the University of Padova, **Astronomical Interferometry** taug
 
 ## what this course is
 
-interferometry: combining the light from multiple telescopes to synthesize an aperture larger than any single telescope. the technique behind every milli-arcsecond image in modern astrophysics — Betelgeuse's surface, the Galactic Center S-stars, the Event Horizon Telescope's M87 ring, ALMA's protoplanetary-disk gaps, and pretty much everything we know about resolved stellar physics.
+interferometry: combining the light from multiple telescopes to synthesize an aperture larger than any single telescope. the technique behind every milli-arcsecond image in modern astrophysics, Betelgeuse's surface, the Galactic Center S-stars, the Event Horizon Telescope's M87 ring, ALMA's protoplanetary-disk gaps, and pretty much everything we know about resolved stellar physics.
 
 the course covers two parallel worlds:
 
 - **optical/IR interferometry**: VLTI, CHARA, LBT, COAST. small numbers of large telescopes, atmospheric phase corruption, beam combination through air or fibers. Labeyrie's textbook is the reference
 - **radio interferometry**: VLA, ALMA, EVN, EHT, SKA. many antennas, heterodyne electronics, post-correlation calibration. the Paladino lab notes and Moellenbrock NRAO summer school cover this
 
-physics is the same — phase, coherence, Van Cittert-Zernike — but the engineering and operating regimes differ in important ways.
+physics is the same, phase, coherence, Van Cittert-Zernike, but the engineering and operating regimes differ in important ways.
 
 ## who teaches it
 
@@ -29,8 +29,8 @@ physics is the same — phase, coherence, Van Cittert-Zernike — but the engine
 three reasons:
 
 1. **degree requirement**: it is one of the four September exams in the master's programme
-2. **scientific relevance**: my interest in observational astrophysics will inevitably involve interferometric data — every ALMA or radio paper assumes I know what a (u, v) plot is
-3. **the technique I find most beautiful**: aperture synthesis is the prettiest engineering trick in astronomy. you literally Fourier-invert your way to an image
+2. **scientific relevance**: my interest in observational astrophysics will inevitably involve interferometric data, every ALMA or radio paper assumes I know what a (u, v) plot is
+3. **the technique I find most Beautiful**: aperture synthesis is the prettiest engineering trick in astronomy. you literally Fourier-invert your way to an image
 
 ## the chain of objects
 
@@ -55,18 +55,18 @@ each step is one block of [[Astronomical_Interferometry_MOC]]:
 
 ## reference texts
 
-- **Labeyrie, Lipson, Nisenson**, *Introduction to Optical Stellar Interferometry* (CUP 2006) — the spine
-- **Thompson, Moran, Swenson**, *Interferometry and Synthesis in Radio Astronomy* (Springer Open) — radio bible
-- **Haniff Garching primer** (in source folder) — concise pedagogical overview
-- **Moellenbrock 2014** (in source folder) — NRAO calibration and imaging primer
-- **Paladino lab notes** (in source folder) — Padova-specific radio data reduction
+- **Labeyrie, Lipson, Nisenson**, *Introduction to Optical Stellar Interferometry* (CUP 2006) - the spine
+- **Thompson, Moran, Swenson**, *Interferometry and Synthesis in Radio Astronomy* (Springer Open) - radio bible
+- **Haniff Garching primer** (in source folder) - concise pedagogical overview
+- **Moellenbrock 2014** (in source folder) - NRAO calibration and imaging primer
+- **Paladino lab notes** (in source folder) - Padova-specific radio data reduction
 
 ## how to use the vault for this course
 
-- **MOC** at `04_Atlas/Astronomical_Interferometry_MOC.md` — the spine
-- **zettels** at `03_Zettel/Theory/` — one concept per file
-- **exam project** at `05_Projects/Interferometry Exam 2026/` — study plan, problem-class taxonomy, code patterns
-- **APSYNSIM** at `Documents/2/interferometry/apsynsim/` — interactive simulator. **single most useful tool** for understanding (u, v) coverage and dirty images. play with it before reading more theory
+- **MOC** at `04_Atlas/Astronomical_Interferometry_MOC.md` - the spine
+- **zettels** at `03_Zettel/Theory/` - one concept per file
+- **exam project** at `05_Projects/Interferometry Exam 2026/` - study plan, problem-class taxonomy, code patterns
+- **APSYNSIM** at `Documents/2/interferometry/apsynsim/` - interactive simulator. **single most useful tool** for understanding (u, v) coverage and dirty images. play with it before reading more theory
 
 ## see also
 

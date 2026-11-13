@@ -30,7 +30,7 @@ these three examples span almost 4 orders of magnitude in sSFR, and correspond c
 
 ## why sSFR matters more than SFR
 
-absolute SFR scales with galaxy size. sSFR removes that trivial dependence and asks *how star-forming for its mass* a galaxy is. this is why the [[Galaxy main sequence of star formation]] is typically plotted as $\psi$ vs $M_*$ in log-log: on that plane the main sequence is a line with slope $\sim 0.7$–$1$, and its vertical offset directly measures sSFR.
+absolute SFR scales with galaxy size. sSFR removes that trivial dependence and asks *how star-forming for its mass* a galaxy is. this is why the [[Galaxy main sequence of star formation]] is typically plotted as $\psi$ vs $M_*$ in log-log: on that plane the main sequence is a line with slope $\sim 0.7$ to $1$, and its vertical offset directly measures sSFR.
 
 ## the characteristic sSFR evolves with redshift
 
@@ -38,6 +38,10 @@ at $z = 0$: star-forming galaxies sit near sSFR $\sim 10^{-10}\,\text{yr}^{-1}$.
 at $z = 2$: the typical main-sequence galaxy at $M_* = 10^{10}\,M_\odot$ has sSFR $\sim 10^{-9}\,\text{yr}^{-1}$, a factor $\sim 20$ higher.
 
 this is the same phenomenon as the [[Cosmic star formation history]] peak at $z \sim 2$: the universe was churning out stars more efficiently, *per unit existing stellar mass*, in its youth.
+
+## where it goes wrong
+
+- sSFR has units of inverse time. its inverse is the time to double the stellar mass.
 
 ## connections
 

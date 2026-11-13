@@ -21,13 +21,13 @@ at high $m$, many wavelengths satisfy the grating equation simultaneously at the
 
 result on the detector: a 2D pattern of slanted stripes (each = one order), with wavelength running along each stripe and order number stepping perpendicular. typical echelle CCD image looks like a barcode.
 
-each stripe has a small free spectral range $\Delta\lambda_{FSR} = \lambda/m$. for $m = 50$ at $\lambda = 5000$ Å, $FSR = 100$ Å. so each order covers a small wavelength range; the full wavelength coverage comes from the union of all orders.
+each stripe has a small free spectral range $\Delta\lambda_{FSR} = \lambda/m$. for $m = 50$ at $\lambda = 5000$ Å, $FSR = 100$ Å. so each order covers a small wavelength range. the full wavelength coverage comes from the union of all orders.
 
 ## why echelles win for radial-velocity precision
 
 the key science driver is radial-velocity measurement to $\lesssim 1$ m/s for exoplanet detection.
 - to measure $v_r = (c \Delta\lambda/\lambda)$ to $1$ m/s, you need $\Delta\lambda/\lambda \sim 3 \times 10^{-9}$.
-- per spectral line, this is a tiny fraction of the line width; you cross-correlate across thousands of lines simultaneously.
+- per spectral line, this is a tiny fraction of the line width. you cross-correlate across thousands of lines simultaneously.
 - so you want **broad wavelength coverage with high $R$**: the echelle's specialty.
 
 flagship instruments:

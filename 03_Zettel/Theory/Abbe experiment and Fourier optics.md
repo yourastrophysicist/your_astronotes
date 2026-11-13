@@ -74,7 +74,7 @@ Abbe's experiment shows that image detail is spatial-frequency content. interfer
 
 ![07_Images/Interferometry/abbe_fourier_optics_orders.svg](../../assets/images/abbe_fourier_optics_orders.svg)
 
-reading cue: this is the optical cousin of aperture synthesis. the object is decomposed into spatial-frequency orders; the lens/aperture decides which orders reach the image.
+reading cue: this is the optical cousin of aperture synthesis. the object is decomposed into spatial-frequency orders. the lens/aperture decides which orders reach the image.
 
 source: local study diagram generated from the Abbe/Fourier-optics interpretation of image formation.
 

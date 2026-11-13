@@ -6,7 +6,7 @@ title: "Sagnac interferometer"
 
 a beam splitter sends light *around a closed loop* in two opposite directions (clockwise and counterclockwise). after one full circuit, both beams return to the beam splitter and interfere.
 
-the unique feature: when the apparatus rotates, the two paths have slightly different *effective* lengths in the rotating frame (Sagnac effect). this makes the device a sensitive **rotation sensor** — used in fiber-optic gyroscopes for navigation.
+the unique feature: when the apparatus rotates, the two paths have slightly different *effective* lengths in the rotating frame (Sagnac effect). this makes the device a sensitive **rotation sensor**, used in fiber-optic gyroscopes for navigation.
 
 invented by Georges Sagnac in 1913 (in part to challenge Einstein's relativity, ironically).
 
@@ -19,7 +19,7 @@ a beam splitter, three or more mirrors arranged in a closed loop. light enters a
 
 if the loop is at rest in an inertial frame: both beams travel the same path length, no OPD, constructive interference at the output.
 
-if the loop is *rotating* about its symmetry axis at angular velocity $\Omega$: in the rotating frame, the CW beam travels slightly *less* than the CCW beam (one beam catches up to the moving beam splitter; the other has to chase it). this results in an OPD:
+if the loop is *rotating* about its symmetry axis at angular velocity $\Omega$: in the rotating frame, the CW beam travels slightly *less* than the CCW beam (one beam catches up to the moving beam splitter, the other has to chase it). this results in an OPD:
 
 $$\Lambda\sub{Sagnac} = \frac{4 A \Omega}{c}$$
 
@@ -30,7 +30,7 @@ where $A$ is the area enclosed by the loop and $c$ is the speed of light. this i
 for a 1-m² loop at Earth's rotation rate ($\Omega = 7.3 \times 10^{-5}$ rad/s):
 $$\Lambda \sim 4 \times 1 \times 7.3 \times 10^{-5} / (3 \times 10^8) \sim 10^{-12} \text{ m}$$
 
-this is *tiny* — a fraction of an atomic diameter. but it's measurable! for visible light ($\lambda \sim 500$ nm), it's $\sim 10^{-6}$ wavelengths. by *fringe interpolation* and high-finesse cavities, modern Sagnac devices can reach $10^{-12}$ wavelength precision, or angular sensitivity $\sim 10^{-9}$ rad/s.
+this is *tiny*, a fraction of an atomic diameter. but it's measurable! for visible light ($\lambda \sim 500$ nm), it's $\sim 10^{-6}$ wavelengths. by *fringe interpolation* and high-finesse cavities, modern Sagnac devices can reach $10^{-12}$ wavelength precision, or angular sensitivity $\sim 10^{-9}$ rad/s.
 
 ## the fiber-optic gyroscope (FOG)
 
@@ -46,7 +46,7 @@ result: rotation sensitivity good enough for inertial navigation. used in:
 - space probes
 - self-driving cars
 
-competition: ring-laser gyroscopes (RLGs) — Sagnac with a He-Ne laser inside the loop. similar performance, different technology. RLGs dominate at the high end (best precision, biggest volume), FOGs at the medium end (cheaper, more compact).
+competition: ring-laser gyroscopes (RLGs), Sagnac with a He-Ne laser inside the loop. similar performance, different technology. RLGs dominate at the high end (best precision, biggest volume), FOGs at the medium end (cheaper, more compact).
 
 ## the relativity connection
 
@@ -55,7 +55,7 @@ historically, Sagnac (1913) thought his experiment refuted Einstein's relativity
 - in *special relativity*, it follows from time-of-flight differences in non-inertial frames
 - both predict the same numerical $4 A \Omega/c$ result
 
-the Sagnac effect is also what makes GPS work in the rotating Earth frame — Earth's rotation introduces a Sagnac-like correction that GPS algorithms must include for accurate positioning.
+the Sagnac effect is also what makes GPS work in the rotating Earth frame, Earth's rotation introduces a Sagnac-like correction that GPS algorithms must include for accurate positioning.
 
 ## the matter-wave version
 
@@ -80,7 +80,7 @@ since $\lambda_{\rm dB}$ for a slow atom is much smaller than light's $\lambda$,
 | typical precision | $\lambda/100$ | $\lambda/10^9$ in advanced FOG |
 | dominant use | sensors, modulators, quantum optics | gyroscopes, navigation |
 
-both are amplitude-division interferometers; both use beam splitters; the topology is the difference.
+both are amplitude-division interferometers. both use beam splitters. the topology is the difference.
 
 ## see also
 

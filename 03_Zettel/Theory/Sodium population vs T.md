@@ -11,7 +11,7 @@ Saha for Na: $\chi = 5.14$ eV. at any temperature where $k_BT \gtrsim 0.5$ eV ($
 within neutral Na, the lower level of D is the ground state $3\,^2S_{1/2}$, so Boltzmann factor $= 1$ for the lower level. the line strength is proportional to:
 $$f_{\rm NaI}(T) = n_{\rm NaI}/n_{\rm Na} \quad\to\quad \text{decreases with $T$}$$
 
-monotonically decreasing, not bell-shaped. at low $T$ the lines are very strong; at high $T$ they vanish.
+monotonically decreasing, not bell-shaped. at low $T$ the lines are very strong. at high $T$ they vanish.
 
 ## benchmark values
 
@@ -29,7 +29,7 @@ at `~/Documents/2/spectroscopy/Plots-20260501/NaI_pop_T.png`. shows the monotoni
 ## consequence in stellar spectroscopy
 
 - **K and M dwarfs**: D-doublet is the strongest absorption feature in the visible.
-- **G dwarfs (Sun)**: D-doublet is moderate; visible but not dominant.
+- **G dwarfs (Sun)**: D-doublet is moderate. Visible but not dominant.
 - **F to A**: D-doublet weakens, then disappears.
 - **B and O**: no Na I D at all.
 

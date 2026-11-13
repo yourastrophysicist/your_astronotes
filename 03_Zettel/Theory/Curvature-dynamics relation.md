@@ -22,7 +22,7 @@ with $\Omega_{\rm tot} = \Omega_m + \Omega_r + \Omega_\Lambda$.
 
 ## the three cases
 
-- $\Omega_{\rm tot} > 1$ ($\Omega_k < 0$): **closed** universe ($k = +1$). more energy than critical; gravity wins; spatial slices are 3-spheres.
+- $\Omega_{\rm tot} > 1$ ($\Omega_k < 0$): **closed** universe ($k = +1$). more energy than critical. gravity wins. spatial slices are 3-spheres.
 - $\Omega_{\rm tot} = 1$ ($\Omega_k = 0$): **flat** universe ($k = 0$). exactly critical density. spatial slices are Euclidean.
 - $\Omega_{\rm tot} < 1$ ($\Omega_k > 0$): **open** universe ($k = -1$). less than critical density. spatial slices are 3-hyperbolic.
 
@@ -48,7 +48,7 @@ curvature parameter $k$ specifies the **geometry** of spatial slices:
 - $k = 0$: flat 3-Euclidean. parallel lines stay parallel. triangles $= 180°$.
 - $k = -1$: negatively curved 3-hyperbolic. parallel lines diverge. triangles $< 180°$.
 
-## the measurement: CMB acoustic peaks
+## the measurement - CMB acoustic peaks
 
 the **first acoustic peak** of the CMB at $\ell \approx 220$ corresponds to a sound-horizon scale at recombination of $\sim 150$ Mpc (comoving). its observed angular size:
 $$\theta = (150\,\text{Mpc})/d_A(z = 1100)$$
@@ -56,6 +56,11 @@ $$\theta = (150\,\text{Mpc})/d_A(z = 1100)$$
 depends on the angular-diameter distance to recombination, which depends on the global geometry (specifically $\Omega_k$).
 
 flat universe: $\ell_1 \approx 220$. open: smaller. closed: larger. Planck data give $\ell_1 = 219.4 \pm 0.4$, consistent with flat.
+
+## where it goes wrong
+
+- $\Omega_{\rm tot} = 1$ means flat geometry, not a particular fate.
+- measuring curvature needs a standard ruler at high $z$. the CMB peaks provide it.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -17,7 +17,7 @@ a coherent source illuminates a 50/50 beam splitter. the splitter sends:
 - 50% of the light to *mirror M₁* along arm 1
 - 50% of the light to *mirror M₂* along arm 2
 
-each mirror reflects the light back to the beam splitter, where the two beams recombine and exit toward a detector. one output goes to the detector; the other returns toward the source.
+each mirror reflects the light back to the beam splitter, where the two beams recombine and exit toward a detector. one output goes to the detector. the other returns toward the source.
 
 the OPD is determined by the *difference* of the round-trip distances:
 $$\Lambda = 2 (\ell_1 - \ell_2)$$
@@ -36,7 +36,7 @@ with a broadband source (white light), fringes are only visible when $\Lambda$ i
 
 scanning the mirror through this region: a pattern of perhaps 5-10 visible fringes, with maximum brightness at the geometric zero. this is the **white-light fringe**, and it provides:
 - an absolute zero of OPD
-- a powerful tool for distance measurement: count fringes from white-light to determine relative position
+- a useful tool for distance measurement: count fringes from white-light to determine relative position
 
 ## the historical significance
 
@@ -44,9 +44,9 @@ three landmarks:
 
 ### 1. Michelson-Morley experiment (1887)
 
-Michelson and Morley used this device to search for the *aether wind* — Earth's motion through the supposed luminiferous aether should produce a tiny OPD shift between two perpendicular arms.
+Michelson and Morley used this device to search for the *aether wind*, Earth's motion through the supposed luminiferous aether should produce a tiny OPD shift between two perpendicular arms.
 
-result: **null** — no aether wind detected. one of the most famous null results in physics.
+result: **null**, no aether wind detected. one of the most famous null results in physics.
 
 led directly to:
 - Lorentz contraction (ad-hoc fix)

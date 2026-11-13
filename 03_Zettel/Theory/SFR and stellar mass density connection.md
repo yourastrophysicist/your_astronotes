@@ -45,6 +45,10 @@ once consistent, the cosmic SFR history *predicts* the stellar mass density evol
 
 it is the simplest possible identity in cosmic galaxy evolution. it matters because it ties together the two main statistical objects (SFR-LF and SMF) and acts as a sanity check on the global census.
 
+## where it goes wrong
+
+- $\rho_*(z) = (1 - R)\int \psi\,dt$ with $R \approx 0.4$ for Chabrier.
+
 ## connections
 
 - one side: [[Cosmic star formation history]]

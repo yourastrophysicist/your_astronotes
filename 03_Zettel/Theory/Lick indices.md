@@ -2,7 +2,7 @@
 layout: "default"
 title: "Lick indices"
 ---
-the **Lick/IDS index system** (Burstein et al. 1984; Worthey et al. 1994; Worthey & Ottaviani 1997) is a standardized set of narrow-band spectral indices measuring atomic absorption lines and molecular bands in integrated stellar and galaxy spectra. By targeting features with distinct physical sensitivities, Lick indices decouple the **age-metallicity degeneracy** that plagues broadband photometry of early-type galaxies and globular clusters.
+the **Lick/IDS index system** (Burstein et al. 1984, Worthey et al. 1994, Worthey & Ottaviani 1997) is a standardized set of narrow-band spectral indices measuring atomic absorption lines and molecular bands in integrated stellar and galaxy spectra. By targeting features with distinct physical sensitivities, Lick indices decouple the **age-metallicity degeneracy** that plagues broadband photometry of early-type galaxies and globular clusters.
 
 ---
 
@@ -30,13 +30,13 @@ over 25 classical indices (and modern extensions like higher-order Balmer lines)
 
 | index | central window (Å) | units | physical sensitivity | astrophysical diagnostic role |
 |---|---|---|---|---|
-| **$\mathrm{H}\beta$** | $4847.875\text{--}4876.625$ | Å | **age** | Peaks in A-type turn-off stars ($T_{\rm eff} \sim 9000$ K); insensitive to metallicity |
-| **$\mathrm{H}\delta_A, \mathrm{H}\delta_F$** | $4083.50\text{--}4122.25$ | Å | **age** | Higher-order Balmer line; ideal for post-starburst / A-star identification |
-| **$\mathrm{H}\gamma_A, \mathrm{H}\gamma_F$** | $4319.75\text{--}4363.50$ | Å | **age** | Higher-order Balmer line; less sensitive to nebular emission infill than $\mathrm{H}\beta$ |
-| **$\mathrm{Mg}_b$** | $5160.125\text{--}5192.625$ | Å | **$\alpha$-elements** (Mg) | Dominant triplet in cool giant atmospheres; sensitive to $[\alpha/\mathrm{Fe}]$ |
-| **$\mathrm{Mg}_2$** | $5154.125\text{--}5196.625$ | mag | **$\alpha$-elements** + total $Z$ | Molecular $\mathrm{MgH} + \mathrm{Mg}_b$ blend; strong in metal-rich systems |
-| **$\mathrm{Fe5270}$** | $5245.65\text{--}5285.65$ | Å | **iron peak** (Fe) | Pure Fe-peak tracker; insensitive to $\alpha$-enhancement |
-| **$\mathrm{Fe5335}$** | $5312.125\text{--}5352.125$ | Å | **iron peak** (Fe) | Pure Fe-peak tracker; paired with $\mathrm{Fe5270}$ |
+| **$\mathrm{H}\beta$** | $4847.875\text{--}4876.625$ | Å | **age** | Peaks in A-type turn-off stars ($T_{\rm eff} \sim 9000$ K), insensitive to metallicity |
+| **$\mathrm{H}\delta_A, \mathrm{H}\delta_F$** | $4083.50\text{--}4122.25$ | Å | **age** | Higher-order Balmer line, ideal for post-starburst / A-star identification |
+| **$\mathrm{H}\gamma_A, \mathrm{H}\gamma_F$** | $4319.75\text{--}4363.50$ | Å | **age** | Higher-order Balmer line, less sensitive to nebular emission infill than $\mathrm{H}\beta$ |
+| **$\mathrm{Mg}_b$** | $5160.125\text{--}5192.625$ | Å | **$\alpha$-elements** (Mg) | Dominant triplet in cool giant atmospheres, sensitive to $[\alpha/\mathrm{Fe}]$ |
+| **$\mathrm{Mg}_2$** | $5154.125\text{--}5196.625$ | mag | **$\alpha$-elements** + total $Z$ | Molecular $\mathrm{MgH} + \mathrm{Mg}_b$ blend, strong in metal-rich systems |
+| **$\mathrm{Fe5270}$** | $5245.65\text{--}5285.65$ | Å | **iron peak** (Fe) | Pure Fe-peak tracker, insensitive to $\alpha$-enhancement |
+| **$\mathrm{Fe5335}$** | $5312.125\text{--}5352.125$ | Å | **iron peak** (Fe) | Pure Fe-peak tracker, paired with $\mathrm{Fe5270}$ |
 | **$\mathrm{G4300}$** | $4281.375\text{--}4316.375$ | Å | Carbon / CH molecular band | Traces carbon abundance and intermediate-age stars |
 
 ---
@@ -76,6 +76,22 @@ to compare observed galaxy spectra to Lick/IDS models, three systematic correcti
    - infill is corrected by spectral fitting (e.g., using **gandalf** or **pPXF**) to measure and subtract pure gas emission lines before computing indices.
 
 ---
+
+## worked example
+
+an index is an equivalent width, $\int(1 - F_I/F_C)\,d\lambda$ over the feature band. the Mg$b$ band is 32.5 Å wide, so an average depth of 10% gives 3.25 Å.
+
+the combination that is almost insensitive to $[\alpha/\mathrm{Fe}]$ and follows total metallicity:
+
+$$[\mathrm{MgFe}]' = \sqrt{\mathrm{Mg}b\,(0.72\,\mathrm{Fe5270} + 0.28\,\mathrm{Fe5335})}$$
+
+with Mg$b = 4.5$, Fe5270 $= 3.0$, Fe5335 $= 2.7$ Å: $\sqrt{4.5 \times 2.92} = 3.6$ Å.
+
+## where it goes wrong
+
+- the spectrum must be brought to the Lick resolution, and the indices corrected for the velocity dispersion of the galaxy.
+- emission from ionized gas fills in H$\beta$ and makes the population look older.
+- no index measures one element only. they are read on model grids.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

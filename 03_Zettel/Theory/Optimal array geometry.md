@@ -28,7 +28,7 @@ Different shapes have different mathematical properties. A linear array provides
 
 ## astrophysical context
 
-Array geometry is intimately tied to the science case. ALMA possesses configurations ranging from C-1 (maximum baseline 160 m) to C-10 (maximum baseline 16 km). If you observe a massive galaxy cluster with the 16 km array, you will "resolve out" all the diffuse gas—you have no short baselines to measure the large-scale structure, so it becomes invisible to the interferometer. This is why observers often have to request time on multiple array configurations and merge the data together to get a complete picture of complex astrophysical objects.
+Array geometry is intimately tied to the science case. ALMA possesses configurations ranging from C-1 (maximum baseline 160 m) to C-10 (maximum baseline 16 km). If you observe a massive galaxy cluster with the 16 km array, you will "resolve out" all the diffuse gas, you have no short baselines to measure the large-scale structure, so it becomes invisible to the interferometer. This is why observers often have to request time on multiple array configurations and merge the data together to get a complete picture of complex astrophysical objects.
 
 ---
 

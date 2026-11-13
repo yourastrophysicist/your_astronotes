@@ -43,7 +43,7 @@ the flatter the PDMF at low mass, the more dynamically evolved the cluster. de m
 
 **implication**
 
-never quote a "directly measured IMF" from an old cluster without modelling. open clusters younger than their relaxation time ($\lesssim 100\,\text{Myr}$) preserve the IMF reasonably well; old GCs do not. the most reliable IMFs come from young embedded clusters and OB associations not yet dynamically processed.
+never quote a "directly measured IMF" from an old cluster without modelling. open clusters younger than their relaxation time ($\lesssim 100\,\text{Myr}$) preserve the IMF reasonably well. old GCs do not. the most reliable IMFs come from young embedded clusters and OB associations not yet dynamically processed.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

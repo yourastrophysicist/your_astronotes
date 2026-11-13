@@ -42,7 +42,7 @@ which by Bianchi is automatically conserved. this is the unique "two-derivative-
 
 fixed by demanding the **Newtonian limit**: in the weak-field, slow-motion limit, GR must reduce to Poisson's equation $\nabla^2 \Phi = 4\pi G\rho$. matching this to $G_{00} = 8\pi G T_{00}$ (with $T_{00} \to \rho$ and $G_{00} \to -2\nabla^2 \Phi$) fixes the coefficient.
 
-## the equivalent form: trace-reversed
+## the equivalent form - trace-reversed
 
 Einstein's equation can be rewritten by contracting with $g^{\mu\nu}$:
 $$R - 2R = 8\pi G T \quad\Rightarrow\quad R = -8\pi G T$$
@@ -57,7 +57,7 @@ this **trace-reversed form** is sometimes more convenient. it shows that:
 
 ## the cosmological constant
 
-adding $\Lambda g_{\mu\nu}$ to the LHS is the **only** other conserved tensor combination. it's a free parameter Einstein originally introduced to allow static cosmologies. Friedmann showed dynamic cosmologies don't need it; Einstein called it his "biggest blunder." but in 1998, observations of accelerating expansion **brought it back**: $\Lambda \ne 0$ is now standard $\Lambda$CDM cosmology.
+adding $\Lambda g_{\mu\nu}$ to the LHS is the **only** other conserved tensor combination. it's a free parameter Einstein originally introduced to allow static cosmologies. Friedmann showed dynamic cosmologies don't need it. Einstein called it his "biggest blunder." but in 1998, observations of accelerating expansion **brought it back**: $\Lambda \ne 0$ is now standard $\Lambda$CDM cosmology.
 
 with $\Lambda$ on the right side as a stress-energy contribution, it acts like a fluid with $\rho_\Lambda = \Lambda/(8\pi G)$, $p_\Lambda = -\rho_\Lambda$. constant density, negative pressure: drives accelerated expansion.
 
@@ -69,7 +69,7 @@ the equation is **non-linear** in $g_{\mu\nu}$ (Christoffels are first derivativ
 - **vacuum + spherical symmetry**: $\to$ Schwarzschild metric.
 - **vacuum + axial symmetry**: $\to$ Kerr metric.
 - **homogeneous-isotropic**: $\to$ FLRW + Friedmann equations.
-- **weak field**: linearise; gives Newtonian gravity + gravitational waves.
+- **weak field**: linearise. gives Newtonian gravity + gravitational waves.
 - **PN expansion**: post-Newtonian series in $v/c$.
 
 most modern numerical relativity numerically solves the full Einstein equations on a grid.

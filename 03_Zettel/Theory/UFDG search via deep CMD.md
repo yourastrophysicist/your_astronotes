@@ -32,7 +32,7 @@ ultra-faint dwarfs are too sparse to find by eye on imaging data. they are diffu
 
 - contamination by tidal streams (members of a stream can produce CMD overdensities indistinguishable at first from a UFDG).
 - the GC/UFDG boundary is photometrically ambiguous. structural and kinematic follow-up is required.
-- low surface brightness means few stars near the centre; statistical fluctuations can mimic real systems. cross-validation across multiple surveys helps.
+- low surface brightness means few stars near the centre. statistical fluctuations can mimic real systems. cross-validation across multiple surveys helps.
 
 **LSST / rubin** will push the matched-filter approach to fainter magnitudes over the entire southern sky and is expected to roughly double the known UFDG census, enabling tests of the milky way satellite luminosity function down to $M_V \sim 0$.
 

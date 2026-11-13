@@ -13,7 +13,7 @@ $$M_I^{\rm TRGB} \approx -4.0$$
 
 with a weak metallicity dependence:
 $$M_I^{\rm TRGB} = -4.05 + 0.22[Fe/H]$$
-(approximate; calibrations vary).
+(approximate, calibrations vary).
 
 ## the observational signature
 
@@ -44,6 +44,20 @@ $$H_0 \approx 69.8 \pm 1.7\,\text{km/s/Mpc}$$
 intermediate between the Cepheid-anchored ($73.0$) and Planck-anchored ($67.4$) values. the disagreement among the three is at the heart of the modern $H_0$ tension.
 
 JWST is now resolving TRGB stars in galaxies hosting SN Ia, providing the cleanest Cepheid-independent local ladder.
+
+## worked example
+
+the tip sits at $M_I \approx -4.05$, almost independent of age and metallicity for old metal-poor populations, because the helium flash happens at a fixed core mass of $0.47\,M_\odot$.
+
+in a galaxy where the luminosity function of red giants jumps at $I = 25.8$:
+
+$$\mu = 25.8 + 4.05 = 29.85, \qquad d = 9.3\ \text{Mpc}$$
+
+## where it goes wrong
+
+- the edge must be found on a clean luminosity function. AGB stars above the tip and crowding blur it.
+- the calibration depends on colour in the near infrared, much less in the I band.
+- the method needs old stars, so it works best in the halos of galaxies, where dust is low.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

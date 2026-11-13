@@ -63,12 +63,12 @@ main projects: IllustrisTNG, EAGLE, SIMBA, FIRE, ASTRID.
 
 ## the limitations
 
-- **sub-grid physics**: SF + feedback are below resolution; need empirical recipes.
+- **sub-grid physics**: SF + feedback are below resolution. need empirical recipes.
 - **resolution**: small scales unresolved. dwarf-scale physics uncertain.
-- **box size**: large volumes need many particles; trade off with resolution.
+- **box size**: large volumes need many particles. trade off with resolution.
 - **computational cost**: a single IllustrisTNG run takes $\sim 10$ million CPU-hours.
 
-so simulations + observations + analytic theory **all** needed; no single approach gives the full picture.
+so simulations + observations + analytic theory **all** needed. no single approach gives the full picture.
 
 ## the use in cosmology
 

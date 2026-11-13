@@ -4,7 +4,7 @@ title: "Heterodyne vs direct detection"
 ---
 # Heterodyne vs direct detection
 
-two fundamentally different ways to combine signals from separated telescopes in an interferometer. **heterodyne** mixes the incoming radio signal with a local oscillator (LO) to bring it down to a manageable intermediate frequency (IF) where complex voltage amplitudes and phases are recorded and correlated electronically. **direct detection** physically combines the optical light waves at a beam splitter to measure photon fringe contrast. radio uses heterodyne; optical/IR uses direct detection.
+two fundamentally different ways to combine signals from separated telescopes in an interferometer. **heterodyne** mixes the incoming radio signal with a local oscillator (LO) to bring it down to a manageable intermediate frequency (IF) where complex voltage amplitudes and phases are recorded and correlated electronically. **direct detection** physically combines the optical light waves at a beam splitter to measure photon fringe contrast. radio uses heterodyne. optical/IR uses direct detection.
 
 ![Radio antenna dish array versus optical interferometer beam combination](../../assets/images/Components_of_a_modern_interferometer.jpg)
 
@@ -35,7 +35,7 @@ $$V_{\rm IF}(t) = V_{\text{IF}} \cos(2\pi \nu_{\rm IF} t + \Delta\phi), \quad \t
 
 ## direct detection (the optical approach)
 
-at optical/IR wavelengths ($\nu \sim 10^{14}-10^{15}\text{ Hz}$), no electronic oscillator or diode can operate at sub-femtosecond speeds ($\sim 10^{-15}\text{ s}$). Furthermore, linear amplification is impossible without adding quantum noise ($h\nu$ per mode).
+at optical/IR wavelengths ($\nu \sim 10^{14}-10^{15}\text{ Hz}$), no electronic oscillator or diode can operate at sub-femtosecond speeds ($\sim 10^{-15}\text{ s}$). Linear amplification is impossible without adding quantum noise ($h\nu$ per mode).
 
 optical interferometers must therefore combine the *actual light waves* before detection:
 - Light from each telescope travels down real optical delay lines (evacuated tubes, precision mirrors) to a central beam combiner.

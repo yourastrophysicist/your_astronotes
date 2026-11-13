@@ -18,7 +18,7 @@ and because it shifts into the observed-frame optical for $z \gtrsim 2$, it is t
 
 ## the resonance-scattering problem
 
-Lyα is a resonance transition: every neutral H atom along the sightline can absorb and re-emit it. so a Lyα photon does not travel in a straight line; it random-walks in frequency and space through the neutral HI in its host galaxy and the CGM.
+Lyα is a resonance transition: every neutral H atom along the sightline can absorb and re-emit it. so a Lyα photon does not travel in a straight line. It random-walks in frequency and space through the neutral HI in its host galaxy and the CGM.
 
 consequences:
 
@@ -42,7 +42,11 @@ assuming $f_{\text{esc}} = 1$ (optimistic):
 
 $$\text{SFR}\;[M_\odot/\text{yr}] \simeq 9.1 \times 10^{-43}\, L(\text{Ly}\alpha)\;[\text{erg}/\text{s}]$$
 
-which is just $L(\text{H}\alpha)$ calibration scaled by $1/8.7$. in reality, $f_{\text{esc}} = 0.05$–$0.3$ is more typical.
+which is just $L(\text{H}\alpha)$ calibration scaled by $1/8.7$. in reality, $f_{\text{esc}} = 0.05$ to $0.3$ is more typical.
+
+## where it goes wrong
+
+- Lyman alpha scatters resonantly, so most of it can be lost or spread far from the galaxy.
 
 ## connections
 

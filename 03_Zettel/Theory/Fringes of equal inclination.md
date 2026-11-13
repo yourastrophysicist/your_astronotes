@@ -17,7 +17,7 @@ a parallel-faced plate of thickness $d$ and refractive index $n_f$ is illuminate
 
 at each point on the plate, light reflects from:
 - the top surface (path 1)
-- the bottom surface (after refraction into the plate, internal reflection, and refraction back out — path 2)
+- the bottom surface (after refraction into the plate, internal reflection, and refraction back out, path 2)
 
 the OPD between path 1 and path 2 depends on the angle of refraction inside the plate, $\theta_t$:
 
@@ -41,13 +41,13 @@ three:
 
 ### 1. extended source
 
-a point source produces only one angle of incidence — only one fringe at a time. to see multiple fringes simultaneously, you need an *extended source* covering a range of angles.
+a point source produces only one angle of incidence, only one fringe at a time. to see multiple fringes simultaneously, you need an *extended source* covering a range of angles.
 
 a typical setup: a diffuse source (e.g. a frosted bulb), illuminating a tilted glass plate, viewed by an eye focused at infinity (or through a telescope). the rings form in the eye.
 
 ### 2. parallel-faced plate
 
-if the two surfaces are not parallel, the OPD varies across the plate, producing different fringes — that's [[Fringes of equal thickness]] instead.
+if the two surfaces are not parallel, the OPD varies across the plate, producing different fringes. that's [[Fringes of equal thickness]] instead.
 
 ### 3. moderate coherence
 

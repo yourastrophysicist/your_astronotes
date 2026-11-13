@@ -33,10 +33,10 @@ an earlier candidate in M22 was based on radio continuum detection of two compac
 
 **limitations and biases**
 
-- the method is sensitive only to **edge-on** systems; at low inclination $\sin i$, the inferred $M_2 \sin i$ underestimates the true mass.
-- the method is sensitive only to systems with a luminous companion; pure BH-BH binaries need [[BHs from gravitational waves\|gravitational waves]] to find.
-- short-period (< days) systems are easiest; year-long orbits require long observational baselines.
-- "dark" companions could in principle be very heavy white dwarfs or neutron stars near maximum mass; only a clear $> 3\,M_\odot$ minimum allows BH identification.
+- the method is sensitive only to **edge-on** systems. at low inclination $\sin i$, the inferred $M_2 \sin i$ underestimates the true mass.
+- the method is sensitive only to systems with a luminous companion. pure BH-BH binaries need [[BHs from gravitational waves\|gravitational waves]] to find.
+- short-period (< days) systems are easiest. year-long orbits require long observational baselines.
+- "dark" companions could in principle be very heavy white dwarfs or neutron stars near maximum mass. only a clear $> 3\,M_\odot$ minimum allows BH identification.
 
 **outlook**
 

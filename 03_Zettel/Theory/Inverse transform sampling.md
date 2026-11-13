@@ -44,14 +44,14 @@ inverse: $x = [u(b^{\alpha+1} - a^{\alpha+1}) + a^{\alpha+1}]^{1/(\alpha+1)}$.
 
 for $\alpha = -1$ (i.e. $P(x) \propto 1/x$): $F(x) = \ln(x/a)/\ln(b/a)$, $x = a (b/a)^u$.
 
-this is the **exam template's exercise 2** — $P(s) = C/s$ on $[1\,\rm AU, 1000\,\rm AU]$:
+this is the **exam template's exercise 2**, $P(s) = C/s$ on $[1\,\rm AU, 1000\,\rm AU]$:
 ```python
 a, b = 1, 1000      # in AU
 u = np.random.uniform(size=N)
 s = a * (b / a) ** u
 ```
 
-### Gaussian — the trick
+### Gaussian - the trick
 
 the Gaussian CDF $\Phi(x) = \tfrac12 [1 + \text{erf}(x/\sqrt 2)]$ is not analytically invertible. workaround: use the **Box-Muller transform** instead, which gives two normals from two uniforms via polar trigonometry. see [[Box-Muller transform for Gaussian random numbers]].
 
@@ -91,8 +91,8 @@ this is the "did I sample correctly" plot that every exam exercise expects.
 
 ## limitations
 
-- **CDF must be invertible** — analytically or via lookup
-- **only one variable at a time** — for multivariate distributions, use the conditional / joint factorization, or rejection, or MCMC
+- **CDF must be invertible** - analytically or via lookup
+- **only one variable at a time** - for multivariate distributions, use the conditional / joint factorization, or rejection, or MCMC
 - **heavy-tailed distributions** can have numerical trouble: $1 - u$ near 1 has cancellation, use `np.random.uniform()` and apply $-\log$ directly
 
 ## scipy production
@@ -107,7 +107,7 @@ samples = expon.rvs(scale=1/lam, size=N)
 ## astrophysics applications
 
 - **stellar IMF sampling**: the Salpeter IMF $P(m) \propto m^{-2.35}$ on $[0.1, 100] M_\odot$ is the classic textbook power-law sampling
-- **binary orbital periods**: $P(s) \propto 1/s$ (Öpik / Duquennoy & Mayor) — exam template
+- **binary orbital periods**: $P(s) \propto 1/s$ (Öpik / Duquennoy & Mayor), exam template
 - **Compton-scattered photon energy**: distribution involves a non-trivial CDF, often tabulated
 - **cosmological volumes**: sampling redshifts uniformly in comoving volume, $P(z) \propto dV/dz$
 - **ray-tracing through media**: sampling free path lengths from $e^{-\tau}$ distributions

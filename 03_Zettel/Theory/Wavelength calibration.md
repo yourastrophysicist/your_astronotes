@@ -12,7 +12,7 @@ to convert a spectrum's $x$ axis from "pixels" to "Å" you need a known referenc
    - **ThAr** (thorium + argon): standard in echelle for high-$R$ stability ($\sim$ thousand lines per order).
    - **CuAr**, **HgArXe**: specific instruments.
 2. **identify lines** in the lamp spectrum: take a published lamp atlas with wavelengths and visually match prominent peaks.
-3. **fit a polynomial** $\lambda(x) = \sum a_n x^n$ to the (pixel, wavelength) pairs. typical degree 3 to 5; higher-order needed for echelle covering wide $\lambda$.
+3. **fit a polynomial** $\lambda(x) = \sum a_n x^n$ to the (pixel, wavelength) pairs. typical degree 3 to 5. higher-order needed for echelle covering wide $\lambda$.
 4. **apply the polynomial** to convert science target's $x$-axis to wavelengths.
 5. **check residuals**: for $R = 1000$, residuals should be $\lesssim 0.5$ Å. for $R = 50\,000$, $\lesssim 0.01$ Å.
 
@@ -37,7 +37,7 @@ for radial-velocity measurements, wavelength calibration is the dominant systema
 - vacuum-stable spectrograph.
 - heavy software pipeline correcting for instrument drift, barycentric motion, telluric absorption.
 
-LFC: a femtosecond laser locked to an atomic clock provides a regular forest of "ruler" lines. used in HARPS, ESPRESSO. the gold standard for high-precision RV.
+LFC: a femtosecond laser locked to an atomic clock provides a regular forest of "ruler" lines. used in HARPS, ESPRESSO. the standard for high-precision RV.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -2,7 +2,7 @@
 layout: "default"
 title: "Magnesium population vs T"
 ---
-Mg has $\chi_{\rm MgI} = 7.65$ eV (modest) and $\chi_{\rm MgII} = 15$ eV. Mg I lines (notably the b-triplet at $\sim 5170$ Å) appear in cool to intermediate stars; Mg II h+k at UV $2800$ Å in hotter ones.
+Mg has $\chi_{\rm MgI} = 7.65$ eV (modest) and $\chi_{\rm MgII} = 15$ eV. Mg I lines (notably the b-triplet at $\sim 5170$ Å) appear in cool to intermediate stars. Mg II h+k at UV $2800$ Å in hotter ones.
 
 ## Mg I b-triplet
 

@@ -73,11 +73,25 @@ $$d_C(z) = \int_0^z \frac{c\,dz'}{H(z')} \quad \text{(comoving distance, flat)}$
 
 ## a subtlety
 
-the value $k \in \{-1, 0, +1\}$ is a *topological* statement (positively, zero, or negatively curved). the *strength* of the curvature is encoded in $a$. so $k$ doesn't measure how strongly curved the universe is — it just classifies the geometry into three categories. the actual curvature scalar is $\propto k/a^2$.
+the value $k \in \{-1, 0, +1\}$ is a *topological* statement (positively, zero, or negatively curved). the *strength* of the curvature is encoded in $a$. so $k$ doesn't measure how strongly curved the universe is. it just classifies the geometry into three categories. the actual curvature scalar is $\propto k/a^2$.
 
 so two universes with different $\lvert k\rvert$ but the same $k/a^2$ are physically equivalent, and we can rescale the radial coordinate to fix $\lvert k\rvert \in \{0, 1\}$.
 
 ---
+
+## worked example
+
+the curvature radius today is $R_c = c/(H_0\sqrt{\lvert\Omega_k\rvert})$. with $\lvert\Omega_k\rvert < 0.002$:
+
+$$R_c > \frac{4448\ \text{Mpc}}{0.045} = 99\ \text{Gpc}$$
+
+more than seven times the distance to the last scattering surface.
+
+## where it goes wrong
+
+- $k$ only gives the sign. the size of the curvature is in $a$ or in $\Omega_k$.
+- a closed universe is not necessarily one that recollapses. with $\Lambda$ the two are unrelated.
+- $\Omega_k > 0$ means open, the opposite sign of $k$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

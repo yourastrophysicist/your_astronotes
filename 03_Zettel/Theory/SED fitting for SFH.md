@@ -31,7 +31,7 @@ inputs:
 
 ## the Pablo examples
 
-- **Papovich, Dickinson, Ferguson 2001** show NIC IDs 503 and 814 at $z \sim 2$–$3$ with four or more equally good SFH fits: $t = 10$ Myr + high $A_V$, or $t = 500$ Myr + low $A_V$. the ages span factors of $10$+ because the UV-to-NIR photometry alone does not break the age-dust-metallicity degeneracy
+- **Papovich, Dickinson, Ferguson 2001** show NIC IDs 503 and 814 at $z \sim 2$ to $3$ with four or more equally good SFH fits: $t = 10$ Myr + high $A_V$, or $t = 500$ Myr + low $A_V$. the ages span factors of $10$+ because the UV-to-NIR photometry alone does not break the age-dust-metallicity degeneracy
 - **Pérez-González 2008 "Rainbow"** multiwavelength SED fitting from UV to FIR constrains SFH more tightly by adding Spitzer MIPS and Herschel SED shape
 
 moral: without FIR data, SFH parameters are weakly constrained. *adding* IR breaks the degeneracy because the IR gives a direct handle on the total UV absorbed.
@@ -48,7 +48,7 @@ moral: without FIR data, SFH parameters are weakly constrained. *adding* IR brea
 
 in order of reliability:
 1. redshift (photometric, good to $\sigma_z/(1+z) \sim 0.01$ with good filters)
-2. stellar mass ($\pm 0.1$–$0.2$ dex)
+2. stellar mass ($\pm 0.1$ to $0.2$ dex)
 3. current SFR ($\pm 0.3$ dex)
 4. $A_V$
 5. mass-weighted age
@@ -56,9 +56,13 @@ in order of reliability:
 
 ## known biases
 
-- **outshining**: a small recent burst dominates UV/optical flux, hiding the older population. biases $M_*$ low by factor $\sim 1.5$–$2$. solved by adding NIR data sensitive to old stars
+- **outshining**: a small recent burst dominates UV/optical flux, hiding the older population. biases $M_*$ low by factor $\sim 1.5$ to $2$. solved by adding NIR data sensitive to old stars
 - **AGN**: contaminates UV/MIR. missing an AGN component biases SFR high
 - **metallicity priors**: most codes fix or weakly constrain $Z$. if $Z$ is wrong, $M_*$ shifts
+
+## where it goes wrong
+
+- the recovered history is limited by outshining. old populations hide under young light.
 
 ## connections
 

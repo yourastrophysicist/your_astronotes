@@ -27,7 +27,7 @@ multi-epoch spectra of cluster members reveal binaries through periodic shifts i
 
 this picks up close binaries with periods up to a few years. the approach is well suited to [[Open clusters]] and to the brighter [[Red giant branch RGB]] of [[Globular Clusters]] (e.g. MUSE surveys of $\omega$ Cen, NGC 3201, NGC 6397). it is the only way to access the orbital period and to confirm [[Hunting BHs via radial velocities\|dark-companion binaries]].
 
-caveats: short-period binaries dominate the detection; long-period (months to years) systems require long baselines; binaries at apastron or with low inclination produce small RV signals.
+caveats: short-period binaries dominate the detection. long-period (months to years) systems require long baselines. binaries at apastron or with low inclination produce small RV signals.
 
 **typical results**
 

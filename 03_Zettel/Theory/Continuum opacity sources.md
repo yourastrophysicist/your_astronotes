@@ -50,7 +50,7 @@ a very rough rule:
 - **hot stars**: continuum $\propto B_\nu(T) \cdot \kappa^{-1}$ with $\kappa \sim$ const (electron scattering).
 - **cool stars**: continuum modulated by H$^-$ bound-free shape, peaking at $\sim 1.6\,\mu$m.
 
-so the spectrum shape is **not** just a Planck curve; it is modulated by the wavelength-dependent opacity.
+so the spectrum shape is **not** just a Planck curve. it is modulated by the wavelength-dependent opacity.
 
 ## continuum slopes diagnose stellar parameters
 

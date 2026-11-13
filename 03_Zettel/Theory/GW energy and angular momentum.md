@@ -36,7 +36,7 @@ $$\dot a = -\frac{64}{5}\,\frac{G^3}{c^5}\,\frac{m_1 m_2(m_1 + m_2)}{a^3}$$
 integrated:
 $$a(t) = a_0\!\left(1 - t/t_{\rm coalesce}\right)^{1/4}$$
 
-with $t_{\rm coalesce} \propto a_0^4$. so close binaries inspiral fast; wide binaries take much longer than the universe's age.
+with $t_{\rm coalesce} \propto a_0^4$. so close binaries inspiral fast. wide binaries take much longer than the universe's age.
 
 ## post-Newtonian corrections
 
@@ -47,7 +47,7 @@ leading order: quadrupole formula $\sim (v/c)^5$ (= 2.5PN order). higher-order c
 
 modern waveform models (IMRPhenom, EOB) match analytic post-Newtonian + numerical relativity to produce templates for LIGO data analysis.
 
-## the analogy: EM Larmor formula
+## the analogy - EM Larmor formula
 
 EM radiated power from accelerating charges:
 $$P_{\rm EM} = \frac{q^2 a^2}{6\pi\epsilon_0 c^3}$$

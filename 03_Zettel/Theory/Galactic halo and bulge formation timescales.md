@@ -14,7 +14,7 @@ this picture is corroborated by:
 
 **halo**: the stellar halo formed over a more extended period and is **not coeval**. evidence:
 
-- age-metallicity diagrams of halo globular clusters split into two branches (see [[Galactic GC two-population age structure]]). the old branch ($\sim 12$-$13$ Gyr, low $[\text{Fe/H}]$) is consistent with an in-situ, rapid-collapse component (an updated eggen-lynden-bell-sandage 1962 picture); the younger branch ($\sim 10$-$12$ Gyr, slightly higher $[\text{Fe/H}]$ at fixed age) is consistent with the searle-zinn 1978 picture of accretion of fragments.
+- age-metallicity diagrams of halo globular clusters split into two branches (see [[Galactic GC two-population age structure]]). the old branch ($\sim 12$-$13$ Gyr, low $[\text{Fe/H}]$) is consistent with an in-situ, rapid-collapse component (an updated eggen-lynden-bell-sandage 1962 picture). the younger branch ($\sim 10$-$12$ Gyr, slightly higher $[\text{Fe/H}]$ at fixed age) is consistent with the searle-zinn 1978 picture of accretion of fragments.
 - substructure: tidal streams (sgr, gaia-enceladus debris, helmi streams, sequoia) reveal that a large fraction of the halo, especially the outer halo, was accreted from disrupted dwarfs (see [[Halo accretion from dwarf galaxies]]).
 - chemistry: the halo $[\alpha/\text{Fe}]$ knee occurs at lower $[\text{Fe/H}]$ than the bulge knee, indicating slower star formation in the halo progenitors, consistent with smaller protogalactic fragments.
 
@@ -26,7 +26,7 @@ this picture is corroborated by:
 - thick disk: forms after the in-situ halo, $\sim 10$-$11$ Gyr ago, with $[\alpha/\text{Fe}]$ enhancement.
 - thin disk: gradual build-up over the last $\sim 8$-$10$ Gyr.
 
-the punchline for galactic archaeology: CMDs of clusters and field populations let you reconstruct this timeline directly, because each population leaves a distinct turnoff age and metallicity signature. the milky way is a hybrid of fast in-situ formation (bulge, inner halo) and slow accreted growth (outer halo, parts of the disk).
+the main result for galactic archaeology: CMDs of clusters and field populations let you reconstruct this timeline directly, because each population leaves a distinct turnoff age and metallicity signature. the milky way is a hybrid of fast in-situ formation (bulge, inner halo) and slow accreted growth (outer halo, parts of the disk).
 
 see also [[Age-metallicity relation of Galactic GCs]], [[Galactic GC two-population age structure]], [[Halo accretion from dwarf galaxies]], [[CMD constraints on disk vs halo populations]], [[Stellar populations I II III]], [[Stellar_Astrophysics_MOC]]
 

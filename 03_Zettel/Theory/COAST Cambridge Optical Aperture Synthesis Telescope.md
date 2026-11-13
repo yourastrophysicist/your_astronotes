@@ -4,7 +4,7 @@ title: "COAST Cambridge Optical Aperture Synthesis Telescope"
 ---
 # COAST Cambridge Optical Aperture Synthesis Telescope
 
-a small but historically pivotal interferometer at Cambridge's Mullard Radio Astronomy Observatory. **first instrument to demonstrate true optical aperture synthesis with closure phases** (1996), proving that the techniques perfected at radio wavelengths could work in the optical.
+a small but historically important interferometer at Cambridge's Mullard Radio Astronomy Observatory. **first instrument to demonstrate true optical aperture synthesis with closure phases** (1996), proving that the techniques perfected at radio wavelengths could work in the optical.
 
 ## the architecture
 
@@ -49,7 +49,7 @@ Bayesian/regularized image reconstruction from sparse (u, v) data + closure phas
 
 modest by modern standards (small dishes, short baselines, visible wavelengths) but pioneering:
 
-- imaging Capella (binary, $\theta_{\rm sep} = 50$ mas) — first true optical image
+- imaging Capella (binary, $\theta_{\rm sep} = 50$ mas), first true optical image
 - diameter measurements of bright supergiants
 - detection of close binaries
 - detection of stellar oblateness

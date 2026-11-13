@@ -18,7 +18,7 @@ where $dN$ is the expected number of galaxies in a comoving volume element $dV$ 
 
 ---
 
-### 1.1 Coordinate Invariance: Derivation of $\Phi(M)$ from $\Phi(L)$
+### 1.1 Coordinate Invariance - Derivation of $\Phi(M)$ from $\Phi(L)$
 
 In observational astronomy, intrinsic power is conventionally measured in absolute magnitudes $M$. In magnitude space, the differential distribution is defined such that:
 
@@ -30,7 +30,7 @@ Because the total number of galaxies within an equivalent physical interval must
 
 $$dN = \Phi(L) \, |dL| \, dV = \Phi(M) \, |dM| \, dV \implies \Phi(M) = \Phi(L) \left| \frac{dL}{dM} \right|$$
 
-#### Step-by-Step Derivation of $|dL/dM|$:
+#### Step-by-Step Derivation of $|dL/dM|$
 1. **Pogson's Relation**:
    $$M - M_0 = -2.5 \log_{10}\left(\frac{L}{L_0}\right) = -\frac{2.5}{\ln 10} \ln\left(\frac{L}{L_0}\right)$$
 2. **Inverting for Luminosity**:
@@ -46,7 +46,7 @@ $$dN = \Phi(L) \, |dL| \, dV = \Phi(M) \, |dM| \, dV \implies \Phi(M) = \Phi(L) 
 
 ### 1.2 Statistical Moments of the Luminosity Function
 
-#### The 0-th Moment: Total Galaxy Number Density
+#### The 0-th Moment - Total Galaxy Number Density
 Integrating $\Phi(L)$ over all luminosities yields the total space density of galaxies per comoving unit volume:
 
 $$n_{\rm gal} \equiv \int_0^\infty \Phi(L) \, dL \quad [\mathrm{Mpc}^{-3}]$$
@@ -56,7 +56,7 @@ The space density of galaxies with luminosities exceeding a given threshold $L$:
 
 $$\Phi(>L) \equiv \int_L^\infty \Phi(L') \, dL'$$
 
-#### The 1-st Moment: Total Luminosity Density (Emissivity $j = \rho_L$)
+#### The 1-st Moment - Total Luminosity Density (Emissivity $j = \rho_L$)
 The total radiant energy emitted per unit time per unit comoving volume is the **first luminosity moment**:
 
 $$\boxed{ j = \rho_L \equiv \int_0^\infty L \, \Phi(L) \, dL }$$
@@ -78,13 +78,13 @@ $$\Phi(L) \, dL = \phi^* \left(\frac{L}{L^*}\right)^\alpha \exp\left(-\frac{L}{L
 
 where $\phi^*$ is the normalization ($\mathrm{Mpc}^{-3}$), $L^*$ is the characteristic transition luminosity, and $\alpha$ is the faint-end slope.
 
-#### Step 1 — Substitute into the Integral
+#### Step 1 - Substitute into the Integral
 $$j = \int_0^\infty L \left[ \phi^* \left(\frac{L}{L^*}\right)^\alpha \exp\left(-\frac{L}{L^*}\right) \frac{dL}{L^*} \right]$$
 
 Since $\phi^*$ and $L^*$ do not depend on $L$, factor $\phi^*$ out of the integral:
 $$j = \phi^* \int_0^\infty L \left(\frac{L}{L^*}\right)^\alpha \exp\left(-\frac{L}{L^*}\right) \frac{dL}{L^*}$$
 
-#### Step 2 — Dimensionless Variable Substitution
+#### Step 2 - Dimensionless Variable Substitution
 Define the dimensionless luminosity variable:
 $$x \equiv \frac{L}{L^*} \implies L = L^* x$$
 Differentiating:
@@ -96,7 +96,7 @@ Examine the integration limits:
 
 The limits remain $[0, \infty)$.
 
-#### Step 3 — Algebraic Simplification
+#### Step 3 - Algebraic Simplification
 Substitute $L = L^* x$ and $dL/L^* = dx$ into the integrand:
 $$j = \phi^* \int_0^\infty (L^* x) \cdot x^\alpha \cdot e^{-x} \, dx$$
 Factor out the constant $L^*$:
@@ -104,7 +104,7 @@ $$j = \phi^* L^* \int_0^\infty x \cdot x^\alpha \cdot e^{-x} \, dx$$
 Combine powers of $x$ via $x^1 \cdot x^\alpha = x^{\alpha + 1}$:
 $$j = \phi^* L^* \int_0^\infty x^{\alpha + 1} e^{-x} \, dx$$
 
-#### Step 4 — Connection to the Euler Gamma Function
+#### Step 4 - Connection to the Euler Gamma Function
 Recall the formal definition of the Euler Gamma function:
 $$\Gamma(z) \equiv \int_0^\infty t^{z - 1} e^{-t} \, dt \quad (\text{for } \mathrm{Re}(z) > 0)$$
 
@@ -114,12 +114,12 @@ $$z - 1 = \alpha + 1 \implies z = \alpha + 2$$
 Thus, the integral is identically $\Gamma(\alpha + 2)$:
 $$\int_0^\infty x^{(\alpha + 2) - 1} e^{-x} \, dx = \Gamma(\alpha + 2)$$
 
-#### Step 5 — Final Exact Analytical Expression
+#### Step 5 - Final Exact Analytical Expression
 $$\boxed{ j = \rho_L = \phi^* L^* \, \Gamma(\alpha + 2) }$$
 
 ---
 
-### 1.4 Rigorous Asymptotic Analysis: Convergence vs Number Divergence
+### 1.4 Rigorous Asymptotic Analysis - Convergence vs Number Divergence
 
 A central question in extragalactic astrophysics is why the total galaxy number density can diverge while the total luminosity density remains strictly finite.
 
@@ -158,7 +158,7 @@ $$\alpha_{\rm obs} \approx -1.1 \text{ to } -1.25$$
 
 ## 2. Unbroken Mathematical Derivation - The $1/V_{\rm max}$ Schmidt Estimator
 
-In real astronomical surveys, galaxies are not observed in a volume-limited box; they are cataloged in an **apparent-magnitude-limited sample** defined by a sky area coverage $\Omega$ (in steradians) and an apparent magnitude cutoff $m_{\rm lim}$.
+In real astronomical surveys, galaxies are not observed in a volume-limited box. They are cataloged in an **apparent-magnitude-limited sample** defined by a sky area coverage $\Omega$ (in steradians) and an apparent magnitude cutoff $m_{\rm lim}$.
 
 ### Step 1 - The Maximum Accessible Distance
 Consider the $i$-th observed galaxy with absolute magnitude $M_i$ and apparent magnitude $m_i$, situated at an observed distance $d_i$.
@@ -259,7 +259,7 @@ $$p(M_i \mid z_i) = \frac{\Phi(M_i)}{\int_{-\infty}^{M_{\rm lim}(z_i)} \Phi(M') 
 
 Because spatial density fluctuations $\rho(\mathbf{x})$ multiply both numerator and denominator, they cancel out identically. STY is **completely immune to large-scale galaxy clustering**.
 
-### 2. Step-Wise Maximum Likelihood (SWML; Efstathiou et al. 1988)
+### 2. Step-Wise Maximum Likelihood (SWML, Efstathiou et al. 1988)
 Replaces the assumed parametric Schechter form with a series of discrete step functions, preserving immunity to clustering while eliminating model dependence.
 
 ---
@@ -290,7 +290,7 @@ When illustrating the luminosity function and $V_{\rm max}$ method on the blackb
 
 ### Key Blackboard Features
 - **The Survey Cone** - Draw an expanding cone with solid angle $\Omega$ starting from the observer.
-- **Volume Boundaries** - Draw three concentric arcs showing the tiny detection sphere for dwarf galaxies, the medium sphere for $L^*$ galaxies, and the vast outer sphere for giants.
+- **Volume Boundaries** - Draw three concentric arcs showing the tiny detection sphere for dwarf galaxies, the medium sphere for $L^*$ galaxies, and the large outer sphere for giants.
 - **Formula Annotation** - Write the weighting formula $\Phi(M)\Delta M = \sum 1/V_{\rm max, i}$ and the variance formula $\sigma^2 = \sum 1/V_{\rm max, i}^2$.
 - **Malmquist Bias Formula** - Write the shift $\Delta M = -1.382 \sigma_M^2$ on the blackboard to explain why distance ladder calibrations require bias corrections.
 
@@ -370,6 +370,10 @@ When illustrating the luminosity function and $V_{\rm max}$ method on the blackb
 ![gal_lf1-15.png](../../assets/images/gal_lf1-15.png)
 
 
+
+## where it goes wrong
+
+- the luminosity function is per unit volume, so it needs $H_0$. units of $h^3$ Mpc$^{-3}$ avoid the dependence.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

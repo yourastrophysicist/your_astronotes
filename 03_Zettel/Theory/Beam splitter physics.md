@@ -20,14 +20,14 @@ three common types:
 a glass plate (typically a few mm thick) with a thin metallic coating (typically aluminum or silver) deposited on one surface. the coating thickness is tuned so that ~50% of the light is reflected and ~50% is transmitted.
 
 advantages: simple, broadband.
-disadvantages: absorption losses (typically 5-20%); polarization-dependent.
+disadvantages: absorption losses (typically 5-20%). polarization-dependent.
 
 ### 2. dielectric beam splitter
 
 a glass plate with a stack of thin dielectric layers (alternating high- and low-index materials). by interference between the layers, you can engineer any reflection ratio with very low absorption.
 
-advantages: low loss (<1%); precise ratio engineering.
-disadvantages: bandwidth-limited (works only for a chosen wavelength range); can be polarization-sensitive.
+advantages: low loss (<1%). precise ratio engineering.
+disadvantages: bandwidth-limited (works only for a chosen wavelength range). can be polarization-sensitive.
 
 ### 3. cube beam splitter
 
@@ -43,7 +43,7 @@ a key physical fact: at a beam splitter, the *reflected* and *transmitted* beams
 - transmitted: phase 0
 - reflected: phase $\pi$ (approximately, for a typical setup)
 
-the exact phase pattern depends on the coating, but a $\pi$-difference between reflection and transmission is required by *unitarity* — the beam-splitter transformation must preserve the total energy of the two input beams across the two output beams.
+the exact phase pattern depends on the coating, but a $\pi$-difference between reflection and transmission is required by *unitarity*, the beam-splitter transformation must preserve the total energy of the two input beams across the two output beams.
 
 equivalently: the beam splitter's transfer matrix is
 

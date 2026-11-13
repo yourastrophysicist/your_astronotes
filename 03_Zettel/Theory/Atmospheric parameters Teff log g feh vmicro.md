@@ -2,7 +2,7 @@
 layout: "default"
 title: "Atmospheric parameters Teff log g feh vmicro"
 ---
-# atmospheric parameters: Teff, log g, [Fe/H], vmicro
+# atmospheric parameters - Teff, log g, [Fe/H], vmicro
 
 a stellar atmosphere is, to first approximation, a 1D plane-parallel radiative-convective slab characterised by **four numbers**: the effective temperature $T_{\rm eff}$, the surface gravity $\log g$, the metallicity (typically [Fe/H]), and the microturbulent velocity $\xi_t$. these are the "atmospheric parameters". together they define a model atmosphere and any synthetic spectrum computed from it. determining them from observations is the first step in any spectroscopic analysis.
 
@@ -15,9 +15,9 @@ typical range: 2500 K (late M dwarfs) to 50{,}000+ K (O stars). it sets the shap
 **surface gravity $\log g$.** the local gravitational acceleration at the photosphere,
 $$g = \frac{GM}{R^2},$$
 expressed in cgs and $\log_{10}$. typical values:
-- $\log g \approx 4.4$ for the sun and other dwarfs;
-- $\log g \approx 2\text{-}3$ for red giants;
-- $\log g \approx 0\text{-}1$ for supergiants;
+- $\log g \approx 4.4$ for the sun and other dwarfs.
+- $\log g \approx 2\text{-}3$ for red giants.
+- $\log g \approx 0\text{-}1$ for supergiants.
 - $\log g \approx 7\text{-}9$ for white dwarfs (see [[White dwarf overview]]).
 $\log g$ controls the photospheric pressure (because hydrostatic equilibrium gives $P \propto g$), and therefore pressure broadening (Stark, van der Waals) and the ionisation balance through the [[Saha ionisation equation]]. see [[Spectroscopic determination of log g]].
 
@@ -55,101 +55,101 @@ uncertainties are larger for hot stars (where line forests are sparser), giants,
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 09 — Atmospheric Parameters & Chemical Abundances)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 09 - Atmospheric Parameters & Chemical Abundances)
 
 > **Context**: *Determining Teff from Balmer wings, log g from pressure-broadened wings (Mg I b, Ca II), [Fe/H] from Fe I/II equilibrium, and alpha-element enhancement [alpha/Fe].*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![LAntonino_p09_01.png](../../assets/images/LAntonino_p09_01.png)
-*Figure P09-01: LAntonino_p09_01.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-01: LAntonino_p09_01.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_02.png](../../assets/images/LAntonino_p09_02.png)
-*Figure P09-02: LAntonino_p09_02.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-02: LAntonino_p09_02.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_03.png](../../assets/images/LAntonino_p09_03.png)
-*Figure P09-03: LAntonino_p09_03.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-03: LAntonino_p09_03.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_04.png](../../assets/images/LAntonino_p09_04.png)
-*Figure P09-04: LAntonino_p09_04.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-04: LAntonino_p09_04.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_05.png](../../assets/images/LAntonino_p09_05.png)
-*Figure P09-05: LAntonino_p09_05.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-05: LAntonino_p09_05.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_06.png](../../assets/images/LAntonino_p09_06.png)
-*Figure P09-06: LAntonino_p09_06.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-06: LAntonino_p09_06.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_07.png](../../assets/images/LAntonino_p09_07.png)
-*Figure P09-07: LAntonino_p09_07.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-07: LAntonino_p09_07.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_08.png](../../assets/images/LAntonino_p09_08.png)
-*Figure P09-08: LAntonino_p09_08.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-08: LAntonino_p09_08.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_09.png](../../assets/images/LAntonino_p09_09.png)
-*Figure P09-09: LAntonino_p09_09.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-09: LAntonino_p09_09.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_10.png](../../assets/images/LAntonino_p09_10.png)
-*Figure P09-10: LAntonino_p09_10.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-10: LAntonino_p09_10.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_11.png](../../assets/images/LAntonino_p09_11.png)
-*Figure P09-11: LAntonino_p09_11.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-11: LAntonino_p09_11.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_12.png](../../assets/images/LAntonino_p09_12.png)
-*Figure P09-12: LAntonino_p09_12.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-12: LAntonino_p09_12.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_13.png](../../assets/images/LAntonino_p09_13.png)
-*Figure P09-13: LAntonino_p09_13.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-13: LAntonino_p09_13.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_14.png](../../assets/images/LAntonino_p09_14.png)
-*Figure P09-14: LAntonino_p09_14.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-14: LAntonino_p09_14.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_15.png](../../assets/images/LAntonino_p09_15.png)
-*Figure P09-15: LAntonino_p09_15.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-15: LAntonino_p09_15.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_16.png](../../assets/images/LAntonino_p09_16.png)
-*Figure P09-16: LAntonino_p09_16.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-16: LAntonino_p09_16.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_17.png](../../assets/images/LAntonino_p09_17.png)
-*Figure P09-17: LAntonino_p09_17.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-17: LAntonino_p09_17.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_18.png](../../assets/images/LAntonino_p09_18.png)
-*Figure P09-18: LAntonino_p09_18.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-18: LAntonino_p09_18.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_19.png](../../assets/images/LAntonino_p09_19.png)
-*Figure P09-19: LAntonino_p09_19.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-19: LAntonino_p09_19.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_20.png](../../assets/images/LAntonino_p09_20.png)
-*Figure P09-20: LAntonino_p09_20.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-20: LAntonino_p09_20.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_21.png](../../assets/images/LAntonino_p09_21.png)
-*Figure P09-21: LAntonino_p09_21.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-21: LAntonino_p09_21.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_22.png](../../assets/images/LAntonino_p09_22.png)
-*Figure P09-22: LAntonino_p09_22.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-22: LAntonino_p09_22.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_23.png](../../assets/images/LAntonino_p09_23.png)
-*Figure P09-23: LAntonino_p09_23.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-23: LAntonino_p09_23.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_24.png](../../assets/images/LAntonino_p09_24.png)
-*Figure P09-24: LAntonino_p09_24.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-24: LAntonino_p09_24.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![LAntonino_p09_25.png](../../assets/images/LAntonino_p09_25.png)
-*Figure P09-25: LAntonino_p09_25.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-25: LAntonino_p09_25.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![Lecture09a_p15-15.png](../../assets/images/Lecture09a_p15-15.png)
-*Figure P09-26: Lecture09a_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-26: Lecture09a_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![Lecture09a_p5-05.png](../../assets/images/Lecture09a_p5-05.png)
-*Figure P09-27: Lecture09a_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-27: Lecture09a_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![Lecture09b_p15-15.png](../../assets/images/Lecture09b_p15-15.png)
-*Figure P09-28: Lecture09b_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-28: Lecture09b_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![Lecture09b_p25-25.png](../../assets/images/Lecture09b_p25-25.png)
-*Figure P09-29: Lecture09b_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-29: Lecture09b_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![Lecture09b_p35-35.png](../../assets/images/Lecture09b_p35-35.png)
-*Figure P09-30: Lecture09b_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-30: Lecture09b_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*
 
 ![Lecture09b_p5-05.png](../../assets/images/Lecture09b_p5-05.png)
-*Figure P09-31: Lecture09b_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 09 — Atmospheric Parameters & Chemical Abundances.*
+*Figure P09-31: Lecture09b_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 09 - Atmospheric Parameters & Chemical Abundances.*

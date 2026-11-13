@@ -54,6 +54,24 @@ given $(h, \delta, \phi)$ I get $(A, a)$.
 
 ---
 
+## worked example
+
+a star with $\delta = +20^\circ$ seen from $\phi = 45^\circ$, two hours after culmination ($h = 30^\circ$):
+
+$$\sin a = \sin\phi\sin\delta + \cos\phi\cos\delta\cos h = 0.2418 + 0.5754 = 0.8172 \quad\Longrightarrow\quad a = 54.8^\circ$$
+
+for the azimuth, measured from south toward west:
+
+$$\sin A = \frac{\cos\delta\sin h}{\cos a} = \frac{0.9397 \times 0.5}{0.5764} = 0.815$$
+
+and $\cos A\cos a = \cos h\cos\delta\sin\phi - \sin\delta\cos\phi = +0.334 > 0$, so $A = 54.6^\circ$ and not $125.4^\circ$.
+
+## where it goes wrong
+
+- taking the azimuth from the sine alone. the sign of the cosine expression decides the quadrant.
+- forgetting which azimuth convention the formulas assume.
+- applying refraction before the transformation. the geometry is done first, the atmosphere after.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

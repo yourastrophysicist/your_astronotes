@@ -90,7 +90,7 @@ at the boundaries between pointings:
 
 modern pipelines handle this with sophisticated weighting and primary-beam correction.
 
-## the alternative: single-feed scanning
+## the alternative - single-feed scanning
 
 instead of point-and-stare mosaicking, some instruments scan the sky continuously while observing:
 - **single-dish drift scanning**: the dish stays fixed, sky rotates past

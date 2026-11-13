@@ -4,9 +4,9 @@ title: "What is machine learning"
 ---
 # What is machine learning
 
-a one-page summary of the field that Mapelli's notes touch on briefly. ML is *fitting models to data*, but with much greater flexibility than the parametric models of [[Linear least squares]] or [[Non-linear fitting with scipy]] — and the field has developed its own vocabulary, recipes, and pitfalls.
+a one-page summary of the field that Mapelli's notes touch on briefly. ML is *fitting models to data*, but with much greater flexibility than the parametric models of [[Linear least squares]] or [[Non-linear fitting with scipy]], and the field has developed its own vocabulary, recipes, and pitfalls.
 
-## the core distinction: supervised vs unsupervised
+## the core distinction - supervised vs unsupervised
 
 **supervised learning**: I have inputs $\mathbf{x}_i$ and *labeled* outputs $y_i$. learn the mapping $f: \mathbf{x} \mapsto y$. examples:
 
@@ -19,7 +19,7 @@ a one-page summary of the field that Mapelli's notes touch on briefly. ML is *fi
 - **dimensionality reduction**: compress while preserving structure (PCA, t-SNE, UMAP)
 - **anomaly detection**: identify outliers. find rare transients
 
-**reinforcement learning**: an agent takes actions in an environment, gets rewards, learns policy. less relevant to most physics; central to robotics and game-playing AI.
+**reinforcement learning**: an agent takes actions in an environment, gets rewards, learns policy. less relevant to most physics. central to robotics and game-playing AI.
 
 ## the workflow
 
@@ -32,7 +32,7 @@ a one-page summary of the field that Mapelli's notes touch on briefly. ML is *fi
 7. **test**: report final accuracy on the held-out test set
 8. **deploy**: predict on new data
 
-## the central tradeoff: bias-variance
+## the central tradeoff - bias-variance
 
 every model balances two error sources:
 
@@ -84,7 +84,7 @@ for **regression**:
 - **random forest**: ensemble of trees, robust, default choice
 - **gradient boosting** (XGBoost, LightGBM): often the best tabular model, slightly less interpretable
 - **support vector machine**: good for small datasets with clear margins
-- **k-nearest-neighbors**: simplest possible; often surprisingly competitive
+- **k-nearest-neighbors**: simplest possible. often surprisingly competitive
 - **neural networks**: universal approximators, dominant for images/text/audio, requires lots of data
 - **gaussian processes**: probabilistic regression, gives uncertainties, expensive
 

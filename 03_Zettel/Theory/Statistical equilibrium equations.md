@@ -31,7 +31,7 @@ each transition can have multiple physical channels:
 
 modern codes (Cloudy, MAPPINGS, MOCASSIN) include all of these and solve the full SE for tens to hundreds of levels per ion.
 
-## simplification: two-level atom
+## simplification - two-level atom
 
 for many practical questions (forbidden line emission, single-doublet ratios), the **two-level atom** approximation (one ground + one excited) gives a useful closed-form solution. see [[Two-level atom]] for the full derivation.
 
@@ -47,8 +47,8 @@ $$j_\nu = n_u\,A_{ul}\,h\nu_{ul} \cdot \phi(\nu)/(4\pi)$$
 so to predict line strengths in non-LTE, you **must** solve SE rather than just use Boltzmann.
 
 key examples:
-- **forbidden lines** in HII regions: $A_{ul}$ is small, so the upper level is depopulated only by collisional de-excitation; SE links the population to $T_e$ and $n_e$.
-- **chromospheric lines** in cool stars: radiation pumping competes with collisions; explicit NLTE.
+- **forbidden lines** in HII regions: $A_{ul}$ is small, so the upper level is depopulated only by collisional de-excitation. SE links the population to $T_e$ and $n_e$.
+- **chromospheric lines** in cool stars: radiation pumping competes with collisions. explicit NLTE.
 - **stellar wind lines**: photon-driven, strongly NLTE.
 
 ## the SE algorithm in nebular codes

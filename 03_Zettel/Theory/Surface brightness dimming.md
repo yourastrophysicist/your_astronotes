@@ -55,11 +55,21 @@ several consequences:
 
 surface brightness is conserved in flat space (Liouville theorem). it's the cosmological **expansion** that breaks this conservation. so the $(1+z)^{-4}$ dimming is a direct test of the FLRW expansion model.
 
-## the way out: NIR + sub-mm
+## the way out - NIR + sub-mm
 
 at NIR wavelengths and sub-mm, the K-correction can **partially compensate** for the SB dimming when looking at the right rest-frame features (peak of the dust SED in sub-mm, the rest-frame UV break in NIR for high-$z$ LBGs).
 
 so deep-field surveys at $H, K$ + ALMA sub-mm reach much higher $z$ than equivalent optical surveys.
+
+## worked example
+
+at $z = 1$ the dimming is $(1+z)^4 = 16$, or 3.0 mag. at $z = 5$ it is 1296, or 7.8 mag. a disk with central surface brightness 21.5 mag/arcsec$^2$ at $z = 0$ appears at 29.3 mag/arcsec$^2$ at $z = 5$ before the K-correction.
+
+## where it goes wrong
+
+- the dimming is bolometric. in a fixed band the K-correction changes it.
+- it applies to surface brightness, not to total flux.
+- it is a test of the expansion. a tired-light universe would give $(1+z)^{-1}$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -10,7 +10,7 @@ theoretical arguments:
 
 1. **runaway stellar mergers**: in dense GC cores, the central few thousand massive stars can collide repeatedly within 1 Myr, building up to a single $\sim 10^3\,M_\odot$ object before SF ends (Portegies Zwart et al. 2002).
 2. **scaling relations**: SMBH masses scale with bulge $\sigma$ (M-$\sigma$). extrapolating to GCs ($\sigma \sim 10$-$30$ km/s) predicts central BHs of $\sim 10^3$-$10^4\,M_\odot$.
-3. **seed BHs for SMBH**: early universe IMBHs may grow into SMBHs via mergers; finding them in GC fossils tests this scenario.
+3. **seed BHs for SMBH**: early universe IMBHs may grow into SMBHs via mergers. finding them in GC fossils tests this scenario.
 
 ## observational signatures
 
@@ -19,7 +19,7 @@ several methods, all challenging at $\sim 10^3\,M_\odot$ in dense crowded fields
 ### 1. central stellar kinematics
 
 a central IMBH should produce a **central velocity dispersion cusp**. detected by:
-- HST + VLT-MUSE integrated-field spectroscopy of the central few arcsec;
+- HST + VLT-MUSE integrated-field spectroscopy of the central few arcsec.
 - proper motions of individual cluster stars from multi-epoch HST.
 
 predicted signature: $\sigma_v(r)$ rises sharply within the BH influence radius $r_h \sim G M_{\rm BH}/\sigma_*^2$.
@@ -28,7 +28,7 @@ problem: GCs are crowded, IMBH influence radii are small ($< 1$" for $10^3\,M_\o
 
 ### 2. millisecond pulsar accelerations
 
-[[Millisecond pulsars in GCs\|MSPs]] in GC cores act as precision clocks. acceleration of an MSP toward the cluster centre due to a central IMBH would produce a measurable orbital period derivative. successfully applied in Terzan 5, NGC 6440, M28 — none has yet given an unambiguous IMBH detection but constrains $M_{\rm BH} < 10^3$-$10^4\,M_\odot$.
+[[Millisecond pulsars in GCs\|MSPs]] in GC cores act as precision clocks. acceleration of an MSP toward the cluster centre due to a central IMBH would produce a measurable orbital period derivative. successfully applied in Terzan 5, NGC 6440, M28, none has yet given an unambiguous IMBH detection but constrains $M_{\rm BH} < 10^3$-$10^4\,M_\odot$.
 
 ### 3. radio + X-ray accretion signatures
 
@@ -59,22 +59,22 @@ LIGO-Virgo BH-BH mergers (e.g., GW190521, $M = 85 + 66 \to 142\,M_\odot$) have p
 ## why this matters
 
 IMBHs in GCs would be:
-- a missing piece in the BH mass spectrum bridging stellar to supermassive;
-- direct seeds of high-z SMBHs;
-- contributors to GC dynamical evolution (single dominant BH dominates relaxation in the core);
+- a missing piece in the BH mass spectrum bridging stellar to supermassive.
+- direct seeds of high-z SMBHs.
+- contributors to GC dynamical evolution (single dominant BH dominates relaxation in the core).
 - LIGO-Virgo merger source candidates.
 
 confirming or denying their existence is one of the open frontiers of stellar dynamics + multi-messenger astronomy.
 
 ## reference papers
 
-- **Portegies Zwart et al. 2002, ApJ 576, 899** — runaway stellar merger formation.
-- **Noyola et al. 2008, ApJ 676, 1008** — original $\omega$ Cen IMBH claim.
-- **Anderson & van der Marel 2010** — proper motion reanalysis.
-- **van der Marel & Anderson 2010, ApJ 710, 1063** — IMBH constraints.
-- **Häberle et al. 2024, Nature 631, 285** — revived $\omega$ Cen IMBH claim with fast-moving central stars.
-- **Mezcua 2017, IJMPD 26, 1730021** — review of IMBH searches.
-- **Greene, Strader, Ho 2020, ARA&A 58, 257** — review of IMBHs across mass scales.
+- **Portegies Zwart et al. 2002, ApJ 576, 899** - runaway stellar merger formation.
+- **Noyola et al. 2008, ApJ 676, 1008** - original $\omega$ Cen IMBH claim.
+- **Anderson & van der Marel 2010** - proper motion reanalysis.
+- **van der Marel & Anderson 2010, ApJ 710, 1063** - IMBH constraints.
+- **Häberle et al. 2024, Nature 631, 285** - revived $\omega$ Cen IMBH claim with fast-moving central stars.
+- **Mezcua 2017, IJMPD 26, 1730021** - review of IMBH searches.
+- **Greene, Strader, Ho 2020, ARA&A 58, 257** - review of IMBHs across mass scales.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -12,7 +12,7 @@ tags: ""
 ![Optical Transfer Function (OTF) and Modulation Transfer Function (MTF): spatial frequency response curve of an optical system.](../../assets/images/Optical_transfer_function.svg)
 
 
-If you look at the sky as a complex tapestry of sine waves of varying spatial frequencies (broad blobs are low frequencies, sharp edges are high frequencies), any optical system acts as a filter. It cannot perfectly capture all details. 
+If you look at the sky as a complex sum of sine waves of varying spatial frequencies (broad blobs are low frequencies, sharp edges are high frequencies), any optical system acts as a filter. It cannot perfectly capture all details. 
 
 The Optical Transfer Function (OTF) tells you precisely how this filtering happens. It is a complex-valued function. Its magnitude, the Modulation Transfer Function (MTF), tells you how much contrast is preserved at a given spatial frequency. Its argument, the Phase Transfer Function (PTF), tells you if those frequency components are shifted. Because an aperture has a finite size, there is always a hard cutoff frequency beyond which the system transmits absolutely zero information.
 

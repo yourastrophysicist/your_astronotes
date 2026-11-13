@@ -36,13 +36,13 @@ physical: a **spatial path**, not a world line. not realisable as a physical tra
 
 natural parameter: **proper length** $s$, $ds^2 = +g_{\mu\nu}dx^\mu dx^\nu$. tangent normalised: $g uu = +1$.
 
-usage: spatial geodesics like great circles on a sphere; trajectories of "tachyons" if those existed. mostly relevant for measuring distances on a spatial slice of spacetime.
+usage: spatial geodesics like great circles on a sphere. trajectories of "tachyons" if those existed. mostly relevant for measuring distances on a spatial slice of spacetime.
 
 ## the light cone
 
 at any point, the set of all null directions forms the **light cone**: a 3-dimensional cone in the 4D tangent space. inside the cone (timelike): future or past directions of physical particles. outside (spacelike): forbidden for physical signals.
 
-light cones are an invariant feature of Lorentzian spacetime; they're the trace of the metric's $(-)$ eigenvalue. flat metrics have a fixed cone; curved metrics have cones that "tilt" as you move (Schwarzschild near the horizon: the future light cone tilts inward, signaling the one-way membrane).
+light cones are an invariant feature of Lorentzian spacetime. they're the trace of the metric's $(-)$ eigenvalue. flat metrics have a fixed cone. curved metrics have cones that "tilt" as you move (Schwarzschild near the horizon: the future light cone tilts inward, signaling the one-way membrane).
 
 ## conservation across the type
 

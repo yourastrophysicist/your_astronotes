@@ -46,7 +46,7 @@ rng = np.random.default_rng(42)   # new API
 
 **always set the seed in production code**. without it:
 - **a colleague cannot reproduce my plot** even with my code
-- **debugging is harder** — random failures are not random
+- **debugging is harder** - random failures are not random
 - **I cannot tell the difference between a real signal and a sampling fluctuation** by re-running
 
 without a seed, numpy uses the system clock + process ID, which is effectively random across runs but unreproducible.
@@ -70,19 +70,19 @@ statistical tests applied to a long sequence:
 
 - **uniformity** (chi-square test on the histogram)
 - **independence** (autocorrelation should be ~0 at all non-zero lags)
-- **higher-dimensional uniformity** (the Marsaglia "diehard" tests; Knuth's tests)
+- **higher-dimensional uniformity** (the Marsaglia "diehard" tests, Knuth's tests)
 
 Mersenne Twister and PCG64 pass all standard tests. LCGs fail several.
 
 ## true random numbers
 
-for cryptography (or for paranoid simulations), use a hardware source: thermal noise, radioactive decay, atmospheric noise. python's `secrets` module taps the OS's entropy pool. for science, never needed — the deterministic PRN is faster, reproducible, and statistically equivalent.
+for cryptography (or for paranoid simulations), use a hardware source: thermal noise, radioactive decay, atmospheric noise. python's `secrets` module taps the OS's entropy pool. for science, never needed, the deterministic PRN is faster, reproducible, and statistically equivalent.
 
 ## period considerations
 
 a PRNG with period $T$ should not be used for simulations requiring more than $\sim T^{1/2}$ samples (the birthday paradox: at that point, the chance of a collision becomes substantial, and what looks like "two independent draws" may secretly be the same number).
 
-- LCG period $\sim 2^{31}$: cannot exceed $\sim 10^4$–$10^5$ samples safely (terrible)
+- LCG period $\sim 2^{31}$: cannot exceed $\sim 10^4$ to $10^5$ samples safely (terrible)
 - Mersenne Twister period $\sim 2^{19937}$: practically unlimited
 - PCG64 period $\sim 2^{128}$: practically unlimited
 

@@ -4,7 +4,7 @@ title: "Polarization E and B modes"
 ---
 the CMB is polarised at the $\sim 10\%$ level of temperature anisotropies. polarisation decomposes into **E-modes** (curl-free) + **B-modes** (divergence-free). each carries different physics.
 
-## the source: Thomson scattering
+## the source - Thomson scattering
 
 at recombination, photons scatter off free electrons via Thomson scattering. the scattered photon's polarisation depends on the geometry of the local **temperature quadrupole**.
 
@@ -37,7 +37,7 @@ scalar perturbations alone produce **no** B-modes (E/B decomposition is exact fo
 ## the inflation prize
 
 primordial B-modes from inflation have amplitude $\propto r = A_t/A_s$ (tensor-to-scalar ratio). measuring $r$ would:
-- confirm inflation (inflation predicts primordial GW; alternatives don't).
+- confirm inflation (inflation predicts primordial GW, alternatives don't).
 - determine the energy scale of inflation: $E_{\rm inf}^4 \propto r$.
 - distinguish slow-roll inflation models.
 
@@ -57,6 +57,11 @@ main contaminants:
 
 current B-mode searches (BICEP/Keck) use multi-frequency observations to subtract these. Galactic foregrounds are the **biggest barrier** to detecting primordial B-modes.
 
+## where it goes wrong
+
+- B modes from lensing exist and are not primordial.
+- dust in the Galaxy produces B modes that mimic the inflation signal.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -73,7 +78,7 @@ current B-mode searches (BICEP/Keck) use multi-frequency observations to subtrac
 
 - [[CMB anisotropies]]
 - [[CMB power spectrum]]
-- CMB — discovery and blackbody spectrum
+- CMB, discovery and blackbody spectrum
 - [[Inflation overview]]
 - [[Old vs new vs chaotic inflation, slow-roll]]
 - [[Linear evolution of perturbations in expanding universe]]

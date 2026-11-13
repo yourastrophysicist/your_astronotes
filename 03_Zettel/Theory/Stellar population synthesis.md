@@ -51,12 +51,12 @@ any SPS code relies on four interdependent modular components:
 
 1. **stellar evolutionary tracks and isochrones**:
    - map initial mass $M$ and age $\tau$ into physical surface parameters $(T_{\rm eff}, \log g, L_{\rm bol})$.
-   - major grids: **Padova / PARSEC** (Bressan et al. 2012), **MIST / MESA** (Choi et al. 2016), **BaSTI** (Pietrinferni et al. 2004), and **Geneva** (Ekström et al. 2012; including rotation).
+   - major grids: **Padova / PARSEC** (Bressan et al. 2012), **MIST / MESA** (Choi et al. 2016), **BaSTI** (Pietrinferni et al. 2004), and **Geneva** (Ekström et al. 2012, including rotation).
    - critical uncertainties: convective core overshooting, mass-loss rates on the RGB and AGB, rotational mixing, and boundary conditions of stellar interiors.
 
 2. **stellar atmospheric spectral libraries**:
    - convert physical parameters $(T_{\rm eff}, \log g, Z)$ into monochromatic flux $f_\lambda$.
-   - **empirical libraries**: observed spectra of real Milky Way stars (e.g., **STELIB** $R \approx 2000$, **MILES** $R \approx 2000$, **Indo-U.S.**, **X-shooter**). Advantage: contains real, unapproximated stellar physics and molecular lines. Disadvantage: biased to solar-neighborhood abundance ratios ($[\alpha/\mathrm{Fe}] \approx 0$ at solar $Z$) and incomplete coverage in $T_{\rm eff}$–$\log g$ parameter space.
+   - **empirical libraries**: observed spectra of real Milky Way stars (e.g., **STELIB** $R \approx 2000$, **MILES** $R \approx 2000$, **Indo-U.S.**, **X-shooter**). Advantage: contains real, unapproximated stellar physics and molecular lines. Disadvantage: biased to solar-neighborhood abundance ratios ($[\alpha/\mathrm{Fe}] \approx 0$ at solar $Z$) and incomplete coverage in $T_{\rm eff}$ to $\log g$ parameter space.
    - **synthetic libraries**: calculated from model atmospheres and radiative transfer codes (e.g., **Kurucz / ATLAS9**, **PHOENIX**, **MARCS**). Advantage: arbitrary chemical compositions, coverage of rare extreme phases, infinite spectral resolution. Disadvantage: incomplete atomic/molecular line lists, 1D LTE approximations.
 
 3. **the initial mass function (IMF)**:
@@ -90,7 +90,7 @@ an instantaneous burst evolves across distinct, chronologically ordered regimes:
 
 ---
 
-### diagnostic approaches: lick indices vs full SED fitting
+### diagnostic approaches - lick indices vs full SED fitting
 
 two primary methodologies are employed to compare models to observational data:
 
@@ -111,6 +111,18 @@ two primary methodologies are employed to compare models to observational data:
 - **dust-geometry degeneracies**: the spatial distribution of dust relative to young vs old stars (Charlot & Fall 2000 two-component model) heavily modulates the inferred UV slope $\beta$ and stellar mass.
 
 ---
+
+## worked example
+
+a single-age population fades roughly as $L_V \propto t^{-0.9}$. between 1 and 10 Gyr that is a factor of 8, about 2.2 mag, with no change in mass. the mass-to-light ratio in V therefore rises by almost a factor of ten, from about 0.5 to about 4 in solar units.
+
+this is why the same stellar mass can look bright or faint, and why an age is needed before a luminosity becomes a mass.
+
+## where it goes wrong
+
+- the result is only as good as the ingredients. the uncertain ones are the late phases (thermally pulsing AGB), the mass function and binaries.
+- going from a spectrum back to a history has no unique answer. different combinations of age, metallicity and dust give the same colours.
+- models give the mass ever formed or the mass still in stars and remnants. I check which one before comparing numbers.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

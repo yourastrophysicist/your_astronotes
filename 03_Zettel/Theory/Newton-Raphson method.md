@@ -16,13 +16,13 @@ $$x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}$$
 
 this is the Newton iteration. geometrically: draw the tangent at $x_n$, slide along it to where it crosses the x-axis, that is $x_{n+1}$.
 
-## convergence: quadratic when it works
+## convergence - quadratic when it works
 
 assuming $f'(x^*) \neq 0$ at the root and starting "close enough":
 
 $$\lvert x_{n+1} - x^*\rvert \leq C \lvert x_n - x^*\rvert^2$$
 
-so the number of correct digits *doubles* every iteration. starting with 1 digit accuracy, after 5 iterations I have 32 digits — *if* the iteration converges.
+so the number of correct digits *doubles* every iteration. starting with 1 digit accuracy, after 5 iterations I have 32 digits, *if* the iteration converges.
 
 bisection: 1 bit per step, $\sim 50$ steps to machine precision.
 Newton: doubling every step, $\sim 5$ steps to machine precision.
@@ -39,7 +39,7 @@ def newton(f, fprime, x0, tol=1e-12, max_iter=100):
             return x, k
         fpx = fprime(x)
         if fpx == 0:
-            raise ValueError("zero derivative — Newton failed")
+            raise ValueError("zero derivative - Newton failed")
         x_new = x - fx / fpx
         if abs(x_new - x) < tol:
             return x_new, k + 1
@@ -68,7 +68,7 @@ Newton-Raphson is fast but fragile. it can fail in several ways:
 
 - **bracket-then-Newton**: do a few bisection steps to localize the root, then switch to Newton. or use `scipy.optimize.brentq`, which does this automatically
 - **damped Newton**: $x_{n+1} = x_n - \alpha f(x_n)/f'(x_n)$ with $\alpha < 1$ to slow down dangerous overshoots
-- **secant method**: replace $f'(x_n)$ by the finite-difference estimate $[f(x_n) - f(x_{n-1})]/(x_n - x_{n-1})$. avoids needing the analytic derivative; convergence is golden-ratio (~1.618) instead of quadratic (2). still very fast and far more practical when $f'$ is hard to compute
+- **secant method**: replace $f'(x_n)$ by the finite-difference estimate $[f(x_n) - f(x_{n-1})]/(x_n - x_{n-1})$. avoids needing the analytic derivative. convergence is golden-ratio (~1.618) instead of quadratic (2). still very fast and far more practical when $f'$ is hard to compute
 
 ## numerical derivative as a fallback
 
@@ -76,7 +76,7 @@ if I cannot or do not want to differentiate $f$ analytically, replace by a centr
 
 $$f'(x) \approx \frac{f(x + h) - f(x - h)}{2h}$$
 
-with $h \sim \epsilon^{1/3}$ for optimal accuracy. this gives "Newton with numerical derivative" — works well for smooth $f$, slightly slower than analytic Newton because of the extra evaluations.
+with $h \sim \epsilon^{1/3}$ for optimal accuracy. this gives "Newton with numerical derivative", works well for smooth $f$, slightly slower than analytic Newton because of the extra evaluations.
 
 ## scipy production
 
@@ -125,5 +125,7 @@ or `scipy.optimize.brentq(f, a, b)` for the bracket-Brent hybrid.
 - [[Relaxation method]]
 - [[Shooting method]]
 - [[Mathematical_Numerical_Methods_MOC]]
+- Classification of posterior maximisation problems, from linear algebra to Monte Carlo - first tool for a nonlinear posterior in Astro-Stat, announced 2026-10-14
+- Newton-Raphson maximisation of the log posterior - the many dimensional step $\boldsymbol{x}_0 = \boldsymbol{x}_1 - [\nabla\nabla L]^{-1}\nabla L$ and its failure modes, taught 2026-10-19
 
 

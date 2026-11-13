@@ -11,7 +11,7 @@ the hot Big Bang model is a fantastic match to observations. but extrapolating i
 the curvature density parameter is
 $$\Omega_K = -\frac{kc^2}{H^2 a^2}$$
 
-today: $\Omega_K = 0.001 \pm 0.002$ — the universe is flat to a fraction of a percent.
+today: $\Omega_K = 0.001 \pm 0.002$, the universe is flat to a fraction of a percent.
 
 but $\Omega_K$ **grows with time** in a matter or radiation dominated universe:
 - radiation era: $H^2 \propto a^{-4}$, so $\lvert \Omega_K\rvert \propto a^2$
@@ -66,9 +66,9 @@ inflation = an early epoch of nearly exponential expansion driven by a scalar fi
 - any pre-inflation density of monopoles gets diluted by $e^{3N}$
 
 with $N \approx 60$ e-folds of inflation:
-- $\lvert \Omega_K\rvert$ gets suppressed by $e^{-120} \sim 10^{-52}$ — solving flatness
-- the observable universe (today $\sim H_0^{-1}$ across) was at the start of inflation a single Hubble volume, all in causal contact — solving the horizon problem
-- monopole density diluted to undetectable — solving the monopole problem
+- $\lvert \Omega_K\rvert$ gets suppressed by $e^{-120} \sim 10^{-52}$, solving flatness
+- the observable universe (today $\sim H_0^{-1}$ across) was at the start of inflation a single Hubble volume, all in causal contact, solving the horizon problem
+- monopole density diluted to undetectable, solving the monopole problem
 
 inflation also generates the primordial perturbations from quantum fluctuations stretched to cosmic scales. the **same fluctuations** that solve the horizon problem also seed structure formation. → see [[Inflation overview]].
 
@@ -76,11 +76,20 @@ inflation also generates the primordial perturbations from quantum fluctuations 
 
 ## the broader lesson
 
-the standard model is **fine-tuned**: the initial conditions at the Planck epoch require dialing dimensionless numbers to absurd precision. inflation is an attempt to **dynamically generate** the apparently fine-tuned conditions — replacing fine-tuned initial conditions with a generic dynamical attractor.
+the standard model is **fine-tuned**: the initial conditions at the Planck epoch require dialing dimensionless numbers to absurd precision. inflation is an attempt to **dynamically generate** the apparently fine-tuned conditions, replacing fine-tuned initial conditions with a generic dynamical attractor.
 
-the price: a hypothetical scalar field (the **inflaton**) with a specific potential, plus a mechanism to end inflation gracefully (reheating). there is no direct observational evidence for the inflaton itself — we only see its consequences in the primordial perturbations.
+the price: a hypothetical scalar field (the **inflaton**) with a specific potential, plus a mechanism to end inflation gracefully (reheating). there is no direct observational evidence for the inflaton itself. we only see its consequences in the primordial perturbations.
 
 ---
+
+## worked example
+
+the horizon problem in angles. the particle horizon at last scattering is about 0.25 Mpc proper, and $d_A(1100) = 12.7$ Mpc, so it spans $0.25/12.7 = 0.02$ rad, about $1^\circ$. the sky has about 40 000 such patches, all at the same temperature to $10^{-5}$.
+
+## where it goes wrong
+
+- these are problems of initial conditions, not inconsistencies of the theory.
+- the monopole problem exists only if grand unified theories are right.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -101,7 +110,7 @@ the price: a hypothetical scalar field (the **inflaton**) with a specific potent
 - [[Old vs new vs chaotic inflation, slow-roll]]
 - [[Density parameters and flatness]]
 - [[Brief thermal history]]
-- [[Baumann_reference]] — chapter 2 has the full story
+- [[Baumann_reference]] - chapter 2 has the full story
 
 
 

@@ -18,7 +18,7 @@ $$\text{larger bandwidth} \Rightarrow \text{faster sampling} \Rightarrow \text{l
 
 quantization maps continuous voltage values to discrete digital levels. fewer bits reduce data volume but introduce quantization loss. more bits preserve amplitude information but demand more storage and processing.
 
-old/simple correlators may use very few bits; modern systems choose a compromise between precision and data rate.
+old/simple correlators may use very few bits. modern systems choose a compromise between precision and data rate.
 
 ## digital data stream
 

@@ -79,7 +79,7 @@ $$A(r) = e^{-r^2/2 w^2}$$
 the diffraction pattern is also Gaussian:
 $$I(\theta) \propto e^{-\pi^2 w^2 \theta^2/\lambda^2}$$
 
-no side lobes. the "ideal" PSF for high-contrast imaging — at the cost of 50% of the light. this is what **apodization** with a Gaussian mask achieves.
+no side lobes. the "ideal" PSF for high-contrast imaging, at the cost of 50% of the light. this is what **apodization** with a Gaussian mask achieves.
 
 ## two-aperture interferometer
 
@@ -119,7 +119,7 @@ these are the "elementary functions" in interferometric design and analysis.
 
 ![07_Images/Interferometry/airy_pattern_generated.png](../../assets/images/airy_pattern_generated.png)
 
-reading cue: the circular-aperture case is the one to keep in memory. the central lobe is the diffraction-limited core; the rings are sidelobes from the hard edge of the aperture.
+reading cue: the circular-aperture case is the one to keep in memory. the central lobe is the diffraction-limited core. the rings are sidelobes from the hard edge of the aperture.
 
 source: local plot generated from the Airy-pattern Bessel formula.
 

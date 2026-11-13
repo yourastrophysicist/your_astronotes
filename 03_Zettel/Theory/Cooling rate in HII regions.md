@@ -11,7 +11,7 @@ $$L \approx n_e n_X\,q_{lu}(T_e)\,h\nu_{ul}$$
 
 per unit volume, summed over all relevant species. units: erg cm$^{-3}$ s$^{-1}$.
 
-key factor: $q_{lu}(T_e)\,h\nu_{ul} \propto T_e^{-1/2}\,e^{-E_{ul}/k_BT_e}$. exponentially small for very small $T_e$ (no collisions energetic enough to excite); rises rapidly when $k_BT_e$ approaches $E_{ul}$.
+key factor: $q_{lu}(T_e)\,h\nu_{ul} \propto T_e^{-1/2}\,e^{-E_{ul}/k_BT_e}$. exponentially small for very small $T_e$ (no collisions energetic enough to excite). rises rapidly when $k_BT_e$ approaches $E_{ul}$.
 
 ## the dominant coolants
 
@@ -52,7 +52,7 @@ at $T_e \sim 10^4$ K, free-free emission is **subdominant** to forbidden lines. 
 
 $t_{\rm cool} = (3 n k_BT)/(2 L)$. for HII regions: $\sim 10^4$ years. compare with sound-crossing time of the region ($\sim 10^5$ yr): cooling is faster than dynamics, so HII regions are in **thermal equilibrium**.
 
-(at low metallicity, cooling is slower; thermal equilibrium less strict.)
+(at low metallicity, cooling is slower, thermal equilibrium less strict.)
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -59,11 +59,11 @@ approximate peak temperatures for common stellar lines:
 | Na I D | $4000$ | K |
 | TiO bands | $3000$ | M5 |
 
-## the consequence: a one-parameter sequence
+## the consequence - a one-parameter sequence
 
 every star's spectrum is essentially **one number's worth of variation**, namely $T_{\rm eff}$. given $T$, all line-strength patterns follow from two equations applied to a fixed atomic-physics input. abundances enter as a small modification.
 
-this is the punchline of **Cecilia Payne 1925**: stars are mostly H + He, and the diversity of stellar spectra reflects only $T$ variation, not chemistry. it took decades for the community to fully accept this.
+this is the main result of **Cecilia Payne 1925**: stars are mostly H + He, and the diversity of stellar spectra reflects only $T$ variation, not chemistry. it took decades for the community to fully accept this.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

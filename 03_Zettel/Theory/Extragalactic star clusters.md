@@ -14,7 +14,7 @@ the milky way's $\sim 150$ globulars and $\sim 10^3$ catalogued open clusters ar
 
 **intracluster GCs** are observed in coma, virgo, and fornax cluster cores: GCs that sit between galaxies, presumably stripped from now-disrupted dwarfs. they trace the build-up of the intracluster light and the tidal history of the cluster.
 
-the take-home: the milky way's GCs are old, accreted, and chemically simple; M31 and M87 reveal the *system-level* properties (specific frequency $S_N$, colour bimodality); and JWST is starting to deliver *temporal* constraints on when and how GCs formed in the first place.
+the take-home: the milky way's GCs are old, accreted, and chemically simple. M31 and M87 reveal the *system-level* properties (specific frequency $S_N$, colour bimodality). and JWST is starting to deliver *temporal* constraints on when and how GCs formed in the first place.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -36,86 +36,86 @@ the take-home: the milky way's GCs are old, accreted, and chemically simple; M31
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes)
 
 > **Context**: *Resolving stars beyond the Milky Way (M31, Local Group), HST UV Legacy Surveys, and JWST NIRCam deep resolved CMD frontiers.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![LAntonino_p21_01.png](../../assets/images/LAntonino_p21_01.png)
-*Figure P21-01: LAntonino_p21_01.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-01: LAntonino_p21_01.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_02.png](../../assets/images/LAntonino_p21_02.png)
-*Figure P21-02: LAntonino_p21_02.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-02: LAntonino_p21_02.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_03.png](../../assets/images/LAntonino_p21_03.png)
-*Figure P21-03: LAntonino_p21_03.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-03: LAntonino_p21_03.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_04.png](../../assets/images/LAntonino_p21_04.png)
-*Figure P21-04: LAntonino_p21_04.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-04: LAntonino_p21_04.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_05.png](../../assets/images/LAntonino_p21_05.png)
-*Figure P21-05: LAntonino_p21_05.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-05: LAntonino_p21_05.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_06.png](../../assets/images/LAntonino_p21_06.png)
-*Figure P21-06: LAntonino_p21_06.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-06: LAntonino_p21_06.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_07.png](../../assets/images/LAntonino_p21_07.png)
-*Figure P21-07: LAntonino_p21_07.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-07: LAntonino_p21_07.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_08.png](../../assets/images/LAntonino_p21_08.png)
-*Figure P21-08: LAntonino_p21_08.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-08: LAntonino_p21_08.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_09.png](../../assets/images/LAntonino_p21_09.png)
-*Figure P21-09: LAntonino_p21_09.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-09: LAntonino_p21_09.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_10.png](../../assets/images/LAntonino_p21_10.png)
-*Figure P21-10: LAntonino_p21_10.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-10: LAntonino_p21_10.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_11.png](../../assets/images/LAntonino_p21_11.png)
-*Figure P21-11: LAntonino_p21_11.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-11: LAntonino_p21_11.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_12.png](../../assets/images/LAntonino_p21_12.png)
-*Figure P21-12: LAntonino_p21_12.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-12: LAntonino_p21_12.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_13.png](../../assets/images/LAntonino_p21_13.png)
-*Figure P21-13: LAntonino_p21_13.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-13: LAntonino_p21_13.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_14.png](../../assets/images/LAntonino_p21_14.png)
-*Figure P21-14: LAntonino_p21_14.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-14: LAntonino_p21_14.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_15.png](../../assets/images/LAntonino_p21_15.png)
-*Figure P21-15: LAntonino_p21_15.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-15: LAntonino_p21_15.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_16.png](../../assets/images/LAntonino_p21_16.png)
-*Figure P21-16: LAntonino_p21_16.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-16: LAntonino_p21_16.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_17.png](../../assets/images/LAntonino_p21_17.png)
-*Figure P21-17: LAntonino_p21_17.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-17: LAntonino_p21_17.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_18.png](../../assets/images/LAntonino_p21_18.png)
-*Figure P21-18: LAntonino_p21_18.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-18: LAntonino_p21_18.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_19.png](../../assets/images/LAntonino_p21_19.png)
-*Figure P21-19: LAntonino_p21_19.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-19: LAntonino_p21_19.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_20.png](../../assets/images/LAntonino_p21_20.png)
-*Figure P21-20: LAntonino_p21_20.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-20: LAntonino_p21_20.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_21.png](../../assets/images/LAntonino_p21_21.png)
-*Figure P21-21: LAntonino_p21_21.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-21: LAntonino_p21_21.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_22.png](../../assets/images/LAntonino_p21_22.png)
-*Figure P21-22: LAntonino_p21_22.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-22: LAntonino_p21_22.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_23.png](../../assets/images/LAntonino_p21_23.png)
-*Figure P21-23: LAntonino_p21_23.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-23: LAntonino_p21_23.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_24.png](../../assets/images/LAntonino_p21_24.png)
-*Figure P21-24: LAntonino_p21_24.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-24: LAntonino_p21_24.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 ![LAntonino_p21_25.png](../../assets/images/LAntonino_p21_25.png)
-*Figure P21-25: LAntonino_p21_25.png — Observational data, CMD morphology, and diagnostics from Lecture 21 — Extragalactic Stellar Populations & Modern Telescopes.*
+*Figure P21-25: LAntonino_p21_25.png - Observational data, CMD morphology, and diagnostics from Lecture 21 - Extragalactic Stellar Populations & Modern Telescopes.*
 
 
 

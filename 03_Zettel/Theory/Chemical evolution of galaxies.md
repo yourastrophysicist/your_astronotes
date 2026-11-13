@@ -33,8 +33,8 @@ the Pablo slide (Tinsley 1979) shows $\log E_m$ vs stellar mass for $^{12}$C and
 ## who makes what
 
 - **Type II SNe** (massive stars, $M > 8\,M_\odot$, lifetime $\sim 10$ Myr): α-elements O, Mg, Si, S, Ca. fast enrichment, sets initial α/Fe > 0
-- **Type Ia SNe** (WD + companion, delay time $\sim 100$ Myr–Gyr): Fe-peak elements Fe, Ni. slow, drops α/Fe to solar after $\sim 1$ Gyr
-- **AGB stars** (intermediate-mass, $1 < M/M_\odot < 8$, lifetime $100$ Myr–Gyr): C, N, s-process elements (Ba, Zr)
+- **Type Ia SNe** (WD + companion, delay time $\sim 100$ Myr-Gyr): Fe-peak elements Fe, Ni. slow, drops α/Fe to solar after $\sim 1$ Gyr
+- **AGB stars** (intermediate-mass, $1 < M/M_\odot < 8$, lifetime $100$ Myr-Gyr): C, N, s-process elements (Ba, Zr)
 - **winds from massive stars**: C, N contributions, depends on $Z$ and rotation
 
 ## α/Fe as a clock
@@ -67,6 +67,10 @@ interpretation: feedback-driven outflow efficiency depends on $M_h$ → shallowe
 - SSP libraries are tabulated at fixed $Z$. the galaxy's actual metallicity history is rarely single-valued
 - age-metallicity degeneracy: old/metal-poor looks like young/metal-rich
 - better SED fitting models now include chemical evolution as an input (Pacifici 2012, Leja 2017)
+
+## where it goes wrong
+
+- metallicity calibrations of strong lines differ by up to 0.7 dex. only compare with the same calibration.
 
 ## connections
 

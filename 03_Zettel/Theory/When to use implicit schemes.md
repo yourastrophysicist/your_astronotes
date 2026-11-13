@@ -14,7 +14,7 @@ implicit time-stepping schemes solve a linear (or nonlinear) system at each step
 
 $$u^{n+1} - \Delta t \cdot \mathcal{L}(u^{n+1}) = u^n$$
 
-(for a linear operator $\mathcal{L}$). costs an $O(N)$ to $O(N^3)$ linear solve per step, but **unconditionally stable** — any $\Delta t$ gives a bounded answer.
+(for a linear operator $\mathcal{L}$). costs an $O(N)$ to $O(N^3)$ linear solve per step, but **unconditionally stable**, any $\Delta t$ gives a bounded answer.
 
 ## the diffusion CFL trap
 
@@ -22,7 +22,7 @@ for the diffusion equation $\partial_t u = D \nabla^2 u$, the explicit FTCS stab
 
 $$\Delta t \leq \frac{\Delta x^2}{2D}$$
 
-so refining $\Delta x$ by a factor of 2 demands shrinking $\Delta t$ by 4. for a 1024-point grid simulating a smooth diffusion, $\Delta t$ may be $\sim 10^{-6}$ — millions of timesteps for a single dynamical timescale.
+so refining $\Delta x$ by a factor of 2 demands shrinking $\Delta t$ by 4. for a 1024-point grid simulating a smooth diffusion, $\Delta t$ may be $\sim 10^{-6}$, millions of timesteps for a single dynamical timescale.
 
 implicit (backward Euler) has no such limit. each step costs more, but I can take steps proportional to the *physics* timescale rather than the *grid* timescale. for high-resolution diffusion, this is the difference between hours and weeks.
 
@@ -50,9 +50,9 @@ rearranging:
 
 $$-\alpha u_{i-1}^{n+1} + (1 + 2\alpha) u_i^{n+1} - \alpha u_{i+1}^{n+1} = u_i^n, \quad \alpha = \frac{D \Delta t}{\Delta x^2}$$
 
-a tridiagonal linear system at each step. solve with Thomas algorithm in $O(N)$ — very fast, even for huge grids.
+a tridiagonal linear system at each step. solve with Thomas algorithm in $O(N)$, very fast, even for huge grids.
 
-## Crank-Nicolson: the workhorse
+## Crank-Nicolson - the workhorse
 
 average the explicit and implicit versions:
 

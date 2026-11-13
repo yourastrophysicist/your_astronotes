@@ -69,6 +69,14 @@ reionisation is a major science driver for:
 
 resolving when + how reionisation proceeded is a key open question of galaxy formation.
 
+## worked example
+
+the Thomson optical depth from instantaneous reionization at $z_r$ is $\tau \approx 0.04\,[(1 + z_r)^{3/2} - 1]$ in $\Lambda$CDM. $\tau = 0.054$ gives $z_r \approx 7.7$.
+
+## where it goes wrong
+
+- the Gunn-Peterson trough measures the end of reionization. the CMB measures an integral over its history.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

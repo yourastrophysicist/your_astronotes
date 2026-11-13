@@ -16,7 +16,7 @@ a **Type Ia Supernova** is the catastrophic thermonuclear detonation of a **carb
    $$M_{\text{Ch}} \approx 1.44 M_\odot$$
 3. electron degeneracy pressure cannot prevent central compression. central density climbs to $\rho_c \sim 2 \times 10^9$ g/cm$^3$ and temperature reaches $T_c \sim 7 \times 10^8$ K, igniting carbon fusion.
 4. because the matter is completely electron-degenerate, temperature increases do not increase pressure: there is no thermal expansion to stabilize fusion. a runaway **thermonuclear flame front** sweeps through the entire star in seconds, incinerating the carbon and oxygen into radioactive nickel (${}^{56}\text{Ni}$).
-5. the star is completely obliterated; no central remnant is left behind.
+5. the star is completely obliterated. no central remnant is left behind.
 
 ![distancescale-16.png](../../assets/images/distancescale-16.png)
 
@@ -24,12 +24,12 @@ a **Type Ia Supernova** is the catastrophic thermonuclear detonation of a **carb
 
 ## why Type Ia Supernovae are ideal standard candles
 
-1. **uniform trigger mass**: because all progenitors detonate at essentially the identical critical mass ($M \approx 1.4 M_\odot$) and identical carbon-oxygen composition, the total energy release and radioactive ${}^{56}\text{Ni}$ mass synthesized are remarkably uniform:
+1. **uniform trigger mass**: because all progenitors detonate at essentially the identical critical mass ($M \approx 1.4 M_\odot$) and identical carbon-oxygen composition, the total energy release and radioactive ${}^{56}\text{Ni}$ mass synthesized are very uniform:
    $$M({}^{56}\text{Ni}) \approx 0.6 M_\odot$$
 2. **colossal luminosity**: at peak brightness, a Type Ia supernova reaches an absolute magnitude of:
    $$\boxed{\, M_B \approx M_V \approx -19.3 \pm 0.3 \text{ mag} \,}$$
-   radiating a peak luminosity of $L \approx 4 \times 10^9 L_\odot$—**as bright as an entire galaxy of 10 billion stars!**
-3. **vast cosmological reach**: can be detected and monitored across deep space out to redshifts $z > 1.5 - 2.0$.
+   radiating a peak luminosity of $L \approx 4 \times 10^9 L_\odot$, **as bright as an entire galaxy of 10 billion stars!**
+3. **large cosmological reach**: can be detected and monitored across deep space out to redshifts $z > 1.5 - 2.0$.
 
 ---
 
@@ -37,7 +37,7 @@ a **Type Ia Supernova** is the catastrophic thermonuclear detonation of a **carb
 
 uncalibrated Type Ia supernovae exhibit an intrinsic scatter of $\sim 0.3 - 0.5$ mag (too large for precision cosmology). in 1993, Mark Phillips discovered an empirical calibration: **the Phillips Relation**:
 - the peak absolute magnitude correlates tightly with the **rate of decline** of its B-band light curve in the 15 days following maximum: $\Delta m_{15}(B)$.
-- intrinsically brighter supernovae have broader, slower-declining light curves; fainter supernovae fade more quickly.
+- intrinsically brighter supernovae have broader, slower-declining light curves. fainter supernovae fade more quickly.
 
 $$\boxed{\, M_{\text{max}}(B) = -21.726 + 2.698 \, \Delta m_{15}(B) \,}$$
 
@@ -49,7 +49,7 @@ applying the Phillips relation standardizes Type Ia supernovae to an extraordina
 
 ## the discovery of Cosmic Acceleration and Dark Energy (1998)
 
-in 1998, two independent teams—the **High-Z Supernova Search Team** (led by Brian Schmidt and Adam Riess) and the **Supernova Cosmology Project** (led by Saul Perlmutter)—used Type Ia supernovae at $z \sim 0.5-1.0$ to measure the cosmic deceleration parameter $q_0$.
+in 1998, two independent teams, the **High-Z Supernova Search Team** (led by Brian Schmidt and Adam Riess) and the **Supernova Cosmology Project** (led by Saul Perlmutter), used Type Ia supernovae at $z \sim 0.5-1.0$ to measure the cosmic deceleration parameter $q_0$.
 
 **the shocking discovery**: distant supernovae were systematically **$\sim 0.25$ magnitudes fainter** (and thus farther away) than predicted by any matter-dominated decelerating universe! 
 consequence: the expansion of the universe is not slowing down under gravity, but is currently **accelerating**, driven by an unknown repulsive component: **Dark Energy ($\Lambda$)**. 
@@ -59,6 +59,20 @@ this monumental discovery earned Perlmutter, Schmidt, and Riess the **2011 Nobel
 ![distancescale-18.png](../../assets/images/distancescale-18.png)
 
 ---
+
+## worked example
+
+a supernova with peak $m_B = 22.0$, corrected for stretch to $M_B = -19.3$:
+
+$$\mu = 22.0 + 19.3 = 41.3, \qquad d_L = 10^{(41.3 + 5)/5} = 1.8 \times 10^9\ \text{pc}$$
+
+that is near $z = 0.35$. with a standardized scatter of $0.15$ mag, one supernova gives the distance to 7%.
+
+## where it goes wrong
+
+- the absolute magnitude is not measured by the supernovae themselves. it comes from Cepheids or the TRGB in nearby hosts.
+- dust in the host reddens the supernova, and the dust law there is not the Milky Way one.
+- the peak brightness also depends on the mass of the host galaxy, by about 0.06 mag. this is the mass step.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

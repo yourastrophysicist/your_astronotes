@@ -8,23 +8,23 @@ up: [[Pablo_03_Star_formation_in_galaxies]]
 
 ## the luminosity classification
 
-defined by the total infrared luminosity $L_{\text{TIR}}$ in the $8$–$1000\,\mu$m band:
+defined by the total infrared luminosity $L_{\text{TIR}}$ in the $8$ to $1000\,\mu$m band:
 
 | class | $L_{\text{TIR}}$ | typical SFR |
 |---|---|---|
-| LIRG (luminous IR galaxy) | $10^{11}$–$10^{12}\,L_\odot$ | $> 17\,M_\odot/\text{yr}$ |
-| ULIRG (ultra-LIRG) | $10^{12}$–$10^{13}\,L_\odot$ | $> 170\,M_\odot/\text{yr}$ |
+| LIRG (luminous IR galaxy) | $10^{11}$ to $10^{12}\,L_\odot$ | $> 17\,M_\odot/\text{yr}$ |
+| ULIRG (ultra-LIRG) | $10^{12}$ to $10^{13}\,L_\odot$ | $> 170\,M_\odot/\text{yr}$ |
 | HyLIRG (hyper-LIRG) | $> 10^{13}\,L_\odot$ | $> 1700\,M_\odot/\text{yr}$ |
 
 the SFR thresholds follow from the IR calibration $\text{SFR} \approx L_{\text{TIR}} / (10^{10}\,L_\odot) \cdot 1.7\,M_\odot/\text{yr}$ (see [[IR SFR tracer]]).
 
-## discovery: IRAS 1983
+## discovery - IRAS 1983
 
 LIRGs and ULIRGs were discovered by the IRAS all-sky survey at 12, 25, 60, and 100 μm. the surprise: some nearby objects are *brighter* in the IR than in the optical by factors of up to $10^3$. their energy budget is dominated by dust-reprocessed UV, not starlight directly.
 
-Rieke & Lebofsky 1979 SEDs (Pablo slide): M82, NGC 1068, NGC 4161, 3C 273 showing the divergence between optical and IR luminosities. M82 peaks at $\sim 60\,\mu$m; the AGN-dominated 3C 273 is flat.
+Rieke & Lebofsky 1979 SEDs (Pablo slide): M82, NGC 1068, NGC 4161, 3C 273 showing the divergence between optical and IR luminosities. M82 peaks at $\sim 60\,\mu$m. The AGN-dominated 3C 273 is flat.
 
-## the ULIRG archetype: Arp 220
+## the ULIRG archetype - Arp 220
 
 Arp 220 at $d = 77$ Mpc:
 - $L_{\text{TIR}} \sim 2 \times 10^{12}\,L_\odot$
@@ -38,7 +38,7 @@ Arp 220 at $d = 77$ Mpc:
 the Pablo slide (Sanders & Mirabel 1996) separates ULIRG SEDs into:
 
 - **cold dust** ($T \sim 20$ K, dominating $\gtrsim 100\,\mu$m): bulk of the mass, heated by diffuse ISRF + heated ISM
-- **warm dust** ($T \sim 50$–$80$ K): heated by young stellar population, dominates 60–100 μm
+- **warm dust** ($T \sim 50$ to $80$ K): heated by young stellar population, dominates 60-100 μm
 - **hot dust** ($T \sim 300$ K+): only present in AGN-dominated ULIRGs
 - **PAH** emission bands: ubiquitous in SF-dominated ULIRGs, suppressed by AGN
 
@@ -50,7 +50,7 @@ $> 90\%$ of local ULIRGs are major mergers (Sanders & Mirabel 1996). the Sanders
 
 ## cosmological role
 
-at $z \sim 2$–$3$, LIRGs/ULIRGs dominate the [[Cosmic star formation history]] budget. the Madau-Dickinson peak is powered by IR-luminous objects. but:
+at $z \sim 2$ to $3$, LIRGs/ULIRGs dominate the [[Cosmic star formation history]] budget. the Madau-Dickinson peak is powered by IR-luminous objects. but:
 - locally ULIRGs are rare ($< 1$% of galaxies)
 - at $z \sim 2$, they are the **main-sequence typical galaxy** at $M_* > 10^{10.5}\,M_\odot$. not exotic mergers, but normal SF at higher cosmic gas fractions
 - HyLIRGs at $z > 2$ are lensed systems or extreme sub-mm galaxies (Casey 2014)
@@ -62,6 +62,14 @@ many ULIRGs host both a starburst and an AGN (Genzel 1998, Farrah 2003). decompo
 - MIR PAH/continuum ratio (low in AGN)
 - hard X-ray luminosity (AGN signature)
 - high-ionization lines ([Ne V], [O IV])
+
+## worked example
+
+a ULIRG at $10^{12}\,L_\odot$ forms about 170 $M_\odot$/yr if all the IR is from star formation.
+
+## where it goes wrong
+
+- many ULIRGs host an AGN that contributes part of the infrared.
 
 ## connections
 

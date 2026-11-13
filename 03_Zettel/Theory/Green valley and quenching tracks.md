@@ -28,7 +28,7 @@ If the transition were slow ($\tau > 5$ Gyr), galaxies would accumulate in the g
 The fast quenching channel operates on rapid dynamical timescales ($\tau_{\mathrm{quench}} \lesssim 0.3 - 0.5$ Gyr) and is triggered by violent, gas-rich events.
 
 ### Physical Mechanism Sequence
-1. **Gas-Rich Major Merger** - Infalling gas-rich disk galaxies collide. Gravitational torques destroy circular orbital support, funneling vast reservoirs of cold molecular gas into the central kiloparsec at rates exceeding $100 \, M_\odot \text{ yr}^{-1}$.
+1. **Gas-Rich Major Merger** - Infalling gas-rich disk galaxies collide. Gravitational torques destroy circular orbital support, funneling large reservoirs of cold molecular gas into the central kiloparsec at rates exceeding $100 \, M_\odot \text{ yr}^{-1}$.
 2. **Nuclear Starburst** - The concentrated central gas undergoes an intense, compact starburst, rapidly building up a high-Sersic-index stellar bulge and elevating the galaxy concentration index ($C > 2.6$).
 3. **Quasar-Mode AGN Feedback** - Central gas accretion onto the supermassive black hole reaches near-Eddington rates ($\dot{M} \sim \dot{M}_{\mathrm{Edd}}$). Radiation pressure, thermal energy injection, and relativistic disk winds couple to the ambient gas.
 4. **Hydrodynamic Blowout** - The mechanical feedback sweeps remaining cold gas out of the host galaxy at velocities exceeding the escape speed ($v_{\mathrm{out}} > 1000\text{ km s}^{-1}$), abruptly halting star formation.
@@ -97,7 +97,7 @@ When asked by Prof. Pizzella - *"What is the green valley, what does its existen
 
 1. **State the fundamental demographic deduction** -
    - Draw the bimodal CMD on the blackboard.
-   - Explain - *"The green valley is the underdense region between the blue cloud and red sequence. Its low space density requires a short transition timescale $\tau \sim 1 - 1.5$ Gyr. Galaxies do not remain green; they rapidly transform from star-forming disks to passive spheroids."*
+   - Explain - *"The green valley is the underdense region between the blue cloud and red sequence. Its low space density requires a short transition timescale $\tau \sim 1 - 1.5$ Gyr. Galaxies do not remain green. They rapidly transform from star-forming disks to passive spheroids."*
 
 2. **Contrast the two quenching channels** -
    - Write on the board -
@@ -132,6 +132,14 @@ When asked by Prof. Pizzella - *"What is the green valley, what does its existen
 - [[Alpha-Fe enhancement]] - Chemical clock proving the short starburst and quenching timescales of massive spheroids.
 
 
+
+## worked example
+
+the green valley is crossed in about 1 Gyr for slow quenching and a few hundred Myr for fast. if 10% of galaxies are in the valley and the crossing lasts 1 Gyr, the rate of quenching is about one tenth of the population per Gyr.
+
+## where it goes wrong
+
+- not every green galaxy is quenching. some are rejuvenating.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

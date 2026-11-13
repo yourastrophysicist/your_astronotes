@@ -25,7 +25,7 @@ so we have moved the trace from $G$ to $T$.
 
 several reasons:
 
-### vacuum case: $R_{\mu\nu} = 0$
+### vacuum case - $R_{\mu\nu} = 0$
 in vacuum ($T = 0$), the trace-reversed form gives directly:
 $$R_{\mu\nu} = 0$$
 

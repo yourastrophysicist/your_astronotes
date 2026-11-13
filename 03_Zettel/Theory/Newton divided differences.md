@@ -67,7 +67,7 @@ only the coefficients are arranged differently. Newton's basis is $\{1, (x-x_0),
 
 ## adding a new point
 
-add $(x_{N+1}, y_{N+1})$ to the data. with Lagrange, every basis polynomial $\ell_i$ changes — start from scratch. with Newton, the *existing* coefficients $a_0, a_1, \ldots, a_N$ stay the same; I only need to compute one new coefficient $a_{N+1}$ via one more divided difference. extra cost: $O(N)$.
+add $(x_{N+1}, y_{N+1})$ to the data. with Lagrange, every basis polynomial $\ell_i$ changes, start from scratch. with Newton, the *existing* coefficients $a_0, a_1, \ldots, a_N$ stay the same. I only need to compute one new coefficient $a_{N+1}$ via one more divided difference. extra cost: $O(N)$.
 
 this is the practical advantage when interpolation points arrive incrementally.
 
@@ -92,7 +92,7 @@ so the same caveats apply: high-degree polynomial interpolation suffers from [[R
 - **adding points incrementally**: Newton wins
 - **fixed data set, just want the polynomial**: either works, Newton is slightly less work to construct
 - **closed-form analytic answer**: Lagrange is more compact symbolically
-- **production interpolation**: neither — use cubic splines
+- **production interpolation**: neither, use cubic splines
 
 ## astrophysics use cases
 

@@ -36,7 +36,7 @@ the predictor has third-order Taylor accuracy ($O(h^4)$ local error). the correc
 
 ## why two function evaluations are enough
 
-a generic explicit fourth-order method (RK4) needs four force evaluations per step. Hermite needs only **two** force-and-jerk evaluations per step (one at start, one at predicted end), and the start one is reusable from the previous step. so effectively **one new evaluation per step** for fourth-order accuracy — twice as efficient as RK4.
+a generic explicit fourth-order method (RK4) needs four force evaluations per step. Hermite needs only **two** force-and-jerk evaluations per step (one at start, one at predicted end), and the start one is reusable from the previous step. so effectively **one new evaluation per step** for fourth-order accuracy, twice as efficient as RK4.
 
 the catch: I need the jerk $\dot{\mathbf{a}}$, which requires $\mathbf{v}$ as well as $\mathbf{r}$ at the evaluation point. for an N-body system, $\dot{\mathbf{a}}_i$ involves the relative velocities of all pairs:
 
@@ -65,7 +65,7 @@ Aarseth's standard "individual timestep" formula:
 
 $$\Delta t_i = \eta \sqrt{\frac{\lvert \mathbf{a}_i\lvert }{\rvert\ddot{\mathbf{a}}_i\rvert}}$$
 
-with $\eta \sim 0.02$ a tuning parameter. each particle has its own timestep, scaled with the local dynamical timescale. close encounters get tiny $\Delta t$; particles in the cluster halo get large $\Delta t$. typically combined with **block timesteps** (each particle's step is $2^{-k}$ for some integer $k$) to allow synchronization.
+with $\eta \sim 0.02$ a tuning parameter. each particle has its own timestep, scaled with the local dynamical timescale. close encounters get tiny $\Delta t$. particles in the cluster halo get large $\Delta t$. typically combined with **block timesteps** (each particle's step is $2^{-k}$ for some integer $k$) to allow synchronization.
 
 this is the workhorse of collisional N-body codes: NBODY6, NBODY7, KIRA. [[Adaptive step size control]] discusses the general framework.
 
@@ -92,7 +92,7 @@ leapfrog wins for energy conservation over $10^9$ orbits at fixed timestep. Herm
 ## limitations
 
 - **not strictly symplectic**: long-time energy conservation is not as good as leapfrog
-- **the jerk computation must be available** — fine for gravity, harder for other forces
+- **the jerk computation must be available** - fine for gravity, harder for other forces
 - **doesn't help for stiff problems**: the error advantage is wasted
 
 <!-- sources:wiki-arxiv -->

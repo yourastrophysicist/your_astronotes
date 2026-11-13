@@ -26,7 +26,7 @@ the points of maximum northern and southern declination are the **solstices**:
 
 ---
 
-## coordinates: ecliptic longitude and latitude
+## coordinates - ecliptic longitude and latitude
 
 any point on the celestial sphere is uniquely specified in this system by two spherical angles:
 - **ecliptic longitude** $\lambda \in [0^\circ, 360^\circ)$: measured eastward along the ecliptic from the vernal equinox $\gamma$.
@@ -38,18 +38,18 @@ for the Sun, $\beta_\odot \equiv 0$ at all times by definition of the ecliptic, 
 
 ---
 
-## coordinate transformations: ecliptic ↔ equatorial
+## coordinate transformations - ecliptic ↔ equatorial
 
 transforming between the equatorial system $(\alpha, \delta)$ and the ecliptic system $(\lambda, \beta)$ corresponds to a pure rotation by the obliquity $\varepsilon$ around the axis passing through the vernal equinox $\gamma$.
 
 applying spherical trigonometry to the spherical triangle formed by the North Celestial Pole (NCP), the North Ecliptic Pole (NEP), and the celestial body $X$:
 
-### ecliptic $(\lambda, \beta) \to$ equatorial $(\alpha, \delta)$:
+### ecliptic $(\lambda, \beta) \to$ equatorial $(\alpha, \delta)$
 $$\sin\delta = \sin\beta \cos\varepsilon + \cos\beta \sin\varepsilon \sin\lambda$$
 $$\cos\delta \cos\alpha = \cos\beta \cos\lambda$$
 $$\cos\delta \sin\alpha = -\sin\beta \sin\varepsilon + \cos\beta \cos\varepsilon \sin\lambda$$
 
-### equatorial $(\alpha, \delta) \to$ ecliptic $(\lambda, \beta)$:
+### equatorial $(\alpha, \delta) \to$ ecliptic $(\lambda, \beta)$
 $$\sin\beta = \sin\delta \cos\varepsilon - \cos\delta \sin\varepsilon \sin\alpha$$
 $$\cos\beta \cos\lambda = \cos\delta \cos\alpha$$
 $$\cos\beta \sin\lambda = \sin\delta \sin\varepsilon + \cos\delta \cos\varepsilon \sin\alpha$$
@@ -63,6 +63,20 @@ $$\cos\beta \sin\lambda = \sin\delta \sin\varepsilon + \cos\delta \cos\varepsilo
 - **Milankovitch cycles**: long-term variations in Earth's obliquity $\varepsilon$ (oscillating between $\sim 22.1^\circ$ and $24.5^\circ$ over a $41,000$-year period) drive planetary climate cycles and ice ages.
 
 ---
+
+## worked example
+
+the declination of the Sun follows from its ecliptic longitude, because its ecliptic latitude is zero:
+
+$$\sin\delta_\odot = \sin\varepsilon\sin\lambda_\odot$$
+
+in early May, $\lambda_\odot = 45^\circ$: $\sin\delta_\odot = 0.3978 \times 0.7071 = 0.281$, so $\delta_\odot = 16.3^\circ$. at $\lambda_\odot = 90^\circ$ this gives the solstice value $\delta_\odot = \varepsilon = 23.4^\circ$.
+
+## where it goes wrong
+
+- the Sun moves about $1^\circ$ per day in longitude, but not uniformly, because the orbit is eccentric.
+- the zodiac signs and the constellations no longer coincide. precession has shifted them by about $30^\circ$ in two thousand years.
+- the obliquity is not constant. it decreases by about $47''$ per century.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

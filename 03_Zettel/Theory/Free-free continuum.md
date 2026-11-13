@@ -46,12 +46,12 @@ the radio continuum of star-forming galaxies has two components:
 at high frequencies ($\sim 30$ GHz), free-free dominates. used as a dust-insensitive SFR tracer ([[Radio SFR tracer]]).
 
 ### hot plasma in clusters
-intracluster medium at $T \sim 10^7$ K. cutoff at $\sim 1$ keV. **dominant X-ray emission mechanism** of clusters; allows X-ray surveys to count hot baryons. see [[Bremsstrahlung]] for the X-ray emphasis.
+intracluster medium at $T \sim 10^7$ K. cutoff at $\sim 1$ keV. **dominant X-ray emission mechanism** of clusters. allows X-ray surveys to count hot baryons. see [[Bremsstrahlung]] for the X-ray emphasis.
 
 ### supernova remnants and corona
 similar physics, $T \sim 10^7$ K plasma.
 
-## the absorption: free-free absorption
+## the absorption - free-free absorption
 
 inverse process: free-free can also absorb photons. relevant at low frequencies (long radio) where opacity becomes large. produces the spectral turnover in compact HII regions: at $\nu < $ a few GHz, the emission becomes **self-absorbed** and the spectrum turns over from flat to $\nu^2$ (Rayleigh-Jeans).
 
@@ -77,7 +77,7 @@ inverse process: free-free can also absorb photons. relevant at low frequencies 
 
 ## see also
 
-- [[Bremsstrahlung]] — X-ray emphasis
+- [[Bremsstrahlung]] - X-ray emphasis
 - [[Recombination continuum]]
 - [[Balmer continuum]]
 - [[Two-photon emission]]

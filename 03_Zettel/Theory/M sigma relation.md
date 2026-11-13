@@ -4,7 +4,7 @@ title: "M sigma relation"
 ---
 ## The Empirical Relation
 
-The **$M_\bullet - \sigma$ relation** (Ferrarese & Merritt 2000; Gebhardt et al. 2000) is the tightest empirical scaling relation in extragalactic astrophysics, connecting the mass of a central supermassive black hole $M_\bullet$ to the stellar velocity dispersion $\sigma$ of its host galaxy's spheroidal bulge.
+The **$M_\bullet - \sigma$ relation** (Ferrarese & Merritt 2000, Gebhardt et al. 2000) is the tightest empirical scaling relation in extragalactic astrophysics, connecting the mass of a central supermassive black hole $M_\bullet$ to the stellar velocity dispersion $\sigma$ of its host galaxy's spheroidal bulge.
 
 $$\boxed{\log_{10}\left(\frac{M_\bullet}{M_\odot}\right) = \alpha + \beta \log_{10}\left(\frac{\sigma}{200\,\mathrm{km\,s^{-1}}}\right)}$$
 
@@ -23,7 +23,7 @@ The intrinsic scatter $\epsilon_0 \approx 0.28$ dex (a factor of $\sim 1.9$ in b
 ## Unbroken Mathematical Derivation - Self-Regulated AGN Feedback
 
 Why does a tiny central object whose gravitational reach is $\sim 10\,\mathrm{pc}$ correlate so tightly with a galaxy bulge spanning $\sim 10\,\mathrm{kpc}$?
-The physical mechanism is **momentum-driven and energy-driven AGN feedback** (Silk & Rees 1998; King 2003, 2005; Fabian 2012).
+The physical mechanism is **momentum-driven and energy-driven AGN feedback** (Silk & Rees 1998, King 2003, 2005, Fabian 2012).
 
 ### Step 1 - Accretion Radiation Pressure
 During the quasar growth phase, the SMBH accretes gas near its maximum stable rate, the **Eddington limit**.
@@ -63,7 +63,7 @@ Solve explicitly for the critical blowout mass $M_\bullet$.
 $$\boxed{M_\bullet = \left( \frac{f_{\rm gas} \sigma_T}{\pi G^2 m_p} \right) \sigma^4 \propto \sigma^4}$$
 
 ### Step 4 - The Energy-Driven Limit ($\sigma^5$ Scaling)
-If the shocked outflow cannot radiate its thermal energy efficiently (energy-conserving wind; Silk & Rees 1998), the kinetic energy injected by the wind balances the binding energy of the gas.
+If the shocked outflow cannot radiate its thermal energy efficiently (energy-conserving wind, Silk & Rees 1998), the kinetic energy injected by the wind balances the binding energy of the gas.
 
 $$\dot{E}_{\rm wind} = \frac{1}{2} \dot{M}_{\rm wind} v_{\rm wind}^2 \approx \frac{1}{2} \left(\frac{v_{\rm wind}}{c}\right) L_{\rm Edd} \approx \frac{1}{2} \eta L_{\rm Edd} \propto M_\bullet$$
 
@@ -121,7 +121,7 @@ Kormendy & Ho (2013) demonstrated that the tight $M_\bullet - \sigma$ relation a
   - Section 10.1 "The $M_{\rm BH} - \sigma$ Relation", pp. 20-23 (calibrations, sphere of influence, pseudobulge offset).
 - **Mo, van den Bosch & White (2010), *Galaxy Formation and Evolution***.
   - File `Houjun Mo, Frank van den Bosch, Simon White - Galaxy Formation and Evolution (2010, Cambridge University Press) - libgen.li.pdf`
-  - Chapter 14, Section 14.2.4 "The $M_{\rm BH} - \sigma$ Relation", pp. 652-660; Section 14.4 "AGN and Galaxy Formation", pp. 670-673 (complete Silk & Rees feedback proof).
+  - Chapter 14, Section 14.2.4 "The $M_{\rm BH} - \sigma$ Relation", pp. 652-660. Section 14.4 "AGN and Galaxy Formation", pp. 670-673 (complete Silk & Rees feedback proof).
 - **Peter Schneider (2015), *Extragalactic Astronomy and Cosmology***.
   - File `extragalactic_astro-1.pdf` / Course repo
   - Chapter 5, Section 5.4 "Black holes in the centers of galaxies", pp. 228-235.

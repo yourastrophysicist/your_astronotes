@@ -8,14 +8,14 @@ Parent [[Astrophysics_of_Galaxies_MOC]] · [[Dark matter rotation curves]] · [[
 
 ## 1. Physical Motivation and Fundamental Acceleration Scale
 
-Modified Newtonian Dynamics (MOND) was formulated by Mordehai Milgrom in 1983 as an alternative hypothesis to non-baryonic dark matter. Rather than postulating vast halos of undetected collisionless particles, MOND posits that the laws of gravitation or inertia deviate from standard Newtonian physics in the regime of extremely low accelerations.
+Modified Newtonian Dynamics (MOND) was formulated by Mordehai Milgrom in 1983 as an alternative hypothesis to non-baryonic dark matter. Rather than postulating large halos of undetected collisionless particles, MOND posits that the laws of gravitation or inertia deviate from standard Newtonian physics in the regime of extremely low accelerations.
 
 ### The Universal Acceleration Scale $a_0$
 
 Milgrom recognized that the mass discrepancy in galaxies appears not at a characteristic spatial scale, but whenever the gravitational acceleration falls below a universal threshold
 $$a_0 \approx 1.2 \times 10^{-10} \text{ m s}^{-2} = 1.2 \text{ \AA} \text{ s}^{-2}$$
 
-Cosmological coincidence - This empirical acceleration constant is remarkably close to cosmic acceleration scales formed by the speed of light $c$ and the Hubble constant $H_0$ or the cosmological constant $\Lambda$
+Cosmological coincidence - This empirical acceleration constant is very close to cosmic acceleration scales formed by the speed of light $c$ and the Hubble constant $H_0$ or the cosmological constant $\Lambda$
 $$a_0 \approx \frac{c H_0}{6} \approx \frac{c \sqrt{\Lambda / 3}}{2\pi}$$
 
 In the Solar System and high-surface-brightness stellar cores, gravitational accelerations are orders of magnitude greater than $a_0$ ($g_{\text{Earth}} \approx 9.8 \text{ m s}^{-2} \sim 10^{11} a_0$, at Pluto's orbit $g \sim 10^4 a_0$), ensuring that all classical tests of General Relativity and Newtonian mechanics are preserved.
@@ -172,7 +172,7 @@ Blackboard presentation notes
       (16)    (25)    (40)    (63)   (100)   (158)   (250)   [v_flat in km/s]
 ```
 
-Key takeaways for the blackboard
+Key points for the blackboard
 - Range - Extends over 5 orders of magnitude in baryonic mass ($10^7$ to $10^{12} M_\odot$).
 - Gas dwarfs - In faint galaxies ($v_{\text{flat}} < 50 \text{ km s}^{-1}$), gas mass exceeds stellar mass by factors of 10. Even here, galaxies follow the exact same $v^4$ relation, proving that the scaling is with total baryonic mass, not stellar luminosity.
 

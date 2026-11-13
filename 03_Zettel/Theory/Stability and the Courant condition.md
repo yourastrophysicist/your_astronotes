@@ -39,8 +39,8 @@ $$\boxed{\nu = \frac{c \Delta t}{\Delta x} \leq 1}$$
 **the original Courant-Friedrichs-Lewy (CFL) condition**, 1928. physical meaning: the numerical "domain of influence" (the stencil over one timestep) must contain the analytic domain of influence (the characteristic line $x - ct$).
 
 implications:
-- halving $\Delta x$ requires halving $\Delta t$ — work scales as $\Delta x^{-2}$ in 1D
-- the equation tells the numerics what the maximum timestep is — the *physics* sets the limit, not the algorithm
+- halving $\Delta x$ requires halving $\Delta t$, work scales as $\Delta x^{-2}$ in 1D
+- the equation tells the numerics what the maximum timestep is, the *physics* sets the limit, not the algorithm
 
 ## why FTCS for advection is unconditionally unstable
 
@@ -51,7 +51,7 @@ amplification: $\xi = 1 - i\nu \sin(k\Delta x)$. $\lvert \xi\rvert^2 = 1 + \nu^2
 
 ## what blowup looks like
 
-if I violate the CFL condition by a small margin, say $\nu = 1.01$, the simulation may run for many timesteps looking fine, then suddenly explode — values reach $10^{300}$ overnight, the array becomes NaN, the plot is white. the warning sign: **growing oscillations** at the grid scale. when these appear, $\Delta t$ is too large.
+if I violate the CFL condition by a small margin, say $\nu = 1.01$, the simulation may run for many timesteps looking fine, then suddenly explode, values reach $10^{300}$ overnight, the array becomes NaN, the plot is white. the warning sign: **growing oscillations** at the grid scale. when these appear, $\Delta t$ is too large.
 
 ## fixes
 

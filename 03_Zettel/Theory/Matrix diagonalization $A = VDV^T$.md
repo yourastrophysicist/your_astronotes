@@ -82,7 +82,7 @@ a general (non-symmetric) matrix has complex eigenvalues and may not have a full
 
 $$A = V D V^{-1}$$
 
-with $V$ the (possibly complex) eigenvector matrix, no longer orthogonal, no transposed shortcut. for **defective** matrices (geometric multiplicity less than algebraic), $V$ is *not invertible* — diagonalization fails entirely. one needs the **Jordan form** instead, which is numerically ill-conditioned and rarely useful in practice.
+with $V$ the (possibly complex) eigenvector matrix, no longer orthogonal, no transposed shortcut. for **defective** matrices (geometric multiplicity less than algebraic), $V$ is *not invertible*, diagonalization fails entirely. one needs the **Jordan form** instead, which is numerically ill-conditioned and rarely useful in practice.
 
 for symmetric matrices, none of these troubles occur. **always check symmetry before diagonalizing.**
 
@@ -90,7 +90,7 @@ for symmetric matrices, none of these troubles occur. **always check symmetry be
 
 - `np.linalg.eigh(A)` for symmetric $A$ is faster, more accurate, and returns *real* eigenvalues. always use it when applicable
 - `np.linalg.eig(A)` for general $A$ returns complex eigenvalues. slower
-- for sparse $A$, `scipy.sparse.linalg.eigsh(A, k)` returns the top $k$ eigenvalues without the full diagonalization — vastly faster for huge matrices
+- for sparse $A$, `scipy.sparse.linalg.eigsh(A, k)` returns the top $k$ eigenvalues without the full diagonalization, vastly faster for huge matrices
 
 ## physics applications
 

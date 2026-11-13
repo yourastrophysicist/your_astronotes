@@ -81,6 +81,10 @@ once $\delta \gtrsim 1$, the linear theory breaks down. perturbations collapse i
 
 see [[Spherical collapse]] + [[Press-Schechter halo mass function]] + [[N-body simulations]].
 
+## where it goes wrong
+
+- Newtonian perturbation theory is valid only inside the horizon.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

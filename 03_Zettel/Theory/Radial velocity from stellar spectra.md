@@ -28,7 +28,7 @@ where $T$ is a template (a synthetic spectrum or a high-S/N reference star) and 
 
 ## applications
 
-- **single-line spectroscopic binaries (SB1).** periodic RV variation traces the orbit of a star around the centre of mass; combined with Kepler's law it gives the mass function $f(m) = (m_2 \sin i)^3 / (m_1 + m_2)^2$.
+- **single-line spectroscopic binaries (SB1).** periodic RV variation traces the orbit of a star around the centre of mass. combined with Kepler's law it gives the mass function $f(m) = (m_2 \sin i)^3 / (m_1 + m_2)^2$.
 - **double-line binaries (SB2).** both stars contribute lines, enabling individual mass measurements (modulo $\sin i$).
 - **exoplanet detection.** Mayor & Queloz (1995) discovered 51 Peg b through RV wobbles of $\sim 60$ m/s. modern instruments (HARPS, ESPRESSO) reach $\sim 0.1$ m/s, sufficient for Earth-mass planets in habitable zones.
 - **cluster membership and kinematics.** stars in a cluster share the cluster bulk motion to within the velocity dispersion ($\sim 0.5$ km/s in open clusters, $\sim 5\text{-}20$ km/s in globulars). RV cleans out field interlopers.
@@ -45,7 +45,7 @@ $$v_{\rm GR} = \frac{GM}{Rc} \approx 0.6\;\text{km/s}\quad\text{for the sun}.$$
 
 ## absolute vs differential
 
-absolute RVs (referred to a global standard) rely on accurate atomic line wavelengths and detailed corrections; precision is limited to $\sim 100$ m/s. differential RVs (within one observing campaign of one star) routinely reach 0.5-1 m/s, which is what makes exoplanet RV surveys possible.
+absolute RVs (referred to a global standard) rely on accurate atomic line wavelengths and detailed corrections. precision is limited to $\sim 100$ m/s. differential RVs (within one observing campaign of one star) routinely reach 0.5-1 m/s, which is what makes exoplanet RV surveys possible.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

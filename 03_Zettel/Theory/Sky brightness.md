@@ -13,14 +13,14 @@ the night sky is **not black**. several physical sources contribute background p
 | **zodiacal light** | visible + NIR | sunlight scattered by interplanetary dust |
 | **thermal sky** | mid-IR + sub-mm | $\sim 270$ K ambient atmosphere |
 | **diffuse Galactic light** | UV + visible | starlight scattered by ISM dust |
-| **light pollution** | optical | urban Hg, Na, LED lamps; site-specific |
+| **light pollution** | optical | urban Hg, Na, LED lamps, site-specific |
 
 ## moonlight
 
 the Moon's reflected sunlight is scattered by the atmosphere into the sight line, brightening the entire night sky. depends on:
-- **phase**: full moon $\Delta V \sim 4$ mag/arcsec$^2$ brighter than dark sky; new moon negligible.
+- **phase**: full moon $\Delta V \sim 4$ mag/arcsec$^2$ brighter than dark sky. new moon negligible.
 - **angular separation** from target: closer = brighter contamination.
-- **wavelength**: scattering is bluer; moonlight fattens U and B bands more than R, I.
+- **wavelength**: scattering is bluer. moonlight fattens U and B bands more than R, I.
 
 practical rule: schedule deep imaging of faint targets near new moon, bright targets like $z < 0.3$ galaxies near full moon if needed.
 
@@ -42,7 +42,7 @@ sunlight scattered by interplanetary dust ($\sim 0.1$ to $100\,\mu$m grains) lyi
 
 ## thermal sky
 
-at $\lambda > 2.5\,\mu$m the atmosphere itself glows like a blackbody at $\sim 270$ K. by Wien, the peak is around $11\,\mu$m; in the K-band $(2.2\,\mu$m$)$ this is already significant. consequences:
+at $\lambda > 2.5\,\mu$m the atmosphere itself glows like a blackbody at $\sim 270$ K. by Wien, the peak is around $11\,\mu$m. in the K-band $(2.2\,\mu$m$)$ this is already significant. consequences:
 - **K-band noise floor** is set by thermal emission of the telescope + atmosphere. cold telescopes (cooled mirrors, cold instruments) help.
 - **mid-IR** is hopeless from the ground without cryogenic instruments.
 - **far-IR** is hopeless from anywhere except space.
@@ -55,7 +55,7 @@ light-polluted urban: $\mu_V \approx 18$ mag/arcsec$^2$, **about $30\times$ brig
 
 at Mauna Kea, Cerro Paranal, La Palma: $\mu_V \approx 21.7$ to $22.0$ mag/arcsec$^2$, dark moonless conditions.
 
-## practical consequence: sky-limited regime
+## practical consequence - sky-limited regime
 
 for faint sources, photon noise from sky pixels dominates the noise budget (see [[CCD detectors and SNR]] and [[The CCD equation]]). the signal-to-noise ratio is then
 $${\rm SNR} \approx \frac{N_*}{\sqrt{n_{\rm pix} N_{\rm sky}}}$$
@@ -64,6 +64,12 @@ which says:
 - a smaller PSF (fewer $n_{\rm pix}$ in the aperture) gives higher SNR.
 
 so at faint magnitudes a small telescope at a dark site can outperform a big one in a city, especially for surface-brightness-limited science (low-surface-brightness galaxies, integrated cluster flux).
+
+## where it goes wrong
+
+- surface brightnesses in mag/arcsec$^2$ cannot be added. I convert to flux, add, and convert back.
+- in the near infrared the sky is OH airglow, which changes within minutes. beyond 2.3 $\mu$m it is thermal emission from the air and the telescope.
+- the sky noise in a measurement grows with the area of the aperture in pixels, so a larger aperture is not always better.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -84,7 +90,7 @@ so at faint magnitudes a small telescope at a dark site can outperform a big one
 - [[Atmospheric layers]]
 - [[Atmospheric transparency windows]]
 - [[Filter systems and bandpasses]]
-- [[Ecliptic system]] — zodiacal light
+- [[Ecliptic system]] - zodiacal light
 
 ---
 

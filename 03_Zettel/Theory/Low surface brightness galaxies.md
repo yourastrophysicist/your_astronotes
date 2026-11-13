@@ -13,7 +13,7 @@ Low Surface Brightness (LSB) galaxies are defined photometrically as galaxies wh
 
 In 1970, Kenneth Freeman analyzed optical surface photometry for 36 spiral and lenticular galaxies, discovering that 28 of them exhibited an apparently universal exponential central surface brightness -
 $$\mu_{0, B} = 21.65 \pm 0.30 \text{ mag arcsec}^{-2} \quad \left( I_0 \approx 140 \, L_{\odot, B} \text{ pc}^{-2} \right)$$
-This empirical constancy became known as Freeman's Law. In 1976, Michael Disney demonstrated that Freeman's Law is not a fundamental property of galaxy formation, but rather a profound observational selection effect imposed by the brightness of the night sky ($\mu_{\mathrm{sky}} \approx 22.5 \text{ mag arcsec}^{-2}$ in B).
+This empirical constancy became known as Freeman's Law. In 1976, Michael Disney demonstrated that Freeman's Law is not a fundamental property of galaxy formation, but rather a strong observational selection effect imposed by the brightness of the night sky ($\mu_{\mathrm{sky}} \approx 22.5 \text{ mag arcsec}^{-2}$ in B).
 
 ---
 
@@ -68,7 +68,7 @@ m max}} = \mu_{\mathrm{lim}} - 2.17 \text{ mag arcsec}^{-2}$$
 On historical photographic survey plates (such as the Palomar Observatory Sky Survey, POSS), the detection limit for visual galaxy identification was $\mu_{\mathrm{lim}} \approx 24.0 \text{ mag arcsec}^{-2}$. Substituting this limit -
 $$\mu_{0, {
 m max}} \approx 24.0 - 2.17 = 21.83 \text{ mag arcsec}^{-2}$$
-This matches Freeman's observed value ($\mu_0 = 21.65 \pm 0.30$) with remarkable precision.
+This matches Freeman's observed value ($\mu_0 = 21.65 \pm 0.30$) with high precision.
 
 ### Physical Conclusion
 Galaxies with central surface brightness $\mu_0 \approx 21.65$ maximize their apparent isophotal diameter on the sky.
@@ -96,7 +96,7 @@ LSB galaxies are characterized by an extremely low star formation rate per unit 
 According to the Kennicutt-Schmidt star formation law, star formation operates efficiently only when gas surface density exceeds a critical threshold -
 $$\Sigma_{\mathrm{gas}} \ge \Sigma_{\mathrm{crit}} \approx 10 \, M_\odot \text{ pc}^{-2}$$
 In LSB galaxies, atomic hydrogen surveys demonstrate that the neutral gas surface density rarely exceeds $\Sigma_{\mathrm{gas}} \sim 1 - 5 \, M_\odot \text{ pc}^{-2}$ across the entire disk.
-Furthermore, the Toomre gravitational stability parameter for gas is -
+The Toomre gravitational stability parameter for gas is -
 $$Q_{\mathrm{gas}} = \frac{\kappa \, \sigma_{\mathrm{gas}}}{\pi G \Sigma_{\mathrm{gas}}}$$
 Because $\Sigma_{\mathrm{gas}}$ is suppressed while epicyclic frequency $\kappa$ and turbulent velocity dispersion $\sigma_{\mathrm{gas}} \approx 8 - 10\text{ km s}^{-1}$ remain normal, the gas disk maintains $Q_{\mathrm{gas}} > 2 - 3$ everywhere. The interstellar medium is dynamically stable against large-scale gravitational collapse and molecular cloud condensation, keeping LSB galaxies in an un-evolved, gas-rich state over cosmic time.
 
@@ -114,7 +114,7 @@ High-resolution $\text{H}\alpha$ and H I rotation curves of LSB galaxies (de Blo
 $$v_{\mathrm{circ}}(R) \propto R \quad (\text{as } R \to 0)$$
 Since $M(<R) \propto R \, v_{\mathrm{circ}}^2 \propto R^3$, the enclosed density is -
 $$\rho(R) \propto \frac{M(<R)}{R^3} \propto R^0 = \text{constant}$$
-This constant-density core ($\rho \propto R^0$, described by Burkert or pseudo-isothermal profiles) directly conflicts with the steep inner density cusp ($\rho \propto R^{-1}$) predicted by cosmological N-body simulations of Cold Dark Matter (the NFW profile), formulating the foundational observational basis of the Core-Cusp Problem.
+This constant-density core ($\rho \propto R^0$, described by Burkert or pseudo-isothermal profiles) directly conflicts with the steep inner density cusp ($\rho \propto R^{-1}$) predicted by cosmological N-body simulations of Cold Dark Matter (the NFW profile), formulating the observational basis of the Core-Cusp Problem.
 
 ---
 

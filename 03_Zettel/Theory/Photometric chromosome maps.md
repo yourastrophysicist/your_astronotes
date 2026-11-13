@@ -5,7 +5,7 @@ title: "Photometric chromosome maps"
 the chromosome map is the diagnostic plot of multiple populations + Milone's signature contribution to the field. introduced by milone et al. 2015 + refined into a survey-wide instrument by milone et al. 2017 (the HST UV Legacy Survey of GCs, ApJ 836:14, with piotto, marino, bedin, anderson, brown, cassisi + collaborators). it takes a CMD + a color-color diagram + folds them into a single 2D plot whose two axes orthogonally separate populations by helium + nitrogen.
 
 ![L17_p30_chromosome_map_classic-30.png](../../assets/images/L17_p30_chromosome_map_classic-30.png)
-*classic chromosome map from Milone et al. 2017: 1G stars cluster around (0,0); 2G stars displaced upward + leftward.*
+*classic chromosome map from Milone et al. 2017: 1G stars cluster around (0,0). 2G stars displaced upward + leftward.*
 
 ![L15_p05_chromosome_map_intro-05.png](../../assets/images/L15_p05_chromosome_map_intro-05.png)
 
@@ -46,7 +46,7 @@ the populations are typically **discrete** rather than smoothly continuous: dist
 
 from Milone et al. 2015 (ApJ 808, 51), the chemical definition:
 - **1G stars** display chemical abundances comparable to those of **field stars** with the same metallicity: normal Na, O, C, N, Mg, He.
-- **2G stars** display anomalous abundances: enhanced Na, N, He; depleted O, C, Mg. these are the products of hot proton-capture nucleosynthesis in a previous polluter generation.
+- **2G stars** display anomalous abundances: enhanced Na, N, He. depleted O, C, Mg. these are the products of hot proton-capture nucleosynthesis in a previous polluter generation.
 
 the 2G fraction $N_{2G}/N_\text{tot}$ is read directly off the map. it averages ~65% across the survey + correlates strongly with cluster mass (see [[Mass dependence of multiple populations]]).
 
@@ -61,7 +61,7 @@ the orthogonality of the axes matters. ΔF275W,F814W tracks He primarily because
 milone, piotto et al. 2017 published chromosome maps for 57 galactic GCs from a coordinated HST treasury program. key results:
 
 1. **multiple populations are universal** in massive GCs: every cluster with $M > 10^{4.5}\, M_\odot$ shows a chromosome map split
-2. **Type I vs Type II classification**: ~83% of clusters are Type I (single 1G + 2G); ~17% are Type II with additional structure on a parallel + redder sequence indicating Fe + s-process variations
+2. **Type I vs Type II classification**: ~83% of clusters are Type I (single 1G + 2G). ~17% are Type II with additional structure on a parallel + redder sequence indicating Fe + s-process variations
 3. **2G fraction scales with cluster mass**: $N_{2G}/N_\text{tot} \approx 0.4 + 0.1 \log_{10}(M / 10^5 M_\odot)$ approximately
 4. **maximum He spread $\Delta Y_\text{max}$ scales with mass**: more massive clusters host more extreme He-enhanced sub-populations
 5. **internal kinematics differ**: 2G is centrally concentrated + dynamically cooler in many clusters
@@ -86,11 +86,11 @@ the chromosome map is also being applied to extragalactic GCs (LMC, SMC, M31) vi
 
 ## reference papers
 
-- **Milone et al. 2015, ApJ 808, 51** — first chromosome maps (NGC 2808).
-- **Milone et al. 2015, MNRAS 455, 3009** — refined chromosome map construction.
-- **Milone et al. 2017, MNRAS 464, 3636**, [arXiv:1610.00451](https://arxiv.org/abs/1610.00451) — HST UV Legacy Survey IX: "The Atlas of Multiple Stellar Populations," chromosome maps for $57$ GCs, Type I/II classification.
-- **Marino, Milone et al. 2019** — chemical patterns on chromosome maps: spectroscopic validation of photometric populations.
-- **Bastian & Lardo 2018, ARA&A 56, 83**, [arXiv:1712.01286](https://arxiv.org/abs/1712.01286) — "Multiple Populations in Globular Clusters": comprehensive review of the observational landscape (chromosome maps, Na-O and He anticorrelations) and the competing polluter/enrichment scenarios, including the unresolved "mass budget problem" (no proposed 1G polluter population is massive enough to have produced the observed 2G fraction under a standard IMF).
+- **Milone et al. 2015, ApJ 808, 51** - first chromosome maps (NGC 2808).
+- **Milone et al. 2015, MNRAS 455, 3009** - refined chromosome map construction.
+- **Milone et al. 2017, MNRAS 464, 3636**, [arXiv:1610.00451](https://arxiv.org/abs/1610.00451), HST UV Legacy Survey IX: "The Atlas of Multiple Stellar Populations," chromosome maps for $57$ GCs, Type I/II classification.
+- **Marino, Milone et al. 2019** - chemical patterns on chromosome maps: spectroscopic validation of photometric populations.
+- **Bastian & Lardo 2018, ARA&A 56, 83**, [arXiv:1712.01286](https://arxiv.org/abs/1712.01286), "Multiple Populations in Globular Clusters": full review of the observational picture (chromosome maps, Na-O and He anticorrelations) and the competing polluter/enrichment scenarios, including the unresolved "mass budget problem" (no proposed 1G polluter population is massive enough to have produced the observed 2G fraction under a standard IMF).
 
 ## why it is the centerpiece of modern GC astrophysics
 
@@ -125,98 +125,98 @@ before the chromosome map, multiple populations were a complicated patchwork of 
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 17 — Multiple Stellar Populations II: Chromosome Maps)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 17 - Multiple Stellar Populations II - Chromosome Maps)
 
 > **Context**: *The Chromosome Map (Delta_F275W,F814W vs Delta_C_F275W,F336W,F438W), orthogonal separation of 1G and 2G stars, and Type I vs Type II anomalous GCs.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![LAntonino_p17_01.png](../../assets/images/LAntonino_p17_01.png)
-*Figure P17-01: LAntonino_p17_01.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-01: LAntonino_p17_01.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_02.png](../../assets/images/LAntonino_p17_02.png)
-*Figure P17-02: LAntonino_p17_02.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-02: LAntonino_p17_02.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_03.png](../../assets/images/LAntonino_p17_03.png)
-*Figure P17-03: LAntonino_p17_03.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-03: LAntonino_p17_03.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_04.png](../../assets/images/LAntonino_p17_04.png)
-*Figure P17-04: LAntonino_p17_04.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-04: LAntonino_p17_04.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_05.png](../../assets/images/LAntonino_p17_05.png)
-*Figure P17-05: LAntonino_p17_05.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-05: LAntonino_p17_05.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_06.png](../../assets/images/LAntonino_p17_06.png)
-*Figure P17-06: LAntonino_p17_06.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-06: LAntonino_p17_06.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_07.png](../../assets/images/LAntonino_p17_07.png)
-*Figure P17-07: LAntonino_p17_07.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-07: LAntonino_p17_07.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_08.png](../../assets/images/LAntonino_p17_08.png)
-*Figure P17-08: LAntonino_p17_08.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-08: LAntonino_p17_08.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_09.png](../../assets/images/LAntonino_p17_09.png)
-*Figure P17-09: LAntonino_p17_09.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-09: LAntonino_p17_09.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_10.png](../../assets/images/LAntonino_p17_10.png)
-*Figure P17-10: LAntonino_p17_10.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-10: LAntonino_p17_10.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_11.png](../../assets/images/LAntonino_p17_11.png)
-*Figure P17-11: LAntonino_p17_11.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-11: LAntonino_p17_11.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_12.png](../../assets/images/LAntonino_p17_12.png)
-*Figure P17-12: LAntonino_p17_12.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-12: LAntonino_p17_12.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_13.png](../../assets/images/LAntonino_p17_13.png)
-*Figure P17-13: LAntonino_p17_13.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-13: LAntonino_p17_13.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_14.png](../../assets/images/LAntonino_p17_14.png)
-*Figure P17-14: LAntonino_p17_14.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-14: LAntonino_p17_14.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_15.png](../../assets/images/LAntonino_p17_15.png)
-*Figure P17-15: LAntonino_p17_15.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-15: LAntonino_p17_15.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_16.png](../../assets/images/LAntonino_p17_16.png)
-*Figure P17-16: LAntonino_p17_16.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-16: LAntonino_p17_16.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_17.png](../../assets/images/LAntonino_p17_17.png)
-*Figure P17-17: LAntonino_p17_17.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-17: LAntonino_p17_17.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_18.png](../../assets/images/LAntonino_p17_18.png)
-*Figure P17-18: LAntonino_p17_18.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-18: LAntonino_p17_18.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_19.png](../../assets/images/LAntonino_p17_19.png)
-*Figure P17-19: LAntonino_p17_19.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-19: LAntonino_p17_19.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_20.png](../../assets/images/LAntonino_p17_20.png)
-*Figure P17-20: LAntonino_p17_20.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-20: LAntonino_p17_20.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_21.png](../../assets/images/LAntonino_p17_21.png)
-*Figure P17-21: LAntonino_p17_21.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-21: LAntonino_p17_21.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_22.png](../../assets/images/LAntonino_p17_22.png)
-*Figure P17-22: LAntonino_p17_22.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-22: LAntonino_p17_22.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_23.png](../../assets/images/LAntonino_p17_23.png)
-*Figure P17-23: LAntonino_p17_23.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-23: LAntonino_p17_23.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_24.png](../../assets/images/LAntonino_p17_24.png)
-*Figure P17-24: LAntonino_p17_24.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-24: LAntonino_p17_24.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![LAntonino_p17_25.png](../../assets/images/LAntonino_p17_25.png)
-*Figure P17-25: LAntonino_p17_25.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-25: LAntonino_p17_25.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![Lecture17_p15-15.png](../../assets/images/Lecture17_p15-15.png)
-*Figure P17-26: Lecture17_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-26: Lecture17_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![Lecture17_p25-25.png](../../assets/images/Lecture17_p25-25.png)
-*Figure P17-27: Lecture17_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-27: Lecture17_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![Lecture17_p35-35.png](../../assets/images/Lecture17_p35-35.png)
-*Figure P17-28: Lecture17_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-28: Lecture17_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 ![Lecture17_p5-05.png](../../assets/images/Lecture17_p5-05.png)
-*Figure P17-29: Lecture17_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 17 — Multiple Stellar Populations II: Chromosome Maps.*
+*Figure P17-29: Lecture17_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 17 - Multiple Stellar Populations II: Chromosome Maps.*
 
 
 

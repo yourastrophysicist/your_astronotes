@@ -4,14 +4,14 @@ title: "FFT in scipy and numpy"
 ---
 # FFT in scipy and numpy
 
-practical conventions for using FFT in python. the math is unambiguous but the *normalization* and *frequency layout* differ between libraries and conventions; getting them right is half the work.
+practical conventions for using FFT in python. the math is unambiguous but the *normalization* and *frequency layout* differ between libraries and conventions. getting them right is half the work.
 
 ## numpy.fft vs scipy.fft
 
 - **`numpy.fft`**: classic, widely used, simple
 - **`scipy.fft`**: newer, slightly faster, supports more options (real transforms, parallel)
 
-both implement the same DFT. `scipy.fft` is generally preferred for large transforms; `numpy.fft` is fine for everyday work.
+both implement the same DFT. `scipy.fft` is generally preferred for large transforms. `numpy.fft` is fine for everyday work.
 
 ## the normalization conventions
 
@@ -45,7 +45,7 @@ np.allclose(x, x_back.real)        # True
 freqs = np.fft.fftfreq(N, d=dt)
 ```
 
-returns $[0, \Delta f, 2\Delta f, \ldots, (N/2 - 1)\Delta f, -N/2 \Delta f, \ldots, -\Delta f]$. note the negative frequencies in the second half — this is the FFT order.
+returns $[0, \Delta f, 2\Delta f, \ldots, (N/2 - 1)\Delta f, -N/2 \Delta f, \ldots, -\Delta f]$. note the negative frequencies in the second half. this is the FFT order.
 
 for plotting:
 ```python
@@ -56,7 +56,7 @@ plt.plot(freqs_shifted, np.abs(X_shifted))
 
 ## the real-input optimization
 
-if $x$ is real, $X_k = X_{N-k}^*$ — half the values are redundant. `rfft` computes only the non-redundant half:
+if $x$ is real, $X_k = X_{N-k}^*$, half the values are redundant. `rfft` computes only the non-redundant half:
 
 ```python
 X = np.fft.rfft(x)              # length N//2 + 1
@@ -82,7 +82,7 @@ fy = np.fft.fftfreq(Ny, d=dy)
 fX, fY = np.meshgrid(fx, fy, indexing='ij')
 ```
 
-## a complete example: spectrum of a sinusoid
+## a complete example - spectrum of a sinusoid
 
 ```python
 import numpy as np

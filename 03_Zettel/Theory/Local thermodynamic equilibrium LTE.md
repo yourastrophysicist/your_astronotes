@@ -14,7 +14,7 @@ with LTE:
 
 so the only "input" for the radiative-transfer problem is the temperature profile $T(\tau)$, which itself is constrained by global energy conservation. enormous simplification.
 
-## the key assumption: collisions $>$ radiation
+## the key assumption - collisions $>$ radiation
 
 LTE holds when **collisions are fast compared to radiative processes**. then collisional excitation/de-excitation enforces a Boltzmann distribution at the local kinetic $T$, regardless of the radiation field passing through.
 
@@ -30,13 +30,13 @@ $$n_e \gtrsim 10^{15} \text{ to } 10^{17}\,\text{cm}^{-3}$$
 
 ## where LTE breaks
 
-- **chromospheres / coronae**: $T$ rises but density falls; radiation rates dominate collisions. NLTE essential.
+- **chromospheres / coronae**: $T$ rises but density falls. radiation rates dominate collisions. NLTE essential.
 - **stellar winds and accretion disks**: violent motions and out-of-equilibrium radiation field.
-- **HII regions and planetary nebulae**: low density, photoionisation-driven; **never LTE** for any meaningful line. statistical equilibrium needed.
+- **HII regions and planetary nebulae**: low density, photoionisation-driven. **never LTE** for any meaningful line. statistical equilibrium needed.
 - **AGN narrow-line regions, galactic outflows**: same.
 - **protostellar accretion shocks, supernova ejecta**: NLTE.
 
-so for stellar photospheres LTE is mostly fine; for everything else, NLTE.
+so for stellar photospheres LTE is mostly fine. for everything else, NLTE.
 
 ## NLTE corrections
 
@@ -72,7 +72,7 @@ so the rates of both directions are equal. this is what enforces $S_\nu = B_\nu$
 - [[Two-level atom]]
 - [[Optical depth]]
 - [[Stellar atmosphere structure]]
-- [[Thermal equilibrium in the early universe]] — cosmological-scale LTE
+- [[Thermal equilibrium in the early universe]] - cosmological-scale LTE
 
 ---
 

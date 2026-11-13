@@ -12,7 +12,7 @@ a starburst is a galaxy where the current SFR is much higher than its long-term 
 
 from [[Galaxy time scales]]: starburst $t_{SF} \equiv M_{\text{gas}}/\psi$ is $\sim 100$ Myr, comparable to or shorter than a dynamical time. so starbursts are self-quenching.
 
-## the prototype: M82
+## the prototype - M82
 
 the canonical nearby starburst. at $d = 3.5$ Mpc:
 
@@ -32,12 +32,12 @@ the canonical nearby starburst. at $d = 3.5$ Mpc:
 
 - strong nebular emission: Hα, Hβ, [OII], [OIII], [NeIII], HeI, [SII]
 - UV-blue continuum from O/B stars
-- mid-IR: PAH bands (Spitzer IRS of M82 shows the 3–40 μm SED dominated by PAH and silicate features)
-- far-IR: cold-dust peak near 60–100 μm
+- mid-IR: PAH bands (Spitzer IRS of M82 shows the 3-40 μm SED dominated by PAH and silicate features)
+- far-IR: cold-dust peak near 60-100 μm
 - superwind features: hot X-ray plasma, biconical Hα, blueshifted absorption lines (Na D, Mg II)
 - frequent signs of interaction / tidal disturbance
 
-## feedback: superwinds, SSCs, shocks
+## feedback - superwinds, SSCs, shocks
 
 intense SF drives:
 - **superstar clusters (SSCs)**: compact $M_* \gtrsim 10^5\,M_\odot$ clusters at ages $< 10$ Myr. ionized bubbles around them. NGC 5461 example in Pablo's slide
@@ -50,6 +50,10 @@ intense SF drives:
 - drive metal enrichment of the CGM and IGM
 - are laboratories for extreme SF physics, testing the IMF, SF laws, feedback models
 - are the visible-universe analogue of the first galaxies
+
+## where it goes wrong
+
+- "starburst" has no single definition. sSFR, depletion time and offset from the main sequence give different samples.
 
 ## connections
 

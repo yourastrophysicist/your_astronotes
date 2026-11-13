@@ -16,7 +16,7 @@ the procedure (originating with Hansen et al. 2007 for NGC 6397) is:
 4. compare with synthetic LFs from stellar evolution + WD cooling models (Mestel cooling plus crystallisation, plus realistic atmospheres handling [[WDCS turn to blue and CIA]]) at different ages.
 5. the age that best matches the **position of the LF peak and the faint cutoff** is the WDCS age.
 
-## NGC 6397: the textbook case
+## NGC 6397 - the textbook case
 
 NGC 6397 is a metal-poor halo globular cluster ([Fe/H] $\approx -2.1$) and sits close enough that HST/ACS can reach its faint WDs. ![L06_p13_NGC6397_WDage.png](../../assets/images/L06_p13_NGC6397_WDage.png) Hansen et al. (2007) found
 $$t_{\rm WDCS} = 11.47 \pm 0.47\;\text{Gyr},$$
@@ -33,12 +33,12 @@ at old ages, this is comparable to the sensitivity of the [[HR diagram]] main-se
 ## advantages
 
 - nearly **metallicity-independent**. the position of the WDCS in the CMD shifts very little with [Fe/H], unlike the MS turnoff which is highly metallicity-dependent (see [[Spectroscopic determination of metallicity]] and [[Color-magnitude diagrams of clusters]]).
-- **independent stellar physics** from the MSTO. degenerate matter, conductive opacities, ion crystallisation; nothing to do with H burning, convection, or overshooting. agreement between the two ages is therefore a real cross-check.
+- **independent stellar physics** from the MSTO. degenerate matter, conductive opacities, ion crystallisation. nothing to do with H burning, convection, or overshooting. agreement between the two ages is therefore a real cross-check.
 
 ## limitations
 
 - WDs are faint, so reaching the truncation requires nearby clusters. only a handful of GCs (47 Tuc, NGC 6397, M4) and a few open clusters (NGC 6791, NGC 188) have published WDCS ages.
-- WD masses depend on the IFMR (see [[Initial-final mass relation IFMR]]); errors there feed into the cooling time.
+- WD masses depend on the IFMR (see [[Initial-final mass relation IFMR]]). Errors there feed into the cooling time.
 - pollution by Unresolved binary stars (WD+WD pairs in particular) produces double peaks in the LF, as in NGC 6791, and must be modelled (see [[WDCS vs MSTO ages comparison]]).
 
 <!-- sources:wiki-arxiv -->

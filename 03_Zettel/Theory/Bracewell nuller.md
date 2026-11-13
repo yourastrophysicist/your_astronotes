@@ -4,7 +4,7 @@ title: "Bracewell nuller"
 ---
 # Bracewell nuller
 
-the original nulling-interferometry concept, proposed by Ronald Bracewell (1978). a simple two-element interferometer with a $\pi$ phase shift in one arm. on-axis sources interfere destructively; off-axis sources survive.
+the original nulling-interferometry concept, proposed by Ronald Bracewell (1978). a simple two-element interferometer with a $\pi$ phase shift in one arm. on-axis sources interfere destructively. off-axis sources survive.
 
 ## the design
 
@@ -18,7 +18,7 @@ for a source on-axis (perfect path-length match):
 for a source off-axis at angle $\theta$:
 - additional path difference $B\theta$
 - phase difference between arms now $\pi + 2\pi B\theta/\lambda$
-- combined amplitude not zero — survives
+- combined amplitude not zero, survives
 
 so the nuller acts as a *band-pass filter* on the sky: rejects on-axis sources, transmits off-axis sources at certain angles.
 
@@ -30,7 +30,7 @@ so the nuller acts as a *band-pass filter* on the sky: rejects on-axis sources, 
 for the simplest two-element Bracewell:
 $$T(\theta) = \sin^2(\pi B \theta/\lambda)$$
 
-null at $\theta = 0$. peaks at $\theta = \lambda/(2B), 3\lambda/(2B), ...$ — at multiples of half the natural fringe spacing.
+null at $\theta = 0$. peaks at $\theta = \lambda/(2B), 3\lambda/(2B), ...$, at multiples of half the natural fringe spacing.
 
 so for $B = 100$ m and $\lambda = 10$ μm: null on-axis, peak at $\theta = 50$ mas. a planet at this separation would be transmitted at full intensity while the star is nulled.
 
@@ -42,7 +42,7 @@ the concept *foreshadowed* every modern nulling-interferometry mission. it was d
 
 ## the achromatic problem
 
-a simple $\pi$ phase shift via path delay only works at *one wavelength*. at other wavelengths, the path difference is $\pi \lambda_0/\lambda$ — not exactly $\pi$. so the null is *imperfect across a band*:
+a simple $\pi$ phase shift via path delay only works at *one wavelength*. at other wavelengths, the path difference is $\pi \lambda_0/\lambda$, not exactly $\pi$. so the null is *imperfect across a band*:
 
 $$T(0, \lambda) = \sin^2(\pi(\lambda_0 - \lambda)/(2\lambda))$$
 
@@ -89,7 +89,7 @@ planned mid-2030s mission. four-aperture formation-flying nuller in space. $10^7
 
 Bracewell 1978 was published while interferometry was barely working at all in the optical. proposing a *space-based interferometric nuller* for exoplanet imaging was extraordinarily ambitious.
 
-his calculation framework — destructive interference on-axis, transmission off-axis — became the foundation for every modern nulling instrument. while no Bracewell-style space mission has yet flown, the concept shapes contemporary planning.
+his calculation framework, destructive interference on-axis, transmission off-axis, became the foundation for every modern nulling instrument. while no Bracewell-style space mission has yet flown, the concept shapes contemporary planning.
 
 ## see also
 

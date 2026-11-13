@@ -2,7 +2,7 @@
 layout: "default"
 title: "BBN_concordance_with_CMB"
 ---
-**both BBN and CMB anisotropies provide independent measurements of the baryon density** $\Omega_{0b}$. these are two completely independent windows on the same physics, and they agree to remarkable precision.
+**both BBN and CMB anisotropies provide independent measurements of the baryon density** $\Omega_{0b}$. these are two completely independent windows on the same physics, and they agree to high precision.
 
 this concordance is one of the strongest validations of the standard hot Big Bang model we have.
 
@@ -26,7 +26,7 @@ from the abundance of light elements forged when the universe was three minutes 
 
 ## the concordance plot
 
-a beautiful summary plot:
+the summary plot:
 
 ![bbn-47.png](../../assets/images/bbn-47.png)
 
@@ -84,6 +84,10 @@ the one outstanding tension is in $^7$Li. CMB-anchored $\eta$ predicts $^7$Li/H 
 this remains an active area of research. but unlike the Hubble tension or the dark energy problem, the lithium problem has not yet forced any major revision of the standard cosmological model. → see [[BBN_observations]].
 
 ---
+
+## where it goes wrong
+
+- agreement holds for D and He. lithium is the exception.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

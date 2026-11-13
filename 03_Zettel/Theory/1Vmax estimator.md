@@ -8,19 +8,19 @@ up: [[Pablo_02_Statistical_properties_of_galaxies]] · [[Luminosity function def
 
 ## the problem
 
-a flux-limited sample (apparent magnitude $m < m_{\text{lim}}$) does not see all galaxies in your survey volume. faint galaxies are only visible nearby; bright galaxies are visible far. so a naive histogram of absolute magnitudes is biased toward bright objects (this is [[Malmquist bias]]).
+a flux-limited sample (apparent magnitude $m < m_{\text{lim}}$) does not see all galaxies in your survey volume. faint galaxies are only visible nearby. bright galaxies are visible far. so a naive histogram of absolute magnitudes is biased toward bright objects (this is [[Malmquist bias]]).
 
 we want $\phi(L)$, the *intrinsic* density of galaxies per unit luminosity per unit volume. how do we estimate it?
 
 ## schmidt 1968 answer
 
-for each galaxy in the sample, compute $V_{\max}$, the **maximum comoving volume** in which this particular galaxy could have been detected (still satisfying $m < m_{\text{lim}}$). a faint galaxy has small $V_{\max}$; a bright galaxy has $V_{\max}$ equal to the full survey volume.
+for each galaxy in the sample, compute $V_{\max}$, the **maximum comoving volume** in which this particular galaxy could have been detected (still satisfying $m < m_{\text{lim}}$). a faint galaxy has small $V_{\max}$. a bright galaxy has $V_{\max}$ equal to the full survey volume.
 
 then estimate the LF by
 
 $$\hat{\phi}(L)\, dL = \sum_{i: L_i \in [L, L+dL]} \frac{1}{V_{\max,i}}$$
 
-i.e., **weight each galaxy by the inverse of the volume in which it could have been seen**. faint galaxies get weighted up; bright galaxies get weighted down.
+i.e., **weight each galaxy by the inverse of the volume in which it could have been seen**. faint galaxies get weighted up. bright galaxies get weighted down.
 
 ## why it works
 
@@ -42,6 +42,10 @@ where $z_{\max}(L)$ solves $L = 4 \pi d_L(z_{\max})^2 \cdot S_{\text{lim}} \cdot
 ## what i remember
 
 it is the simplest unbiased LF estimator. it costs essentially nothing per galaxy (one $V_{\max}$ integral), and it generalizes to mass functions, color-LFs, and SFR functions trivially. its main weakness: in pencil-beam surveys it amplifies large-scale structure (a void at low $z$ down-weights faint galaxies, biasing $\alpha$).
+
+## worked example
+
+a galaxy of $M = -20$ in a survey to $m = 17.77$ can be seen out to $\mu = 37.77$, $d_{\max} = 10^{(37.77+5)/5}\ \text{pc} = 358$ Mpc. over 7500 deg$^2$, $V_{\max} = \frac{7500}{41253}\cdot\frac{4\pi}{3}(358)^3 = 3.5 \times 10^7$ Mpc$^3$, and that galaxy counts as $2.9 \times 10^{-8}$ Mpc$^{-3}$.
 
 ## connections
 

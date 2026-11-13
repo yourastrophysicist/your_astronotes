@@ -36,7 +36,7 @@ so:
 - **photoionisation dominates** when there's a strong UV source (HII regions, AGN).
 - **collisional ionisation dominates** when the gas is hot enough that thermal electrons exceed the ionisation potential ($T > \chi/k_B$).
 
-for hydrogen ($\chi = 13.6$ eV), $T_e \gtrsim 10^5$ K is needed for significant collisional ionisation. typical HII regions at $10^4$ K are far below this; their HII state is maintained entirely by photons.
+for hydrogen ($\chi = 13.6$ eV), $T_e \gtrsim 10^5$ K is needed for significant collisional ionisation. typical HII regions at $10^4$ K are far below this. their HII state is maintained entirely by photons.
 
 ## astronomical contexts
 
@@ -75,7 +75,7 @@ at HII region temperatures, almost all atoms are in the lowest ionisation stage.
 - [[Recombination rate]]
 - [[Photoionisation balance]]
 - [[Ionisation parameter U]]
-- [[Saha ionisation equation]] — analogous LTE formulation
+- [[Saha ionisation equation]] - analogous LTE formulation
 - [[Bremsstrahlung]]
 
 

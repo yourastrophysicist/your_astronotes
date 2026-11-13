@@ -17,7 +17,7 @@ baselines: from $\sim 10$ m (close pair) to 188 m (diametrically opposite). vary
 ![Narrabri Stellar Interferometer in Australia: two 6.5-meter optical reflectors on a 188-meter circular railway track.](../../assets/images/Narrabri_stellar_interferometer.jpg)
 
 
-the buckets needed to sample many baselines to trace the visibility curve. building 188 m of optical-quality structures was infeasible; HBT's insight was that for *intensity* correlation, the optics didn't need to be diffraction-limited. just collect photons. the railway-mounted buckets did exactly that.
+the buckets needed to sample many baselines to trace the visibility curve. building 188 m of optical-quality structures was infeasible. HBT's insight was that for *intensity* correlation, the optics didn't need to be diffraction-limited. just collect photons. the railway-mounted buckets did exactly that.
 
 ## the operating wavelength
 
@@ -28,17 +28,17 @@ Narrabri operated in the visible, around 420 nm (chosen for broadband, photoelec
 32 stars, primarily:
 
 - **A-type and B-type stars**: angular diameters from 0.5 to 4 mas, including:
-  - Sirius: 5.89 mas (Narrabri 1969); modern value 6.05 mas
-  - Vega: 3.24 mas; modern 3.21 mas
-  - Spica: 0.87 mas; modern 0.87 mas
-  - Rigel: 2.4 mas; modern 2.7 mas
+  - Sirius: 5.89 mas (Narrabri 1969). Modern value 6.05 mas
+  - Vega: 3.24 mas. Modern 3.21 mas
+  - Spica: 0.87 mas. Modern 0.87 mas
+  - Rigel: 2.4 mas. Modern 2.7 mas
 
 - **early supergiants** (Betelgeuse, Antares, Rigel) and **hot dwarfs**.
-  Narrabri *missed* faint cool stars (M dwarfs, late giants) due to sensitivity limits.
+ Narrabri *missed* faint cool stars (M dwarfs, late giants) due to sensitivity limits.
 
 ## the precision
 
-typical 1-3% precision on stellar diameters. for a few decades, these were the *best* stellar diameter measurements available — better than later amplitude interferometers until CHARA-class instruments of the 2010s.
+typical 1-3% precision on stellar diameters. for a few decades, these were the *best* stellar diameter measurements available, better than later amplitude interferometers until CHARA-class instruments of the 2010s.
 
 ## why it worked despite the atmosphere
 
@@ -52,7 +52,7 @@ three:
 
 ### 1. low sensitivity
 
-intensity interferometry SNR scales as $V^2 \cdot N_{\rm photons}/\Delta\nu$ — much worse than amplitude. limit at Narrabri: $V \sim 6$ with reasonable integration times. a hundred bright stars accessible, all the rest invisible.
+intensity interferometry SNR scales as $V^2 \cdot N_{\rm photons}/\Delta\nu$, much worse than amplitude. limit at Narrabri: $V \sim 6$ with reasonable integration times. a hundred bright stars accessible, all the rest invisible.
 
 ### 2. only $\lvert \gamma\rvert^2$
 

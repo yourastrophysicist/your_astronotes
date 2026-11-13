@@ -2,9 +2,7 @@
 layout: "default"
 title: "Celestial sphere and great circles"
 ---
-the stars look like they sit on a sphere whose center happens to be wherever I am standing.
-	I do not know their true distances from me, and for the purposes of pointing I do not care.
-		I just need **two coordinates** to identify a point on this directional sphere.
+the stars look like they sit on a sphere whose center happens to be wherever I am standing. I do not know their true distances from me, and for the purposes of pointing I do not care. I just need **two coordinates** to identify a point on this directional sphere.
 
 historically every culture built one. globes, astrolabes, the libri cosmografi.
 
@@ -14,7 +12,7 @@ historically every culture built one. globes, astrolabes, the libri cosmografi.
 
 ## great circle vs small circle
 
-a **great circle** (massimo cerchio) is the intersection of the sphere with a plane that passes through its **center**. the equator, every meridian, the celestial equator, the ecliptic — all great circles.
+a **great circle** (massimo cerchio) is the intersection of the sphere with a plane that passes through its **center**. the equator, every meridian, the celestial equator, the ecliptic are all great circles.
 
 a **small circle** (cerchio minore) is the intersection of the sphere with a plane *not* through the center. parallels of latitude (other than the equator itself) are small circles.
 
@@ -29,7 +27,7 @@ the line perpendicular to a great circle through the center pierces the sphere a
 on a sphere of radius $r$, a great-circle arc $\lvert AB\rvert$ corresponds to a central angle $c$ (in radians) by
 $$\lvert AB\rvert = r c, \qquad [c] = \text{rad}$$
 
-so on a unit sphere ($r = 1$), the angle *is* the arc length. this is why the radius of the celestial sphere never appears in any practical formula: I always work with angles.
+so on a unit sphere ($r = 1$), the angle *is* the arc length. this is why the radius of the celestial sphere never appears in any practical formula. I always work with angles.
 
 ![sphereastro-09.png](../../assets/images/sphereastro-09.png)
 
@@ -47,7 +45,7 @@ $$E = A + B + C - 180°$$
 is called the **spherical excess** ("eccesso sferico"), and it is geometric: the area of the triangle is exactly
 $$\text{Area}(ABC) = E\, r^2, \qquad [E] = \text{rad}$$
 
-quick check: an octant of a unit sphere has all three angles equal to $90°$, so $E = 90° = \pi/2$ rad and area $\pi/2$, which is $1/8$ of the full $4\pi$ surface — consistent.
+quick check: an octant of a unit sphere has all three angles equal to $90°$, so $E = 90° = \pi/2$ rad and area $\pi/2$, which is $1/8$ of the full $4\pi$ surface, consistent.
 
 ![sphereastro-10.png](../../assets/images/sphereastro-10.png)
 
@@ -60,6 +58,20 @@ every coordinate system I will use (alt-azimuth, equatorial, ecliptic, galactic)
 → next: [[Spherical trigonometry]]
 
 ---
+
+## worked example
+
+the angular distance between Betelgeuse ($\alpha = 5^{\rm h}55^{\rm m}$, $\delta = +7.4^\circ$) and Rigel ($\alpha = 5^{\rm h}14.5^{\rm m}$, $\delta = -8.2^\circ$). the difference in right ascension is $40.5^{\rm m} = 10.1^\circ$. with the cosine rule on the triangle pole-star-star:
+
+$$\cos d = \sin\delta_1\sin\delta_2 + \cos\delta_1\cos\delta_2\cos\Delta\alpha = -0.0184 + 0.9664 = 0.9480$$
+
+so $d = 18.6^\circ$, the height of Orion on the sky.
+
+## where it goes wrong
+
+- a parallel of latitude is a small circle, so it is not the shortest path between two points on it.
+- the angles of a spherical triangle add up to more than $180^\circ$, and the excess is the area.
+- the sides of a spherical triangle are angles too. writing them as lengths only works on the unit sphere.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -75,10 +87,10 @@ every coordinate system I will use (alt-azimuth, equatorial, ecliptic, galactic)
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
-- [[Spherical_astronomy_complete]] — the comprehensive narrative of the whole block
+- [[Spherical_astronomy_complete]] - the full narrative of the whole block
 - [[Spherical trigonometry]]
 - [[Earth coordinates]]
-
+https://docs.google.com/forms/d/e/1FAIpQLSf-bCRmXDZtfHhRHhJGVWUn-GBUxmbuu5nWcd-yHWjuYZqK2g/viewform
 ---
 
 ## observational astrophysics course slides (Prof. Paolo Cassata)

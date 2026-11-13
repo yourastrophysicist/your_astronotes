@@ -9,12 +9,12 @@ a meta-recipe. given a numerical problem (in the exam, in research, anywhere), t
 ## the seven steps
 
 1. **state the math problem**, in symbols, before touching the computer. write down the exact thing I am trying to compute: "find $x$ such that $f(x) = 0$ on $[0, 5]$ where $f(x) = \cos(x) - x$." this catches half my future bugs because I am forced to specify domain, units, and what counts as the answer
-2. **identify the problem class**, from the taxonomy: integral, root, ODE, fit, FFT, sample, eigenvalue, sort. each class has a standard family of algorithms; this step picks the family
+2. **identify the problem class**, from the taxonomy: integral, root, ODE, fit, FFT, sample, eigenvalue, sort. each class has a standard family of algorithms. this step picks the family
 3. **pick the algorithm in that family**, based on the structure of *my* problem: is the function smooth, is the matrix sparse, is the integrand bounded, are the data noisy. each algorithm has a "when does it win" answer
 4. **find a known case to validate against**: a problem with a closed-form answer that lives in the same class, that I can run my code on and compare. for ODEs: the harmonic oscillator. for integrals: a polynomial. for fits: a synthetic dataset I generate myself. *no* algorithm goes to production without a known-answer validation
-5. **write the code**, with the *simplest* possible version of the algorithm. no premature optimization. no clever vectorization. plain loops are fine for the first pass; switch to vectorized once it is correct
+5. **write the code**, with the *simplest* possible version of the algorithm. no premature optimization. no clever vectorization. plain loops are fine for the first pass. switch to vectorized once it is correct
 6. **diagnose and plot**. plot the answer. plot the residual. plot the convergence vs step size or sample count. if the plot is wrong, the answer is wrong, no matter how clean the printed number is
-7. **state the answer with its uncertainty** — every numerical answer has a finite-precision and finite-step-size error. report it. for MC: $\pm \sigma/\sqrt{N}$. for ODE: estimate by halving the step and checking how much the answer moved
+7. **state the answer with its uncertainty** - every numerical answer has a finite-precision and finite-step-size error. report it. for MC: $\pm \sigma/\sqrt{N}$. for ODE: estimate by halving the step and checking how much the answer moved
 
 ## the failure modes I have to watch for
 
@@ -69,7 +69,7 @@ every exam exercise is this template scaled to a different class. recognising th
 
 - [[Math Numerical Methods course intro]]
 - [[Math Numerical Methods exam rules]]
-- [[Mathematical_Numerical_Methods_MOC]] — the full topic dependency graph
+- [[Mathematical_Numerical_Methods_MOC]] - the full topic dependency graph
 
 
 

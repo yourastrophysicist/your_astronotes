@@ -87,16 +87,16 @@ a quick set of cases to feel out the formula:
 
 - $\delta = -30°$:
 $$\cos h = -(-0.577)(0.839) = 0.484$$
-wait — let me recompute. $\tan(-30°) = -0.577$, $\tan(40°) = 0.839$. $\cos h = -(-0.577)(0.839) = +0.484$. $h = \pm 61° = \pm 4.07$ h. star above horizon $\sim 8.13$ h.
+wait, let me recompute. $\tan(-30°) = -0.577$, $\tan(40°) = 0.839$. $\cos h = -(-0.577)(0.839) = +0.484$. $h = \pm 61° = \pm 4.07$ h. star above horizon $\sim 8.13$ h.
 
 - $\delta = +30°$:
 $\cos h = -(0.577)(0.839) = -0.484$. $h = \pm 119° = \pm 7.93$ h. star above horizon $\sim 15.87$ h.
 
 - $\delta = +50°$:
-$\cos h = -(1.192)(0.839) = -1.00$. $h = 180° = 12$ h — the star is **on the boundary of circumpolarity** ($\delta + \phi = 90°$).
+$\cos h = -(1.192)(0.839) = -1.00$. $h = 180° = 12$ h, so the star is **on the boundary of circumpolarity** ($\delta + \phi = 90°$).
 
 - $\delta = -50°$:
-$\cos h = -(-1.192)(0.839) = +1.00$. $h = 0$ h — the star is **never visible** ($\delta < \phi - 90°$).
+$\cos h = -(-1.192)(0.839) = +1.00$. $h = 0$ h, so the star is **never visible** ($\delta < \phi - 90°$).
 
 - $\delta = 0°$:
 $\cos h = 0$, $h = \pm 90° = \pm 6$ h. star above horizon for exactly 12 h, rises exactly E, sets exactly W.
@@ -104,6 +104,12 @@ $\cos h = 0$, $h = \pm 90° = \pm 6$ h. star above horizon for exactly 12 h, ris
 ![sphereastro-32.png](../../assets/images/sphereastro-32.png)
 
 ---
+
+## where it goes wrong
+
+- the condition $\cos h = -\tan\phi\tan\delta$ is geometric. real sunrise uses $a = -50'$, which adds refraction ($34'$) and the solar radius ($16'$).
+- a star is circumpolar when $\delta > 90^\circ - \phi$ and never rises when $\delta < \phi - 90^\circ$, for a northern observer.
+- upper culmination is south of the zenith when $\delta < \phi$ and north of it when $\delta > \phi$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

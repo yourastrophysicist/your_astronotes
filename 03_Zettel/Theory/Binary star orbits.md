@@ -4,7 +4,7 @@ title: "Binary star orbits"
 ---
 # Binary star orbits
 
-interferometric measurement of binary-star orbits at sub-mas precision. resolves the orbital motion year by year, providing dynamical masses (via Kepler's third law) at $\lesssim 1\%$ precision. *the* gold standard for stellar mass measurements.
+interferometric measurement of binary-star orbits at sub-mas precision. resolves the orbital motion year by year, providing dynamical masses (via Kepler's third law) at $\lesssim 1\%$ precision. *the* standard for stellar mass measurements.
 
 ## the basic idea
 
@@ -27,7 +27,7 @@ interferometric astrometry of binaries:
 
 competitive with eclipsing-binary mass determinations at much wider parameter coverage (eclipsing only works for edge-on orbits).
 
-## the science: dynamical masses
+## the science - dynamical masses
 
 mass is the most fundamental stellar parameter, but historically hard to measure precisely:
 - **eclipsing binaries**: only work for edge-on orbits (a few hundred known)
@@ -40,7 +40,7 @@ so interferometry has produced the largest sample of high-precision dynamical ma
 
 ### Capella (Aur)
 
-a binary with two G-type giants. CHARA imaging recovered the full 3D orbit, giving masses to 1%. one of the first true *images* of a binary by COAST in 1996; now imaged monthly with sub-mas precision by CHARA.
+a binary with two G-type giants. CHARA imaging recovered the full 3D orbit, giving masses to 1%. one of the first true *images* of a binary by COAST in 1996. now imaged monthly with sub-mas precision by CHARA.
 
 ### Sirius
 
@@ -86,7 +86,7 @@ the famous eclipsing binary Algol is part of a hierarchical triple. CHARA imagin
 
 tau Boo has a known exoplanet *and* a stellar companion. CHARA observations constrain the dynamics of both the planet and the star.
 
-## the future: SKA-mas and ngVLA
+## the future - SKA-mas and ngVLA
 
 planned upgrades:
 - SKA-mas for precise long-period radio binary astrometry

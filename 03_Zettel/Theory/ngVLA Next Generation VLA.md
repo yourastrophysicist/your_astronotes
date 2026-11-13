@@ -13,7 +13,7 @@ NRAO's mid-frequency successor to the JVLA. ~263 antennas across the US Southwes
 - **19 antennas** at intercontinental sites for VLBI extension (up to 9000 km)
 - frequency: 1.2-116 GHz (very wide!)
 
-so ngVLA spans cm to mm. higher frequencies than SKA-Mid; lower than ALMA's mm range.
+so ngVLA spans cm to mm. higher frequencies than SKA-Mid. lower than ALMA's mm range.
 
 ## the science goals
 
@@ -24,7 +24,7 @@ complementary to SKA:
 
 ### 1. molecular astronomy at cm
 
-3-50 GHz observations of cool dust + molecules in galaxies. ALMA does this at 100+ GHz; ngVLA bridges to lower frequencies.
+3-50 GHz observations of cool dust + molecules in galaxies. ALMA does this at 100+ GHz. ngVLA bridges to lower frequencies.
 
 ### 2. high-resolution surveys
 
@@ -59,7 +59,7 @@ VLBI-extended baselines provide $\sim 0.1$ mas astrometry for stars and pulsars 
 | sensitivity | very high | very high |
 | timing | start construction ~2027 | start construction ~2025 |
 
-both are major investments; both are designed for different science.
+both are major investments. both are designed for different science.
 
 ## the relationship to existing VLA
 
@@ -81,7 +81,7 @@ new 18m antennas optimized for both surveys and high-frequency operations. mass 
 
 ### 2. broad-band feeds
 
-cover 1.2 to 116 GHz — nearly two orders of magnitude. requires 5+ separate feeds per dish. complex receiver chain.
+cover 1.2 to 116 GHz, nearly two orders of magnitude. requires 5+ separate feeds per dish. complex receiver chain.
 
 ### 3. correlator scale
 

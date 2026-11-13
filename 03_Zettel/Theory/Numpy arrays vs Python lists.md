@@ -4,11 +4,11 @@ title: "Numpy arrays vs Python lists"
 ---
 # Numpy arrays vs Python lists
 
-the *single most important* python performance concept for scientific computing. lists and arrays look interchangeable in many code snippets but their performance is wildly different — sometimes by factors of 100 to 1000.
+the *single most important* python performance concept for scientific computing. lists and arrays look interchangeable in many code snippets but their performance is wildly different, sometimes by factors of 100 to 1000.
 
 ## what they actually are, under the hood
 
-a **python list** is a heterogeneous, dynamically-resizable sequence of pointers to python objects. each element is a full PyObject (with reference counting, type information, etc.). list comprehensions and `for` loops over lists run through the python interpreter — every operation is interpreted, type-checked, dispatched.
+a **python list** is a heterogeneous, dynamically-resizable sequence of pointers to python objects. each element is a full PyObject (with reference counting, type information, etc.). list comprehensions and `for` loops over lists run through the python interpreter, every operation is interpreted, type-checked, dispatched.
 
 a **numpy array** is a contiguous block of memory holding values of a single fixed type (e.g. `float64`, `int32`). operations on arrays are vectorized: the loop runs in compiled C code with no per-element python overhead, often using SIMD instructions and cache-friendly memory layouts.
 
@@ -24,11 +24,11 @@ a_arr  = np.arange(N)
 
 # sum
 t0 = time.time(); s = sum(a_list);    print(time.time() - t0)   # ~0.05 s
-t0 = time.time(); s = a_arr.sum();    print(time.time() - t0)   # ~0.001 s — 50× faster
+t0 = time.time(); s = a_arr.sum();    print(time.time() - t0)   # ~0.001 s - 50× faster
 
 # elementwise multiply
 t0 = time.time(); b = [x * 2 for x in a_list];  print(time.time() - t0)   # ~0.1 s
-t0 = time.time(); b = a_arr * 2;                print(time.time() - t0)   # ~0.002 s — 50× faster
+t0 = time.time(); b = a_arr * 2;                print(time.time() - t0)   # ~0.002 s - 50× faster
 ```
 
 for an N-body force loop (the inner loop is *the* bottleneck):
@@ -83,7 +83,7 @@ slicing returns a **view** (zero-copy reference into the original):
 
 ```python
 a = np.arange(10)
-b = a[2:5]      # view — modifying b changes a
+b = a[2:5]      # view - modifying b changes a
 b[0] = 100      # a is now [0 1 100 3 4 5 6 7 8 9]
 ```
 
@@ -111,7 +111,7 @@ knowing the difference matters when working with large arrays.
 arr = np.array([1, 2, 3], dtype=np.float64)
 ```
 
-`arr.tolist()` converts back. expensive for large arrays — usually I avoid this.
+`arr.tolist()` converts back. expensive for large arrays, usually I avoid this.
 
 ## astrophysics application
 

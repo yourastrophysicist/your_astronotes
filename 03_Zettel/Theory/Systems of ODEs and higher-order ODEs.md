@@ -6,7 +6,7 @@ title: "Systems of ODEs and higher-order ODEs"
 
 every higher-order ODE is equivalent to a first-order *system*. and every system is what numerical integrators expect. converting between them is the first step of any nontrivial integration problem.
 
-## the conversion: higher-order → first-order system
+## the conversion - higher-order → first-order system
 
 given a single second-order ODE
 $$\ddot y = f(y, \dot y, t)$$
@@ -74,7 +74,7 @@ def rhs_nbody(t, y, masses):
 
 ## the generic recipe
 
-every problem with second-order time evolution (Newton's law, Schrödinger equation, wave equation) becomes a first-order system after one variable substitution. the substitution is mechanical; once made, every numerical method applies.
+every problem with second-order time evolution (Newton's law, Schrödinger equation, wave equation) becomes a first-order system after one variable substitution. the substitution is mechanical. once made, every numerical method applies.
 
 ## stiff systems
 
@@ -82,7 +82,7 @@ a system is **stiff** if the equations have widely separated timescales: some va
 
 example: chemical reaction networks where forward and backward rates differ by $10^{10}$. or stellar atmosphere temperature profiles with both radiative and conductive transport.
 
-stiff systems require **implicit** integrators (BDF, Radau in scipy) — explicit methods waste enormous effort on the fast modes that don't matter.
+stiff systems require **implicit** integrators (BDF, Radau in scipy), explicit methods waste enormous effort on the fast modes that don't matter.
 
 ## Hamiltonian structure
 
@@ -94,7 +94,7 @@ these have **symplectic** structure that should be preserved by the integrator. 
 
 ## boundary conditions
 
-a system of $k$ first-order ODEs needs $k$ initial conditions to specify a unique solution (initial value problem) — typically values of all components at $t_0$.
+a system of $k$ first-order ODEs needs $k$ initial conditions to specify a unique solution (initial value problem), typically values of all components at $t_0$.
 
 if instead the conditions are split: some at $t_0$, some at $t_f$ → boundary value problem (BVP). use [[Shooting method\|shooting]] or `scipy.integrate.solve_bvp`.
 

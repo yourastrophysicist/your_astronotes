@@ -38,7 +38,7 @@ so an oscillator strength is essentially a packaged Einstein $A$.
 the **integrated absorption cross section** over the line is:
 $$\sigma_{\rm tot} = \int \sigma_\nu d\nu = \frac{\pi e^2}{m_e c}\,f_{lu}$$
 
-units: cm$^2$ Hz. independent of line width. this is a fixed atomic property; the line profile redistributes this cross section in $\nu$.
+units: cm$^2$ Hz. independent of line width. this is a fixed atomic property. the line profile redistributes this cross section in $\nu$.
 
 ## the absorbing column
 
@@ -53,7 +53,7 @@ practical: knowing $\tau_0$ and $f$ from atomic data, you get $N_l$. column dens
 
 ## the Ladenburg-Reiche relation
 
-historically: an oscillator with strength $f$ has the same time-integrated emission as a classical electron oscillating at the resonance frequency, times $f$. so $f = 1$ matches a classical oscillator; $f < 1$ for "weak" transitions, $f > 1$ rare ($f$ summed over all transitions from a given lower level satisfies the Thomas-Reiche-Kuhn sum rule, $\sum f = N_e$).
+historically: an oscillator with strength $f$ has the same time-integrated emission as a classical electron oscillating at the resonance frequency, times $f$. so $f = 1$ matches a classical oscillator. $f < 1$ for "weak" transitions, $f > 1$ rare ($f$ summed over all transitions from a given lower level satisfies the Thomas-Reiche-Kuhn sum rule, $\sum f = N_e$).
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

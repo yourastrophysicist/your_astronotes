@@ -53,7 +53,7 @@ between, the ratio drops smoothly from $\sim 1.5$ to $\sim 0.45$. this is the di
 ## practical issues
 
 - **resolution**: at $R \lesssim 5000$, the doublet is unresolved. need at least $R = 3000$ to separate them at $T_e \sim 10^4$ K thermal Doppler width.
-- **sky lines**: the wavelength range often has sky line residuals; careful sky subtraction needed.
+- **sky lines**: the wavelength range often has sky line residuals. careful sky subtraction needed.
 - **integration**: for spatially resolved studies, the integrated $[SII]$ flux measures $\int n_e n_S\,dV$, weighted by emissivity.
 
 ## comparison with other density diagnostics

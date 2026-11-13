@@ -13,9 +13,9 @@ at the exact dynamical center of the Milky Way, at a distance of $R_0 \approx 8.
 in the direction of the Galactic Center ($l = 0^\circ, b = 0^\circ$), the line of sight traverses the entire dusty plane of the Milky Way. visual extinction reaches:
 $$A_V \approx 30 \text{ magnitudes}$$
 
-optical light is dimmed by a factor of $10^{A_V / 2.5} = 10^{12}$—only **one out of every trillion optical photons** reaches Earth!
+optical light is dimmed by a factor of $10^{A_V / 2.5} = 10^{12}$, only **one out of every trillion optical photons** reaches Earth!
 consequence: the Galactic Center was completely unobservable until the advent of:
-1. **radio astronomy**: first detected by Karl Jansky in 1932; compact non-thermal radio source discovered in 1974 by Balick & Brown and named **Sgr A***.
+1. **radio astronomy**: first detected by Karl Jansky in 1932. compact non-thermal radio source discovered in 1974 by Balick & Brown and named **Sgr A***.
 2. **near-infrared astronomy (NIR, $2.2\,\mu$m K-band)**: interstellar dust extinction drops to $A_K \approx 0.1 A_V \approx 3$ mag (dimming by only a factor of $15$).
 
 ![milkyway-39.png](../../assets/images/milkyway-39.png)
@@ -43,14 +43,14 @@ the star **S2** (a B0V dwarf star) completed a full closed orbit in 2002 and aga
 - **pericenter distance**: $r_p = a(1 - e) \approx 120$ AU $\approx 17$ light-hours (only 4 times the distance of Neptune from the Sun!).
 - **maximum velocity at pericenter**: $v_{\text{max}} \approx 7650$ km/s $\approx 2.55\%$ of the speed of light $c$!
 
-### determining the black hole mass via Kepler's third law:
+### determining the black hole mass via Kepler's third law
 Newton's generalization of Kepler's third law yields:
 $$M_\bullet + M_* = \frac{4\pi^2 a^3}{G P^2}$$
 
 substituting the orbital parameters:
 $$\boxed{\, M_\bullet = (4.15 \pm 0.13) \times 10^6 M_\odot \,}$$
 
-### the conclusive proof of a black hole:
+### the conclusive proof of a black hole
 confining $4.15$ million solar masses within a radius of $r_p \approx 120$ AU yields a minimum central mass density exceeding:
 $$\rho_c > 10^{18} \text{ M}_\odot / \text{pc}^3$$
 any hypothetical cluster of dark astrophysical objects (e.g. neutron stars, white dwarfs, or dark matter particles) at this density would collapse into a black hole in less than a few thousand years. Sgr A* is therefore definitively a **supermassive black hole**.
@@ -64,6 +64,14 @@ for this landmark experimental proof, **Reinhard Genzel and Andrea Ghez were awa
 ![milkyway-41.png](../../assets/images/milkyway-41.png)
 
 ---
+
+## worked example
+
+the star S2 orbits Sgr A* with a period of 16.0 yr and a semi-major axis of $0.125''$. at 8.2 kpc that is $0.125 \times 8200 = 1025$ AU. by Kepler's third law:
+
+$$M = \frac{a^3}{P^2} = \frac{1025^3}{16.0^2} = 4.2 \times 10^6\,M_\odot$$
+
+the pericentre is 120 AU. no cluster of stars that massive can fit into that volume and stay stable.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

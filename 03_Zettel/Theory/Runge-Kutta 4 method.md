@@ -24,7 +24,7 @@ then a weighted average $\tfrac{1}{6}(\mathbf{k}_1 + 2\mathbf{k}_2 + 2\mathbf{k}
 
 ## why $O(h^4)$
 
-the weighted combination of slopes was carefully chosen by Runge and Kutta to match the Taylor expansion of the true solution through fourth order. the coefficients $(1, 2, 2, 1)/6$ are not arbitrary — they are determined by requiring that the local truncation error vanish at $h^2$, $h^3$, and $h^4$. local truncation $O(h^5)$, global $O(h^4)$.
+the weighted combination of slopes was carefully chosen by Runge and Kutta to match the Taylor expansion of the true solution through fourth order. the coefficients $(1, 2, 2, 1)/6$ are not arbitrary. they are determined by requiring that the local truncation error vanish at $h^2$, $h^3$, and $h^4$. local truncation $O(h^5)$, global $O(h^4)$.
 
 ## python implementation
 
@@ -70,7 +70,7 @@ RK4 with a fixed step is easier to write from scratch (and required by some exam
 
 ## limitations of RK4
 
-- **not symplectic**: for Hamiltonian systems, RK4 has a small but non-zero energy drift. for integrations of $\sim 100$ orbital periods this is fine; for $\sim 10^9$ periods (like solar-system N-body), it is fatal. use [[Leapfrog integrator]] or symplectic Hermite instead
+- **not symplectic**: for Hamiltonian systems, RK4 has a small but non-zero energy drift. for integrations of $\sim 100$ orbital periods this is fine. for $\sim 10^9$ periods (like solar-system N-body), it is fatal. use [[Leapfrog integrator]] or symplectic Hermite instead
 - **wasted work for stiff problems**: stability constraint forces small $h$, drowning the high-order accuracy. use implicit methods (BDF, Radau)
 - **fixed cost per step**: an adaptive scheme can use larger $h$ in smooth regions and smaller $h$ near close encounters, getting the same accuracy at lower total cost
 

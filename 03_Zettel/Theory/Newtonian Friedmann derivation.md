@@ -2,7 +2,7 @@
 layout: "default"
 title: "Newtonian Friedmann derivation"
 ---
-a beautifully classical (pre-GR) way to derive the Friedmann equation: just Newtonian gravity applied to a uniform expanding sphere of dust. the GR version (see Friedmann equations with Λ) gives the same answer with relativistic corrections.
+a cleanly classical (pre-GR) way to derive the Friedmann equation: just Newtonian gravity applied to a uniform expanding sphere of dust. the GR version (see Friedmann equations with Λ) gives the same answer with relativistic corrections.
 
 ---
 
@@ -44,9 +44,9 @@ $$\boxed{\,H^2 = \left(\frac{\dot a}{a}\right)^2 = \frac{8\pi G}{3}\rho - \frac{
 ## interpretation
 
 the integration constant $k$ is interpreted as **spatial curvature** in the GR derivation. classically, it is the total mechanical energy of a shell:
-- $k > 0$ ($E < 0$): bound, the universe will recollapse — closed
-- $k = 0$ ($E = 0$): just barely bound — flat, expansion forever, $\rho = \rho_{\rm crit}$
-- $k < 0$ ($E > 0$): unbound, expansion forever — open
+- $k > 0$ ($E < 0$): bound, the universe will recollapse, closed
+- $k = 0$ ($E = 0$): just barely bound, flat, expansion forever, $\rho = \rho_{\rm crit}$
+- $k < 0$ ($E > 0$): unbound, expansion forever, open
 
 the **critical density**
 $$\rho_{\rm crit} = \frac{3 H^2}{8\pi G}$$
@@ -72,11 +72,17 @@ the GR version (see Friedmann equations with Λ) fixes all this and gives the sa
 
 ## why this argument still matters
 
-it shows that the Hubble expansion is a **purely gravitational consequence** of homogeneity. you do not need GR to derive it; you just need uniform density and Newton's $F = -GMm/r^2$. the difference between flat / open / closed is just whether the kinetic energy exceeds the gravitational binding energy. that's it.
+it shows that the Hubble expansion is a **purely gravitational consequence** of homogeneity. you do not need GR to derive it. you just need uniform density and Newton's $F = -GMm/r^2$. the difference between flat / open / closed is just whether the kinetic energy exceeds the gravitational binding energy. that's it.
 
 it also gives the **physical intuition** for why the cosmological constant is so weird: classically, there is no analog. you have to put $\Lambda$ in by hand, as either a modification of the Einstein equations or a perfect fluid with negative pressure. this discomfort is the modern cosmological constant problem.
 
 ---
+
+## where it goes wrong
+
+- the shell argument needs Birkhoff's theorem, which is a result of GR, not of Newton.
+- the Newtonian version cannot explain why pressure adds to gravity.
+- $k$ appears as an energy constant. its meaning as spatial curvature comes only from GR.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -93,7 +99,7 @@ it also gives the **physical intuition** for why the cosmological constant is so
 - [[Friedmann models]]
 - [[Curvature parameter k]]
 - [[Density parameters and flatness]]
-- [[Baumann_reference]] — chapter 1.3 has the GR derivation, contrast with this
+- [[Baumann_reference]] - chapter 1.3 has the GR derivation, contrast with this
 
 
 

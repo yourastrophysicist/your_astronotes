@@ -36,7 +36,7 @@ at high mass:
 
 ## evolution with $z$
 
-remarkably, the SHMR shape is *roughly constant* with redshift: the peak halo mass stays at $\sim 10^{12}\,M_\odot$ from $z = 0$ to $z \sim 4$, with the peak amplitude rising mildly. this is because the feedback physics is local to halos, not cosmic-time-dependent.
+very, the SHMR shape is *roughly constant* with redshift: the peak halo mass stays at $\sim 10^{12}\,M_\odot$ from $z = 0$ to $z \sim 4$, with the peak amplitude rising mildly. this is because the feedback physics is local to halos, not cosmic-time-dependent.
 
 what *does* evolve: the halo mass function shifts to lower masses at high $z$ (fewer halos at $10^{14}$, more at $10^{10}$), so the *galaxy population* you observe at high $z$ is dominated by lower-mass halos.
 
@@ -51,6 +51,10 @@ modern variants relax these (HOD models, conditional luminosity functions, splas
 ## what i remember
 
 every galaxy formation model lives or dies on this plot. you have one curve, one peak, two falloffs, and two distinct feedback channels you have to invoke to explain it. it is the empirical proof that galaxies are *not* a passive product of gravity.
+
+## where it goes wrong
+
+- the ratio peaks near $M_h \approx 10^{12}\,M_\odot$ at a few percent. galaxy formation is inefficient everywhere.
 
 ## connections
 

@@ -11,7 +11,7 @@ the **Hertzsprung-Russell (HR) diagram**, discovered independently by Ejnar Hert
 ## axes and conventions
 
 an HR diagram can be presented in two equivalent representations:
-1. **theoretical plane**: Logarithm of Luminosity $\log(L/L_\odot)$ (or absolute bolometric magnitude $M_{\text{bol}}$) on the vertical axis versus Effective Temperature $T_{\text{eff}}$ on the horizontal axis. **crucial convention**: temperature increases to the **left** (from $3000$ K on the right to $40,000$ K on the left).
+1. **theoretical plane**: Logarithm of Luminosity $\log(L/L_\odot)$ (or absolute bolometric magnitude $M_{\text{bol}}$) on the vertical axis versus Effective Temperature $T_{\text{eff}}$ on the horizontal axis. **convention**: temperature increases to the **left** (from $3000$ K on the right to $40,000$ K on the left).
 2. **observational plane (Color-Magnitude Diagram, CMD)**: Absolute magnitude $M_V$ (or apparent magnitude $V$ in a cluster) on the vertical axis versus Color Index (e.g. $B-V$ or $G_{BP} - G_{RP}$) on the horizontal axis. bluer (hotter) stars lie to the left, redder (cooler) stars to the right.
 
 ![stellar-09.png](../../assets/images/stellar-09.png)
@@ -31,10 +31,10 @@ stars do not populate the HR diagram randomly: over $99\%$ of stars fall into fo
 2. **Red Giants (Giganti Rosse)**:
    - situated in the upper right ($T_{\text{eff}} \sim 3000-5000$ K, $L \sim 10^2 - 10^4 L_\odot$).
    - cool surface temperature but enormous luminosity, requiring enormous radii ($R \sim 10 - 100 R_\odot$).
-   - **physical state**: hydrogen-exhausted core; hydrogen shell burning around an inert, contracting helium core.
+   - **physical state**: hydrogen-exhausted core, hydrogen shell burning around an inert, contracting helium core.
 3. **Supergiants (Supergiganti)**:
    - occupy the very top of the diagram ($L \sim 10^4 - 10^6 L_\odot$, across all spectral types).
-   - colossal radii ($R \sim 100 - 1500 R_\odot$). Betelgeuse, Rigel, Deneb.
+   - huge radii ($R \sim 100 - 1500 R_\odot$). Betelgeuse, Rigel, Deneb.
    - **physical state**: evolved stages of massive stars ($M \gtrsim 8 M_\odot$) undergoing advanced core nuclear burning.
 4. **White Dwarfs (Nane Bianche)**:
    - located in the lower left ($T_{\text{eff}} \sim 8,000 - 30,000$ K, $L \sim 10^{-4} - 10^{-2} L_\odot$).
@@ -86,6 +86,21 @@ $$t_{\text{MS}} \approx 10^{10} \left(\frac{M}{M_\odot}\right) \left(\frac{L}{L_
 ![stellar-19.png](../../assets/images/stellar-19.png)
 
 ---
+
+## worked example
+
+mean densities show how different these objects are:
+
+- the Sun: $1.4$ g/cm$^3$
+- a red giant of $1\,M_\odot$ and $100\,R_\odot$: $1.4 \times 10^{-6}$ g/cm$^3$, a good laboratory vacuum
+- a white dwarf of $0.6\,M_\odot$ and $0.012\,R_\odot$: $\rho = 1.2 \times 10^{30}/2.4 \times 10^{21} = 5 \times 10^8$ kg/m$^3$, half a tonne per cubic centimetre
+
+## where it goes wrong
+
+- a giant is cool and still very luminous, because of its surface area.
+- a more massive white dwarf is smaller, $R \propto M^{-1/3}$.
+- the main sequence is a band, not a line. age, metallicity and unresolved binaries all broaden it.
+- the position of a star on the main sequence is set by its mass, and it barely moves along it during hydrogen burning.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

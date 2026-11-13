@@ -78,9 +78,9 @@ root = newton(f, x0)                       # secant method
 - **Newton diverges**: bracket and bisect a few steps to localize, then re-Newton
 - **Newton hits zero derivative**: switch to bisection
 - **bisection cannot bracket**: scan for sign changes first, possibly with multiple starting brackets
-- **multiple roots in bracket**: bisection finds *some* root, not necessarily the one I want — refine the bracket
-- **flat function**: $\lvert f\rvert$ is small but the actual root is far away; check the residual *and* the change in $x$
-- **noise**: a noisy $f$ can produce spurious sign changes; smooth first or use a wider tolerance
+- **multiple roots in bracket**: bisection finds *some* root, not necessarily the one I want, refine the bracket
+- **flat function**: $\lvert f\rvert$ is small but the actual root is far away. check the residual *and* the change in $x$
+- **noise**: a noisy $f$ can produce spurious sign changes. smooth first or use a wider tolerance
 
 ## the verification step
 

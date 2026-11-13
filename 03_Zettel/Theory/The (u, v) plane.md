@@ -14,7 +14,7 @@ tags: ""
 
 To build a high-resolution image of a source without a giant mirror, we construct the image by adding together its spatial Fourier components (like drawing a complex shape by adding different sine waves). The (u,v) plane is simply the 2D coordinate system for these spatial frequencies.
 
-Every pair of antennas in an interferometer forms a baseline. As seen from the sky, this baseline has a specific projected length and orientation. This projected baseline samples exactly one point in the (u,v) plane—one specific spatial frequency of the source's brightness distribution. Short baselines sit near the center of the (u,v) plane and capture broad, extended structures. Long baselines sit at the edges and capture fine, high-resolution details. The goal of observational interferometry is to paint as much of this (u,v) plane as possible.
+Every pair of antennas in an interferometer forms a baseline. As seen from the sky, this baseline has a specific projected length and orientation. This projected baseline samples exactly one point in the (u,v) plane, one specific spatial frequency of the source's brightness distribution. Short baselines sit near the center of the (u,v) plane and capture broad, extended structures. Long baselines sit at the edges and capture fine, high-resolution details. The goal of observational interferometry is to paint as much of this (u,v) plane as possible.
 
 ---
 

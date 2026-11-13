@@ -12,9 +12,9 @@ $$Z_{\rm crit} \sim 10^{-5} \text{ to } 10^{-4}\,Z_\odot$$
 
 i.e., $[{\rm Fe/H}] \sim -5$ to $-4$ in the most extreme metal-poor end. the exact value depends on:
 
-- whether dust cooling is included (lowers $Z_{\rm crit}$);
-- presence of CNO group enrichment versus other elements;
-- ambient temperature + density of the gas;
+- whether dust cooling is included (lowers $Z_{\rm crit}$).
+- presence of CNO group enrichment versus other elements.
+- ambient temperature + density of the gas.
 - background radiation (Lyman-Werner background suppresses H$_2$).
 
 ## the physical mechanism
@@ -26,12 +26,12 @@ $$t_{\rm cool} < t_{\rm dyn}$$
 if cooling is fast, gas can radiate away its thermal pressure and locally collapse. if cooling is slow, gas remains thermally supported and only globally collapses via gravitational instability into one large clump.
 
 at zero metallicity, cooling channels are limited:
-- H$_2$ rotational + vibrational lines: efficient only above $T \sim 200$ K + below $T \sim 10^4$ K;
-- HD cooling: slightly more efficient at $T < 100$ K;
+- H$_2$ rotational + vibrational lines: efficient only above $T \sim 200$ K + below $T \sim 10^4$ K.
+- HD cooling: slightly more efficient at $T < 100$ K.
 - Lyman-$\alpha$: efficient above $T \sim 10^4$ K.
 
 at $Z \sim 10^{-4}\,Z_\odot$, **C II + O I fine-structure lines** + **dust grain emission** become important. these provide:
-- $\Lambda_{\rm metal} \propto Z$ at moderate $T$;
+- $\Lambda_{\rm metal} \propto Z$ at moderate $T$.
 - continuous cooling at all temperatures relevant for collapse.
 
 once metals dominate the cooling, $t_{\rm cool}$ drops below $t_{\rm dyn}$ at the densities relevant for fragmentation, and the cloud breaks into many low-mass cores.
@@ -61,18 +61,18 @@ the existence of stars with $[{\rm Fe/H}] = -5.4$ (HE 1327-2326, Frebel et al. 2
 
 $Z_{\rm crit}$ controls the **transition between Pop III and Pop II**. it determines:
 
-1. how rapidly cosmic chemical enrichment converts the IMF from top-heavy to Salpeter-like;
-2. when low-mass long-lived stars (which can survive to today) first appear;
-3. the relative numbers of CEMP-no + extremely-iron-poor stars in halo + UFDG samples;
+1. how rapidly cosmic chemical enrichment converts the IMF from top-heavy to Salpeter-like.
+2. when low-mass long-lived stars (which can survive to today) first appear.
+3. the relative numbers of CEMP-no + extremely-iron-poor stars in halo + UFDG samples.
 4. the IMF of the first galaxies.
 
 ## reference papers
 
-- **Bromm & Loeb 2003, Nature 425, 812** — analytic argument for $Z_{\rm crit}$ from fine-structure cooling.
-- **Schneider et al. 2002, ApJ 571, 30 + 2006, MNRAS 369, 1437** — dust contribution to $Z_{\rm crit}$.
-- **Frebel & Bromm 2012, ApJ 759, 115** — observational tests via metal-poor stars.
-- **Bromm & Larson 2004, ARA&A 42, 79** — review.
-- **Frebel et al. 2007** — universal cooling threshold across many low-metallicity stars.
+- **Bromm & Loeb 2003, Nature 425, 812** - analytic argument for $Z_{\rm crit}$ from fine-structure cooling.
+- **Schneider et al. 2002, ApJ 571, 30 + 2006, MNRAS 369, 1437** - dust contribution to $Z_{\rm crit}$.
+- **Frebel & Bromm 2012, ApJ 759, 115** - observational tests via metal-poor stars.
+- **Bromm & Larson 2004, ARA&A 42, 79** - review.
+- **Frebel et al. 2007** - universal cooling threshold across many low-metallicity stars.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -17,10 +17,10 @@ up: [[Observational_Cosmology_MOC]] · [[Astrophysics_of_Galaxies_MOC]]
   - Anglo-Australian Telescope (AAT) 3.9m.
   - $\sim 220{,}000$ galaxy redshifts, early measurement of $\Omega_m \approx 0.3$ and first detection of BAO.
 - **BOSS / eBOSS (Baryon Oscillation Spectroscopic Survey)**:
-  - SDSS-III and SDSS-IV; mapped $> 1.5$ million galaxies and quasars out to $z \sim 2.2$.
+  - SDSS-III and SDSS-IV. Mapped $> 1.5$ million galaxies and quasars out to $z \sim 2.2$.
   - Precision BAO scale measurements anchoring cosmological distances.
 - **DESI (Dark Energy Spectroscopic Instrument)**:
-  - Mayall 4m telescope at Kitt Peak; 5000 robotic focal-plane positioners.
+  - Mayall 4m telescope at Kitt Peak. 5000 robotic focal-plane positioners.
   - Spectroscopic survey of $\sim 40$ million galaxies and quasars over $14{,}000\text{ deg}^2$.
   - 2024 results: highest precision BAO constraints across $z = 0.1 - 4.2$.
 
@@ -33,12 +33,12 @@ up: [[Observational_Cosmology_MOC]] · [[Astrophysics_of_Galaxies_MOC]]
 - **Rubin Observatory LSST (Legacy Survey of Space and Time)**:
   - Simonyi Survey Telescope 8.4m, Cerro Pachón, Chile.
   - 3.2-gigapixel camera imaging $18{,}000\text{ deg}^2$ every 3-4 nights for 10 years.
-  - 20 billion galaxies; probes dark matter, dark energy, and transient astrophysics.
+  - 20 billion galaxies. probes dark matter, dark energy, and transient astrophysics.
 
 ## space cosmological surveys
 
 - **COBE, WMAP, Planck**:
-  - All-sky CMB missions. Planck (2009-2013): ultimate full-sky temperature and polarization power spectra.
+  - All-sky CMB missions. Planck (2009-2013): final full-sky temperature and polarization power spectra.
 - **HST Deep Fields**:
   - HDF (1995), HUDF (2004), CANDELS, Frontier Fields (lensing clusters).
 - **Euclid (ESA)**:

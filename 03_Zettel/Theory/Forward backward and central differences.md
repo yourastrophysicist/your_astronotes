@@ -55,7 +55,7 @@ central beats forward by 3 orders of magnitude in best achievable accuracy. **al
 
 - **at a boundary**: if $x$ is at the edge of the data, only the forward (or backward) neighbor exists
 - **time integration**: when computing $\dot y$ at the current time step from current and past values only (causal)
-- **economy**: forward needs one extra evaluation, central needs two — sometimes the one matters more than the order
+- **economy**: forward needs one extra evaluation, central needs two, sometimes the one matters more than the order
 
 ## python implementation
 
@@ -81,7 +81,7 @@ if I want even more accuracy, use a five-point stencil:
 
 $$f'(x) \approx \frac{-f(x + 2h) + 8f(x + h) - 8f(x - h) + f(x - 2h)}{12 h}$$
 
-$O(h^4)$. but four function evaluations and the optimal $h$ shifts to $\sim \epsilon^{1/5}$. rarely worth it in practice — usually the underlying physics is the bottleneck, not the derivative accuracy.
+$O(h^4)$. but four function evaluations and the optimal $h$ shifts to $\sim \epsilon^{1/5}$. rarely worth it in practice, usually the underlying physics is the bottleneck, not the derivative accuracy.
 
 ## astrophysics applications
 

@@ -11,7 +11,7 @@ cosmic **phase transitions** mark moments when the symmetry of the early univers
 | Planck era ends | $\sim 10^{19}$ GeV | $10^{-43}$ s | quantum gravity gives way to classical spacetime |
 | GUT transition | $\sim 10^{16}$ GeV | $10^{-36}$ s | strong + electroweak forces differentiate |
 | inflation ends | $\sim 10^{16}$ GeV | $10^{-32}$ s | reheating, Hot Big Bang begins |
-| **electroweak transition** | $\sim 100$ GeV | $10^{-11}$ s | EM + weak forces differentiate; Higgs mechanism gives mass |
+| **electroweak transition** | $\sim 100$ GeV | $10^{-11}$ s | EM + weak forces differentiate, Higgs mechanism gives mass |
 | **QCD transition** | $\sim 200$ MeV | $10^{-5}$ s | quarks confine into hadrons |
 | BBN | $\sim 1$ MeV | $\sim 1$ to $20$ min | nuclei form |
 

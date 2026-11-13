@@ -48,7 +48,7 @@ ratios of these distinguish AGN photoionisation from star-formation photoionisat
 
 ## reverberation mapping
 
-a beautiful technique for BLR sizes + SMBH masses:
+a technique for BLR sizes + SMBH masses:
 1. monitor the **continuum** and **broad emission line** light curves over months.
 2. measure the **time delay** $\tau$ between continuum changes and the line response.
 3. light-travel time: $R_{BLR} = c\tau$.
@@ -97,7 +97,7 @@ so AGN are not just targets but **probes** of cosmology.
 - [[Helium energy levels]]
 - [[Forbidden vs permitted vs semiforbidden transitions]]
 - [[Synchrotron continuum]]
-- [[Galactic Center]] — the closest SMBH
+- [[Galactic Center]] - the closest SMBH
 
 ---
 

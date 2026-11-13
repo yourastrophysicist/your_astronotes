@@ -4,7 +4,7 @@ title: "Reverberation mapping"
 ---
 ## Physical Principle
 
-**Reverberation mapping** (Blandford & McKee 1982; Peterson 1993, 2004) measures the physical size of the **Broad-Line Region (BLR)** in Active Galactic Nuclei (AGN) and quasars by measuring the light-travel time delay between variations in the ionizing continuum (from the central accretion disk) and the response of broad emission lines (reprocessed by orbiting gas clouds).
+**Reverberation mapping** (Blandford & McKee 1982, Peterson 1993, 2004) measures the physical size of the **Broad-Line Region (BLR)** in Active Galactic Nuclei (AGN) and quasars by measuring the light-travel time delay between variations in the ionizing continuum (from the central accretion disk) and the response of broad emission lines (reprocessed by orbiting gas clouds).
 
 ---
 
@@ -75,7 +75,7 @@ $$\boxed{M_\bullet = f \frac{c\tau \Delta V^2}{G}}$$
 The dimensionless virial factor $f$ encapsulates the unknown BLR geometry, kinematics, and viewing inclination $i$.
 - For an isotropic random-velocity sphere - $\langle v^2 \rangle = 3 \sigma_{\rm LOS}^2 \implies f_\sigma = 3$.
 - For a planar thin disk inclined at angle $i$ - $v_{\rm LOS} = v_K \sin i \implies f = \frac{1}{\sin^2 i}$.
-- Empirical calibration against the local $M_\bullet - \sigma$ relation for quiescent ellipticals gives $\langle f_\sigma \rangle \approx 4.3 \pm 1.1$ (Onken et al. 2004; Grier et al. 2013).
+- Empirical calibration against the local $M_\bullet - \sigma$ relation for quiescent ellipticals gives $\langle f_\sigma \rangle \approx 4.3 \pm 1.1$ (Onken et al. 2004, Grier et al. 2013).
 
 ---
 
@@ -113,7 +113,7 @@ In the $(v, \tau)$ plane, a Keplerian ring traces an **ellipse** centered at $(v
 
 ## Ionization Stratification - Proof of Virialized Motion
 
-Reverberation campaigns monitoring multiple emission lines in the same AGN (e.g. NGC 5548; Peterson et al. 2002) reveal distinct time lags.
+Reverberation campaigns monitoring multiple emission lines in the same AGN (e.g. NGC 5548, Peterson et al. 2002) reveal distinct time lags.
 $$\tau(\text{He II }\lambda 4686) < \tau(\text{C IV }\lambda 1549) < \tau(\text{H}\beta) < \tau(\text{H}\alpha)$$
 
 Correspondingly, the line widths scale inversely with lag.

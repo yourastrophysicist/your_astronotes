@@ -81,7 +81,7 @@ For standard stellar light profiles (King, Plummer, Sersic), the 3D half-light r
 Substituting $r_{1/2} \approx \frac{4}{3} R_e$ into the Wolf formula gives
 $$M_{1/2} \approx \frac{4 \, \langle \sigma_{\text{LOS}}^2 \rangle \, R_e}{G} \approx 9.3 \times 10^5 M_\odot \left(\frac{\langle \sigma_{\text{LOS}} \rangle}{10 \text{ km s}^{-1}}\right)^2 \left(\frac{R_e}{100 \text{ pc}}\right)$$
 
-This elegant formula allows astronomers to determine the true dynamical mass enclosed within $R_e$ to an accuracy better than $10\%$, completely independent of whether stellar orbits are radial, circular, or isotropic.
+This formula allows astronomers to determine the true dynamical mass enclosed within $R_e$ to an accuracy better than $10\%$, completely independent of whether stellar orbits are radial, circular, or isotropic.
 
 ### Application to Ultra-Faint Dwarfs
 
@@ -177,7 +177,7 @@ Blackboard presentation notes
                                   log10 Radius (kpc)
 ```
 
-Key takeaways for the oral exam
+Key points for the oral exam
 - Cusp slope - $d\ln\rho / d\ln r = -1$ as $r \to 0$ in CDM-only simulations.
 - Core slope - $d\ln\rho / d\ln r = 0$ observed in high-resolution dwarf kinematics.
 - Transition - Baryonic feedback or dark matter self-interactions flatten the cusp below $r_c \sim 0.5 - 1.0 \text{ kpc}$.

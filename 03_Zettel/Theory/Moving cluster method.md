@@ -35,9 +35,17 @@ modern Gaia parallaxes confirm the moving-cluster distance to better than $1\%$,
 - breaks down for distant clusters where proper motions are too small.
 - **internal velocity dispersion** in the cluster broadens the convergent point, limiting precision.
 
-## the modern parallel: parallax-fitting
+## the modern parallel - parallax-fitting
 
 with Gaia, distance to a cluster is now obtained by **inverting parallaxes** of cluster members and averaging (with proper Bayesian treatment of the asymmetry in $1/p$ for noisy $p$). still uses cluster membership criteria from proper motions + radial velocities. effectively the same idea: many stars constraining the same distance jointly beat the single-star precision.
+
+## worked example
+
+for the Hyades, the convergent point is $\theta = 30^\circ$ from a member with $\mu = 0.11''$/yr and $v_r = 39$ km/s. the tangential velocity is $v_t = v_r\tan\theta = 22.5$ km/s, and
+
+$$d = \frac{v_t}{4.74\,\mu} = \frac{22.5}{4.74 \times 0.11} = 43\ \text{pc}$$
+
+Gaia gives 47 pc for the centre.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -14,7 +14,7 @@ $$\phi_{\rm rot}(v) = \frac{2}{\pi v\sin i}\sqrt{1 - (v/v\sin i)^2} \cdot (1 - \
 
 ## why two-horned
 
-at the limbs, the integrated line of sight has a full velocity span; at disk centre, much less. the cross-section through the disk produces a $1/\sqrt{1 - (v/v\sin i)^2}$ density of velocities at $\lvert v\rvert < v\sin i$, with sharp edges at $\pm v\sin i$.
+at the limbs, the integrated line of sight has a full velocity span. at disk centre, much less. the cross-section through the disk produces a $1/\sqrt{1 - (v/v\sin i)^2}$ density of velocities at $\lvert v\rvert < v\sin i$, with sharp edges at $\pm v\sin i$.
 
 with limb darkening, the horns are blunted and the profile looks more bell-like.
 
@@ -22,7 +22,7 @@ with limb darkening, the horns are blunted and the profile looks more bell-like.
 
 at high spectral resolution, the **edges of the rotational profile** are sharp and locate $\pm v\sin i$ directly. methods:
 - **single-line fitting**: fit a rotational profile + macroturbulence to a clean line.
-- **cross-correlation method** (Tonry-Davis): cross-correlate observed spectrum with a template; the width of the CCF gives $v\sin i$.
+- **cross-correlation method** (Tonry-Davis): cross-correlate observed spectrum with a template. the width of the CCF gives $v\sin i$.
 - **Fourier transform method** (Carroll 1933, Gray 2008): the rotational profile has zeros in Fourier space at predictable locations.
 
 typical precision: $\sim 1$ km/s with $R \gtrsim 30\,000$.
@@ -38,7 +38,7 @@ typical precision: $\sim 1$ km/s with $R \gtrsim 30\,000$.
 | K5 V | $\sim 1$ to $5$ km/s |
 | M dwarf | $\sim 1$ to $10$ km/s, slowdown with age |
 
-so massive stars rotate fast (up to break-up); main-sequence cool dwarfs lose angular momentum via magnetic braking and slow down over $\sim$Gyr.
+so massive stars rotate fast (up to break-up). main-sequence cool dwarfs lose angular momentum via magnetic braking and slow down over $\sim$Gyr.
 
 ## the $\sin i$ ambiguity
 

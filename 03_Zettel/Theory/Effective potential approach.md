@@ -35,7 +35,7 @@ three terms:
 - $1$ (rest energy).
 - $-2GM/r$ (Newtonian gravitational attraction).
 - $L^2/r^2$ (centrifugal barrier).
-- $-2GM L^2/r^3$ (the new GR term; attractive, dominant at small $r$).
+- $-2GM L^2/r^3$ (the new GR term, attractive, dominant at small $r$).
 
 extrema (circular orbits) at:
 $$r_\pm = \frac{L^2 \pm \sqrt{L^4 - 12 G^2 M^2 L^2}}{2GM}$$
@@ -43,7 +43,7 @@ $$r_\pm = \frac{L^2 \pm \sqrt{L^4 - 12 G^2 M^2 L^2}}{2GM}$$
 - $r_+$: outer extremum, **stable** circular orbit.
 - $r_-$: inner extremum, **unstable** circular orbit.
 
-merging happens at $L = \sqrt{12}\,GM$, giving the **innermost stable circular orbit (ISCO)** at $r_{\rm ISCO} = 6GM$. inside ISCO, no stable circular orbit exists; particles spiral in.
+merging happens at $L = \sqrt{12}\,GM$, giving the **innermost stable circular orbit (ISCO)** at $r_{\rm ISCO} = 6GM$. inside ISCO, no stable circular orbit exists. particles spiral in.
 
 ## photon sphere
 

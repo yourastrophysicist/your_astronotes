@@ -18,7 +18,7 @@ the MK system extends the OBAFGKM temperature sequence with **luminosity classes
 
 so a full MK type looks like **G2 V** (the Sun), **K0 III** (Arcturus), **B8 Ia** (Rigel), etc.
 
-## physical basis: surface gravity
+## physical basis - surface gravity
 
 at fixed $T_{\rm eff}$, the **size** of the star differs hugely between dwarfs and supergiants. since $\log g = \log(GM/R^2)$:
 - dwarf ($M = M_\odot, R = R_\odot$): $\log g = 4.44$.
@@ -33,7 +33,7 @@ at fixed $T_{\rm eff}$ (i.e. fixed letter class), luminosity-class differences a
 
 ### Balmer line wings (especially in O, B, A stars)
 
-higher gravity = denser atmosphere = stronger Stark broadening of H lines. dwarf B5 V has very wide Balmer wings; supergiant B5 Iab has narrow Balmer cores. the wing width is a **gravity discriminator**.
+higher gravity = denser atmosphere = stronger Stark broadening of H lines. dwarf B5 V has very wide Balmer wings. supergiant B5 Iab has narrow Balmer cores. the wing width is a **gravity discriminator**.
 
 ### resonance line wings (in cool stars)
 

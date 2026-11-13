@@ -2,9 +2,9 @@
 layout: "default"
 title: "K-correction in optical vs sub-mm"
 ---
-the **K-correction** behaves dramatically differently between optical and sub-mm wavelengths. in optical it makes high-$z$ galaxies fainter; in sub-mm it can make them **brighter**, allowing detection at $z > 1$ to $10$ at nearly constant flux. this is what makes sub-mm a unique window onto the high-$z$ universe.
+the **K-correction** behaves dramatically differently between optical and sub-mm wavelengths. in optical it makes high-$z$ galaxies fainter. in sub-mm it can make them **brighter**, allowing detection at $z > 1$ to $10$ at nearly constant flux. this is what makes sub-mm a unique window onto the high-$z$ universe.
 
-## optical K-correction: positive
+## optical K-correction - positive
 
 at optical wavelengths, the typical galaxy SED has a peak around the optical and falls off into the UV. so observing at fixed band $V$ at $z = 1$ samples the rest-frame UV at $\sim 2700$ Å, where the spectrum is **dimmer** than rest-frame V.
 
@@ -12,7 +12,7 @@ $K_V(z) > 0$: the source appears fainter than the inverse-square law alone would
 
 at $z = 5$, observing in V samples rest-frame Ly$\alpha$, even fainter. galaxies become **rapidly invisible** in optical bands at high $z$.
 
-## sub-mm K-correction: negative (in some range)
+## sub-mm K-correction - negative (in some range)
 
 at sub-mm wavelengths ($\sim 850\,\mu$m, like SCUBA or ALMA Band 7), the galaxy SED has its dust-emission peak at $\sim 100\,\mu$m. observing at $850\,\mu$m at $z = 0$ samples the **falling Rayleigh-Jeans tail** of the dust SED.
 
@@ -52,7 +52,7 @@ $$K(z) \approx -7.5\log_{10}(1 + z)$$
 
 at $z = 5$: $K \approx -5.7$ mag. so a sub-mm source at $z = 5$ is **brighter** than the same source at $z = 0$ by $\sim 5.7$ mag, almost exactly cancelling the inverse-square dimming.
 
-## the visual:
+## the visual
 
 ```
        optical: galaxies fade with z
@@ -65,6 +65,11 @@ at $z = 5$: $K \approx -5.7$ mag. so a sub-mm source at $z = 5$ is **brighter** 
        z=0       z=1      z=3      z=5
        const    const    const    fading
 ```
+
+## where it goes wrong
+
+- the negative sub-mm K-correction holds only while the observed wavelength is on the Rayleigh-Jeans side of the dust peak.
+- it depends on the dust temperature, which is not known for most high-$z$ galaxies.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

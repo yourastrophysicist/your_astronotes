@@ -12,7 +12,7 @@ a closed-loop AO system has three components:
 
 1. **wavefront sensor**: measures the residual wavefront error using light from the science target or a guide star
 2. **deformable mirror**: actively reshapes its surface to apply the *opposite* of the measured distortion
-3. **real-time computer**: processes WFS data, computes mirror commands, applies them — all faster than the atmosphere evolves
+3. **real-time computer**: processes WFS data, computes mirror commands, applies them, all faster than the atmosphere evolves
 
 the loop runs at $\sim 1$ kHz. the residual wavefront error after correction is much smaller than the input distortion → much sharper images.
 
@@ -28,9 +28,9 @@ $$S = e^{-\sigma_\phi^2}$$
 (Maréchal approximation). $\sigma_\phi^2$ is the residual phase variance. for $\sigma_\phi = 1$ rad, $S = 0.37$. for $\sigma_\phi = 0.5$ rad, $S = 0.78$.
 
 typical AO performance:
-- visible (V band) AO: $S = 0.05$-$0.15$ — partial correction
+- visible (V band) AO: $S = 0.05$-$0.15$, partial correction
 - H-band AO: $S = 0.2$-$0.5$
-- K-band AO: $S = 0.4$-$0.8$ — near diffraction-limited core
+- K-band AO: $S = 0.4$-$0.8$, near diffraction-limited core
 
 so AO works progressively better at longer wavelengths (because the same physical wavefront error becomes a smaller fraction of $\lambda$).
 
@@ -57,7 +57,7 @@ natural guide stars: limited sky coverage. ~1% of sky has a suitable bright NGS 
 **laser guide stars** (LGS): shine a sodium-line laser ($\lambda = 589$ nm) at the mesospheric sodium layer (~90 km altitude). atoms re-emit, creating an artificial star for the WFS.
 
 LGS extends sky coverage to ~50% but has limitations:
-- doesn't measure tip-tilt (the bulk image motion); a faint NGS still needed for tilt
+- doesn't measure tip-tilt (the bulk image motion). a faint NGS still needed for tilt
 - "cone effect": the laser beam doesn't sample the full atmospheric column above the science target
 
 ## interferometry-specific AO
@@ -71,7 +71,7 @@ with AO at each telescope:
 - baselines beyond $r_0$ become useful
 - the **fringe contrast** is preserved
 
-VLTI's 8m UTs all have NAOS or MACAO adaptive optics. without AO, they would contribute as effective 60-cm telescopes at K-band — a $\sim 200\times$ loss of collecting area.
+VLTI's 8m UTs all have NAOS or MACAO adaptive optics. without AO, they would contribute as effective 60-cm telescopes at K-band, a $\sim 200\times$ loss of collecting area.
 
 ## the AO error budget
 
@@ -93,7 +93,7 @@ instruments: SPHERE/IRDIS (VLT), GPI (Gemini), MagAO-X (Magellan), SCExAO (Subar
 
 ## ground-layer AO
 
-if turbulence is concentrated in the ground layer, multiple guide stars can map the ground-layer wavefront and a ground-conjugated DM can correct it over a wide field of view. **GLAO** instruments (Gemini's GLAO mode, the future Vera Rubin/LSST GLAO proposal) achieve Strehl < 0.5 but over a 1' field — useful for survey work.
+if turbulence is concentrated in the ground layer, multiple guide stars can map the ground-layer wavefront and a ground-conjugated DM can correct it over a wide field of view. **GLAO** instruments (Gemini's GLAO mode, the future Vera Rubin/LSST GLAO proposal) achieve Strehl < 0.5 but over a 1' field, useful for survey work.
 
 ## multi-conjugate AO
 
@@ -101,7 +101,7 @@ multiple guide stars + multiple DMs at different altitudes. each DM corrects its
 
 instruments: Gemini MCAO, ESO's MAD, MAVIS (planned), MORFEO (ELT first-light AO).
 
-## the future: AO with extremely large telescopes
+## the future - AO with extremely large telescopes
 
 ELTs (E-ELT, GMT, TMT) all have AO baked into their first-light instruments. with 30-40m apertures and 6000+ actuator DMs, near-diffraction-limited performance at H-band over arcminute fields. Strehl > 0.5 at K, > 0.3 at H, low at visible.
 

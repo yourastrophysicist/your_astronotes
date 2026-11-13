@@ -4,13 +4,13 @@ title: "Kolmogorov turbulence"
 ---
 # Kolmogorov turbulence
 
-the universal model of turbulent fluid flow in the inertial range. derived by Andrey Kolmogorov in 1941 from a simple dimensional argument about how energy cascades from large to small scales. its key prediction — the **5/3 power law** of the velocity structure function — applies to atmospheric refractive-index fluctuations and underwrites every model of seeing, scintillation, and adaptive optics.
+the universal model of turbulent fluid flow in the inertial range. derived by Andrey Kolmogorov in 1941 from a simple dimensional argument about how energy cascades from large to small scales. its key prediction, the **5/3 power law** of the velocity structure function, applies to atmospheric refractive-index fluctuations and underwrites every model of seeing, scintillation, and adaptive optics.
 
 ## the cascade idea
 
 energy is injected at large scale (the **outer scale** $L_0$, set by the largest eddies in the system, e.g. atmospheric thickness or terrain features, $\sim$ 10-100 m). it cascades to smaller scales without dissipation. at the **inner scale** $\ell_0$ (the **Kolmogorov microscale**, set by molecular viscosity, $\sim$ 1 mm), energy finally dissipates as heat.
 
-between $\ell_0 < r < L_0$ — the **inertial range** — the only relevant parameters are
+between $\ell_0 < r < L_0$, the **inertial range**, the only relevant parameters are
 - $\epsilon$ (rate of energy dissipation per unit mass)
 - $r$ (the spatial scale)
 
@@ -35,7 +35,7 @@ with $C_v^2 \sim \epsilon^{2/3}$ a constant of proportionality.
 the Wiener-Khinchin theorem relates structure function to power spectrum. for the Kolmogorov spectrum, in 3D:
 $$\Phi_v(\kappa) \propto \kappa^{-11/3}$$
 
-(the famous **5/3 + 2 = 11/3** that comes from dimensional integration). this is the velocity power spectrum *per unit volume of wavenumber space*; integrated over a single direction it gives the more familiar 1D spectrum.
+(the famous **5/3 + 2 = 11/3** that comes from dimensional integration). this is the velocity power spectrum *per unit volume of wavenumber space*. integrated over a single direction it gives the more familiar 1D spectrum.
 
 in 2D (e.g. integrated along the line of sight, projected onto a 2D wavefront):
 $$\Phi(\kappa) \propto \kappa^{-8/3}$$
@@ -86,9 +86,9 @@ in astronomy, "Kolmogorov" is often shorthand for "5/3 power-law density/phase f
 ## measuring $C_n^2$
 
 several methods:
-- **DIMM** (differential image motion monitor): measures the differential tilt between two sub-apertures; gives integrated $C_n^2$
-- **MASS** (multi-aperture scintillation sensor): scintillation in different annuli; gives $C_n^2(h)$ profile
-- **SLODAR**: shadow-pattern of two stars; turbulence at altitudes
+- **DIMM** (differential image motion monitor): measures the differential tilt between two sub-apertures. Gives integrated $C_n^2$
+- **MASS** (multi-aperture scintillation sensor): scintillation in different annuli. Gives $C_n^2(h)$ profile
+- **SLODAR**: shadow-pattern of two stars. Turbulence at altitudes
 - **balloons / drones**: in situ thermal probes, give the highest-resolution profile
 
 modern observatories run all of these, monitoring the "turbulence weather" in real time.

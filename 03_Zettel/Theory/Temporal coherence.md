@@ -14,7 +14,7 @@ tags: ""
 
 No real light source emits a perfectly pure, single-frequency sine wave. Real light has a spread of frequencies (a bandwidth). Because different frequencies oscillate at slightly different rates, a wave only remains perfectly in step (coherent) with a delayed copy of itself for a short duration. 
 
-If you take a light beam, split it, delay one half, and recombine them, they will only form an interference pattern if the delay is smaller than the wave's "memory" of its own phase. A very narrow bandwidth (like a laser) means the wave looks like a perfect sine wave for a long time—high temporal coherence. A broad bandwidth (like white light) means the wave packet is very short, and you must perfectly equalize the travel times to see any interference fringes at all.
+If you take a light beam, split it, delay one half, and recombine them, they will only form an interference pattern if the delay is smaller than the wave's "memory" of its own phase. A very narrow bandwidth (like a laser) means the wave looks like a perfect sine wave for a long time, high temporal coherence. A broad bandwidth (like white light) means the wave packet is very short, and you must perfectly equalize the travel times to see any interference fringes at all.
 
 ---
 
@@ -36,7 +36,7 @@ $$ l_c \approx \frac{\lambda^2}{\Delta\lambda} $$
 
 ## astrophysical context
 
-Temporal coherence drives major engineering decisions in interferometry. In optical interferometry (like the VLTI), the coherence length is incredibly short (often microns). Therefore, massive motorized delay lines must actively compensate for the Earth's rotation to keep the optical path difference (OPD) matched to within a fraction of a wavelength in real-time, otherwise the fringes completely wash out. In radio interferometry, the bandwidth of the individual frequency channels determines the coherence time, which in turn sets the maximum usable field of view (bandwidth smearing) for the synthesized image.
+Temporal coherence drives major engineering decisions in interferometry. In optical interferometry (like the VLTI), the coherence length is very short (often microns). Therefore, massive motorized delay lines must actively compensate for the Earth's rotation to keep the optical path difference (OPD) matched to within a fraction of a wavelength in real-time, otherwise the fringes completely wash out. In radio interferometry, the bandwidth of the individual frequency channels determines the coherence time, which in turn sets the maximum usable field of view (bandwidth smearing) for the synthesized image.
 
 ---
 

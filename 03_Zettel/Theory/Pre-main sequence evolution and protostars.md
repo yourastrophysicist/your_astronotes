@@ -2,7 +2,6 @@
 layout: "default"
 title: "Pre-main sequence evolution and protostars"
 ---
-{% raw %}
 after a dense protostellar core fragments out of a molecular cloud, it undergoes pre-main sequence (PMS) contraction until central temperatures and pressures reach conditions sufficient for stable hydrogen fusion.
 
 ![stellar-64.png](../../assets/images/stellar-64.png)
@@ -11,10 +10,10 @@ after a dense protostellar core fragments out of a molecular cloud, it undergoes
 
 ## the phases of pre-main sequence evolution
 
-### 1. isothermal free-fall collapse:
+### 1. isothermal free-fall collapse
 the core collapses rapidly on the dynamical timescale $t_{\text{ff}} \approx 10^5$ yr. dust efficiently radiates away compressional heat in the far-infrared ($T \approx 10-20$ K).
 
-### 2. hydrostatic protostar and the Hayashi track:
+### 2. hydrostatic protostar and the Hayashi track
 once the core becomes optically thick, trapped radiation heats the gas, establishing hydrostatic equilibrium. the object is now a **protostar**, embedded in an infalling circumstellar envelope and rotating accretion disk (observed in sub-mm by ALMA).
 
 Chushiro Hayashi (1961) showed that a fully convective star has a nearly constant effective temperature:
@@ -27,7 +26,7 @@ the protostar contracts along a nearly vertical path downward in the HR diagram 
 
 ![stellar-65.png](../../assets/images/stellar-65.png)
 
-### 3. the Henyey track:
+### 3. the Henyey track
 for stars with $M \gtrsim 0.5 M_\odot$, central temperature eventually rises sufficiently that core opacity drops (Kramer's opacity $\kappa \propto \rho T^{-7/2}$). convection ceases in the interior, and a **radiative core** develops.
 
 the star turns horizontally to the left on the HR diagram along the **Henyey track**:
@@ -39,7 +38,7 @@ the star turns horizontally to the left on the HR diagram along the **Henyey tra
 
 ![stellar-66.png](../../assets/images/stellar-66.png)
 
-### 4. arrival at the Zero-Age Main Sequence (ZAMS):
+### 4. arrival at the Zero-Age Main Sequence (ZAMS)
 when the central core reaches $T_c \approx 10^7$ K and $\rho_c \sim 100$ g/cm$^3$, thermonuclear fusion of hydrogen via the pp-chain (or CNO cycle) ignites. nuclear energy generation perfectly matches the surface luminosity loss ($L_{\text{nuc}} = L$). 
 
 gravitational contraction ceases, the star achieves complete thermal and hydrostatic equilibrium, and settles onto the **Zero-Age Main Sequence (ZAMS)**.
@@ -47,6 +46,23 @@ gravitational contraction ceases, the star achieves complete thermal and hydrost
 ![stellar-67.png](../../assets/images/stellar-67.png)
 
 ---
+
+## worked example
+
+the time to reach the main sequence is the Kelvin-Helmholtz time, and it depends strongly on mass:
+
+- $15\,M_\odot$: about $10^5$ yr
+- $1\,M_\odot$: about 30 to 50 Myr
+- $0.1\,M_\odot$: several hundred Myr
+
+other numbers: deuterium burns at $10^6$ K, hydrogen needs $M > 0.075\,M_\odot$, and deuterium needs $M > 13$ Jupiter masses.
+
+## where it goes wrong
+
+- a pre-main-sequence star shines by contraction, not by fusion.
+- a T Tauri star sits above the main sequence because it is larger, not because it is hotter.
+- on the Hayashi track the star is fully convective and its temperature stays near 4000 K while the luminosity falls.
+- massive stars are still accreting when they reach the main sequence, so they have no visible pre-main-sequence phase.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -66,13 +82,13 @@ gravitational contraction ceases, the star achieves complete thermal and hydrost
 - [[HR diagram]]
 - [[Stellar scaling relations]]
 - [[Stellar evolution timescales]]
-{% endraw %}
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (3)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Jeans%20theory%20and%20protostellar%20formation.html" class="backlink-item">Jeans theory and protostellar formation</a></li>
-    <li class="backlink-item-wrap"><a href="./Stellar%20evolution%20timescales.html" class="backlink-item">Stellar evolution timescales</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Jeans theory and protostellar formation]]
+- [[Stellar evolution timescales]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+
+

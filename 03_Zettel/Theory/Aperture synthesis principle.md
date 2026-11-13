@@ -35,7 +35,7 @@ if I imagine projecting all the baselines and their rotation arcs onto a 2D pupi
 
 key features:
 - **diameter**: $\sim 2 B_{\max}$ (the longest baseline appears at $\pm$ orientations as the source moves)
-- **shape**: depends on declination — a source at the celestial equator gives elliptical (u, v) tracks; a source at the pole gives circular ones
+- **shape**: depends on declination, a source at the celestial equator gives elliptical (u, v) tracks. a source at the pole gives circular ones
 - **density**: depends on array geometry and integration time
 
 ## what aperture synthesis lets us do
@@ -44,7 +44,7 @@ three things a single aperture cannot:
 
 ### 1. resolution beyond a single dish
 
-$\theta = \lambda/B_{\max}$ where $B_{\max}$ can be vastly larger than any feasible single dish. VLA: 36 km baselines vs 25m dishes — 1500× resolution boost.
+$\theta = \lambda/B_{\max}$ where $B_{\max}$ can be vastly larger than any feasible single dish. VLA: 36 km baselines vs 25m dishes, 1500× resolution boost.
 
 ### 2. high-fidelity imaging
 
@@ -61,7 +61,7 @@ if the source spectrum is known/parameterizable, observations at *different wave
 $\text{sensitivity} \propto N \times A_{\rm dish}$
 $\text{resolution} \propto B_{\max}$
 
-VLA's collecting area is $27 \times \pi \times 12.5^2 \approx 13000$ m². a single dish of the same area would have diameter 130 m — and would be much more sensitive than VLA on extended emission. but VLA's *resolution* is set by 36 km baselines, not 130m diameter.
+VLA's collecting area is $27 \times \pi \times 12.5^2 \approx 13000$ m². a single dish of the same area would have diameter 130 m, and would be much more sensitive than VLA on extended emission. but VLA's *resolution* is set by 36 km baselines, not 130m diameter.
 
 so the choice between single-dish and interferometer is a tradeoff between sensitivity (favor single dish) and resolution (favor interferometer).
 
@@ -74,7 +74,7 @@ so the choice between single-dish and interferometer is a tradeoff between sensi
 5. **restore** with a clean beam (Gaussian fit to the dirty beam's central lobe)
 6. **report** the cleaned image plus any residuals
 
-each step has its own tradeoffs and pitfalls — see [[CLEAN algorithm]], [[Calibration overview]], etc.
+each step has its own tradeoffs and pitfalls, see [[CLEAN algorithm]], [[Calibration overview]], etc.
 
 ## why optical interferometry is harder
 
@@ -92,7 +92,7 @@ so historically, radio aperture synthesis is a mature technique (since 1960s). o
 
 ![07_Images/Interferometry/uv_coverage_dirty_beam_demo.png](../../assets/images/uv_coverage_dirty_beam_demo.png)
 
-reading cue: aperture synthesis is the act of collecting many Fourier samples. the image quality is not only about the longest baseline; it is about how well the sampled $(u,v)$ plane constrains the Fourier transform.
+reading cue: aperture synthesis is the act of collecting many Fourier samples. the image quality is not only about the longest baseline. it is about how well the sampled $(u,v)$ plane constrains the Fourier transform.
 
 source: local synthetic demo generated from a rotating Y-like array model.
 

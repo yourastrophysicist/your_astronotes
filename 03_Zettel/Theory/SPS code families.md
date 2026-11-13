@@ -11,7 +11,7 @@ modern **stellar population synthesis (SPS) code families** translate theoretica
 #### 1. Bruzual & Charlot (BC03 / BC07)
 - **architecture**: built on **Padova 1994** stellar evolutionary tracks, combined with empirical stellar libraries (**STELIB** at $R \approx 2000$, and later **MILES** at $R \approx 2000$) supplemented by the theoretical **BaSeL 3.1** library for hot stars and non-solar abundances.
 - **evolutionary features**: treats the TP-AGB phase using canonical synthetic stellar evolution tracks.
-- **role in astrophysics**: the community "gold standard" workhorse for over two decades; embedded inside classical SED-fitting tools including **FAST**, **MAGPHYS**, **HYPERZ**, and early versions of **CIGALE**.
+- **role in astrophysics**: the community "standard" workhorse for over two decades. embedded inside classical SED-fitting tools including **FAST**, **MAGPHYS**, **HYPERZ**, and early versions of **CIGALE**.
 - **limitations**: Padova isochrones underestimate the NIR luminosity contribution of carbon-rich TP-AGB stars at intermediate ages ($\tau \sim 0.5\text{--}1.5$ Gyr).
 
 #### 2. Maraston (M05 / M11)
@@ -19,7 +19,7 @@ modern **stellar population synthesis (SPS) code families** translate theoretica
 - **TP-AGB treatment**: heavily calibrates the TP-AGB phase against resolved globular and open star clusters in the Magellanic Clouds. Predicts up to $80\%$ of the bolometric NIR flux ($J, H, K$) is emitted by TP-AGB stars between $\tau \approx 0.2$ and $2$ Gyr.
 - **impact**: in the late 2000s, fitting high-redshift ($z \sim 1.5\text{--}3$) galaxies with M05 yielded stellar masses up to a factor of $\sim 2$ lower than BC03, igniting the "TP-AGB controversy." Subsequent Spitzer/Herschel NIR and mid-IR rest-frame measurements showed the true TP-AGB impact lies midway between BC03 and M05.
 
-#### 3. FSPS (Flexible Stellar Population Synthesis; Conroy et al. 2009, 2010)
+#### 3. FSPS (Flexible Stellar Population Synthesis, Conroy et al. 2009, 2010)
 - **architecture**: a fully modular, highly parameterized Fortran/C library wrapped in Python (`python-fsps`).
 - **modularity**: enables the user to independently select:
   - isochrone grids: **MIST** (MESA isochrones, default), **Padova / PARSEC**, or **BaSTI**.
@@ -38,7 +38,7 @@ modern **stellar population synthesis (SPS) code families** translate theoretica
   - predicts mechanical energy and momentum injection rates ($dE_{\rm mech}/dt$, $dP/dt$) from stellar winds and core-collapse supernovae.
 - **role in astrophysics**: the benchmark for calibrating nebular emission lines ($\mathrm{H}\alpha$, $[\mathrm{O\,III}]$), mechanical feedback into the ISM, and UV-based star formation rate tracers.
 
-#### 5. BPASS (Binary Population and Spectral Synthesis; Eldridge & Stanway 2017)
+#### 5. BPASS (Binary Population and Spectral Synthesis, Eldridge & Stanway 2017)
 - **architecture**: explicitly incorporates **interacting binary stellar evolution** across a dense grid of initial primary masses, secondary masses, and orbital separations.
 - **physical mechanisms**: Roche lobe overflow, mass transfer, common envelope ejection, quasi-homogeneous evolution, and binary mergers.
 - **observational impact**:
@@ -73,6 +73,23 @@ when identical photometric catalogs are fit with different SPS codes:
    - empirical libraries (MILES) restrict fits to Milky Way solar-scaled $[\alpha/\mathrm{Fe}]$ ratios, artificially skewing metallicity and age fits in massive ellipticals.
 
 ---
+
+## worked example
+
+what each family is known for:
+
+- **BC03** (Bruzual and Charlot): isochrone synthesis, the common reference.
+- **M05** (Maraston): fuel consumption theorem, with a strong thermally pulsing AGB phase.
+- **FSPS** (Conroy): flexible choice of isochrones and libraries.
+- **Starburst99**: young populations and massive stars.
+- **BPASS**: includes binary evolution.
+
+for populations of 0.5 to 2 Gyr, M05 gives more near-infrared light than BC03, and the stellar masses come out lower by about 0.15 to 0.2 dex.
+
+## where it goes wrong
+
+- comparing masses from two papers without checking the code and the mass function. the offsets are as large as the effects being discussed.
+- the families differ most in the infrared and at intermediate ages, where the late phases dominate.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

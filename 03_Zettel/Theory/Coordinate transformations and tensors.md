@@ -15,7 +15,7 @@ $$V'^\mu = \frac{\partial x'^\mu}{\partial x^\nu}\,V^\nu$$
 a **covector** (one-form, lower index) $\omega_\mu$ transforms as:
 $$\omega'_\mu = \frac{\partial x^\nu}{\partial x'^\mu}\,\omega_\nu$$
 
-note the **inverse** Jacobian for covectors. it's not a typo; it's why upper and lower indices are different.
+note the **inverse** Jacobian for covectors. it's not a typo. it's why upper and lower indices are different.
 
 ## tensors of higher rank
 

@@ -23,9 +23,9 @@ photons with $b > b_{\rm crit}$: scatter (deflected, escape).
 photons with $b < b_{\rm crit}$: captured (fall into BH).
 photons with $b = b_{\rm crit}$: asymptote to the photon sphere, orbiting indefinitely.
 
-## the physical content: BH shadow
+## the physical content - BH shadow
 
-a distant observer looking at a BH against a bright background sees a **dark shadow** of angular size $\sim 5\sqrt{3}\,GM/d$. photons inside $b_{\rm crit}$ fell in; photons outside scattered (sometimes after orbiting). the shadow boundary corresponds to photon-sphere orbits.
+a distant observer looking at a BH against a bright background sees a **dark shadow** of angular size $\sim 5\sqrt{3}\,GM/d$. photons inside $b_{\rm crit}$ fell in. photons outside scattered (sometimes after orbiting). the shadow boundary corresponds to photon-sphere orbits.
 
 EHT 2019 image of M87$^\star$: the shadow is $\sim 42$ μas, consistent with the prediction $5\sqrt{3}\,GM/d$ for $M = 6.5 \times 10^9\,M_\odot$ and $d = 16.8$ Mpc.
 
@@ -44,7 +44,7 @@ for typical BHs:
 
 ## stability
 
-the photon sphere is **unstable**. small perturbations either send the photon to infinity (outward) or into the BH (inward). exponentially growing in time. so no photon can permanently orbit the photon sphere; arbitrarily small fluctuations decide its fate.
+the photon sphere is **unstable**. small perturbations either send the photon to infinity (outward) or into the BH (inward). exponentially growing in time. so no photon can permanently orbit the photon sphere. arbitrarily small fluctuations decide its fate.
 
 ## the rotation case
 

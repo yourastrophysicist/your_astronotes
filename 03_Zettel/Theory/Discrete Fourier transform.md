@@ -14,7 +14,7 @@ $$X_k = \sum_{n=0}^{N-1} x_n \, e^{-2\pi i k n / N}, \qquad k = 0, 1, \ldots, N-
 inverse DFT:
 $$x_n = \frac{1}{N} \sum_{k=0}^{N-1} X_k \, e^{+2\pi i k n / N}$$
 
-(the placement of the $1/N$ varies by convention; numpy puts it on the inverse, matching this formula).
+(the placement of the $1/N$ varies by convention, numpy puts it on the inverse, matching this formula).
 
 the DFT is a linear map $\mathbb{C}^N \to \mathbb{C}^N$, equivalent to multiplication by an $N \times N$ matrix $W_{kn} = e^{-2\pi i k n / N}$ (the **DFT matrix**, an orthogonal matrix up to a factor $\sqrt{N}$).
 
@@ -31,11 +31,11 @@ where $T = N\Delta t$ is the total duration of the signal. so:
 - $X_{N/2}$ = amplitude of the **Nyquist frequency** $f_{\rm Nyq} = 1/(2\Delta t)$, the highest representable frequency
 - $X_{N/2+1}, \ldots, X_{N-1}$ = "negative" frequencies, the conjugates of $X_{N-1}, \ldots, X_{N/2+1}$
 
-frequencies above Nyquist *cannot be represented* — they alias down into the visible band. this is the **aliasing** problem.
+frequencies above Nyquist *cannot be represented*. they alias down into the visible band. this is the **aliasing** problem.
 
 ## complexity
 
-direct evaluation of the formula: $O(N^2)$ — each of $N$ outputs is a sum of $N$ terms. for $N = 10^6$ that is $10^{12}$ operations, hours.
+direct evaluation of the formula: $O(N^2)$, each of $N$ outputs is a sum of $N$ terms. for $N = 10^6$ that is $10^{12}$ operations, hours.
 
 the **Fast Fourier Transform (FFT)** computes the same thing in $O(N \log N)$. for $N = 10^6$: $\sim 2 \times 10^7$ operations, milliseconds. the FFT is what made signal processing practical. see [[Fast Fourier transform algorithm]]
 

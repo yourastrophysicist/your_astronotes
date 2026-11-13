@@ -2,7 +2,7 @@
 layout: "default"
 title: "Observational_Astrophysics_MOC"
 ---
-# Observational Astrophysics — Map of Content
+# Observational Astrophysics - Map of Content
 
 A.Y. 2025/2026, first semester at the University of Padova. Complete lecture material from `C:\Users\snupido\Documents\1_PROJECTS\1st_Semester\OBSERVATIONAL ASTROPHYSICS` (Decks 1.1 through 7, 542 lecture slides extracted to `07_Images/Observational_Astrophysics/`), plus the definitive oral exam answer drafts `obs1.pdf` through `obs7.pdf`.
 
@@ -10,156 +10,157 @@ This course is the **observational pipeline**, end to end. Unlike [[Fundamentals
 
 > *Given a real telescope, on a real night, with a real detector behind the atmosphere, how do I turn raw photons into physical quantities with rigorous error bars?*
 
-The foundational methodological thread:
+The methodological thread:
 $$\text{coordinates} \to \text{atmosphere} \to \text{photons in filter} \to \text{counts on CCD} \to \text{magnitude with errors} \to \text{distance} \to \text{intrinsic properties of stars / populations}$$
 
 ---
 
 ## Reference texts
 
-- **Karttunen, Oja, Poutanen, Donner**, *Fundamental Astronomy* — spherical astronomy backbone and stellar populations.
-- **Howell**, *Handbook of CCD Astronomy* (Cambridge) — the definitive guide for CCD physics, SNR derivation, and photometric calibration.
-- **Lena, Lebrun, Mignard, Pelat**, *Observational Astrophysics* (Springer) — atmospheric optics, seeing, extinction, and telescope design.
-- **Bradt**, *Astronomy Methods* — clean derivations of photometric systems and the distance scale.
-- **Conroy**, *Stellar Population Synthesis* (Annual Review 2013) — the modern standard for SPS modeling, isochrone libraries, and IMF.
-- **Bruzual & Charlot (2003)**, **Maraston (2005)**, **Conroy (FSPS)** — foundational papers for population synthesis codes.
-- **Madau & Dickinson (2014)** — cosmic star formation history and galaxy SED evolution.
+- **Karttunen, Oja, Poutanen, Donner**, *Fundamental Astronomy* - spherical astronomy backbone and stellar populations.
+- **Howell**, *Handbook of CCD Astronomy* (Cambridge) - the definitive guide for CCD physics, SNR derivation, and photometric calibration.
+- **Lena, Lebrun, Mignard, Pelat**, *Observational Astrophysics* (Springer) - atmospheric optics, seeing, extinction, and telescope design.
+- **Bradt**, *Astronomy Methods* - clean derivations of photometric systems and the distance scale.
+- **Conroy**, *Stellar Population Synthesis* (Annual Review 2013) - the modern standard for SPS modeling, isochrone libraries, and IMF.
+- **Bruzual & Charlot (2003)**, **Maraston (2005)**, **Conroy (FSPS)** - papers for population synthesis codes.
+- **Madau & Dickinson (2014)** - cosmic star formation history and galaxy SED evolution.
 
 ---
 
-## Block 0 — Course Frame
+## Block 0 - Course Frame
 
-- [[Obs_astro_course_intro]] — what this course is, the observational pipeline from photons to populations, connection to Fundamentals and Galaxies.
+- [[Obs_astro_course_intro]] - what this course is, the observational pipeline from photons to populations, connection to Fundamentals and Galaxies.
 
 ---
 
-## Block 1 — Spherical Astronomy and Practical Pointing
+## Block 1 - Spherical Astronomy and Practical Pointing
 
 Before opening the shutter: coordinate systems, transformations, and time standards. (Slides `obs_sph1-01..59` and `obs_sph2-01..33`).
 
-- [[Celestial sphere and great circles]] — celestial sphere as directional space, spherical excess $E = A+B+C-180^\circ$, area $A = E R^2$ (`obs_sph1-01..04`, `11..12`).
-- [[Spherical trigonometry]] — law of cosines, law of sines, coordinate rotation by angle $\chi$ (`obs_sph1-05..10`).
-- [[Earth coordinates]] — latitude $\phi$, longitude $\lambda$, parallels, meridians, terrestrial distance formula (`obs_sph1-13..16`).
-- [[Equatorial system]] — celestial equator, vernal equinox $\gamma$, right ascension $\alpha$, declination $\delta$, hour angle $h$, Local Sidereal Time $\Theta = h + \alpha$ (`obs_sph1-17..28`).
-- [[Horizontal alt-azimuth system]] — zenith, nadir, vertical circles, azimuth $A$, altitude $a$, zenith distance $z = 90^\circ - a$ (`obs_sph1-29..32`).
-- [[Culmination and rise-set]] — upper transit altitude $a = 90^\circ - \lvert\phi - \delta\rvert$, circumpolar condition $\delta > 90^\circ - \phi$, rise/set hour angle $\cos h_{\rm rs} = -\tan\delta\tan\phi$ (`obs_sph1-33..40`).
-- [[Alt-azimuth ↔ equatorial transformations]] — navigational spherical triangle, $\cos z = \sin\phi\sin\delta + \cos\phi\cos\delta\cos h$, parallactic angle $q$, field rotation (`obs_sph1-41..48`).
-- [[Sidereal vs solar time]] — sidereal day ($23^{\rm h}56^{\rm m}04^{\rm s}$) vs solar day ($24^{\rm h}$), Equation of Time, LST observing planning (`obs_sph1-49..59`).
-- [[Time keeping in astronomy]] — UT, UT1, TAI, UTC, leap seconds, TT, TDB, Julian Date (JD), MJD, Heliocentric and Barycentric Julian Dates (HJD, BJD) (`obs_sph2-01..16`).
-- [[Precession nutation aberration parallax]] — general precession ($50.3''/\text{yr}$), nutation ($9''$, 18.6 yr cycle), annual aberration constant ($\kappa = 20.4955''$), stellar parallax (`obs_sph2-17..20`, `25..28`).
-- [[Ecliptic system]] — ecliptic latitude $\beta$, longitude $\lambda$, obliquity $\epsilon \approx 23.44^\circ$, transformation matrix (`obs_sph2-21..22`).
-- [[Galactic coordinate system]] — Galactic latitude $b$, longitude $l$, IAU 1958 standard North Galactic Pole and Galactic Center at Sgr A* (`obs_sph2-23..24`).
-- [[Annual stellar parallax]] — trigonometric baseline 1 AU, definition of parsec, Gaia micro-arcsecond astrometry (`obs_sph2-25..28`).
-- [[Atmospheric dispersion]] — wavelength-dependent refractive index $n(\lambda)$, point source elongation, Atmospheric Dispersion Correctors (`obs_sph2-29..30`).
-- [[Atmospheric refraction]] — Snell's law in plane-parallel atmosphere, $R \approx 60''\tan z$ (`obs_sph2-31`).
-- [[Proper motion and stellar kinematics]] — proper motion $\mu$, tangential velocity $v_t = 4.74 \mu d$, Doppler radial velocity $v_r$, total space velocity $v$ (`obs_sph2-32..33`).
+- [[Celestial sphere and great circles]] - celestial sphere as directional space, spherical excess $E = A+B+C-180^\circ$, area $A = E R^2$ (`obs_sph1-01..04`, `11..12`).
+- [[Spherical trigonometry]] - law of cosines, law of sines, coordinate rotation by angle $\chi$ (`obs_sph1-05..10`).
+- [[Earth coordinates]] - latitude $\phi$, longitude $\lambda$, parallels, meridians, terrestrial distance formula (`obs_sph1-13..16`).
+- [[Equatorial system]] - celestial equator, vernal equinox $\gamma$, right ascension $\alpha$, declination $\delta$, hour angle $h$, Local Sidereal Time $\Theta = h + \alpha$ (`obs_sph1-17..28`).
+- [[Horizontal alt-azimuth system]] - zenith, nadir, vertical circles, azimuth $A$, altitude $a$, zenith distance $z = 90^\circ - a$ (`obs_sph1-29..32`).
+- [[Culmination and rise-set]] - upper transit altitude $a = 90^\circ - \lvert\phi - \delta\rvert$, circumpolar condition $\delta > 90^\circ - \phi$, rise/set hour angle $\cos h_{\rm rs} = -\tan\delta\tan\phi$ (`obs_sph1-33..40`).
+- [[Alt-azimuth ↔ equatorial transformations]] - navigational spherical triangle, $\cos z = \sin\phi\sin\delta + \cos\phi\cos\delta\cos h$, parallactic angle $q$, field rotation (`obs_sph1-41..48`).
+- [[Sidereal vs solar time]] - sidereal day ($23^{\rm h}56^{\rm m}04^{\rm s}$) vs solar day ($24^{\rm h}$), Equation of Time, LST observing planning (`obs_sph1-49..59`).
+- [[Time keeping in astronomy]] - UT, UT1, TAI, UTC, leap seconds, TT, TDB, Julian Date (JD), MJD, Heliocentric and Barycentric Julian Dates (HJD, BJD) (`obs_sph2-01..16`).
+- [[Precession nutation aberration parallax]] - general precession ($50.3''/\text{yr}$), nutation ($9''$, 18.6 yr cycle), annual aberration constant ($\kappa = 20.4955''$), stellar parallax (`obs_sph2-17..20`, `25..28`).
+- [[Aberration of light]] - classical and relativistic derivation, constant of aberration $\kappa = v/c = 20.5''$, annual ellipse, comparison with parallax, Bradley 1728.
+- [[Ecliptic system]] - ecliptic latitude $\beta$, longitude $\lambda$, obliquity $\epsilon \approx 23.44^\circ$, transformation matrix (`obs_sph2-21..22`).
+- [[Galactic coordinate system]] - Galactic latitude $b$, longitude $l$, IAU 1958 standard North Galactic Pole and Galactic Center at Sgr A* (`obs_sph2-23..24`).
+- [[Annual stellar parallax]] - trigonometric baseline 1 AU, definition of parsec, Gaia micro-arcsecond astrometry (`obs_sph2-25..28`).
+- [[Atmospheric dispersion]] - wavelength-dependent refractive index $n(\lambda)$, point source elongation, Atmospheric Dispersion Correctors (`obs_sph2-29..30`).
+- [[Atmospheric refraction]] - Snell's law in plane-parallel atmosphere, $R \approx 60''\tan z$ (`obs_sph2-31`).
+- [[Proper motion and stellar kinematics]] - proper motion $\mu$, tangential velocity $v_t = 4.74 \mu d$, Doppler radial velocity $v_r$, total space velocity $v$ (`obs_sph2-32..33`).
 
 ---
 
-## Block 2 — Earth's Atmosphere as an Optical Element
+## Block 2 - Earth's Atmosphere as an Optical Element
 
 The 100 km of perturbed gas: absorption, extinction, scintillation, and seeing. (Slides `obs_atm-01..55`).
 
-- [[Earth atmosphere for observations]] — master overview of atmospheric optics, scale height $H \approx 8$ km, thermal IR emission, site selection (Paranal, Mauna Kea, Asiago) (`obs_atm-01..10`, `45..48`).
-- [[Atmospheric layers]] — troposphere, stratosphere (ozone absorption), mesosphere, thermosphere, temperature inversions (`obs_atm-11..12`).
-- [[Atmospheric transparency windows]] — optical (3000 Å to 1 $\mu$m), NIR ($J, H, K$), mid-IR ($L, M, N, Q$), radio window, telluric molecular absorption ($H_2O, CO_2, O_3$) (`obs_atm-13..24`).
-- [[Atmospheric extinction]] — Beer-Lambert law, airmass $X \approx \sec z$, Bouguer line method, extinction coefficients $k(\lambda)$, color terms (`obs_atm-25..32`).
-- [[Atmospheric scintillation]] — high-altitude refractive index turbulence, Young scintillation index $\sigma_I/I \propto D^{-2/3} X^{1.75} t^{-1/2}$, pupil averaging (`obs_atm-33..36`).
-- [[Atmospheric seeing]] — Kolmogorov turbulence, Fried parameter $r_0 \propto \lambda^{6/5}$, seeing FWHM $\theta \approx 0.98\lambda/r_0$, speckle patterns (`obs_atm-37..44`).
-- [[Sky brightness]] — airglow, zodiacal light, integrated starlight, moonlight, sky background in mag/arcsec$^2$ across bands (`obs_atm-49..50`).
-- [[Adaptive optics overview]] — Shack-Hartmann wavefront sensors, deformable mirrors, isoplanatic angle $\theta_0$, coherence time $\tau_0$, laser guide stars, Strehl ratio (`obs_atm-51..55`).
+- [[Earth atmosphere for observations]] - master overview of atmospheric optics, scale height $H \approx 8$ km, thermal IR emission, site selection (Paranal, Mauna Kea, Asiago) (`obs_atm-01..10`, `45..48`).
+- [[Atmospheric layers]] - troposphere, stratosphere (ozone absorption), mesosphere, thermosphere, temperature inversions (`obs_atm-11..12`).
+- [[Atmospheric transparency windows]] - optical (3000 Å to 1 $\mu$m), NIR ($J, H, K$), mid-IR ($L, M, N, Q$), radio window, telluric molecular absorption ($H_2O, CO_2, O_3$) (`obs_atm-13..24`).
+- [[Atmospheric extinction]] - Beer-Lambert law, airmass $X \approx \sec z$, Bouguer line method, extinction coefficients $k(\lambda)$, color terms (`obs_atm-25..32`).
+- [[Atmospheric scintillation]] - high-altitude refractive index turbulence, Young scintillation index $\sigma_I/I \propto D^{-2/3} X^{1.75} t^{-1/2}$, pupil averaging (`obs_atm-33..36`).
+- [[Atmospheric seeing]] - Kolmogorov turbulence, Fried parameter $r_0 \propto \lambda^{6/5}$, seeing FWHM $\theta \approx 0.98\lambda/r_0$, speckle patterns (`obs_atm-37..44`).
+- [[Sky brightness]] - airglow, zodiacal light, integrated starlight, moonlight, sky background in mag/arcsec$^2$ across bands (`obs_atm-49..50`).
+- [[Adaptive optics overview]] - Shack-Hartmann wavefront sensors, deformable mirrors, isoplanatic angle $\theta_0$, coherence time $\tau_0$, laser guide stars, Strehl ratio (`obs_atm-51..55`).
 
 ---
 
-## Block 3 — Radiative Mechanisms, Photometry and Extinction
+## Block 3 - Radiative Mechanisms, Photometry and Extinction
 
 Converting photon flux into absolute stellar brightness and correcting for dust. (Slides `obs_rad-001..123`, incorporating `obs2.pdf`, `obs3.pdf`, `obs4.pdf`, `obs6.pdf`).
 
-- [[Specific intensity flux luminosity]] — $I_\nu$, $F_\nu$, $L$, inverse square law $F = L/(4\pi d^2)$, radiative transfer equation $dI_\nu/d\tau_\nu = I_\nu - S_\nu$ (`obs_rad-001..016`).
-- [[Blackbody radiation and Stefan-Boltzmann]] — Planck function $B_\nu(T)$, Rayleigh-Jeans and Wien approximations, Stefan-Boltzmann law $L = 4\pi R^2 \sigma T_{\rm eff}^4$ (`obs_rad-017..026`).
-- [[Planck law Wien Stefan-Boltzmann]] — derivation of Wien displacement law $\lambda_{\max} T = 2.898 \times 10^{-3}$ m K, integration to Stefan-Boltzmann (`obs_rad-027..032`).
-- [[Why hot massive stars dominate luminosity]] — **`obs3.pdf` exam answer**: $L \propto M^{3.5}$ along MS, Wien peak shifting deep into UV for O/B stars ($T > 20,000$ K), rapid post-starburst UV decline (`obs_rad-033..036`).
-- [[Stellar spectra and spectral classification]] — Harvard sequence (OBAFGKM), Boltzmann excitation and Saha ionization equations, Balmer peak at A0 stars ($T \approx 10,000$ K), MK luminosity classes I-V (`obs_rad-037..044`).
-- [[Pogson magnitudes and flux relation]] — **`obs4.pdf` exam answer**: Pogson 1856 logarithmic scale, $\Delta m = 1 \implies 2.5119\times$ flux ratio, small-variation approximation $\Delta m \approx 1.0857 \Delta F/F$ (`obs_rad-045..052`).
-- [[Magnitudes and photometric systems]] — Vega system ($m=0$ for $\alpha$ Lyr), AB system ($m_{\rm AB} = -2.5\log_{10}(f_\nu/\text{Jy}) + 8.90$), ST system, passband convolution (`obs_rad-053..060`).
-- [[Filter systems and bandpasses]] — Johnson-Cousins $UBVRI$, SDSS $ugriz$, HST/JWST filters, effective wavelength, equivalent width (`obs_rad-061..064`).
-- [[Color indices]] — $B - V$, $u - g$, color temperature, color-color diagrams, blackbody color asymptotes (`obs_rad-065..068`).
-- [[Photometric system conversion and color terms]] — **`obs6.pdf` exam answer**: why systems cannot be converted by a constant offset, SED slope dependency, color terms $m_A = m_B + a + b(c_1 - c_2)$, SDSS-i vs Cousins-I example (`obs_rad-069..072`).
-- [[Bolometric correction and effective temperature]] — $BC \equiv M_{\rm bol} - M_V$, $M_{\rm bol,\odot} = 4.74$ mag, $L_\odot = 3.828 \times 10^{33}$ erg/s (`obs_rad-073..076`).
-- [[Distance modulus]] — **`obs2.pdf` exam answer part 1**: $\mu = m - M = 5\log_{10}(d/\text{pc}) - 5 + A_\lambda$, physical significance (`obs_rad-077..080`).
-- [[Interstellar absorption]] — Barnard 68 dark cloud, dust grains, extinction $A_\lambda$, color excess $E(B-V)$, $R_V = A_V / E(B-V) \approx 3.1$, CCM 1989 law, Calzetti 2000 curve (`obs_rad-081..092`).
-- [[Balmer decrement]] — **`obs2.pdf` / `obs5.pdf` exam answer**: Case B recombination $(H\alpha/H\beta)_0 = 2.86$, dust extinction formula $E(B-V) = \frac{2.5}{k(H\beta)-k(H\alpha)} \log_{10}[(F_{H\alpha}/F_{H\beta})_{\rm obs} / 2.86]$ (`obs_rad-093..096`).
-- [[Metallicity and chemical evolution]] — $[\text{Fe}/\text{H}]$ bracket notation, UV excess $\delta(U-B)$, $R_{23}$ gas-phase index, mass-metallicity relation, closed-box model, G-dwarf problem, $[\alpha/\text{Fe}]$ clock (`obs_rad-097..116`).
-- [[K-correction]] — bandpass shift $m_{\rm obs}(z) = M_{\rm rest} + 5\log d_L + 25 + K(z)$, positive optical K-correction vs negative sub-mm K-correction (`obs_rad-117..123`).
+- [[Specific intensity flux luminosity]] - $I_\nu$, $F_\nu$, $L$, inverse square law $F = L/(4\pi d^2)$, radiative transfer equation $dI_\nu/d\tau_\nu = I_\nu - S_\nu$ (`obs_rad-001..016`).
+- [[Blackbody radiation and Stefan-Boltzmann]] - Planck function $B_\nu(T)$, Rayleigh-Jeans and Wien approximations, Stefan-Boltzmann law $L = 4\pi R^2 \sigma T_{\rm eff}^4$ (`obs_rad-017..026`).
+- [[Planck law Wien Stefan-Boltzmann]] - derivation of Wien displacement law $\lambda_{\max} T = 2.898 \times 10^{-3}$ m K, integration to Stefan-Boltzmann (`obs_rad-027..032`).
+- [[Why hot massive stars dominate luminosity]] - **`obs3.pdf` exam answer**: $L \propto M^{3.5}$ along MS, Wien peak shifting deep into UV for O/B stars ($T > 20,000$ K), rapid post-starburst UV decline (`obs_rad-033..036`).
+- [[Stellar spectra and spectral classification]] - Harvard sequence (OBAFGKM), Boltzmann excitation and Saha ionization equations, Balmer peak at A0 stars ($T \approx 10,000$ K), MK luminosity classes I-V (`obs_rad-037..044`).
+- [[Pogson magnitudes and flux relation]] - **`obs4.pdf` exam answer**: Pogson 1856 logarithmic scale, $\Delta m = 1 \implies 2.5119\times$ flux ratio, small-variation approximation $\Delta m \approx 1.0857 \Delta F/F$ (`obs_rad-045..052`).
+- [[Magnitudes and photometric systems]] - Vega system ($m=0$ for $\alpha$ Lyr), AB system ($m_{\rm AB} = -2.5\log_{10}(f_\nu/\text{Jy}) + 8.90$), ST system, passband convolution (`obs_rad-053..060`).
+- [[Filter systems and bandpasses]] - Johnson-Cousins $UBVRI$, SDSS $ugriz$, HST/JWST filters, effective wavelength, equivalent width (`obs_rad-061..064`).
+- [[Color indices]] - $B - V$, $u - g$, color temperature, color-color diagrams, blackbody color asymptotes (`obs_rad-065..068`).
+- [[Photometric system conversion and color terms]] - **`obs6.pdf` exam answer**: why systems cannot be converted by a constant offset, SED slope dependency, color terms $m_A = m_B + a + b(c_1 - c_2)$, SDSS-i vs Cousins-I example (`obs_rad-069..072`).
+- [[Bolometric correction and effective temperature]] - $BC \equiv M_{\rm bol} - M_V$, $M_{\rm bol,\odot} = 4.74$ mag, $L_\odot = 3.828 \times 10^{33}$ erg/s (`obs_rad-073..076`).
+- [[Distance modulus]] - **`obs2.pdf` exam answer part 1**: $\mu = m - M = 5\log_{10}(d/\text{pc}) - 5 + A_\lambda$, physical significance (`obs_rad-077..080`).
+- [[Interstellar absorption]] - Barnard 68 dark cloud, dust grains, extinction $A_\lambda$, color excess $E(B-V)$, $R_V = A_V / E(B-V) \approx 3.1$, CCM 1989 law, Calzetti 2000 curve (`obs_rad-081..092`).
+- [[Balmer decrement]] - **`obs2.pdf` / `obs5.pdf` exam answer**: Case B recombination $(H\alpha/H\beta)_0 = 2.86$, dust extinction formula $E(B-V) = \frac{2.5}{k(H\beta)-k(H\alpha)} \log_{10}[(F_{H\alpha}/F_{H\beta})_{\rm obs} / 2.86]$ (`obs_rad-093..096`).
+- [[Metallicity and chemical evolution]] - $[\text{Fe}/\text{H}]$ bracket notation, UV excess $\delta(U-B)$, $R_{23}$ gas-phase index, mass-metallicity relation, closed-box model, G-dwarf problem, $[\alpha/\text{Fe}]$ clock (`obs_rad-097..116`).
+- [[K-correction]] - bandpass shift $m_{\rm obs}(z) = M_{\rm rest} + 5\log d_L + 25 + K(z)$, positive optical K-correction vs negative sub-mm K-correction (`obs_rad-117..123`).
 
 ---
 
-## Block 4 — CCD Detectors and Signal-to-Noise Ratio
+## Block 4 - CCD Detectors and Signal-to-Noise Ratio
 
 The silicon workhorse: from photons to electrons to ADU counts and the master noise equation. (Slides `obs_ccd-01..36`, incorporating `obs7.pdf`).
 
-- [[CCD detectors and SNR]] — master overview of CCD detectors, quantum efficiency $>90\%$, MOS potential wells, DAOPHOT aperture and PSF photometry (`obs_ccd-01..08`, `31..36`).
-- [[CCD basics]] — silicon bandgap $E_g = 1.12$ eV, photoelectric conversion, full-well capacity ($50,000-100,000 e^-$), blooming (`obs_ccd-01..08`).
-- [[CCD readout chain]] — three-phase clocking, CTE $>0.99999$, on-chip output amplifier, gain $g$ in $e^-/\text{ADU}$, ADC conversion (`obs_ccd-09..16`).
-- [[CCD noise sources]] — Poisson photon noise $\sqrt{N_*}$, sky shot noise $\sqrt{n_{\rm pix} N_{\rm sky}}$, dark current shot noise $\sqrt{n_{\rm pix} N_d}$, readout noise $n_{\rm pix} \sigma_{\rm RN}^2$, correlated double sampling (`obs_ccd-17..24`).
-- [[The CCD equation]] — **`obs7.pdf` exam answer**: full derivation of master SNR equation: $\mathrm{SNR} = \frac{N_*}{\sqrt{N_* + n_{\rm pix}(N_{\rm sky} + N_d + \sigma_{\rm RN}^2)}}$, analysis of source-limited, sky-limited, and read-noise-limited regimes (`obs_ccd-25..30`).
-- [[Aperture photometry]] — synthetic aperture radius $r_{\rm ap}$, sky background annulus subtraction, curve of growth (`obs_ccd-31..32`).
-- [[PSF photometry]] — crowded-field stellar photometry, analytical PSF models (Moffat, Gaussian) + empirical residuals, DAOPHOT pipeline (`obs_ccd-33..34`).
-- [[CCD calibration steps]] — bias frames, dark frames, flat-fielding, calibration reduction equation $I_{\rm cal} = (I_{\rm raw} - B - D)/F_{\rm norm}$, fringing correction (`obs_ccd-35..36`).
+- [[CCD detectors and SNR]] - master overview of CCD detectors, quantum efficiency $>90\%$, MOS potential wells, DAOPHOT aperture and PSF photometry (`obs_ccd-01..08`, `31..36`).
+- [[CCD basics]] - silicon bandgap $E_g = 1.12$ eV, photoelectric conversion, full-well capacity ($50,000-100,000 e^-$), blooming (`obs_ccd-01..08`).
+- [[CCD readout chain]] - three-phase clocking, CTE $>0.99999$, on-chip output amplifier, gain $g$ in $e^-/\text{ADU}$, ADC conversion (`obs_ccd-09..16`).
+- [[CCD noise sources]] - Poisson photon noise $\sqrt{N_*}$, sky shot noise $\sqrt{n_{\rm pix} N_{\rm sky}}$, dark current shot noise $\sqrt{n_{\rm pix} N_d}$, readout noise $n_{\rm pix} \sigma_{\rm RN}^2$, correlated double sampling (`obs_ccd-17..24`).
+- [[The CCD equation]] - **`obs7.pdf` exam answer**: full derivation of master SNR equation: $\mathrm{SNR} = \frac{N_*}{\sqrt{N_* + n_{\rm pix}(N_{\rm sky} + N_d + \sigma_{\rm RN}^2)}}$, analysis of source-limited, sky-limited, and read-noise-limited regimes (`obs_ccd-25..30`).
+- [[Aperture photometry]] - synthetic aperture radius $r_{\rm ap}$, sky background annulus subtraction, curve of growth (`obs_ccd-31..32`).
+- [[PSF photometry]] - crowded-field stellar photometry, analytical PSF models (Moffat, Gaussian) + empirical residuals, DAOPHOT pipeline (`obs_ccd-33..34`).
+- [[CCD calibration steps]] - bias frames, dark frames, flat-fielding, calibration reduction equation $I_{\rm cal} = (I_{\rm raw} - B - D)/F_{\rm norm}$, fringing correction (`obs_ccd-35..36`).
 
 ---
 
-## Block 5 — The Cosmic Distance Ladder
+## Block 5 - The Cosmic Distance Ladder
 
 Anchoring physical distances from the Astronomical Unit outward to the Hubble flow. (Slides `obs_dist-01..76`, incorporating `obs1.pdf`, `obs2.pdf`).
 
-- [[AU calibration parallax and parsec]] — **`obs1.pdf` exam answer**: Venus transit, radar echo delay, Kepler third law, parallax angle, parsec definition, Gaia astrometry (`obs_dist-01..06`, `11..12`).
-- [[Annual stellar parallax]] — trigonometric baseline 1 AU, Bessel 1838 (61 Cygni), Lutz-Kelker bias, Hipparcos to Gaia DR3 (`obs_dist-07..10`).
-- [[Cepheid period-luminosity relation]] — Henrietta Leavitt 1912 discovery, classical Cepheids, Eddington $\kappa$-mechanism, Wesenheit extinction-free index $W = V - R_V(B-V)$ (`obs_dist-13..18`).
-- [[Variable stars as standard candles]] — RR Lyrae ($M_V \approx +0.6$ mag, horizontal branch), Mira variables, detached eclipsing binaries as geometric anchors (`obs_dist-19..24`).
-- [[Spectroscopic parallax and main-sequence fitting]] — HR diagram ZAMS fitting of open clusters (Hyades, Pleiades), metallicity corrections (`obs_dist-25..30`).
-- [[Moving cluster method]] — convergent point geometry for Hyades cluster, $d = v_r \tan\theta / (4.74 \mu)$ (`obs_dist-31..34`).
-- [[TRGB tip of the red giant branch]] — degenerate core helium flash fixing tip luminosity $M_I \approx -4.0$ mag, metal-independent in $I$-band (`obs_dist-35..36`).
-- [[Surface brightness fluctuations]] — Poisson statistics of red giants in early-type galaxies, distance-dependent variance $\bar{F} \propto 1/d^2$ (`obs_dist-37..40`).
-- [[Tully-Fisher relation]] — spiral galaxy mass-luminosity-rotation velocity relation: $L \propto V_{\rm max}^4$, HI 21 cm line width $W_{20}$ (`obs_dist-41..42`).
-- [[Fundamental plane of ellipticals]] — Faber-Jackson relation ($L \propto \sigma^4$), Fundamental Plane $\log R_e = \alpha\log\sigma + \beta\log\langle I\rangle_e + \gamma$ (`obs_dist-43..44`).
-- [[Type Ia supernovae as standard candles]] — thermonuclear white dwarf detonation at Chandrasekhar limit $1.44 M_\odot$, Phillips relation $\Delta m_{15}(B)$, SALT2 light curve standardization, 1998 discovery of cosmic acceleration (`obs_dist-45..56`).
-- [[Hubble flow distances]] — **`obs2.pdf` exam answer part 3**: Hubble law $v = H_0 d$, peculiar velocity corrections, luminosity distance $d_L(z)$, Hubble tension (SH0ES vs Planck) (`obs_dist-57..68`).
-- [[Distance ladder derivations]] — complete mathematical summary linking all rungs, error propagation down the chain, standard sirens (`obs_dist-69..76`).
+- [[AU calibration parallax and parsec]] - **`obs1.pdf` exam answer**: Venus transit, radar echo delay, Kepler third law, parallax angle, parsec definition, Gaia astrometry (`obs_dist-01..06`, `11..12`).
+- [[Annual stellar parallax]] - trigonometric baseline 1 AU, Bessel 1838 (61 Cygni), Lutz-Kelker bias, Hipparcos to Gaia DR3 (`obs_dist-07..10`).
+- [[Cepheid period-luminosity relation]] - Henrietta Leavitt 1912 discovery, classical Cepheids, Eddington $\kappa$-mechanism, Wesenheit extinction-free index $W = V - R_V(B-V)$ (`obs_dist-13..18`).
+- [[Variable stars as standard candles]] - RR Lyrae ($M_V \approx +0.6$ mag, horizontal branch), Mira variables, detached eclipsing binaries as geometric anchors (`obs_dist-19..24`).
+- [[Spectroscopic parallax and main-sequence fitting]] - HR diagram ZAMS fitting of open clusters (Hyades, Pleiades), metallicity corrections (`obs_dist-25..30`).
+- [[Moving cluster method]] - convergent point geometry for Hyades cluster, $d = v_r \tan\theta / (4.74 \mu)$ (`obs_dist-31..34`).
+- [[TRGB tip of the red giant branch]] - degenerate core helium flash fixing tip luminosity $M_I \approx -4.0$ mag, metal-independent in $I$-band (`obs_dist-35..36`).
+- [[Surface brightness fluctuations]] - Poisson statistics of red giants in early-type galaxies, distance-dependent variance $\bar{F} \propto 1/d^2$ (`obs_dist-37..40`).
+- [[Tully-Fisher relation]] - spiral galaxy mass-luminosity-rotation velocity relation: $L \propto V_{\rm max}^4$, HI 21 cm line width $W_{20}$ (`obs_dist-41..42`).
+- [[Fundamental plane of ellipticals]] - Faber-Jackson relation ($L \propto \sigma^4$), Fundamental Plane $\log R_e = \alpha\log\sigma + \beta\log\langle I\rangle_e + \gamma$ (`obs_dist-43..44`).
+- [[Type Ia supernovae as standard candles]] - thermonuclear white dwarf detonation at Chandrasekhar limit $1.44 M_\odot$, Phillips relation $\Delta m_{15}(B)$, SALT2 light curve standardization, 1998 discovery of cosmic acceleration (`obs_dist-45..56`).
+- [[Hubble flow distances]] - **`obs2.pdf` exam answer part 3**: Hubble law $v = H_0 d$, peculiar velocity corrections, luminosity distance $d_L(z)$, Hubble tension (SH0ES vs Planck) (`obs_dist-57..68`).
+- [[Distance ladder derivations]] - complete mathematical summary linking all rungs, error propagation down the chain, standard sirens (`obs_dist-69..76`).
 
 ---
 
-## Block 6 — Stars and Stellar Populations
+## Block 6 - Stars and Stellar Populations
 
 Stellar structure, scaling relations, evolution, CMDs, and population taxonomy. (Slides `obs_stars-001..106`).
 
-- [[HR diagram]] — theoretical plane $(\log L, \log T_{\rm eff})$ vs observational CMD $(M_V, B-V)$, lines of constant radius $R \propto L^{1/2} T_{\rm eff}^{-2}$, stellar families (`obs_stars-001..016`).
-- [[Main sequence, giants, supergiants, white dwarfs]] — core H-fusion, Schönberg-Chandrasekhar limit, subgiant and red giant branch, core helium flash, horizontal branch, AGB (`obs_stars-017..024`).
-- [[Stellar scaling relations]] — homology laws from hydrostatic equilibrium and radiative transport: $P_c \propto M^2/R^4$, $T_c \propto M/R$, $L \propto M^{3.5}$ (`obs_stars-025..030`).
-- [[Mass-luminosity relation]] — empirical piecewise relations across stellar mass regimes, Eddington limit $L_{\rm Edd} = 1.3 \times 10^{38}(M/M_\odot)$ erg/s (`obs_stars-031..036`).
-- [[Stellar evolution timescales]] — strict hierarchy: $t_{\rm dyn} \approx (G\rho)^{-1/2} \sim 30$ min $\ll t_{\rm KH} \approx GM^2/(RL) \sim 30$ Myr $\ll t_{\rm nuc} \propto M/L \propto M^{-2.5} \sim 10$ Gyr (`obs_stars-037..048`).
-- [[Solar evolution and final stages]] — $1 M_\odot$ post-MS evolution: MS $\to$ RGB $\to$ He-flash $\to$ HB $\to$ AGB $\to$ planetary nebula $\to$ degenerate CO white dwarf, Chandrasekhar limit $1.44 M_\odot$, Mestel cooling (`obs_stars-049..064`).
-- [[Color-magnitude diagrams of clusters]] — open clusters (young, disk, metal-rich) vs globular clusters (ancient, halo, metal-poor) (`obs_stars-065..068`).
-- [[Cluster ages from CMD turnoff]] — Main Sequence Turn-Off (MSTO) point $M_{\rm TO} \propto t_{\rm age}^{-0.4}$, isochrone fitting, vertical $\Delta V_{\rm TO}^{\rm HB}$ and horizontal $\delta(B-V)$ age indicators, cosmic lower age bound $>12.5$ Gyr (`obs_stars-069..076`).
-- [[Stellar populations I II III]] — Baade 1944 discovery, Pop I (disk, young, $Z \sim 0.02$, circular orbits) vs Pop II (halo, old, $Z < 0.001$, eccentric orbits) vs Pop III (pristine $Z=0$, massive, reionization drivers) (`obs_stars-077..092`).
-- [[Initial mass function]] — Salpeter 1955 single power law $\xi(M) \propto M^{-2.35}$, Kroupa 2001 broken power law, Chabrier 2003 log-normal IMF, impact on $M/L$ and ionizing photons (`obs_stars-093..100`).
-- [[Star formation history of a population]] — SFH $\psi(t)$, exponentially declining $\tau$-models, delayed-$\tau$ models, specific star formation rate $\text{sSFR} = \text{SFR}/M_*$, star-forming main sequence (`obs_stars-101..106`).
+- [[HR diagram]] - theoretical plane $(\log L, \log T_{\rm eff})$ vs observational CMD $(M_V, B-V)$, lines of constant radius $R \propto L^{1/2} T_{\rm eff}^{-2}$, stellar families (`obs_stars-001..016`).
+- [[Main sequence, giants, supergiants, white dwarfs]] - core H-fusion, Schönberg-Chandrasekhar limit, subgiant and red giant branch, core helium flash, horizontal branch, AGB (`obs_stars-017..024`).
+- [[Stellar scaling relations]] - homology laws from hydrostatic equilibrium and radiative transport: $P_c \propto M^2/R^4$, $T_c \propto M/R$, $L \propto M^{3.5}$ (`obs_stars-025..030`).
+- [[Mass-luminosity relation]] - empirical piecewise relations across stellar mass regimes, Eddington limit $L_{\rm Edd} = 1.3 \times 10^{38}(M/M_\odot)$ erg/s (`obs_stars-031..036`).
+- [[Stellar evolution timescales]] - strict hierarchy: $t_{\rm dyn} \approx (G\rho)^{-1/2} \sim 30$ min $\ll t_{\rm KH} \approx GM^2/(RL) \sim 30$ Myr $\ll t_{\rm nuc} \propto M/L \propto M^{-2.5} \sim 10$ Gyr (`obs_stars-037..048`).
+- [[Solar evolution and final stages]] - $1 M_\odot$ post-MS evolution: MS $\to$ RGB $\to$ He-flash $\to$ HB $\to$ AGB $\to$ planetary nebula $\to$ degenerate CO white dwarf, Chandrasekhar limit $1.44 M_\odot$, Mestel cooling (`obs_stars-049..064`).
+- [[Color-magnitude diagrams of clusters]] - open clusters (young, disk, metal-rich) vs globular clusters (ancient, halo, metal-poor) (`obs_stars-065..068`).
+- [[Cluster ages from CMD turnoff]] - Main Sequence Turn-Off (MSTO) point $M_{\rm TO} \propto t_{\rm age}^{-0.4}$, isochrone fitting, vertical $\Delta V_{\rm TO}^{\rm HB}$ and horizontal $\delta(B-V)$ age indicators, cosmic lower age bound $>12.5$ Gyr (`obs_stars-069..076`).
+- [[Stellar populations I II III]] - Baade 1944 discovery, Pop I (disk, young, $Z \sim 0.02$, circular orbits) vs Pop II (halo, old, $Z < 0.001$, eccentric orbits) vs Pop III (pristine $Z=0$, massive, reionization drivers) (`obs_stars-077..092`).
+- [[Initial mass function]] - Salpeter 1955 single power law $\xi(M) \propto M^{-2.35}$, Kroupa 2001 broken power law, Chabrier 2003 log-normal IMF, impact on $M/L$ and ionizing photons (`obs_stars-093..100`).
+- [[Star formation history of a population]] - SFH $\psi(t)$, exponentially declining $\tau$-models, delayed-$\tau$ models, specific star formation rate $\text{sSFR} = \text{SFR}/M_*$, star-forming main sequence (`obs_stars-101..106`).
 
 ---
 
-## Block 7 — Stellar Population Synthesis (SPS)
+## Block 7 - Stellar Population Synthesis (SPS)
 
 The inverse problem: decoding unresolved galaxy light into physical parameters. (Slides `obs_sps-01..54`, incorporating `obs5.pdf`, `obs7.pdf`).
 
-- [[Stellar population synthesis]] — master convolution integral $L_\lambda(t) = \int_0^t \psi(t-\tau) L_{\lambda,{\rm SSP}}(\tau, Z(t-\tau)) d\tau$, $4000$ Å break ($D_{4000}$), Balmer break, panchromatic SED modeling (`obs_sps-01..12`).
-- [[Single stellar population SSP]] — fundamental basis brick (coeval, mono-metallicity), isochrone grids, empirical (MILES) vs theoretical (Kurucz) spectral libraries (`obs_sps-13..18`).
-- [[SPS code families]] — Bruzual & Charlot (BC03), Maraston (M05) fuel consumption theorem for TP-AGB stars, Conroy FSPS, BPASS binary evolution (`obs_sps-19..24`).
-- [[SED fitting basics]] — Bayesian MCMC and $\chi^2$ grid fitting, dust energy balance ($L_{\rm dust}^{\rm abs} = L_{\rm dust}^{\rm emit}$), stellar mass stability in rest-frame $K$-band ($3.6\,\mu$m) (`obs_sps-25..36`).
-- [[Lick indices]] — narrow-band pseudo-equivalent widths: $\text{H}\beta$ (age), $\text{Mg}_b$ ($\alpha$-elements), $\text{Fe5270}$ and $\text{Fe5335}$ (iron), composite $[\text{MgFe}]'$ index (`obs_sps-37..40`).
-- [[Age-metallicity degeneracy]] — Worthey 1994 $3/2$ rule: $\Delta\log(\text{age}) \approx 1.5 \Delta\log Z$ produces identical optical colors, decoupling using $[\text{MgFe}]'$ vs $\text{H}\beta$ grids, $[\alpha/\text{Fe}]$ enhancement (`obs_sps-41..44`).
-- [[Photometric redshifts]] — tracking $4000$ Å break and Lyman break through filters, template fitting (EAZY, BPZ), Bayesian priors, catastrophic photo-z outliers (`obs_sps-45..48`).
-- [[SFR tracers from population synthesis]] — **`obs5.pdf` / `obs7.pdf` exam answer**: Kennicutt 1998 calibrations: UV continuum (100 Myr timescale), $H\alpha$ emission (10 Myr timescale, $\text{SFR} = 7.9 \times 10^{-42} L(H\alpha)$ erg/s), FIR dust re-emission (`obs_sps-49..51`).
-- [[UV SFR tracer]] — non-ionizing rest-frame UV continuum ($1500-2800$ Å), Kennicutt UV calibration $\text{SFR} = 1.4 \times 10^{-28} L_\nu(\text{UV})$, dust correction via UV slope $\beta$ and Meurer IRX-$\beta$ relation (`obs_sps-52..54`).
+- [[Stellar population synthesis]] - master convolution integral $L_\lambda(t) = \int_0^t \psi(t-\tau) L_{\lambda,{\rm SSP}}(\tau, Z(t-\tau)) d\tau$, $4000$ Å break ($D_{4000}$), Balmer break, panchromatic SED modeling (`obs_sps-01..12`).
+- [[Single stellar population SSP]] - fundamental basis brick (coeval, mono-metallicity), isochrone grids, empirical (MILES) vs theoretical (Kurucz) spectral libraries (`obs_sps-13..18`).
+- [[SPS code families]] - Bruzual & Charlot (BC03), Maraston (M05) fuel consumption theorem for TP-AGB stars, Conroy FSPS, BPASS binary evolution (`obs_sps-19..24`).
+- [[SED fitting basics]] - Bayesian MCMC and $\chi^2$ grid fitting, dust energy balance ($L_{\rm dust}^{\rm abs} = L_{\rm dust}^{\rm emit}$), stellar mass stability in rest-frame $K$-band ($3.6\,\mu$m) (`obs_sps-25..36`).
+- [[Lick indices]] - narrow-band pseudo-equivalent widths: $\text{H}\beta$ (age), $\text{Mg}_b$ ($\alpha$-elements), $\text{Fe5270}$ and $\text{Fe5335}$ (iron), composite $[\text{MgFe}]'$ index (`obs_sps-37..40`).
+- [[Age-metallicity degeneracy]] - Worthey 1994 $3/2$ rule: $\Delta\log(\text{age}) \approx 1.5 \Delta\log Z$ produces identical optical colors, decoupling using $[\text{MgFe}]'$ vs $\text{H}\beta$ grids, $[\alpha/\text{Fe}]$ enhancement (`obs_sps-41..44`).
+- [[Photometric redshifts]] - tracking $4000$ Å break and Lyman break through filters, template fitting (EAZY, BPZ), Bayesian priors, catastrophic photo-z outliers (`obs_sps-45..48`).
+- [[SFR tracers from population synthesis]] - **`obs5.pdf` / `obs7.pdf` exam answer**: Kennicutt 1998 calibrations: UV continuum (100 Myr timescale), $H\alpha$ emission (10 Myr timescale, $\text{SFR} = 7.9 \times 10^{-42} L(H\alpha)$ erg/s), FIR dust re-emission (`obs_sps-49..51`).
+- [[UV SFR tracer]] - non-ionizing rest-frame UV continuum ($1500-2800$ Å), Kennicutt UV calibration $\text{SFR} = 1.4 \times 10^{-28} L_\nu(\text{UV})$, dust correction via UV slope $\beta$ and Meurer IRX-$\beta$ relation (`obs_sps-52..54`).
 
 ---
 
@@ -167,9 +168,9 @@ The inverse problem: decoding unresolved galaxy light into physical parameters. 
 
 Canonical and modern arXiv astro-ph.IM benchmark papers underlying the detector characterization, adaptive optics, and survey design covered above.
 
-- [[Janesick_2001_CCD_Photon_Transfer_Method\|Janesick (2001) — Scientific CCDs and the Photon Transfer Method]] — empirical gain/read-noise/PRNU extraction from flat-field sequences
-- [[Guyon_2018_Extreme_Adaptive_Optics\|Guyon (2018) — Extreme Adaptive Optics]] — Strehl ratio, wavefront-error budget, high-contrast imaging architectures
-- [[Ivezic_2019_LSST_Science_Drivers_Reference_Design\|Ivezić et al. (2019) — LSST: Science Drivers to Reference Design]] — Rubin Observatory design, survey error budget, self-calibration
+- [[Janesick_2001_CCD_Photon_Transfer_Method\|Janesick (2001) - Scientific CCDs and the Photon Transfer Method]] - empirical gain/read-noise/PRNU extraction from flat-field sequences
+- [[Guyon_2018_Extreme_Adaptive_Optics\|Guyon (2018) - Extreme Adaptive Optics]] - Strehl ratio, wavefront-error budget, high-contrast imaging architectures
+- [[Ivezic_2019_LSST_Science_Drivers_Reference_Design\|Ivezić et al. (2019) - LSST: Science Drivers to Reference Design]] - Rubin Observatory design, survey error budget, self-calibration
 
 ---
 
@@ -270,9 +271,9 @@ This matrix prepares the student for the exact questions asked by Prof. Paolo Ca
 | Question # & Source | Typical Exam Question | Key Blackboard Derivations | Trap Points & Crucial Insights | Target Zettel |
 | :--- | :--- | :--- | :--- | :--- |
 | **Q1 (`obs1.pdf`)** | *"Describe how we calibrate the astronomical unit and use it to measure distances via annual parallax. What is the parsec, and why does Gaia change the game?"* | 1. Radar echo delay: $d = c\Delta t/2$ to Venus.<br>2. Kepler 3rd law: $a^3/P^2 = G(M_\odot+m)/(4\pi^2)$ relates Venus orbit to AU.<br>3. Right triangle definition of parsec: $\tan p \approx p = 1\text{ AU}/d \implies d(\text{pc}) = 1/p(\text{arcsec})$.<br>4. Astrometric error: $\sigma_d/d = \sigma_p/p$. Gaia achieves $\sim 10\,\mu$as precision. | Do not confuse angular diameter of Sun with parallax. Emphasize that AU is fixed by definition since 2012 ($149,597,870,700$ m). Explain Lutz-Kelker bias when inverting parallax to distance. | [[AU calibration parallax and parsec]] |
-| **Q2 (`obs2.pdf`)** | *"Discuss distance modulus, dust (extinction and reddening, briefly the Balmer decrement), and how Hubble flow gives distances at cosmological scale."* | 1. Pogson derivation: $m - M = 5\log_{10}(d/\text{pc}) - 5 + A_\lambda$.<br>2. Color excess $E(B-V) = (B-V) - (B-V)_0$, total-to-selective extinction $R_V = A_V/E(B-V) \approx 3.1$.<br>3. Balmer decrement: Case B $(F_{H\alpha}/F_{H\beta})_0 = 2.86$. Color excess $E(B-V) = \frac{2.5}{k_{H\beta}-k_{H\alpha}}\log_{10}\left[\frac{(F_{H\alpha}/F_{H\beta})_{\rm obs}}{2.86}\right]$.<br>4. Hubble law: $v = cz = H_0 d$ for $z \ll 1$; FLRW luminosity distance $d_L(z)$ at high $z$. | Distinguish dust extinction from attenuation (geometry matters!). Note that Hubble flow distances at $z < 0.02$ are ruined by peculiar velocities ($v_{\rm pec} \sim 300-500$ km/s). | [[Distance modulus]], [[Balmer decrement]], [[Hubble flow distances]] |
-| **Q3 (`obs3.pdf`)** | *"Explain blackbody radiation (Planck law, Wien’s law, Stefan–Boltzmann law), and explain why hot massive stars dominate the luminosity of young stellar populations."* | 1. Planck function $B_\lambda(T) = \frac{2hc^2}{\lambda^5}\frac{1}{e^{hc/\lambda k_B T}-1}$.<br>2. Wien law: $\lambda_{\max} T = 2.898 \times 10^{-3}$ m K.<br>3. Stefan-Boltzmann: $L = 4\pi R^2 \sigma T_{\rm eff}^4$.<br>4. MS scaling: $R \propto M^{0.6}, T_{\rm eff} \propto M^{0.6} \implies L \propto M^{3.5}$.<br>5. For young population: a single $20 M_\odot$ star ($L \approx 4 \times 10^4 L_\odot$, Wien peak in UV) outshines tens of thousands of solar-type stars. | When a starburst ages past $\sim 10-20$ Myr, O/B stars explode as SNe, and UV luminosity drops by factors of $10^2-10^3$! Bolometric light transitions to red giants, while NIR traces stellar mass. | [[Why hot massive stars dominate luminosity]], [[Blackbody radiation and Stefan-Boltzmann]] |
-| **Q4 (`obs4.pdf`)** | *"State Pogson’s definition of magnitudes, derive the flux–magnitude relation, show why $\Delta m = 1$ corresponds to $\sim 2.512\times$ flux, and explain why $\Delta m \approx 1.0857 \Delta F/F$ is useful."* | 1. Pogson 1856: $m_1 - m_2 = -2.5\log_{10}(F_1/F_2)$.<br>2. For $\Delta m = 1$: $F_1/F_2 = 10^{0.4} = 2.511886...$<br>3. Differential: $dm = -2.5 \frac{d\log_{10}F}{dF} dF = -\frac{2.5}{\ln 10}\frac{dF}{F} \approx -1.0857\frac{dF}{F}$.<br>4. In finite variations: $\Delta m = 2.5\log_{10}(1 + \Delta F/F) \approx 1.0857 \Delta F/F$. | The factor $1.0857$ allows instant mental conversion: a $1\%$ photometric error ($0.01$) equals $\approx 0.0109$ mag uncertainty. Emphasize that the approximation fails for large variations ($>20\%$). | [[Pogson magnitudes and flux relation]] |
+| **Q2 (`obs2.pdf`)** | *"Discuss distance modulus, dust (extinction and reddening, briefly the Balmer decrement), and how Hubble flow gives distances at cosmological scale."* | 1. Pogson derivation: $m - M = 5\log_{10}(d/\text{pc}) - 5 + A_\lambda$.<br>2. Color excess $E(B-V) = (B-V) - (B-V)_0$, total-to-selective extinction $R_V = A_V/E(B-V) \approx 3.1$.<br>3. Balmer decrement: Case B $(F_{H\alpha}/F_{H\beta})_0 = 2.86$. Color excess $E(B-V) = \frac{2.5}{k_{H\beta}-k_{H\alpha}}\log_{10}\left[\frac{(F_{H\alpha}/F_{H\beta})_{\rm obs}}{2.86}\right]$.<br>4. Hubble law: $v = cz = H_0 d$ for $z \ll 1$, FLRW luminosity distance $d_L(z)$ at high $z$. | Distinguish dust extinction from attenuation (geometry matters!). Note that Hubble flow distances at $z < 0.02$ are ruined by peculiar velocities ($v_{\rm pec} \sim 300-500$ km/s). | [[Distance modulus]], [[Balmer decrement]], [[Hubble flow distances]] |
+| **Q3 (`obs3.pdf`)** | *"Explain blackbody radiation (Planck law, Wien’s law, Stefan-Boltzmann law), and explain why hot massive stars dominate the luminosity of young stellar populations."* | 1. Planck function $B_\lambda(T) = \frac{2hc^2}{\lambda^5}\frac{1}{e^{hc/\lambda k_B T}-1}$.<br>2. Wien law: $\lambda_{\max} T = 2.898 \times 10^{-3}$ m K.<br>3. Stefan-Boltzmann: $L = 4\pi R^2 \sigma T_{\rm eff}^4$.<br>4. MS scaling: $R \propto M^{0.6}, T_{\rm eff} \propto M^{0.6} \implies L \propto M^{3.5}$.<br>5. For young population: a single $20 M_\odot$ star ($L \approx 4 \times 10^4 L_\odot$, Wien peak in UV) outshines tens of thousands of solar-type stars. | When a starburst ages past $\sim 10-20$ Myr, O/B stars explode as SNe, and UV luminosity drops by factors of $10^2-10^3$! Bolometric light transitions to red giants, while NIR traces stellar mass. | [[Why hot massive stars dominate luminosity]], [[Blackbody radiation and Stefan-Boltzmann]] |
+| **Q4 (`obs4.pdf`)** | *"State Pogson’s definition of magnitudes, derive the flux-magnitude relation, show why $\Delta m = 1$ corresponds to $\sim 2.512\times$ flux, and explain why $\Delta m \approx 1.0857 \Delta F/F$ is useful."* | 1. Pogson 1856: $m_1 - m_2 = -2.5\log_{10}(F_1/F_2)$.<br>2. For $\Delta m = 1$: $F_1/F_2 = 10^{0.4} = 2.511886...$<br>3. Differential: $dm = -2.5 \frac{d\log_{10}F}{dF} dF = -\frac{2.5}{\ln 10}\frac{dF}{F} \approx -1.0857\frac{dF}{F}$.<br>4. In finite variations: $\Delta m = 2.5\log_{10}(1 + \Delta F/F) \approx 1.0857 \Delta F/F$. | The factor $1.0857$ allows instant mental conversion: a $1\%$ photometric error ($0.01$) equals $\approx 0.0109$ mag uncertainty. Emphasize that the approximation fails for large variations ($>20\%$). | [[Pogson magnitudes and flux relation]] |
 | **Q5 (`obs5.pdf`)** | *"How to estimate Star Formation Rate, stellar mass, and age in distant galaxies?"* | 1. SFR tracers: $H\alpha$ ($10$ Myr timescale), UV continuum ($100$ Myr timescale), FIR ($L_{\rm IR}$ dust re-emission).<br>2. Dust correction via Balmer decrement and Meurer IRX-$\beta$ relation.<br>3. Stellar mass from SED fitting: rest-frame NIR ($K$-band, $3.6\,\mu$m) has nearly constant $M/L$ ratio.<br>4. Age indicators: $4000$ Å break ($D_{4000}$), Balmer break ($3646$ Å), and Lick indices. | Distinguish instantaneous SFR ($H\alpha$) from time-averaged SFR (UV). Mention the stellar mass-to-light ratio sensitivity to the assumed IMF (Salpeter yields $\sim 0.24$ dex higher mass than Chabrier/Kroupa). | [[SFR tracers from population synthesis]], [[SED fitting basics]] |
 | **Q6 (`obs6.pdf`)** | *"Magnitudes in different photometric systems cannot, in general, be converted by adding a constant offset. Explain why, introduce color terms, and give an example."* | 1. Synthetic magnitude: $m = -2.5\log_{10}\left[\frac{\int f_\lambda(\lambda) T(\lambda) \lambda d\lambda}{\int f_{\lambda,0}(\lambda) T(\lambda) \lambda d\lambda}\right]$.<br>2. If filter transmissions $T_A(\lambda) \neq T_B(\lambda)$, the ratio of transmitted fluxes depends directly on the spectral slope $df_\lambda/d\lambda$.<br>3. Color term formula: $m_A = m_B + a + b(c_1 - c_2)$.<br>4. Concrete example: SDSS-$i$ vs Cousins-$I$ differs markedly between hot A0 stars ($B-V=0$) and cool M dwarfs ($B-V=1.5$). | A constant offset only works if two systems have identical bandpasses but different zero-points (e.g. AB vs Vega on the exact same filter). If passband shapes differ, color terms are mandatory! | [[Photometric system conversion and color terms]] |
 | **Q7 (`obs7.pdf`)** | *"How do we estimate SFR, stellar mass, and age in unresolved populations? Derive the CCD Signal-to-Noise equation and discuss its limiting regimes."* | 1. Total noise variance: $\sigma_{\rm tot}^2 = N_* + n_{\rm pix}(N_{\rm sky} + N_d + \sigma_{\rm RN}^2)$.<br>2. $\mathrm{SNR} = \frac{N_*}{\sqrt{N_* + n_{\rm pix}(N_{\rm sky} + N_d + \sigma_{\rm RN}^2)}}$.<br>3. Regime A (Source-limited): $N_* \gg$ noise $\implies \mathrm{SNR} \approx \sqrt{N_*} \propto \sqrt{t}$.<br>4. Regime B (Sky-limited): $N_{\rm sky} \gg$ all $\implies \mathrm{SNR} \approx \frac{N_*}{\sqrt{n_{\rm pix} N_{\rm sky}}} \propto \frac{t}{\sqrt{t}} = \sqrt{t}$.<br>5. Regime C (Read-noise limited): $\sigma_{\rm RN}^2 \gg$ all $\implies \mathrm{SNR} \approx \frac{N_*}{\sqrt{n_{\rm pix}}\sigma_{\rm RN}} \propto t$. | Point out that in the read-noise limited regime (short exposures or high dispersion), SNR grows linearly with time ($t$), whereas in sky- or source-limited regimes it only grows as $\sqrt{t}$. Binning pixels ($2\times 2$) reduces effective $n_{\rm pix}$ by 4, saving read noise! | [[The CCD equation]], [[CCD detectors and SNR]] |
@@ -309,7 +310,7 @@ $$\boxed{\Delta\log(\text{age}) \approx 1.5 \Delta\log Z} \qquad \text{(Worthey 
 
 ---
 
-## Master Figure Index: Observational Astrophysics (542 Slides)
+## Master Figure Index - Observational Astrophysics (542 Slides)
 
 | Slide Image | Originating Slide Deck | Physical Topic Illustrated | Host Zettel Note |
 | :--- | :--- | :--- | :--- |

@@ -21,7 +21,7 @@ empirical values and recent measurements:
 - **dense regions**: $R_V \approx 4$ to $5$, sometimes higher in dark clouds and star-forming regions like rho ophiuchi or the orion nebula. grain coagulation and ice mantles in cold dense gas grow grains, flattening the law.
 - **SMC and starburst sightlines**: lower $R_V$, around 2.5 to 3.0. a smaller $R_V$ corresponds to a steeper extinction curve (resulting in significantly more UV extinction relative to $A_V$), whereas a larger $R_V$ produces a flatter extinction curve (typical of dense regions with larger dust grains).
 
-the **2175 angstrom bump** is a broad UV absorption feature commonly attributed to small graphitic grains or polycyclic aromatic hydrocarbons. its strength relative to the continuum is encoded in $b(x)$ and is one way to distinguish milky way from SMC-like extinction. in $R_V \approx 3.1$ sightlines it is prominent; in starburst-like sightlines it is suppressed.
+the **2175 angstrom bump** is a broad UV absorption feature commonly attributed to small graphitic grains or polycyclic aromatic hydrocarbons. its strength relative to the continuum is encoded in $b(x)$ and is one way to distinguish milky way from SMC-like extinction. in $R_V \approx 3.1$ sightlines it is prominent. in starburst-like sightlines it is suppressed.
 
 ## systematic impact on the Hubble constant ($H_0$)
 
@@ -34,9 +34,9 @@ this directly shifts the slope of the Hubble diagram, illustrating why high-prec
 
 ## reference papers
 
-- **Cardelli, Clayton, Mathis 1989 (CCM89)** — standard extinction law.
-- **Legnardi et al. 2023** — $R_V$ variations across 21 Galactic GCs.
-- **Nataf et al. 2013** — Galactic bulge extinction anomalies.
+- **Cardelli, Clayton, Mathis 1989 (CCM89)** - standard extinction law.
+- **Legnardi et al. 2023** - $R_V$ variations across 21 Galactic GCs.
+- **Nataf et al. 2013** - Galactic bulge extinction anomalies.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

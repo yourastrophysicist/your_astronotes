@@ -4,14 +4,14 @@ title: "Galactic Center Sgr A and S-stars"
 ---
 # Galactic Center Sgr A and S-stars
 
-The central parsec of the Milky Way harbors the closest and most rigorously scrutinized supermassive black hole candidate in the universe, designated Sagittarius A* (Sgr A*). Situated at a Galactocentric distance of $R_0 = 8.275 \pm 0.034$ kpc, Sgr A* is surrounded by a dense cluster of high-velocity, young B-type stars termed the S-star cluster (or S0 stars). Tracking the individual Keplerian orbits of these stars over complete orbital periods using high-resolution near-infrared adaptive optics and interferometry provides incontrovertible dynamical proof of a central point mass of $M_\bullet = (4.15 \pm 0.13) \times 10^6 M_\odot$. The extraordinarily small pericenter distance of the star S2 (S0-2) places an empirical lower bound on the central mass density of $\rho > 1.5 \times 10^{19} M_\odot \text{ pc}^{-3}$, ruling out all non-singular astrophysical configurations such as dark clusters of stellar remnants or degenerate fermion balls. Furthermore, precise astrometric tracking of S2 during its 2018 pericenter passage has confirmed post-Newtonian relativistic effects, specifically gravitational redshift and Schwarzschild orbital precession, establishing Sgr A* as a premier laboratory for strong-field general relativity.
+The central parsec of the Milky Way harbors the closest and most rigorously scrutinized supermassive black hole candidate in the universe, designated Sagittarius A* (Sgr A*). Situated at a Galactocentric distance of $R_0 = 8.275 \pm 0.034$ kpc, Sgr A* is surrounded by a dense cluster of high-velocity, young B-type stars termed the S-star cluster (or S0 stars). Tracking the individual Keplerian orbits of these stars over complete orbital periods using high-resolution near-infrared adaptive optics and interferometry provides incontrovertible dynamical proof of a central point mass of $M_\bullet = (4.15 \pm 0.13) \times 10^6 M_\odot$. The extraordinarily small pericenter distance of the star S2 (S0-2) places an empirical lower bound on the central mass density of $\rho > 1.5 \times 10^{19} M_\odot \text{ pc}^{-3}$, ruling out all non-singular astrophysical configurations such as dark clusters of stellar remnants or degenerate fermion balls. Precise astrometric tracking of S2 during its 2018 pericenter passage has confirmed post-Newtonian relativistic effects, specifically gravitational redshift and Schwarzschild orbital precession, establishing Sgr A* as a premier laboratory for strong-field general relativity.
 
 ---
 
 ## 1. Astrophysical Context and Phenomenological Overview
 
 ### Identification of Sgr A*
-Sgr A* was initially discovered in 1974 by Balick and Brown via radio interferometry as a stationary, extremely compact, non-thermal radio source at the dynamical nucleus of the Galaxy. Subsequent multi-wavelength monitoring established the following foundational physical properties
+Sgr A* was initially discovered in 1974 by Balick and Brown via radio interferometry as a stationary, extremely compact, non-thermal radio source at the dynamical nucleus of the Galaxy. Subsequent multi-wavelength monitoring established the following physical properties
 - Radio emission - A compact synchrotron source with flat or slightly inverted spectrum ($S_\nu \propto \nu^{0.3}$) and brightness temperature exceeding $T_b \sim 10^{10}$ K, exhibiting intrinsic size scale of only a few tens of microarcseconds.
 - Infrared emission - A highly variable, faint near-infrared counterpart exhibiting frequent flares on timescales of 10 to 60 minutes, originating from synchrotron emission of relativistic electrons accelerated near the innermost stable circular orbit (ISCO).
 - X-ray emission - Quiescent thermal emission of luminosity $L_X \sim 10^{33} \text{ erg s}^{-1}$ accompanied by daily energetic flares where luminosity surges by factors of 10 to 100, observed by Chandra and XMM-Newton.
@@ -77,7 +77,7 @@ Dividing numerator by denominator
 $$M_\bullet = \frac{1.479 \times 10^{44}}{1.712 \times 10^7} \approx 8.638 \times 10^{36} \text{ kg}$$
 Dividing by the solar mass ($M_\odot = 1.9885 \times 10^{30}$ kg)
 $$M_\bullet \approx 4.34 \times 10^6 M_\odot$$
-When combined with joint astrometric and radial velocity likelihood modeling across all monitored S-stars (Gillessen et al. 2017; GRAVITY Collaboration 2020), the resulting high-precision mass is
+When combined with joint astrometric and radial velocity likelihood modeling across all monitored S-stars (Gillessen et al. 2017, GRAVITY Collaboration 2020), the resulting high-precision mass is
 $$M_\bullet = (4.15 \pm 0.13) \times 10^6 M_\odot \quad \text{or} \quad (4.297 \pm 0.012) \times 10^6 M_\odot$$
 
 ---
@@ -91,7 +91,7 @@ Substituting $M_\bullet = 4.15 \times 10^6 M_\odot$ and $r_p = 119.7 \text{ AU} 
 $$\rho_{\rm min} = \frac{4.15 \times 10^6 M_\odot}{\frac{4}{3}\pi \times (5.803 \times 10^{-4} \text{ pc})^3} = \frac{4.15 \times 10^6}{8.182 \times 10^{-10}} \approx 5.07 \times 10^{15} M_\odot \text{ pc}^{-3}$$
 Converting to cgs units ($1 M_\odot \text{ pc}^{-3} \approx 6.77 \times 10^{-23} \text{ g cm}^{-3}$)
 $$\rho_{\rm min} \approx 3.4 \times 10^{-7} \text{ g cm}^{-3}$$
-Furthermore, observing infrared and X-ray flares originating from radii $r \sim 3-5 R_s \sim 0.3$ AU pushes the empirical density bound beyond $\rho > 10^{19} M_\odot \text{ pc}^{-3}$.
+Observing infrared and X-ray flares originating from radii $r \sim 3-5 R_s \sim 0.3$ AU pushes the empirical density bound beyond $\rho > 10^{19} M_\odot \text{ pc}^{-3}$.
 
 #### Theoretical Refutation of Dark Cluster Alternatives
 Examiners frequently ask why Sgr A* cannot be an extremely dense cluster of dark astrophysical objects. Three primary models are tested and ruled out

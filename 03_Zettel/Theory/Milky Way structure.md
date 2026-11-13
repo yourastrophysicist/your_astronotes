@@ -2,7 +2,7 @@
 layout: "default"
 title: "Milky Way structure"
 ---
-our home galaxy, the **Milky Way**, is a barred spiral galaxy of Hubble morphological type **SBbc**. because our solar system is embedded directly within its dusty disk, mapping its three-dimensional structure requires panoramic multi-wavelength observations—from radio 21 cm lines that penetrate dust to infrared space surveys (2MASS, Spitzer, Gaia).
+our home galaxy, the **Milky Way**, is a barred spiral galaxy of Hubble morphological type **SBbc**. because our solar system is embedded directly within its dusty disk, mapping its three-dimensional structure requires panoramic multi-wavelength observations, from radio 21 cm lines that penetrate dust to infrared space surveys (2MASS, Spitzer, Gaia).
 
 ![milkyway-01.png](../../assets/images/milkyway-01.png)
 
@@ -13,8 +13,8 @@ our home galaxy, the **Milky Way**, is a barred spiral galaxy of Hubble morpholo
 ## external analogs and panoramic views
 
 because we cannot view the Milky Way from outside, astronomers use nearby edge-on and face-on spiral galaxies as direct morphological analogs:
-- **NGC 4565 (Needle Galaxy)**: excellent analog for the Milky Way viewed **edge-on**—showing the thin disk, dense dust lanes, central spheroidal bulge, and surrounding faint halo.
-- **NGC 1232**: excellent analog for the Milky Way viewed **face-on**—revealing grand-design spiral arms emerging from a central bar and winding outward into a multi-arm disk.
+- **NGC 4565 (Needle Galaxy)**: excellent analog for the Milky Way viewed **edge-on**, showing the thin disk, dense dust lanes, central spheroidal bulge, and surrounding faint halo.
+- **NGC 1232**: excellent analog for the Milky Way viewed **face-on**, revealing grand-design spiral arms emerging from a central bar and winding outward into a multi-arm disk.
 
 ![milkyway-03.png](../../assets/images/milkyway-03.png)
 
@@ -26,7 +26,7 @@ the Milky Way comprises five distinct morphological components:
 
 ![milkyway-04.png](../../assets/images/milkyway-04.png)
 
-### 1. the Galactic Disk:
+### 1. the Galactic Disk
 - **diameter**: $\approx 30$ kpc ($\sim 100,000$ light-years).
 - **the Thin Disk (Disco Sottile)**:
   - vertical scale height: $h_z \approx 300$ pc.
@@ -38,18 +38,18 @@ the Milky Way comprises five distinct morphological components:
   - stellar mass: $\sim 10-15\%$ of disk stars.
   - content: intermediate-age to old stars, lower metallicity ($[\text{Fe}/\text{H}] \sim -0.5$), higher velocity dispersion ($\sigma_z \sim 40$ km/s). formed early in a violent merger or disk heating event.
 
-### 2. the Central Bulge (Bulge):
+### 2. the Central Bulge (Bulge)
 - radius: $R \approx 2-3$ kpc, spheroidal/triaxial boxy-peanut bar shape.
 - stellar mass: $\approx 1 \times 10^{10} M_\odot$.
-- content: dense concentration of predominantly old, metal-rich stars; rapid random velocities with cylindrical rotation.
+- content: dense concentration of predominantly old, metal-rich stars. rapid random velocities with cylindrical rotation.
 
-### 3. the Stellar Halo:
+### 3. the Stellar Halo
 - radius: extends out to $R \sim 50$ kpc.
 - stellar mass: $\approx 1-2 \times 10^9 M_\odot$ (only $\sim 1\%$ of total Galactic stellar mass).
 - content: ancient metal-poor stars (Population II), $\sim 150-160$ **globular clusters**, and tidal stellar streams (e.g. Sagittarius stream) from devoured dwarf galaxies.
 - kinematics: chaotic, highly eccentric orbits with very low net rotation and high velocity dispersion ($\sigma_v \sim 120-150$ km/s).
 
-### 4. the Dark Matter Halo:
+### 4. the Dark Matter Halo
 - colossal, nearly spherical halo extending out to $R > 100-200$ kpc.
 - total virial mass: $M_{\text{vir}} \approx (1.0 - 1.5) \times 10^{12} M_\odot$.
 - dominates the gravitational potential of the Milky Way beyond $R \sim 8$ kpc.
@@ -71,6 +71,20 @@ the Sun is situated in the Orion-Cygnus spur (between the major Sagittarius and 
 ![milkyway-07.png](../../assets/images/milkyway-07.png)
 
 ---
+
+## worked example
+
+the mass inside the solar circle from the rotation, with $R_0 = 8.2$ kpc and $V_0 = 220$ km/s:
+
+$$M(<R_0) = \frac{V_0^2R_0}{G} = \frac{(2.2 \times 10^5)^2 \times 2.53 \times 10^{20}}{6.67 \times 10^{-11}} = 1.8 \times 10^{41}\ \text{kg} \approx 9 \times 10^{10}\,M_\odot$$
+
+the Sun takes $2\pi R_0/V_0 = 230$ Myr for one orbit, about 20 orbits since it formed.
+
+## where it goes wrong
+
+- the spherical formula $M = V^2R/G$ is approximate for a flattened disk, by about 20 to 30%.
+- the distance to the centre and the local rotation speed are measured together. changing one changes the other.
+- we see the Galaxy from inside, so its spiral structure is reconstructed, not observed.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

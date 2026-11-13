@@ -4,7 +4,7 @@ title: "Fringe visibility and contrast"
 ---
 # Fringe visibility and contrast
 
-the central observable of every interferometer. visibility quantifies *how strong the fringes are* — the contrast between the brightest and darkest stripes. it is the sky brightness distribution's Fourier transform, and from it (with help) we reconstruct images.
+the central observable of every interferometer. visibility quantifies *how strong the fringes are*, the contrast between the brightest and darkest stripes. it is the sky brightness distribution's Fourier transform, and from it (with help) we reconstruct images.
 
 ## the definition
 
@@ -71,17 +71,17 @@ two unresolved point sources of intensities $I_1, I_2$ at separation $\boldsymbo
 
 $$\mathcal V(\mathbf u) = \frac{I_1 + I_2 e^{2\pi i \mathbf u \cdot \boldsymbol\rho}}{I_1 + I_2}$$
 
-the visibility *amplitude* oscillates between $\lvert V_{\max}\rvert$ and $\lvert V_{\min}\rvert$ as $\mathbf u \cdot \boldsymbol\rho$ changes — a "fringe in the visibility" with period $1/\lvert \boldsymbol\rho\rvert$. measuring this gives both intensity ratio and separation.
+the visibility *amplitude* oscillates between $\lvert V_{\max}\rvert$ and $\lvert V_{\min}\rvert$ as $\mathbf u \cdot \boldsymbol\rho$ changes, a "fringe in the visibility" with period $1/\lvert \boldsymbol\rho\rvert$. measuring this gives both intensity ratio and separation.
 
 ### Gaussian disk, FWHM $\theta_G$
 
 $$\lvert \mathcal V(B)\rvert = \exp\left[-\frac{\pi^2 \theta_G^2 B^2}{4 \ln 2 \, \lambda^2}\right]$$
 
-monotonically decreasing, never reaches zero — a Gaussian source has no "edge" so visibility never quite vanishes.
+monotonically decreasing, never reaches zero, a Gaussian source has no "edge" so visibility never quite vanishes.
 
 ## limb darkening modifies the curve
 
-a real star is not a uniform disk: it is brighter at the center than at the limb. this changes the visibility curve subtly — the first null shifts inward and is partially "filled in." fitting the actual visibility curve gives the limb-darkening coefficient, an indirect measure of stellar atmosphere structure.
+a real star is not a uniform disk: it is brighter at the center than at the limb. this changes the visibility curve subtly, the first null shifts inward and is partially "filled in." fitting the actual visibility curve gives the limb-darkening coefficient, an indirect measure of stellar atmosphere structure.
 
 ## the practical workflow
 

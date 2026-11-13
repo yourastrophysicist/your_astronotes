@@ -22,7 +22,7 @@ a survey of the world's major radio interferometers, organized by frequency band
 - 64 × 13.5m antennas
 - baselines to 8 km
 - frequency: 0.58-1.7 GHz
-- precursor / pathfinder for SKA-Mid; specialized in deep extragalactic surveys, HI 21cm, pulsar timing
+- precursor / pathfinder for SKA-Mid. specialized in deep extragalactic surveys, HI 21cm, pulsar timing
 
 ### ATCA (Australia Telescope Compact Array)
 
@@ -38,7 +38,7 @@ a survey of the world's major radio interferometers, organized by frequency band
 - 30 × 45m antennas
 - baselines to 25 km
 - frequency: 0.05-1.6 GHz (low-frequency!)
-- preeminent low-frequency interferometer; HI surveys, pulsar studies, Galactic emission
+- preeminent low-frequency interferometer. HI surveys, pulsar studies, Galactic emission
 
 ### MERLIN (Multi-Element Radio Linked Interferometer Network)
 

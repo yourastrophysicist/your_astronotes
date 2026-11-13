@@ -19,7 +19,7 @@ with **known** basis functions $\phi_k(x)$ and **unknown** parameters $\theta_k$
 - $\phi_k(x) = $ orthogonal polynomials (Legendre, Chebyshev, Hermite)
 - $\phi_k(x) = $ output of a precomputed simulation grid
 
-note that $\phi_k$ themselves can be highly non-linear in $x$; the *linearity* refers only to how the parameters enter.
+note that $\phi_k$ themselves can be highly non-linear in $x$. the *linearity* refers only to how the parameters enter.
 
 ## what is *not* linear LSQ
 
@@ -79,14 +79,14 @@ if the noise is Gaussian with the stated $\sigma_i$, the parameter covariance is
 
 $$\text{Cov}(\boldsymbol\theta) = (A_w^T A_w)^{-1}$$
 
-(with weighting). diagonal entries give parameter variances; off-diagonal give correlations.
+(with weighting). diagonal entries give parameter variances. off-diagonal give correlations.
 
 ```python
 cov = np.linalg.inv(A_w.T @ A_w)
 sigma_theta = np.sqrt(np.diag(cov))
 ```
 
-## an example: fitting harmonic content
+## an example - fitting harmonic content
 
 a time series of an exoplanet host star showing radial-velocity oscillations from multiple planets. fit
 

@@ -44,13 +44,13 @@ at $T \sim 10^5$ to $10^7$ K, hosted in **filaments connecting galaxies**, the W
 - **SZ effect** integrated along sight lines.
 - **redshift-space + Tracking IGM by tomography** in galaxy surveys.
 
-XMM-Newton + Chandra detected hints; **eROSITA** + future X-ray missions (Athena) will map systematically.
+XMM-Newton + Chandra detected hints. **eROSITA** + future X-ray missions (Athena) will map systematically.
 
 see [[Missing baryons]].
 
 ## the cosmic web
 
-the IGM is structured as a **cosmic web**: filaments connecting galaxy clusters, with vast voids in between. simulations (Millennium, IllustrisTNG) reproduce this structure from $\Lambda$CDM initial conditions.
+the IGM is structured as a **cosmic web**: filaments connecting galaxy clusters, with large voids in between. simulations (Millennium, IllustrisTNG) reproduce this structure from $\Lambda$CDM initial conditions.
 
 filament gas: warm, low-density, contributes most of the IGM mass. cluster cores: hot, dense, contributes most of the X-ray emission.
 
@@ -70,6 +70,10 @@ major IGM probes:
 - **galaxy-IGM cross-correlations**: track the gas around galaxies.
 - **21 cm tomography** (future): Nabokov + SKA. trace neutral H at high $z$.
 - **fast radio bursts (FRBs)**: dispersion measure probes electron column density along sight lines.
+
+## where it goes wrong
+
+- the IGM is mostly ionized since $z \approx 6$. the Lyman alpha forest traces its small neutral fraction.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

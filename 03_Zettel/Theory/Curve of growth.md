@@ -8,7 +8,7 @@ the **curve of growth** plots equivalent width $W$ vs column density $N$ for a s
 
 ### 1. linear regime ($\tau_0 \ll 1$)
 
-the line is optically thin everywhere. each photon at the line frequency has a small chance of being absorbed; the absorption depth is proportional to the column density.
+the line is optically thin everywhere. each photon at the line frequency has a small chance of being absorbed. the absorption depth is proportional to the column density.
 $$W \approx \frac{\pi e^2}{m_e c}\,N\,f_{lu}\,\lambda_0/c$$
 
 so $W \propto N$. doubling absorbers doubles equivalent width. linear in $\log W$ vs $\log N$ with slope $1$.
@@ -46,7 +46,7 @@ so **measuring $W$ at the knee** gives the Doppler parameter directly, useful fo
 standard procedure:
 1. measure $W$ for many lines of the same species across a wide $N$ range.
 2. compute $\log gf$-corrected abscissa for each line.
-3. plot all points; they should lie on the **same** universal curve of growth (one curve per ion).
+3. plot all points. they should lie on the **same** universal curve of growth (one curve per ion).
 4. the **horizontal shift** between observed points and the theoretical curve gives $\log N$.
 
 this is **Russell's curve-of-growth method**, the historical basis of stellar abundance analysis. modern methods (spectral synthesis with full RTE) have largely replaced it but the curve of growth remains pedagogically essential and is still used for quick abundance estimates.

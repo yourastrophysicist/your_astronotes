@@ -2,23 +2,23 @@
 layout: "default"
 title: "Astronomical_Interferometry_MOC"
 ---
-# Astronomical Interferometry — Map of Content
+# Astronomical Interferometry - Map of Content
 
-A.Y. 2025/2026 — **Prof. Mauro D'Onofrio**, University of Padova. Master's-level second-semester course in the Astrophysics and Cosmology programme. exam scheduled **Wednesday 3 June 2026** (oral, after a written component for some sessions). this is now the first exam in the summer block.
+A.Y. 2025/2026, **Prof. Mauro D'Onofrio**, University of Padova. Master's-level second-semester course in the Astrophysics and Cosmology programme. exam scheduled **Wednesday 3 June 2026** (oral, after a written component for some sessions). this is now the first exam in the summer block.
 
 interferometry is the technique that lets us see things smaller than any single telescope can resolve. it is the technology behind every milli-arcsecond image in modern astrophysics, from the imaging of stellar surfaces and YSO disks to the Event Horizon Telescope's M87 black hole picture. by combining the light (or radio waves) from multiple telescopes coherently, we *synthesize* an aperture as large as the largest separation between them. it is *the* high-angular-resolution technique, and the entire course is one long answer to: how does this actually work?
 
-the course covers both **optical/IR interferometry** (Labeyrie's textbook is the spine) and **radio interferometry** (the practical aperture-synthesis techniques behind VLA, ALMA, EVN, EHT). the physics is the same — phase, coherence, Van Cittert-Zernike — but the instruments and operating regimes differ in important ways that this MOC tries to keep clear.
+the course covers both **optical/IR interferometry** (Labeyrie's textbook is the spine) and **radio interferometry** (the practical aperture-synthesis techniques behind VLA, ALMA, EVN, EHT). the physics is the same, phase, coherence, Van Cittert-Zernike, but the instruments and operating regimes differ in important ways that this MOC tries to keep clear.
 
 ## the question this course is trying to answer
 
 > **how do I see something whose angular size is smaller than the diffraction limit of any telescope I can afford to build?**
 
-a single telescope of diameter $D$ has a diffraction-limited resolution $\theta \approx 1.22 \lambda/D$. for $\lambda = 500$ nm and $D = 10$ m: $\theta \approx 0.013''$. for a star at 10 pc with radius like the Sun, the angular diameter is $\sim 10^{-3''}$ — *ten times smaller* than the diffraction limit of the biggest optical telescope. a giant 100 m telescope is technologically infeasible at optical wavelengths.
+a single telescope of diameter $D$ has a diffraction-limited resolution $\theta \approx 1.22 \lambda/D$. for $\lambda = 500$ nm and $D = 10$ m: $\theta \approx 0.013''$. for a star at 10 pc with radius like the Sun, the angular diameter is $\sim 10^{-3''}$, *ten times smaller* than the diffraction limit of the biggest optical telescope. a giant 100 m telescope is technologically infeasible at optical wavelengths.
 
 interferometry's answer: *do not build a 100 m telescope. build two 10 m telescopes 100 m apart, and combine their light coherently*. the angular resolution becomes $\theta \approx \lambda/B$ where $B$ is the **baseline** (separation between telescopes). a 100 m baseline at 500 nm: $\theta \approx 1$ mas, the size of a star at 10 pc.
 
-the catch: I cannot directly form the image. what I measure are **fringe visibilities** — the contrast and phase of the interference pattern. these are *Fourier components* of the source brightness distribution. to get the image back, I must invert a partial Fourier transform, sample by sample, baseline by baseline. this is **aperture synthesis**, the central technique of the field.
+the catch: I cannot directly form the image. what I measure are **fringe visibilities**, the contrast and phase of the interference pattern. these are *Fourier components* of the source brightness distribution. to get the image back, I must invert a partial Fourier transform, sample by sample, baseline by baseline. this is **aperture synthesis**, the central technique of the field.
 
 ## the chain of objects, what we will build
 
@@ -30,7 +30,7 @@ each object is the bridge between two layers of the theory:
 
 - **plane wave** is what comes from a distant point source
 - **coherence** is the statistical property that makes interference fringes possible
-- **visibility** is what an interferometer measures — the complex correlation of two signals
+- **visibility** is what an interferometer measures - the complex correlation of two signals
 - the **Van Cittert-Zernike theorem** says that visibility is the Fourier transform of the source brightness distribution
 - a baseline samples *one* Fourier component at the spatial frequency $\mathbf{u} = \mathbf{B}/\lambda$
 - many baselines sample many Fourier components → the **(u, v) plane**
@@ -41,13 +41,13 @@ so the entire course is an extended answer to *how do I get from a sky brightnes
 
 ## reference texts
 
-- **Labeyrie, Lipson, Nisenson**, *An Introduction to Optical Stellar Interferometry* (CUP 2006) — the spine. comprehensive coverage from Young's experiment to space missions
-- **Thompson, Moran, Swenson**, *Interferometry and Synthesis in Radio Astronomy* (3rd ed., Springer Open Access) — the bible of radio interferometry. dense, rigorous, complete
-- **Haniff**, *Garching primer on optical interferometry* (in source folder) — concise pedagogical introduction
-- **Moellenbrock**, *Calibration and Imaging in Radio Interferometry* (in source folder) — the practical NRAO synthesis-imaging summer school notes
-- **Paladino**, *Lab radio* notes (in source folder) — Padova-specific lab notes on radio interferometry data reduction
-- **Ransom**, *S. Ransom 0818* — the ALMA-era introduction with worked examples
-- **Lyne & Smith**, *Pulsar Astronomy* — for the timing-array applications
+- **Labeyrie, Lipson, Nisenson**, *An Introduction to Optical Stellar Interferometry* (CUP 2006) - the spine. full coverage from Young's experiment to space missions
+- **Thompson, Moran, Swenson**, *Interferometry and Synthesis in Radio Astronomy* (3rd ed., Springer Open Access) - the standard reference of radio interferometry. dense, rigorous, complete
+- **Haniff**, *Garching primer on optical interferometry* (in source folder) - concise pedagogical introduction
+- **Moellenbrock**, *Calibration and Imaging in Radio Interferometry* (in source folder) - the practical NRAO synthesis-imaging summer school notes
+- **Paladino**, *Lab radio* notes (in source folder) - Padova-specific lab notes on radio interferometry data reduction
+- **Ransom**, *S. Ransom 0818* - the ALMA-era introduction with worked examples
+- **Lyne & Smith**, *Pulsar Astronomy* - for the timing-array applications
 
 ## how to use this map
 
@@ -56,234 +56,234 @@ every blue link drops into a single concept zettel. recommended reading order fo
 1. **read this MOC top to bottom** to get the dependency graph
 2. **for each block, read the linked zettels** in order
 3. **for each block, work through the relevant chapters of Labeyrie** for the optical side, and Paladino's notes for the radio side
-4. **for the imaging blocks (3, 8, 9), play with APSYNSIM** — the interactive aperture-synthesis simulator in the source folder (`apsynsim/` and `APSYNSIM-master/`). it is the single most useful pedagogical tool for understanding (u, v) coverage, dirty images, and CLEAN
+4. **for the imaging blocks (3, 8, 9), play with APSYNSIM** - the interactive aperture-synthesis simulator in the source folder (`apsynsim/` and `APSYNSIM-master/`). it is the single most useful pedagogical tool for understanding (u, v) coverage, dirty images, and CLEAN
 5. **for past exam preparation**, the project folder `05_Projects/Exam/First Year/Interferometry Exam 2026/` will hold the question lists once written
 
 every zettel follows the same pattern: motivation, math, physical interpretation, instrument example, science use case.
 
-## block 0 — course frame
+## block 0 - course frame
 
 before any physics, just *what is this course, who teaches it, what is the exam*.
 
-- [[Interferometry course intro]] — instructor, scope, how the optical and radio halves fit together
-- [[Interferometry exam rules]] — exam format, scope, how to study
-- [[Interferometry equation sheet]] — every formula I might want, organized for fast lookup
-- [[Figure bank - interferometry]] — visual index for the scientific figures added across the zettels
-- [[Why interferometry]] — the angular-resolution motivation and the science it enables
+- [[Interferometry course intro]] - instructor, scope, how the optical and radio halves fit together
+- [[Interferometry exam rules]] - exam format, scope, how to study
+- [[Interferometry equation sheet]] - every formula I might want, organized for fast lookup
+- [[Figure bank - interferometry]] - visual index for the scientific figures added across the zettels
+- [[Why interferometry]] - the angular-resolution motivation and the science it enables
 
 ---
 
-## block 1 — the physics fundamentals
+## block 1 - the physics fundamentals
 
 before any interferometer, the underlying physics: light is a wave, waves superpose, superposition produces interference. once we have these in hand, every interferometer is "just" a clever way to make two waves from the same source meet at a detector.
 
-- [[Light waves and the EM spectrum]] — wave nature, $c = \lambda\nu$, refractive index, visible 380-750 nm
-- [[Plane waves and Huygens principle]] — the model of light as a propagating disturbance, Huygens construction for diffraction
-- [[Superposition and interference]] — adding two waves, Young's two-slit experiment, fringe spacing $\lambda L/d$
-- [[Electromagnetic waves and photons]] — wave-particle duality and why interferometry needs the wave picture
-- [[Optical path difference OPD]] — the master variable that drives the fringe pattern
-- [[Fresnel-Arago laws]] — when polarized waves can and cannot interfere
-- [[Young experiment as a stellar interferometer]] — Stéphan and Michelson's insight: use the slit experiment on the sky to measure $\theta$
-- [[Fringe visibility and contrast]] — $V = (I_{\max} - I_{\min})/(I_{\max} + I_{\min})$, the observable
+- [[Light waves and the EM spectrum]] - wave nature, $c = \lambda\nu$, refractive index, visible 380-750 nm
+- [[Plane waves and Huygens principle]] - the model of light as a propagating disturbance, Huygens construction for diffraction
+- [[Superposition and interference]] - adding two waves, Young's two-slit experiment, fringe spacing $\lambda L/d$
+- [[Electromagnetic waves and photons]] - wave-particle duality and why interferometry needs the wave picture
+- [[Optical path difference OPD]] - the master variable that drives the fringe pattern
+- [[Fresnel-Arago laws]] - when polarized waves can and cannot interfere
+- [[Young experiment as a stellar interferometer]] - Stéphan and Michelson's insight: use the slit experiment on the sky to measure $\theta$
+- [[Fringe visibility and contrast]] - $V = (I_{\max} - I_{\min})/(I_{\max} + I_{\min})$, the observable
 
-### block 1.5 — classical-optics interferometers (D'Onofrio Lezione 1-2)
+### block 1.5 - classical-optics interferometers (D'Onofrio Lezione 1-2)
 
 before astronomical interferometers, the laboratory ones. D'Onofrio's course develops these in detail because every astronomical interferometer is descended from one of them.
 
-- [[Wavefront-division interferometers]] — Young, Fresnel double mirror, Fresnel biprism, Lloyd mirror
-- [[Amplitude-division interferometers]] — Michelson lab, Mach-Zehnder, Sagnac, Fabry-Perot
-- [[Fresnel double mirror]] — two-mirror geometry producing two virtual sources
-- [[Fresnel biprism]] — single prism with two refracting halves
-- [[Lloyd mirror]] — single grazing-incidence mirror, the simplest two-source setup
-- [[Michelson laboratory interferometer]] — beam-splitter + two mirrors, the workhorse of metrology
-- [[Mach-Zehnder interferometer]] — two beam splitters, quantum-information friendly
-- [[Sagnac interferometer]] — counter-propagating beams in a closed loop, rotation-sensitive
-- [[Fabry-Perot interferometer]] — multiple-beam interference between two parallel mirrors
-- [[Beam splitter physics]] — partial reflection at a dielectric interface, $\pi$-phase asymmetry
-- [[Fringes of equal inclination]] — circular fringes from a thin film at varying angles
-- [[Fringes of equal thickness]] — straight or curved fringes from a wedge film
-- [[Newton's rings]] — concentric fringes from an air gap between a lens and a flat
+- [[Wavefront-division interferometers]] - Young, Fresnel double mirror, Fresnel biprism, Lloyd mirror
+- [[Amplitude-division interferometers]] - Michelson lab, Mach-Zehnder, Sagnac, Fabry-Perot
+- [[Fresnel double mirror]] - two-mirror geometry producing two virtual sources
+- [[Fresnel biprism]] - single prism with two refracting halves
+- [[Lloyd mirror]] - single grazing-incidence mirror, the simplest two-source setup
+- [[Michelson laboratory interferometer]] - beam-splitter + two mirrors, the workhorse of metrology
+- [[Mach-Zehnder interferometer]] - two beam splitters, quantum-information friendly
+- [[Sagnac interferometer]] - counter-propagating beams in a closed loop, rotation-sensitive
+- [[Fabry-Perot interferometer]] - multiple-beam interference between two parallel mirrors
+- [[Beam splitter physics]] - partial reflection at a dielectric interface, $\pi$-phase asymmetry
+- [[Fringes of equal inclination]] - circular fringes from a thin film at varying angles
+- [[Fringes of equal thickness]] - straight or curved fringes from a wedge film
+- [[Newton's rings]] - concentric fringes from an air gap between a lens and a flat
 
 ---
 
-## block 2 — interference, diffraction, and coherence
+## block 2 - interference, diffraction, and coherence
 
 the formal toolkit of wave optics. coherence is what makes fringes possible. the Van Cittert-Zernike theorem is the single most important result in this course.
 
-- [[Fraunhofer diffraction]] — far-field approximation, diffraction integral as a Fourier transform
-- [[Diffraction patterns of simple apertures]] — single slit (sinc), circular aperture (Airy), rectangular, double slit
-- [[Point spread function]] — the diffraction-limited image of a point source
-- [[Optical transfer function]] — Fourier transform of the PSF, the spatial-frequency response of an optical system
-- [[Abbe experiment and Fourier optics]] — image formation as spatial-frequency selection: aperture cutoff, OTF/MTF, and why resolution is Fourier bandwidth
-- [[Coherent vs incoherent imaging]] — when waves add as amplitudes vs when they add as intensities
-- [[Spatial coherence]] — correlation of the wave at two points, what allows fringes between two apertures
-- [[Temporal coherence]] — correlation in time, sets the maximum optical-path difference for fringes
-- [[Wiener-Khinchin theorem]] — autocorrelation and power spectrum as Fourier pairs, the bridge between coherence, spectra, and correlators
-- [[Coherence function and visibility]] — the math link: $V = \lvert\gamma_{12}\rvert$ where $\gamma_{12}$ is the normalized cross-correlation
-- [[Van Cittert-Zernike theorem]] — **the central theorem**: visibility is the Fourier transform of the source brightness distribution
-- [[Photon noise and statistics]] — Poisson statistics, the photon-noise floor of every interferometric measurement
+- [[Fraunhofer diffraction]] - far-field approximation, diffraction integral as a Fourier transform
+- [[Diffraction patterns of simple apertures]] - single slit (sinc), circular aperture (Airy), rectangular, double slit
+- [[Point spread function]] - the diffraction-limited image of a point source
+- [[Optical transfer function]] - Fourier transform of the PSF, the spatial-frequency response of an optical system
+- [[Abbe experiment and Fourier optics]] - image formation as spatial-frequency selection: aperture cutoff, OTF/MTF, and why resolution is Fourier bandwidth
+- [[Coherent vs incoherent imaging]] - when waves add as amplitudes vs when they add as intensities
+- [[Spatial coherence]] - correlation of the wave at two points, what allows fringes between two apertures
+- [[Temporal coherence]] - correlation in time, sets the maximum optical-path difference for fringes
+- [[Wiener-Khinchin theorem]] - autocorrelation and power spectrum as Fourier pairs, the bridge between coherence, spectra, and correlators
+- [[Coherence function and visibility]] - the math link: $V = \lvert\gamma_{12}\rvert$ where $\gamma_{12}$ is the normalized cross-correlation
+- [[Van Cittert-Zernike theorem]] - **the central theorem**: visibility is the Fourier transform of the source brightness distribution
+- [[Photon noise and statistics]] - Poisson statistics, the photon-noise floor of every interferometric measurement
 
 ---
 
-## block 3 — aperture synthesis
+## block 3 - aperture synthesis
 
-the engineering of building an image from many baselines. a single baseline samples one Fourier component; an array samples many; we Fourier-invert. the $(u, v)$ plane and its sampling are the unifying picture.
+the engineering of building an image from many baselines. a single baseline samples one Fourier component. an array samples many. we Fourier-invert. the $(u, v)$ plane and its sampling are the unifying picture.
 
-- [[Aperture synthesis principle]] — multiple separated apertures = synthetic large aperture, sampling the (u, v) plane
-- [[The (u, v) plane]] — projection of baselines on the sky, why Earth rotation makes the sampling track elliptical arcs
-- [[Earth-rotation aperture synthesis]] — using Earth's rotation to fill the (u, v) plane over a night
-- [[Optimal array geometry]] — circular, Y, T, configurations: tradeoffs between resolution and snapshot fidelity
-- [[Dirty beam and dirty image]] — the synthesized PSF and the convolved image straight from the (u, v) data
-- [[The phase problem in interferometry]] — turbulent atmosphere randomizes phases, why visibility amplitude is preserved but phase is not
-- [[Phase closure]] — closure phase of three baselines is atmosphere-independent, the key to optical imaging
-- [[Closure amplitude]] — closure amplitude of four baselines is gain-independent
-- [[Heterodyne vs direct detection]] — radio mixes signals down to RF before correlation; optical has no oscillators, must combine waves directly
-- [[Crowding limitation]] — fundamental limit on the field of view for a sparse array, why we cannot image the whole sky at once
-
----
-
-## block 4 — optical effects of the atmosphere
-
-the atmosphere is the worst enemy of optical interferometry and a manageable nuisance for radio. understanding *why* unlocks the techniques to get around it.
-
-- [[Atmospheric turbulence overview]] — the seeing, $r_0$, and isoplanatic patch as observable consequences of atmospheric turbulence
-- [[Kolmogorov turbulence]] — the canonical model, $D(r) \propto r^{2/3}$, the inertial range
-- [[Structure function and correlation function]] — $D(r), B(r)$, the statistical descriptors of phase fluctuations
-- [[Fried parameter $r_0$]] — the size of the patch over which atmospheric phase is coherent, $r_0 \sim 10$ cm at 500 nm
-- [[Isoplanatic patch]] — the angular size over which the atmospheric distortion is the same, $\theta_0 \sim$ a few arcseconds
-- [[Frozen turbulence and Taylor hypothesis]] — wind sweeping a frozen turbulent screen, the temporal proxy for spatial fluctuations
-- [[Scintillation and twinkling]] — intensity fluctuations from refraction, the visible "twinkle" of stars
-- [[Adaptive optics]] — measure the wavefront, deform a mirror, undo the distortion in real time
-- [[Wavefront sensors]] — Shack-Hartmann, pyramid, curvature: how I measure the distortion
-- [[Deformable mirrors and tip-tilt]] — the actuator side, how I correct the distortion
-- [[Guide stars and laser guide stars]] — the reference object I lock onto, natural vs sodium-laser
+- [[Aperture synthesis principle]] - multiple separated apertures = synthetic large aperture, sampling the (u, v) plane
+- [[The (u, v) plane]] - projection of baselines on the sky, why Earth rotation makes the sampling track elliptical arcs
+- [[Earth-rotation aperture synthesis]] - using Earth's rotation to fill the (u, v) plane over a night
+- [[Optimal array geometry]] - circular, Y, T, configurations: tradeoffs between resolution and snapshot fidelity
+- [[Dirty beam and dirty image]] - the synthesized PSF and the convolved image straight from the (u, v) data
+- [[The phase problem in interferometry]] - turbulent atmosphere randomizes phases, why visibility amplitude is preserved but phase is not
+- [[Phase closure]] - closure phase of three baselines is atmosphere-independent, the key to optical imaging
+- [[Closure amplitude]] - closure amplitude of four baselines is gain-independent
+- [[Heterodyne vs direct detection]] - radio mixes signals down to RF before correlation, optical has no oscillators, must combine waves directly
+- [[Crowding limitation]] - fundamental limit on the field of view for a sparse array, why we cannot image the whole sky at once
 
 ---
 
-## block 5 — single-aperture high-resolution techniques
+## block 4 - optical effects of the atmosphere
+
+the atmosphere is the worst enemy of optical interferometry and a manageable nuisance for radio. understanding *why* gives the techniques to get around it.
+
+- [[Atmospheric turbulence overview]] - the seeing, $r_0$, and isoplanatic patch as observable consequences of atmospheric turbulence
+- [[Kolmogorov turbulence]] - the canonical model, $D(r) \propto r^{2/3}$, the inertial range
+- [[Structure function and correlation function]] - $D(r), B(r)$, the statistical descriptors of phase fluctuations
+- [[Fried parameter $r_0$]] - the size of the patch over which atmospheric phase is coherent, $r_0 \sim 10$ cm at 500 nm
+- [[Isoplanatic patch]] - the angular size over which the atmospheric distortion is the same, $\theta_0 \sim$ a few arcseconds
+- [[Frozen turbulence and Taylor hypothesis]] - wind sweeping a frozen turbulent screen, the temporal proxy for spatial fluctuations
+- [[Scintillation and twinkling]] - intensity fluctuations from refraction, the visible "twinkle" of stars
+- [[Adaptive optics]] - measure the wavefront, deform a mirror, undo the distortion in real time
+- [[Wavefront sensors]] - Shack-Hartmann, pyramid, curvature: how I measure the distortion
+- [[Deformable mirrors and tip-tilt]] - the actuator side, how I correct the distortion
+- [[Guide stars and laser guide stars]] - the reference object I lock onto, natural vs sodium-laser
+
+---
+
+## block 5 - single-aperture high-resolution techniques
 
 before full interferometry, there are tricks to push a single telescope past the seeing-limited resolution. these are the historical precursors and still useful today.
 
-- [[Speckle interferometry]] — short exposures freeze the seeing, autocorrelation recovers the diffraction-limited power spectrum
-- [[Theory of speckle interferometry]] — the Labeyrie 1970 derivation, the speckle transfer function
-- [[Aperture masking]] — block all but a few patches of the primary, turn the telescope into a multi-element interferometer
-- [[Speckle imaging algorithms]] — Knox-Thompson and triple-correlation (bispectrum) phase reconstruction
-- [[Bispectrum and triple correlation]] — the closure-phase analog for single-aperture work, recovers an image from speckle data
+- [[Speckle interferometry]] - short exposures freeze the seeing, autocorrelation recovers the diffraction-limited power spectrum
+- [[Theory of speckle interferometry]] - the Labeyrie 1970 derivation, the speckle transfer function
+- [[Aperture masking]] - block all but a few patches of the primary, turn the telescope into a multi-element interferometer
+- [[Speckle imaging algorithms]] - Knox-Thompson and triple-correlation (bispectrum) phase reconstruction
+- [[Bispectrum and triple correlation]] - the closure-phase analog for single-aperture work, recovers an image from speckle data
 
 ---
 
-## block 6 — intensity interferometry
+## block 6 - intensity interferometry
 
 a different beast: correlate intensity fluctuations rather than wave amplitudes. relaxes the phase-stability requirements at the cost of much lower sensitivity. invented by Hanbury Brown and Twiss for stellar diameters.
 
-- [[Intensity interferometry concept]] — the HBT effect, $\langle I_1 I_2\rangle - \langle I_1\rangle\langle I_2\rangle \neq 0$ for a coherent source
-- [[Hanbury Brown Twiss effect]] — the foundational experiment, classical and quantum interpretations
-- [[Narrabri stellar interferometer]] — the first instrument that systematically measured stellar diameters this way
-- [[Why intensity interferometry escapes atmospheric phase]] — only intensity correlations are needed; the atmosphere randomizes the wave phase but preserves the intensity correlation
-- [[Sensitivity and modern revival]] — IACT arrays (CTA, VERITAS) revisiting the technique with modern photon-counting detectors
+- [[Intensity interferometry concept]] - the HBT effect, $\langle I_1 I_2\rangle - \langle I_1\rangle\langle I_2\rangle \neq 0$ for a coherent source
+- [[Hanbury Brown Twiss effect]] - the experiment, classical and quantum interpretations
+- [[Narrabri stellar interferometer]] - the first instrument that systematically measured stellar diameters this way
+- [[Why intensity interferometry escapes atmospheric phase]] - only intensity correlations are needed, the atmosphere randomizes the wave phase but preserves the intensity correlation
+- [[Sensitivity and modern revival]] - IACT arrays (CTA, VERITAS) revisiting the technique with modern photon-counting detectors
 
 ---
 
-## block 7 — amplitude interferometry instruments
+## block 7 - amplitude interferometry instruments
 
 the workhorses: optical/IR interferometers that combine wave amplitudes from separated apertures. each has its quirks, and knowing them is what the exam tests.
 
-- [[Michelson stellar interferometer]] — the historical first, 20-foot beam at Mt Wilson, Betelgeuse's diameter (1920)
-- [[Components of a modern interferometer]] — telescopes, beam lines, delay lines, beam combiners, fringe trackers
-- [[Delay lines and path-length equalization]] — keeping the optical path lengths matched to within the coherence length
-- [[Beam combiners]] — pairwise (Michelson), all-on-one (Fizeau), single-mode-fiber, integrated-optics
-- [[Fringe tracking]] — actively locking onto the fringe to compensate for atmospheric and mechanical drift
-- [[VLTI Very Large Telescope Interferometer]] — ESO's 4 × 8m + 4 × 1.8m, baselines 8-130 m, IR
-- [[CHARA array]] — Mt Wilson, six 1m telescopes, 33-330 m baselines, the workhorse for stellar surface imaging
-- [[Large Binocular Telescope LBT]] — two 8m mirrors on one mount, Fizeau-style imaging
-- [[COAST Cambridge Optical Aperture Synthesis Telescope]] — small but historically significant, first true optical aperture synthesis image
-- [[NPOI Navy Prototype Optical Interferometer]] — astrometric and imaging instrument
-- [[Keck interferometer]] — twin 10m telescopes, now decommissioned
+- [[Michelson stellar interferometer]] - the historical first, 20-foot beam at Mt Wilson, Betelgeuse's diameter (1920)
+- [[Components of a modern interferometer]] - telescopes, beam lines, delay lines, beam combiners, fringe trackers
+- [[Delay lines and path-length equalization]] - keeping the optical path lengths matched to within the coherence length
+- [[Beam combiners]] - pairwise (Michelson), all-on-one (Fizeau), single-mode-fiber, integrated-optics
+- [[Fringe tracking]] - actively locking onto the fringe to compensate for atmospheric and mechanical drift
+- [[VLTI Very Large Telescope Interferometer]] - ESO's 4 × 8m + 4 × 1.8m, baselines 8-130 m, IR
+- [[CHARA array]] - Mt Wilson, six 1m telescopes, 33-330 m baselines, the workhorse for stellar surface imaging
+- [[Large Binocular Telescope LBT]] - two 8m mirrors on one mount, Fizeau-style imaging
+- [[COAST Cambridge Optical Aperture Synthesis Telescope]] - small but historically significant, first true optical aperture synthesis image
+- [[NPOI Navy Prototype Optical Interferometer]] - astrometric and imaging instrument
+- [[Keck interferometer]] - twin 10m telescopes, now decommissioned
 
 ---
 
-## block 8 — radio interferometry
+## block 8 - radio interferometry
 
 the parallel universe. radio observations have it easier (no daytime brightness, Earth-rotation aperture synthesis works perfectly, electronics can heterodyne) but harder (huge antennas needed for sensitivity, RFI). the techniques are the same, the practical implementation completely different.
 
-- [[Radio astronomy basics]] — Jansky, antenna temperature, brightness temperature, radio quiet zones, Allen-Mills
-- [[Specific intensity and flux density]] — the language of radio sources: $I_\nu$, $S_\nu$, Jansky, beam integration, and brightness temperature
-- [[Antenna effective area and gain]] — how a dish turns an electromagnetic wave into measurable power, with $A_{\rm e}$, gain, and aperture efficiency
-- [[Beam power pattern of a radio telescope]] — primary beam, beam solid angle, Gaussian beams, and why every antenna measures a weighted sky
-- [[Radiometer equation and SEFD]] — sensitivity from noise statistics: $T_{\rm sys}$, SEFD, bandwidth, integration time, and array RMS
-- [[Radio interferometer architecture]] — antennas, LO, mixer, correlator, the heterodyne chain
-- [[Downconversion of signals in radio interferometers]] — why radio arrays preserve phase by mixing sky frequencies down to IF before digitization
-- [[Digitization quantization and timing in radio interferometry]] — sampling, quantization efficiency, time standards, and why correlators need synchronized data streams
-- [[Two-element correlator]] — the building block: multiply and time-average two voltages
-- [[Connected element interferometer]] — VLA-style, baselines fixed by cabling
-- [[Very Long Baseline Interferometry VLBI]] — antennas around the world, atomic clocks, post-correlation, EVN, VLBA
-- [[Earth rotation synthesis in radio]] — VLA's 12-hour tracks, ALMA's hour-long ones
-- [[ALMA exposure time calculator and sensitivity]] — how observing setup becomes expected RMS through array size, weather, bandwidth, and integration time
-- [[Major radio interferometers]] — VLA, ALMA, EVN, MERLIN, ATCA, GMRT, LOFAR, MeerKAT, SKA
-- [[Event Horizon Telescope EHT]] — the highest-resolution interferometer ever built, M87 and Sgr A*
-- [[Pulsar timing arrays as interferometers]] — NANOGrav, EPTA, PPTA: nanosecond-level timing across many pulsars as a galactic-scale GW detector
+- [[Radio astronomy basics]] - Jansky, antenna temperature, brightness temperature, radio quiet zones, Allen-Mills
+- [[Specific intensity and flux density]] - the language of radio sources: $I_\nu$, $S_\nu$, Jansky, beam integration, and brightness temperature
+- [[Antenna effective area and gain]] - how a dish turns an electromagnetic wave into measurable power, with $A_{\rm e}$, gain, and aperture efficiency
+- [[Beam power pattern of a radio telescope]] - primary beam, beam solid angle, Gaussian beams, and why every antenna measures a weighted sky
+- [[Radiometer equation and SEFD]] - sensitivity from noise statistics: $T_{\rm sys}$, SEFD, bandwidth, integration time, and array RMS
+- [[Radio interferometer architecture]] - antennas, LO, mixer, correlator, the heterodyne chain
+- [[Downconversion of signals in radio interferometers]] - why radio arrays preserve phase by mixing sky frequencies down to IF before digitization
+- [[Digitization quantization and timing in radio interferometry]] - sampling, quantization efficiency, time standards, and why correlators need synchronized data streams
+- [[Two-element correlator]] - the building block: multiply and time-average two voltages
+- [[Connected element interferometer]] - VLA-style, baselines fixed by cabling
+- [[Very Long Baseline Interferometry VLBI]] - antennas around the world, atomic clocks, post-correlation, EVN, VLBA
+- [[Earth rotation synthesis in radio]] - VLA's 12-hour tracks, ALMA's hour-long ones
+- [[ALMA exposure time calculator and sensitivity]] - how observing setup becomes expected RMS through array size, weather, bandwidth, and integration time
+- [[Major radio interferometers]] - VLA, ALMA, EVN, MERLIN, ATCA, GMRT, LOFAR, MeerKAT, SKA
+- [[Event Horizon Telescope EHT]] - the highest-resolution interferometer ever built, M87 and Sgr A*
+- [[Pulsar timing arrays as interferometers]] - NANOGrav, EPTA, PPTA: nanosecond-level timing across many pulsars as a galactic-scale GW detector
 
 ---
 
-## block 9 — calibration and imaging
+## block 9 - calibration and imaging
 
 raw visibilities are not images. the path from voltages to a science-ready image is calibration → flagging → deconvolution → self-calibration → cleaning. this block covers the algorithmic side.
 
-- [[Calibration overview]] — bandpass, flux, phase calibrators, the ABC of radio reduction
-- [[Steps in radio interferometric observations]] — the full observing story: science goal, setup, calibrators, flagging, calibration, imaging, and validation
-- [[Bandpass calibration]] — flatten the frequency response of each antenna
-- [[Flux calibration]] — anchor the absolute scale to a known source (3C 286, 3C 48)
-- [[Phase referencing]] — alternate between the science target and a nearby calibrator to track atmospheric/instrumental phase
-- [[Self-calibration]] — use the data on the science target to refine the gain and phase solutions iteratively
-- [[CLEAN algorithm]] — the iterative point-source deconvolution, Högbom 1974
-- [[Maximum entropy method]] — the Bayesian alternative for extended sources, Cornwell-Evans
-- [[Deconvolution algorithms compared]] — CLEAN vs MEM vs modern Bayesian (regularized maximum likelihood)
-- [[Imaging artifacts]] — sidelobes, sidelobe confusion, primary beam attenuation, what they look like and how to avoid them
-- [[Polarization in interferometry]] — Stokes parameters, parallel-hand and cross-hand correlations, Faraday rotation
-- [[Mosaicking]] — combining multiple pointings to map a region larger than the primary beam
+- [[Calibration overview]] - bandpass, flux, phase calibrators, the ABC of radio reduction
+- [[Steps in radio interferometric observations]] - the full observing story: science goal, setup, calibrators, flagging, calibration, imaging, and validation
+- [[Bandpass calibration]] - flatten the frequency response of each antenna
+- [[Flux calibration]] - anchor the absolute scale to a known source (3C 286, 3C 48)
+- [[Phase referencing]] - alternate between the science target and a nearby calibrator to track atmospheric/instrumental phase
+- [[Self-calibration]] - use the data on the science target to refine the gain and phase solutions iteratively
+- [[CLEAN algorithm]] - the iterative point-source deconvolution, Högbom 1974
+- [[Maximum entropy method]] - the Bayesian alternative for extended sources, Cornwell-Evans
+- [[Deconvolution algorithms compared]] - CLEAN vs MEM vs modern Bayesian (regularized maximum likelihood)
+- [[Imaging artifacts]] - sidelobes, sidelobe confusion, primary beam attenuation, what they look like and how to avoid them
+- [[Polarization in interferometry]] - Stokes parameters, parallel-hand and cross-hand correlations, Faraday rotation
+- [[Mosaicking]] - combining multiple pointings to map a region larger than the primary beam
 
 ---
 
-## block 10 — special techniques: nulling, coronagraphy, hypertelescope
+## block 10 - special techniques - nulling, coronagraphy, hypertelescope
 
 interferometry-adjacent techniques for high-contrast imaging and pushing the resolution further.
 
-- [[Nulling interferometry]] — destructive on-axis interference suppresses bright stars, lets faint companions through
-- [[Bracewell nuller]] — the original 1978 idea: phase-flip half the array to null the central star
-- [[Coronagraphy]] — block the starlight before it reaches the detector. Lyot, phase-mask, four-quadrant, vortex
-- [[Apodization]] — taper the aperture amplitude or phase to suppress diffraction wings
-- [[Hypertelescope]] — Labeyrie's idea: pupil densification turns sparse-array interferometry into direct imaging
+- [[Nulling interferometry]] - destructive on-axis interference suppresses bright stars, lets faint companions through
+- [[Bracewell nuller]] - the original 1978 idea: phase-flip half the array to null the central star
+- [[Coronagraphy]] - block the starlight before it reaches the detector. Lyot, phase-mask, four-quadrant, vortex
+- [[Apodization]] - taper the aperture amplitude or phase to suppress diffraction wings
+- [[Hypertelescope]] - Labeyrie's idea: pupil densification turns sparse-array interferometry into direct imaging
 
 ---
 
-## block 11 — interferometric science
+## block 11 - interferometric science
 
 what we have actually learned with this technique. organized roughly by source class.
 
-- [[Stellar diameters and limb darkening]] — the canonical first measurement, Michelson 1920 → CHARA 2010s
-- [[Stellar surface imaging]] — spots, hot spots, granulation; Altair, Vega, Betelgeuse imaged
-- [[Pulsating stars and Mira variables]] — diameter changes with pulsation phase
-- [[Young stellar object disks]] — inner-disk imaging, dust-sublimation radius measurements
-- [[Dust shells and Wolf-Rayet stars]] — circumstellar geometry of mass-losing stars
-- [[Binary star orbits]] — astrometric orbits at sub-mas precision, dynamical masses
-- [[Galactic Center Sgr A and S-stars]] — VLTI's GRAVITY: orbits of S-stars around Sgr A*, test of GR
-- [[AGN and supermassive black holes]] — EHT's M87 and Sgr A* shadow images, jet bases
-- [[Exoplanet imaging]] — high-contrast direct detection, atmosphere characterization
-- [[Cosmological masers]] — VLBI of water masers in NGC 4258, geometric distance measurement
-- [[Pulsar interferometry]] — timing-array gravitational waves, pulsar position astrometry
-- [[Radiation mechanisms in astronomy and interferometers]] — thermal dust, free-free, synchrotron, spectral lines, and masers as the physical origin of the brightness maps
+- [[Stellar diameters and limb darkening]] - the canonical first measurement, Michelson 1920 → CHARA 2010s
+- [[Stellar surface imaging]] - spots, hot spots, granulation, Altair, Vega, Betelgeuse imaged
+- [[Pulsating stars and Mira variables]] - diameter changes with pulsation phase
+- [[Young stellar object disks]] - inner-disk imaging, dust-sublimation radius measurements
+- [[Dust shells and Wolf-Rayet stars]] - circumstellar geometry of mass-losing stars
+- [[Binary star orbits]] - astrometric orbits at sub-mas precision, dynamical masses
+- [[Galactic Center Sgr A and S-stars]] - VLTI's GRAVITY: orbits of S-stars around Sgr A*, test of GR
+- [[AGN and supermassive black holes]] - EHT's M87 and Sgr A* shadow images, jet bases
+- [[Exoplanet imaging]] - high-contrast direct detection, atmosphere characterization
+- [[Cosmological masers]] - VLBI of water masers in NGC 4258, geometric distance measurement
+- [[Pulsar interferometry]] - timing-array gravitational waves, pulsar position astrometry
+- [[Radiation mechanisms in astronomy and interferometers]] - thermal dust, free-free, synchrotron, spectral lines, and masers as the physical origin of the brightness maps
 
 ---
 
-## block 12 — future projects
+## block 12 - future projects
 
 ground-based and space-based instruments under development or planned.
 
-- [[Future ground-based optical]] — OVLA, CARLINA hypertelescopes, OHANA fiber-link
-- [[Future space-based]] — Darwin, TPF, SIM, the Exo-Earth Imager
-- [[The Square Kilometre Array SKA]] — the next-generation radio array, two sites, cm-to-m wavelengths
-- [[ngVLA Next Generation VLA]] — NRAO's mid-frequency successor to VLA, 2030s
-- [[Lunar interferometry concepts]] — far-side of the Moon as the radio-quietest place in the inner solar system
+- [[Future ground-based optical]] - OVLA, CARLINA hypertelescopes, OHANA fiber-link
+- [[Future space-based]] - Darwin, TPF, SIM, the Exo-Earth Imager
+- [[The Square Kilometre Array SKA]] - the next-generation radio array, two sites, cm-to-m wavelengths
+- [[ngVLA Next Generation VLA]] - NRAO's mid-frequency successor to VLA, 2030s
+- [[Lunar interferometry concepts]] - far-side of the Moon as the radio-quietest place in the inner solar system
 
 ---
 
@@ -310,24 +310,24 @@ every interferometry exam question maps to one of these boxes. recognising the b
 
 Canonical and modern arXiv astro-ph.IM benchmark papers underlying the interferometric theory and calibration techniques above.
 
-- [[Monnier_2003_Optical_Interferometry_in_Astronomy\|Monnier (2003) — Optical Interferometry in Astronomy]] — Van Cittert-Zernike theorem, closure phase/amplitude derivations
-- [[GRAVITY_Collaboration_2018_Orbital_Motion_ISCO_SgrA\|GRAVITY Collaboration (2018) — Orbital Motions Near the ISCO of Sgr A*]] — VLTI astrometric phase-referencing, strong-field orbital motion
-- [[ALMA_Partnership_2015_HL_Tau_Long_Baseline_Campaign\|ALMA Partnership (2015) — The 2014 ALMA Long Baseline Campaign (HL Tau)]] — long-baseline aperture synthesis, protoplanetary disk substructure
+- [[Monnier_2003_Optical_Interferometry_in_Astronomy\|Monnier (2003) - Optical Interferometry in Astronomy]] - Van Cittert-Zernike theorem, closure phase/amplitude derivations
+- [[GRAVITY_Collaboration_2018_Orbital_Motion_ISCO_SgrA\|GRAVITY Collaboration (2018) - Orbital Motions Near the ISCO of Sgr A*]] - VLTI astrometric phase-referencing, strong-field orbital motion
+- [[ALMA_Partnership_2015_HL_Tau_Long_Baseline_Campaign\|ALMA Partnership (2015) - The 2014 ALMA Long Baseline Campaign (HL Tau)]] - long-baseline aperture synthesis, protoplanetary disk substructure
 
 ---
 
 ## related MOCs and where this work leaks into
 
-- [[Observational_Cosmology_MOC]] — radio surveys, ALMA continuum studies of high-$z$ galaxies
-- 04_Atlas/Lab_High-Energy_MOC — instrumentation, calibration philosophy carries across wavelengths
-- [[Mathematical_Numerical_Methods_MOC]] — FFT and image-deconvolution algorithms
-- [[Fundamentals_Astrophysics_Cosmology_MOC]] — angular-diameter distance, Tolman surface brightness
-- [[General_Relativity_MOC]] — EHT and S-star tests of GR
-- Moc — the master mind-map
+- [[Observational_Cosmology_MOC]] - radio surveys, ALMA continuum studies of high-$z$ galaxies
+- 04_Atlas/Lab_High-Energy_MOC - instrumentation, calibration philosophy carries across wavelengths
+- [[Mathematical_Numerical_Methods_MOC]] - FFT and image-deconvolution algorithms
+- [[Fundamentals_Astrophysics_Cosmology_MOC]] - angular-diameter distance, Tolman surface brightness
+- [[General_Relativity_MOC]] - EHT and S-star tests of GR
+- Moc - the master mind-map
 
 ---
 
-## appendix — exam project folder
+## appendix - exam project folder
 
 the exam project lives at `05_Projects/Exam/First Year/Interferometry Exam 2026/`. it contains:
 
@@ -629,7 +629,7 @@ Every zettel in this map ends with a short sourced section: a definition quoted 
 
 ## Astronomical Interferometry Oral Exam Defense Preparation Matrix
 
-### Question 1: The Van Cittert-Zernike Theorem & Spatial Coherence
+### Question 1 - The Van Cittert-Zernike Theorem & Spatial Coherence
 - **Blackboard Prompt**: *State and prove the Van Cittert-Zernike theorem. How does the mutual coherence function of light from an incoherent source relate to its spatial intensity distribution?*
 - **Starting Equation**: 
   $$\mu(\vec{r}_1, \vec{r}_2, 0) = \frac{\iint I(\vec{s}) e^{-i \frac{2\pi}{\lambda} \vec{s} \cdot (\vec{r}_1 - \vec{r}_2)} d\Omega}{\iint I(\vec{s}) d\Omega}$$
@@ -643,7 +643,7 @@ Every zettel in this map ends with a short sourced section: a definition quoted 
 - **Professor Trap Points**:
   - *Trap*: Confusing temporal coherence with spatial coherence. Temporal coherence depends on spectral bandwidth $\Delta\nu$ (coherence length $l_c = c/\Delta\nu$), whereas spatial coherence depends on source angular diameter $\theta_{\rm source}$ (coherence area $A_c \sim \lambda^2 / \theta^2$).
 
-### Question 2: Closure Phase & Atmospheric Phase Elimination
+### Question 2 - Closure Phase & Atmospheric Phase Elimination
 - **Blackboard Prompt**: *Atmospheric turbulence introduces arbitrary, time-varying phase shifts above each telescope: $\phi_i(t)$. Prove that the closure phase around a closed loop of three telescopes is completely immune to station-based atmospheric phase corruptions.*
 - **Starting Equation**: 
   $$\Phi_{123} = \phi_{12}^{\rm obs} + \phi_{23}^{\rm obs} + \phi_{31}^{\rm obs}$$
@@ -659,7 +659,7 @@ Every zettel in this map ends with a short sourced section: a definition quoted 
 - **Professor Trap Points**:
   - *Trap*: For an array of $N$ antennas, how many independent closure phases are there? Total baselines: $N(N-1)/2$. Number of independent closure phases is $(N-1)(N-2)/2$. The fraction of phase information recovered is $(N-2)/N$, which approaches $100\%$ as $N$ becomes large (e.g. ALMA, VLA).
 
-### Question 3: UV Coverage, Dirty Beam, and the CLEAN Deconvolution Algorithm
+### Question 3 - UV Coverage, Dirty Beam, and the CLEAN Deconvolution Algorithm
 - **Blackboard Prompt**: *Why does an interferometer produce a dirty map with sidelobes? Walk through Högbom's CLEAN algorithm and explain how it reconstructs the true sky brightness distribution.*
 - **Derivation & Blackboard Walkthrough**:
   1. The sampled visibility is $V_{\rm sampled}(u,v) = V(u,v) \cdot S(u,v)$, where $S(u,v)$ is the sampling function (zero where no baselines exist).
@@ -671,7 +671,7 @@ Every zettel in this map ends with a short sourced section: a definition quoted 
      - Step 1: Find the pixel with maximum absolute intensity in $I_{\rm dirty}$.
      - Step 2: Place a point source component (CLEAN component) at this location with flux $\gamma I_{\rm max}$, where $\gamma \sim 0.05-0.1$ is the loop gain.
      - Step 3: Subtract $\gamma I_{\rm max} \cdot B_{\rm dirty}(x - x_0, y - y_0)$ from the dirty map.
-     - Step 4: Repeat steps 1–3 iteratively until the residual map reaches the noise floor $\sigma_{\rm rms}$.
+     - Step 4: Repeat steps 1-3 iteratively until the residual map reaches the noise floor $\sigma_{\rm rms}$.
      - Step 5: Convolve the accumulated CLEAN point-source model with an idealized elliptical Gaussian (the **CLEAN beam**, fitted to the central peak of $B_{\rm dirty}$).
      - Step 6: Add back the final residuals to produce the final restored image.
 

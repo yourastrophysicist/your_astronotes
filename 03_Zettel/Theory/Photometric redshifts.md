@@ -2,11 +2,11 @@
 layout: "default"
 title: "Photometric redshifts"
 ---
-**photometric redshifts (photo-$z$)** are statistical estimates of galaxy redshifts derived from multi-band imaging rather than slit spectroscopy. While astronomical spectroscopy requires tens of minutes to hours per object on 8–10m telescopes, wide-field imaging surveys (such as DES, Vera C. Rubin / LSST, and *Euclid*) image hundreds of millions of galaxies simultaneously. Accurate photo-$z$ techniques are fundamental to cosmic shear weak lensing, large-scale galaxy clustering, and the determination of galaxy luminosity and stellar mass functions.
+**photometric redshifts (photo-$z$)** are statistical estimates of galaxy redshifts derived from multi-band imaging rather than slit spectroscopy. While astronomical spectroscopy requires tens of minutes to hours per object on 8-10m telescopes, wide-field imaging surveys (such as DES, Vera C. Rubin / LSST, and *Euclid*) image hundreds of millions of galaxies simultaneously. Accurate photo-$z$ techniques are fundamental to cosmic shear weak lensing, large-scale galaxy clustering, and the determination of galaxy luminosity and stellar mass functions.
 
 ---
 
-### physical mechanism: spectral discontinuities
+### physical mechanism - spectral discontinuities
 
 photo-$z$ estimation relies on tracing prominent spectral breaks as they shift through a series of broadband filters:
 
@@ -26,7 +26,7 @@ photo-$z$ estimation relies on tracing prominent spectral breaks as they shift t
 
 ---
 
-### methodologies: template fitting vs machine learning
+### methodologies - template fitting vs machine learning
 
 #### 1. template fitting (frequentist and bayesian)
 - constructs synthetic photometry by convolving a representative library of galaxy SED templates (ellipticals, spirals, starbursts, AGNs) with instrumental filter throughput curves $T_i(\lambda)$ across a redshift grid $z \in [0, 10]$:
@@ -41,7 +41,7 @@ photo-$z$ estimation relies on tracing prominent spectral breaks as they shift t
 
 ---
 
-### bayesian formulation: the benítez (2000) prior
+### bayesian formulation - the benítez (2000) prior
 
 in pure $\chi^2$ template fitting, catastrophic degeneracies occur frequently (e.g., a dusty star-forming galaxy at $z \sim 0.3$ has colors virtually identical to an unreddened Lyman-break galaxy at $z \sim 3$). 
 
@@ -65,12 +65,27 @@ photo-$z$ quality is quantified by two standard metrics evaluated against spectr
 2. **catastrophic outlier fraction ($\eta$)**:
    defined as the fraction of galaxies where $\frac{\lvert \Delta z\rvert}{1 + z_{\rm spec}} > 0.15$. Typically $\eta \sim 1\text{--}5\%$.
 
-#### primary failure mechanisms:
+#### primary failure mechanisms
 - **break confusion**: the $4000$ Å break at $z \sim 0.3$ confused with the Lyman break at $z \sim 3$.
 - **strong emission lines**: young starbursts with extreme equivalent-width $[\mathrm{O\,III}]\,\lambda 5007$ or $\mathrm{H}\alpha$ emission entering a broadband filter mimic a continuum break.
 - **dust-reddening ambiguity**: severe dust extinction $A_V > 2$ reddens the rest-frame UV continuum of a low-$z$ starburst to mimic an unreddened high-$z$ galaxy.
 
 ---
+
+## worked example
+
+when the breaks cross the filters:
+
+- the 4000 Å break enters the r band (6200 Å) at $z = 0.55$ and leaves the z band (9000 Å) at $z = 1.25$
+- the Lyman $\alpha$ break (1216 Å) enters the g band (4700 Å) at $z = 2.9$ and the i band (7500 Å) at $z = 5.2$
+
+the quality is quoted as $\sigma_{\rm NMAD} = 1.48 \times \text{median}\,(\lvert\Delta z\rvert/(1+z))$, and an outlier is a galaxy with $\lvert\Delta z\rvert/(1+z) > 0.15$.
+
+## where it goes wrong
+
+- taking the Balmer break of a galaxy at low redshift for the Lyman break of one at high redshift. these are the catastrophic outliers.
+- the errors are not Gaussian. the probability distribution in $z$ often has two peaks.
+- the spectroscopic sample used to test the method is brighter than the galaxies it is applied to.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

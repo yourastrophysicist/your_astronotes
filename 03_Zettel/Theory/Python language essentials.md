@@ -9,7 +9,7 @@ a fast-path summary of chapter 2 of Mapelli's notes. python as the language I wi
 ## why python
 
 - **fast to write**: no compile step, no type declarations, indentation-based syntax
-- **vast ecosystem**: numpy, scipy, matplotlib, astropy, pandas, scikit-learn — all batteries included for science
+- **large ecosystem**: numpy, scipy, matplotlib, astropy, pandas, scikit-learn, all batteries included for science
 - **fast enough**: when wrapped around C/Fortran via numpy and scipy, python code runs at ~native speed for the heavy loops
 - **the lingua franca**: every paper, every cluster pipeline, every Jupyter notebook in 21st-century astrophysics is python
 
@@ -27,7 +27,7 @@ data = {"a": 1, "b": 2}   # dict
 unique = {1, 2, 3}        # set
 ```
 
-no declarations; types are inferred. `type(x)` to check.
+no declarations. types are inferred. `type(x)` to check.
 
 ## arithmetic
 
@@ -124,7 +124,7 @@ data = np.loadtxt("data.txt", skiprows=1)
 np.savetxt("out.txt", arr, fmt="%.6e")
 ```
 
-`with open(...) as f:` automatically closes the file when the block ends — always use it.
+`with open(...) as f:` automatically closes the file when the block ends, always use it.
 
 ## string formatting
 
@@ -136,7 +136,7 @@ print(f"x = {x:10.4f}")            # padded width
 print(f"name = {name:<10}, value = {value:>5}")     # left/right align
 ```
 
-f-strings are the modern way; older code uses `"x = %.2f" % x` or `"x = {}".format(x)`.
+f-strings are the modern way. older code uses `"x = %.2f" % x` or `"x = {}".format(x)`.
 
 ## errors and exceptions
 
@@ -195,7 +195,7 @@ prints Tim Peters' aphorisms: *Beautiful is better than ugly. Explicit is better
 
 ## see also
 
-- [[Numpy arrays vs Python lists]] — the essential next step
+- [[Numpy arrays vs Python lists]] - the essential next step
 - [[Matplotlib plotting essentials]]
 - [[The conda environment]]
 - [[Linux for the astrophysicist]]

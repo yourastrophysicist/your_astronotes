@@ -9,7 +9,7 @@ title: "Hund's rules"
 apply in this order, breaking ties at each step:
 
 1. **highest $S$** (highest multiplicity). spins want to be parallel to minimise electron-electron repulsion (exchange interaction).
-2. **highest $L$** (given the chosen $S$). orbital angular momenta want to be parallel; orbits with same direction are spatially correlated, reducing repulsion.
+2. **highest $L$** (given the chosen $S$). orbital angular momenta want to be parallel. orbits with same direction are spatially correlated, reducing repulsion.
 3. **lowest $J$ for less-than-half-filled shells**, **highest $J$ for more-than-half-filled**. spin-orbit coupling sign flips at half-filling.
 
 formal statement of rule 3:

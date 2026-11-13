@@ -10,12 +10,12 @@ a spherically symmetric, non-rotating, non-magnetic star in quasi-static equilib
 
 ## the four fundamental equations of stellar structure
 
-### 1. equation of mass conservation:
+### 1. equation of mass conservation
 the mass $M(r)$ enclosed within a spherical shell of radius $r$ and thickness $dr$ with local density $\rho(r)$ is:
 $$\boxed{\, \frac{dM}{dr} = 4\pi r^2 \rho(r) \,}$$
 - boundary conditions: $M(0) = 0$, and $M(R) = M_{\text{total}}$.
 
-### 2. equation of hydrostatic equilibrium:
+### 2. equation of hydrostatic equilibrium
 in each spherical shell, the inward gravitational pull of the enclosed mass $M(r)$ is exactly balanced by the outward net pressure gradient force:
 $$\boxed{\, \frac{dP}{dr} = -\frac{G M(r) \rho(r)}{r^2} \,}$$
 where total pressure $P = P_{\text{gas}} + P_{\text{rad}} = \frac{\rho k_B T}{\mu m_H} + \frac{1}{3} a T^4$.
@@ -23,7 +23,7 @@ where total pressure $P = P_{\text{gas}} + P_{\text{rad}} = \frac{\rho k_B T}{\m
 
 ![stellar-21.png](../../assets/images/stellar-21.png)
 
-### 3. equation of energy conservation:
+### 3. equation of energy conservation
 the luminosity $L(r)$ flowing outward through a sphere of radius $r$ increases by the energy generated in the shell by nuclear fusion $\epsilon(r)$ (and gravitational contraction/expansion):
 $$\boxed{\, \frac{dL}{dr} = 4\pi r^2 \rho(r) \left[\epsilon(r) - \epsilon_\nu + \epsilon_{\text{grav}}\right] \,}$$
 where $\epsilon$ is the nuclear energy generation rate per unit mass (W/kg), and $\epsilon_\nu$ is energy lost to escaping neutrinos.
@@ -31,17 +31,17 @@ where $\epsilon$ is the nuclear energy generation rate per unit mass (W/kg), and
 
 ![stellar-22.png](../../assets/images/stellar-22.png)
 
-### 4. equation of energy transport:
+### 4. equation of energy transport
 governs the temperature gradient $dT/dr$ required to transport luminosity $L(r)$ outward. energy flows via the mechanism that requires the smallest temperature gradient (conduction, radiation, or convection).
 
-#### A. Radiative transport:
+#### A. Radiative transport
 when energy is carried by photons diffusing through matter with Rosseland mean opacity $\kappa$ (diffusion approximation):
 $$\boxed{\, \left(\frac{dT}{dr}\right)_{\text{rad}} = -\frac{3 \kappa \rho L(r)}{16\pi a c r^2 T^3} = -\frac{3 \kappa \rho}{4 a c T^3} \frac{F(r)}{\pi} \,}$$
 where $a = 4\sigma/c$ is the radiation constant.
 
 ![stellar-23.png](../../assets/images/stellar-23.png)
 
-#### B. Convective transport and the Schwarzschild criterion:
+#### B. Convective transport and the Schwarzschild criterion
 Karl Schwarzschild proved that a fluid element displaced upward adiabatically will become buoyant and unstable to **convection** if the actual temperature gradient is steeper than the adiabatic gradient:
 $$\boxed{\, \left\lvert\frac{dT}{dr}\right\rvert_{\text{actual}} > \left\lvert\frac{dT}{dr}\right\rvert_{\text{ad}} = \left(1 - \frac{1}{\gamma}\right) \frac{T}{P} \left\lvert\frac{dP}{dr}\right\rvert \,}$$
 

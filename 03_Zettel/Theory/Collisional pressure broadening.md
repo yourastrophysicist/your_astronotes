@@ -38,7 +38,7 @@ for the same $T_{\rm eff}$, a **dwarf** has higher gas pressure (and density) th
 | H Balmer | very strong Stark wings | narrow, deep |
 | Ca II H + K | extensive wings | sharp |
 
-this is the **physical basis of luminosity classes** ([[MK luminosity classes]]). at fixed $T$, dwarfs have stronger pressure-broadened wings; giants have narrower lines.
+this is the **physical basis of luminosity classes** ([[MK luminosity classes]]). at fixed $T$, dwarfs have stronger pressure-broadened wings. giants have narrower lines.
 
 ### Balmer lines in OB stars
 

@@ -15,7 +15,7 @@ at small $z$, $v \approx cz$ (low-velocity Doppler). example: $H\alpha$ rest at 
 
 $$v = H_0\, d \quad\Rightarrow\quad d \approx \frac{cz}{H_0}$$
 
-with current values $H_0 \approx 67$ to $73$ km/s/Mpc (a $\sim 7\%$ tension; see [[Cepheid period-luminosity relation]] and [[Type Ia supernovae as standard candles]]).
+with current values $H_0 \approx 67$ to $73$ km/s/Mpc (a $\sim 7\%$ tension, see [[Cepheid period-luminosity relation]] and [[Type Ia supernovae as standard candles]]).
 
 worked example: $z = 0.10$, $H_0 = 70$ km/s/Mpc:
 $$d \approx \frac{(3 \times 10^5)(0.10)}{70} = 429\,\text{Mpc}$$
@@ -48,9 +48,9 @@ K-correction also kicks in: the observed band samples a different rest-frame wav
 
 ## the velocity-redshift confusion
 
-at small $z$, "$v = cz$" is fine. at high $z$, the relation breaks; the observed redshift is no longer a Doppler velocity but the integrated effect of cosmic expansion along the photon path. *recession velocity* in cosmology is ambiguous; better to talk about scale factor: $1 + z = a_0/a_{\rm em}$.
+at small $z$, "$v = cz$" is fine. at high $z$, the relation breaks. the observed redshift is no longer a Doppler velocity but the integrated effect of cosmic expansion along the photon path. *recession velocity* in cosmology is ambiguous. better to talk about scale factor: $1 + z = a_0/a_{\rm em}$.
 
-at $z = 1$, naive $v = cz = c$ would suggest the source is moving at the speed of light. it isn't; the scale factor has just doubled since emission. the photon was redshifted by the expansion, no super-luminal motion required.
+at $z = 1$, naive $v = cz = c$ would suggest the source is moving at the speed of light. it isn't. the scale factor has just doubled since emission. the photon was redshifted by the expansion, no super-luminal motion required.
 
 ## peculiar velocities and the Hubble flow frame
 
@@ -68,7 +68,13 @@ the Hubble constant is itself the slope of the Hubble flow. measuring it require
 2. Hubble diagram of SN Ia in those galaxies.
 3. fit $cz = H_0 d$ to the bridge.
 
-CMB-derived $H_0$ comes from a totally different chain: sound horizon at recombination + angular size of acoustic peaks $\to$ $H_0$ assuming $\Lambda$CDM. the two should agree if standard cosmology is right; they don't, by $\sim 5\sigma$.
+CMB-derived $H_0$ comes from a totally different chain: sound horizon at recombination + angular size of acoustic peaks $\to$ $H_0$ assuming $\Lambda$CDM. the two should agree if standard cosmology is right. They don't, by $\sim 5\sigma$.
+
+## where it goes wrong
+
+- peculiar velocities of 300 km/s give a 10% error at 3000 km/s and a 1% error at 30 000 km/s. the Hubble law is safe only well beyond 50 Mpc.
+- the redshift must be corrected to the CMB frame.
+- at $z > 0.1$ the linear law is not enough, and $q_0$ enters.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

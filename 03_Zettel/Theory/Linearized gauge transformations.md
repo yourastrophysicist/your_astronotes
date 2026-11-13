@@ -2,7 +2,7 @@
 layout: "default"
 title: "Linearized gauge transformations"
 ---
-**linearized GR has a gauge symmetry**, just like electromagnetism. an infinitesimal coordinate change $x^\mu \to x^\mu + \xi^\mu$ shifts $h_{\mu\nu}$ in a specific way that leaves all physics invariant. crucial for understanding gravitational waves.
+**linearized GR has a gauge symmetry**, just like electromagnetism. an infinitesimal coordinate change $x^\mu \to x^\mu + \xi^\mu$ shifts $h_{\mu\nu}$ in a specific way that leaves all physics invariant. for understanding gravitational waves.
 
 ## the transformation
 

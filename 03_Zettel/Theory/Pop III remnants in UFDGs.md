@@ -19,7 +19,7 @@ ultra-faint dwarf galaxies are **chemically pristine fossils**. because their st
 
 - **reticulum ii** is the textbook case. ji et al. (2016) and roederer et al. (2016) showed with high-resolution spectroscopy that 7 of 9 spectroscopically observed members have very high $[\text{Eu/Fe}] \gtrsim +1.7$, characteristic of r-process production, while the other two are r-process-poor. this is consistent with **a single rare event** (likely a neutron-star merger) enriching the proto-galactic gas of the reticulum ii progenitor before most of its stars formed.
 - reticulum ii therefore localises the r-process to a rare high-yield event channel, supporting the merger-origin paradigm now corroborated by GW170817.
-- other UFDGs (tucana iii, grus ii) show partial r-process enhancement; the majority are r-process-poor.
+- other UFDGs (tucana iii, grus ii) show partial r-process enhancement. the majority are r-process-poor.
 
 **alpha enhancement** at low $[\text{Fe/H}]$: UFDG stars have $[\text{Mg/Fe}] \sim +0.3$-$+0.5$, signaling pure core-collapse enrichment with no SNe ia contribution, expected for a $\lesssim 1$ Gyr SF episode (the SNe ia delay-time distribution begins around 100 Myr but the typical delay is $\sim 1$ Gyr).
 

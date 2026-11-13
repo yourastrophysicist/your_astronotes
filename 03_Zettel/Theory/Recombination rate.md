@@ -19,7 +19,7 @@ see [[Case A vs Case B recombination]].
 
 ## scaling
 
-$\alpha \propto T_e^{-0.7}$ approximately. at lower $T_e$, electrons are slower and have more time to recombine; recombination rate increases.
+$\alpha \propto T_e^{-0.7}$ approximately. at lower $T_e$, electrons are slower and have more time to recombine. recombination rate increases.
 
 at $T_e = 5000$ K: $\alpha_B \sim 4.5 \times 10^{-13}$ cm$^3$ s$^{-1}$.
 at $T_e = 10^4$ K: $\alpha_B \sim 2.6 \times 10^{-13}$.
@@ -46,7 +46,7 @@ $$n_X^i\,\Gamma_i = n_X^{i+1}\,n_e\,\alpha_i(T_e)$$
 solve for the ion fraction:
 $$\frac{n_X^{i+1}}{n_X^i} = \frac{\Gamma_i}{n_e\alpha_i}$$
 
-so high $\Gamma$ or low $n_e$ (high $U$) means more ionised; low $\Gamma$ or high $n_e$ means less ionised. see [[Photoionisation balance]] and [[Ionisation parameter U]].
+so high $\Gamma$ or low $n_e$ (high $U$) means more ionised. low $\Gamma$ or high $n_e$ means less ionised. see [[Photoionisation balance]] and [[Ionisation parameter U]].
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

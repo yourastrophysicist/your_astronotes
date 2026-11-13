@@ -23,7 +23,7 @@ similar concept. canceled in 2010.
 
 key science goals: same as Darwin.
 
-### LIFE (Large Interferometer For Exoplanets) — current
+### LIFE (Large Interferometer For Exoplanets) - current
 
 a European-led 4-aperture formation-flying nuller. proposed for 2040+ launch.
 
@@ -36,7 +36,7 @@ key science goals:
 
 planned for sub-microarcsecond astrometry. canceled.
 
-### EEI (Exo-Earth Imager) — concept
+### EEI (Exo-Earth Imager) - concept
 
 ambitious concept for 5-10 m baseline, $10^{12}$ contrast for direct *imaging* of Earth-twin planets (not just spectroscopy).
 

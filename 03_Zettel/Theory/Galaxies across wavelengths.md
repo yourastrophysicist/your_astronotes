@@ -36,7 +36,7 @@ every waveband isolates distinct physical emission mechanisms:
 
 ---
 
-## 2. M51 in Ultraviolet (GALEX — Galaxy Evolution Explorer)
+## 2. M51 in Ultraviolet (GALEX - Galaxy Evolution Explorer)
 
 ![galaxies-32.png](../../assets/images/galaxies-32.png)
 
@@ -65,13 +65,13 @@ every waveband isolates distinct physical emission mechanisms:
 ![galaxies-36.png](../../assets/images/galaxies-36.png)
 
 - **wavelength**: $\lambda = 656.28$ nm ($n=3 \to n=2$ Balmer transition).
-- **emission mechanism**: photoionized gas in **HII regions**. massive O-stars emit energetic ionizing photons ($h\nu > 13.6$ eV) that strip electrons from hydrogen atoms; cascading radiative recombinations emit bright $H\alpha$ photons.
+- **emission mechanism**: photoionized gas in **HII regions**. massive O-stars emit energetic ionizing photons ($h\nu > 13.6$ eV) that strip electrons from hydrogen atoms. cascading radiative recombinations emit bright $H\alpha$ photons.
 - **diagnostic**: the total $H\alpha$ luminosity $L(H\alpha)$ is directly proportional to the instantaneous star formation rate (over timescales $\sim 10$ Myr):
   $$\text{SFR}(M_\odot/\text{yr}) \approx 5.5 \times 10^{-42} \, L(H\alpha) \, [\text{erg/s}]$$
 
 ---
 
-## 5. M51 in Near-Infrared (NIR: 2MASS, VLT, Spitzer $1 - 2.5\,\mu$m)
+## 5. M51 in Near-Infrared (NIR - 2MASS, VLT, Spitzer $1 - 2.5\,\mu$m)
 
 ![galaxies-37.png](../../assets/images/galaxies-37.png)
 
@@ -85,14 +85,14 @@ every waveband isolates distinct physical emission mechanisms:
 
 ---
 
-## 6. M51 in Mid- and Far-Infrared (MIR/FIR: Spitzer, Herschel $24 - 500\,\mu$m)
+## 6. M51 in Mid- and Far-Infrared (MIR/FIR - Spitzer, Herschel $24 - 500\,\mu$m)
 
 ![galaxies-39.png](../../assets/images/galaxies-39.png)
 
 - **wavelength**: $24\,\mu$m, $70\,\mu$m, $100\,\mu$m, $160\,\mu$m, $250\,\mu$m.
 - **emission mechanism**: **thermal re-emission from interstellar dust grains**. dust grains absorb UV and optical starlight from young stars, heat up to $T \sim 20 - 50$ K, and re-radiate this energy as modified blackbodies in the far-infrared:
   $$F_\nu \propto \nu^\beta B_\nu(T_{\text{dust}}), \qquad \beta \approx 1.5 - 2.0$$
-- **diagnostic**: traces **dust-obscured star formation**; in dusty galaxies, up to $90-99\%$ of total star formation is invisible in UV/optical and can only be detected in the FIR!
+- **diagnostic**: traces **dust-obscured star formation**. in dusty galaxies, up to $90-99\%$ of total star formation is invisible in UV/optical and can only be detected in the FIR!
 
 ![galaxies-40.png](../../assets/images/galaxies-40.png)
 
@@ -110,7 +110,7 @@ every waveband isolates distinct physical emission mechanisms:
 - **emission mechanisms**:
   1. **non-thermal synchrotron radiation**: relativistic electrons accelerated in the shock fronts of supernova remnants spiraling around Galactic magnetic fields ($F_\nu \propto \nu^{-\alpha}$, $\alpha \approx 0.7-0.8$).
   2. **thermal free-free radiation (bremsstrahlung)**: electrons scattering off ions in hot HII regions.
-- **astrophysical diagnostic**: completely immune to dust extinction; directly measures supernova rate and cosmic ray electron acceleration.
+- **astrophysical diagnostic**: completely immune to dust extinction. directly measures supernova rate and cosmic ray electron acceleration.
 
 ---
 
@@ -140,6 +140,24 @@ every photon absorbed by dust in the UV/optical is precisely re-emitted in the i
 ![galaxies-46.png](../../assets/images/galaxies-46.png)
 
 ---
+
+## worked example
+
+what each band traces in a spiral like M51:
+
+- X-rays: hot gas at $10^7$ K and X-ray binaries
+- ultraviolet: O and B stars, younger than about 100 Myr
+- optical: the bulk of the stars, reddened by dust
+- near infrared: old stars, the best tracer of mass
+- mid and far infrared: dust heated by young stars
+- radio continuum: synchrotron from supernova electrons
+- 21 cm: neutral hydrogen, extending far beyond the stars
+
+## where it goes wrong
+
+- the same morphology does not hold at all wavelengths. a smooth optical galaxy can be clumpy in the ultraviolet.
+- comparing images at different resolutions and calling the differences physical.
+- the infrared luminosity of a galaxy is mostly reprocessed starlight, not a separate source of energy.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

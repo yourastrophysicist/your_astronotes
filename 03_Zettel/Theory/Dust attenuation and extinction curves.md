@@ -47,9 +47,13 @@ for SED fitting, what we want is attenuation, because we can't resolve individua
 for a typical main-sequence galaxy at $z = 2$:
 - $A_V \sim 1$
 - $A_{1500} \sim 3$
-- IR luminosity $\sim 3$–$10 \times L_{\text{UV, observed}}$
+- IR luminosity $\sim 3$ to $10 \times L_{\text{UV, observed}}$
 
 a starburst / LIRG can have $A_V \sim 3$, $A_{\text{1500}} \sim 10$, almost all light in the IR.
+
+## where it goes wrong
+
+- attenuation in a galaxy includes geometry and scattering. it is not the extinction curve.
 
 ## connections
 

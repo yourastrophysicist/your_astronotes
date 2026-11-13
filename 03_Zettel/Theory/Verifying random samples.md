@@ -6,7 +6,7 @@ title: "Verifying random samples"
 
 after generating $N$ samples from a putative distribution $P(x)$, **always verify** that they actually follow $P$. the verification has saved me countless wrong-answer bugs (off-by-one in the CDF, wrong normalization, missing log scale).
 
-## the canonical plot: histogram + analytic curve
+## the canonical plot - histogram + analytic curve
 
 ```python
 samples = my_sampler(N=10000)
@@ -17,7 +17,7 @@ plt.plot(xx, P(xx), 'r-', linewidth=2, label='P(x)')
 plt.legend()
 ```
 
-`density=True` normalizes the histogram to a pdf, so it is directly comparable with $P$. the two curves should overlap; if they do not, either the sampler or $P$ is wrong.
+`density=True` normalizes the histogram to a pdf, so it is directly comparable with $P$. the two curves should overlap. if they do not, either the sampler or $P$ is wrong.
 
 for distributions on $[0, \infty)$ with heavy tails, use a **log-spaced histogram and log axes**:
 

@@ -9,7 +9,7 @@ key cosmic epochs that mark transitions between qualitatively different regimes.
 | transition | $z$ | $T$ | age | what changes |
 |---|---|---|---|---|
 | **Planck era ends** | $\sim 10^{32}$ | $10^{32}$ K | $10^{-43}$ s | quantum gravity ends, classical spacetime begins |
-| **inflation ends** | $\sim 10^{27}$ | $\sim 10^{16}$ GeV | $\sim 10^{-32}$ s | reheating; standard Hot Big Bang begins |
+| **inflation ends** | $\sim 10^{27}$ | $\sim 10^{16}$ GeV | $\sim 10^{-32}$ s | reheating, standard Hot Big Bang begins |
 | **electroweak transition** | $\sim 10^{15}$ | $\sim 100$ GeV | $\sim 10^{-11}$ s | EW + EM differentiate |
 | **QCD transition** | $\sim 10^{12}$ | $\sim 200$ MeV | $\sim 10^{-5}$ s | quarks confine into hadrons |
 | **neutrino decoupling** | $\sim 10^{10}$ | $\sim 1$ MeV | $\sim 1$ s | neutrinos stop interacting |
@@ -45,6 +45,11 @@ the four most-cited:
 2. **matter-radiation equality** ($z \sim 3400$): turn-over of the matter power spectrum, observable in galaxy surveys.
 3. **recombination** ($z \sim 1100$): CMB last-scattering surface. anisotropies encode early-universe physics.
 4. **reionisation** ($z \sim 6$ to $10$): first ionising sources, end of the Dark Ages. CMB optical depth $\tau \sim 0.054$.
+
+## where it goes wrong
+
+- the epochs are not sharp. each transition takes about a factor of ten in $a$.
+- recombination and decoupling are close in time but not the same event.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

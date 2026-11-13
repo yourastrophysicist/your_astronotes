@@ -14,7 +14,7 @@ where:
 - $X^*(n)$ is the final atom in level $n$ with binding energy $\chi_n$ relative to ionisation.
 - the photon carries $h\nu = \chi_n + E_e$.
 
-so the photon energy is $\ge \chi_n$, the binding energy of the final level. recombinations to the ground produce **above the ionisation edge** continuum; to $n=2$ produce **above the Balmer edge** continuum; etc.
+so the photon energy is $\ge \chi_n$, the binding energy of the final level. recombinations to the ground produce **above the ionisation edge** continuum. to $n=2$ produce **above the Balmer edge** continuum. etc.
 
 ## the spectrum
 
@@ -42,7 +42,7 @@ dominant nebular continuum source in the **near-UV** ($3000$ to $3646$ Å). toge
 integrating $j_\nu$ over $\nu$ above the Lyman edge:
 $$L_{\rm rec\,cont}^{\rm Ly} = n_e n_p\,\alpha_A^{\rm cont}\,k_BT_e \cdot V$$
 
-a rough fraction of the total recombination energy goes into continuum vs lines; in HII regions it's $\sim 30$ to $50\%$ of the recombination radiation.
+a rough fraction of the total recombination energy goes into continuum vs lines. in HII regions it's $\sim 30$ to $50\%$ of the recombination radiation.
 
 ## the contrast with free-free
 
@@ -53,7 +53,7 @@ a rough fraction of the total recombination energy goes into continuum vs lines;
 | spectrum | $e^{-h\nu/k_BT_e}$ above edges, $1/\nu^3$ steepening | $\propto e^{-h\nu/k_BT_e}$, smooth |
 | dominant in | nebulae below Balmer edge | hot plasma in mm/cm/X-ray |
 
-both contribute simultaneously; their sum is the smooth nebular continuum.
+both contribute simultaneously. their sum is the smooth nebular continuum.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

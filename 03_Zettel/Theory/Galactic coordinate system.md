@@ -25,7 +25,7 @@ the inclination of the Galactic plane to the celestial equator is $i \approx 62.
 
 ---
 
-## the coordinates: longitude and latitude
+## the coordinates - longitude and latitude
 
 - **Galactic longitude** $l$ (or $\ell$): measured eastward along the Galactic equator from the direction of the Galactic Center, from $0^\circ$ to $360^\circ$.
   - $l = 0^\circ$: towards the **Galactic Center** (Sagittarius).
@@ -38,11 +38,11 @@ the inclination of the Galactic plane to the celestial equator is $i \approx 62.
 
 ---
 
-## coordinate transformation: equatorial ↔ galactic
+## coordinate transformation - equatorial ↔ galactic
 
 from spherical trigonometry on the triangle (NCP - NGP - Star):
 
-### equatorial $(\alpha, \delta) \to$ galactic $(l, b)$:
+### equatorial $(\alpha, \delta) \to$ galactic $(l, b)$
 $$\sin b = \sin\delta_P \sin\delta + \cos\delta_P \cos\delta \cos(\alpha - \alpha_P)$$
 $$\cos b \sin(l_{CP} - l) = \cos\delta \sin(\alpha - \alpha_P)$$
 $$\cos b \cos(l_{CP} - l) = \cos\delta_P \sin\delta - \sin\delta_P \cos\delta \cos(\alpha - \alpha_P)$$
@@ -50,12 +50,26 @@ where $\alpha_P = 192.86^\circ$ ($12^{\rm h}51.4^{\rm m}$), $\delta_P = +27.13^\
 
 ---
 
-## observational significance: the zone of avoidance
+## observational significance - the zone of avoidance
 
 - **the Galactic plane ($\lvert b\rvert \le 10^\circ$)**: densely packed with stars, molecular clouds, and interstellar dust grains. dust extinction ($A_V$) reaches tens of magnitudes in the visual band, creating the historical **Zone of Avoidance** where optical extragalactic astronomy was historically blind. radio (21 cm, CO) and infrared (2MASS, Spitzer, WISE, JWST) observations penetrate this dust.
 - **high galactic latitudes ($\lvert b\rvert > 30^\circ$)**: lines of sight pass quickly out of the thin Galactic disk ($h_z \sim 300$ pc). dust extinction drops to $A_V \lesssim 0.05-0.1$ mag. all major cosmological and deep extragalactic galaxy surveys (Hubble Deep Field, SDSS, DES, COSMOS, Euclid) target these high-$\lvert b\rvert$ windows to avoid Galactic foreground extinction and stellar crowding.
 
 ---
+
+## worked example
+
+the galactic latitude of Vega ($\alpha = 279.2^\circ$, $\delta = +38.8^\circ$), with the north galactic pole at $\alpha_G = 192.86^\circ$, $\delta_G = +27.13^\circ$:
+
+$$\sin b = \sin\delta\sin\delta_G + \cos\delta\cos\delta_G\cos(\alpha - \alpha_G) = 0.2856 + 0.0443 = 0.330$$
+
+so $b = +19.3^\circ$. Vega is close to the plane of the Milky Way, which is why its field is so rich in stars.
+
+## where it goes wrong
+
+- the direction $l = 0$, $b = 0$ was fixed in 1958. Sgr A* is a few arcminutes away from it.
+- the Sun is not exactly in the plane. it sits about 20 pc above it.
+- the galactic plane is tilted by $62.9^\circ$ to the celestial equator, so the two systems have nothing simple in common.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

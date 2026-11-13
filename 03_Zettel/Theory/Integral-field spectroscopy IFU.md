@@ -10,7 +10,7 @@ Parent [[Astrophysics_of_Galaxies_MOC]] · [[Astronomical_Spectroscopy_MOC]] · 
 
 Historically, optical and near-infrared spectroscopy of galaxies was conducted using **long-slit spectrographs**, where a 1D spatial slit is placed across a selected axis of the galaxy (typically the major or minor photometric axis). However, long-slit spectroscopy suffers from severe observational limitations:
 1. **Slit Alignment Bias**: The kinematic major axis does not necessarily coincide with the photometric major axis in triaxial ellipticals, barred spirals, or systems with kinematically decoupled cores (KDCs).
-2. **Missing Azimuthal Information**: Complex 2D velocity fields—including non-circular streaming motions, bar-driven radial inflow, warp precession, and counter-rotating gas/stellar disks—cannot be mapped with a single 1D cut.
+2. **Missing Azimuthal Information**: Complex 2D velocity fields, including non-circular streaming motions, bar-driven radial inflow, warp precession, and counter-rotating gas/stellar disks, cannot be mapped with a single 1D cut.
 3. **Seeing and Slit-Loss Systematics**: Atmospheric seeing variations across 1D exposures produce differential slit losses and artificial kinematic gradients.
 
 **Integral-Field Spectroscopy (IFS)** overcomes all these limitations by delivering a contiguous 3D **datacube** $(x, y, \lambda)$: simultaneously acquiring a complete astronomical spectrum for every spatial resolution element ("spaxel", spatial pixel) across a two-dimensional field of view.
@@ -44,7 +44,7 @@ By collapsing or fitting the datacube along the spectral coordinate $\lambda$ at
 
 ---
 
-## 3. Optical Architectures: How to Reformat 2D into 1D
+## 3. Optical Architectures - How to Reformat 2D into 1D
 
 Because astronomical CCD and CMOS detectors are planar 2D arrays $(X_{\rm det}, Y_{\rm det})$, a 3D dataset $(x, y, \lambda)$ must be optically reformatted so that dispersion does not cause overlapping spectra. Three principal optical techniques achieve this:
 
@@ -73,11 +73,11 @@ Because astronomical CCD and CMOS detectors are planar 2D arrays $(X_{\rm det}, 
 ### 3. Image Slicer (Advanced Mirror Slicers)
 - **Optical Principle**: A stack of thin, precision spherical/toroidal mirrors slices the 2D field into long narrow strips. Secondary folding and pupil mirrors realign these strips end-to-end into a single continuous 1D pseudo-slit feeding a diffraction grating.
 - **Instruments**: **VLT MUSE**, Keck KCWI, **JWST NIRSpec IFU**, JWST MIRI-MRS.
-- **Pros & Cons**: Supreme optical throughput (pure reflective optics, no fibers, no chromatic absorption), $100\%$ spatial filling factor, wide simultaneous wavelength coverage. Engineering complexity and fabrication tolerances are extremely demanding.
+- **Pros & Cons**: Highest optical throughput (pure reflective optics, no fibers, no chromatic absorption), $100\%$ spatial filling factor, wide simultaneous wavelength coverage. Engineering complexity and fabrication tolerances are extremely demanding.
 
 ---
 
-## 4. Adaptive 2D Spatial Binning: The Voronoi Algorithm
+## 4. Adaptive 2D Spatial Binning - The Voronoi Algorithm
 
 In extended galaxies, the stellar surface brightness drops exponentially from the core to the outskirts ($I(R) \propto e^{-R/h}$ or $I(R) \propto e^{-b_n(R/R_e)^{1/n}}$). While central spaxels have $\mathrm{SNR} > 100$, individual outer spaxels frequently fall below $\mathrm{SNR} \sim 2-5$, where stellar absorption lines cannot be fitted reliably.
 
@@ -109,7 +109,7 @@ The optimal solution is **adaptive 2D Voronoi binning**, which partitions the 2D
 
 Once binned, the spectrum in each Voronoi bin is analyzed to extract line-of-sight stellar kinematics.
 
-### Penalized Pixel-Fitting (pPXF; Cappellari & Emsellem 2004, Cappellari 2017)
+### Penalized Pixel-Fitting (pPXF, Cappellari & Emsellem 2004, Cappellari 2017)
 The observed galaxy spectrum $G(\ln\lambda)$ is modeled as the convolution of an optimal synthetic stellar template $T(\ln\lambda)$ with the Gauss-Hermite line-of-sight velocity distribution $\mathcal{L}(v)$:
 
 $$G(x) = \sum_{k=1}^K w_k \left[ T_k(x) * \mathcal{L}(c \cdot x) \right] + \sum_{l=0}^L a_l P_l(x)$$
@@ -155,12 +155,12 @@ Because IFS covers both stellar absorption lines (e.g., $\mathrm{Ca}\,\mathrm{H\
 ## 7. Textbook & Course References
 
 - **Prof. Alessandro Pizzella Course Dispensa**:
-  - File: `dispense_smbh_20_eng.pdf`, Section on Stellar Kinematics and IFU Spectroscopy, pp. 15–22.
+  - File: `dispense_smbh_20_eng.pdf`, Section on Stellar Kinematics and IFU Spectroscopy, pp. 15-22.
   - Slide Set: `gal_bh-15..28` (Stellar dynamics, Gauss-Hermite moments, 2D velocity fields).
 - **Mo, van den Bosch & White (2010), *Galaxy Formation and Evolution***:
-  - Chapter 2, Section 2.5 "Kinematics of Galaxies", pp. 90–94 (integral field spectroscopy, Gauss-Hermite parametrization).
+  - Chapter 2, Section 2.5 "Kinematics of Galaxies", pp. 90-94 (integral field spectroscopy, Gauss-Hermite parametrization).
 - **Binney & Merrifield (1998), *Galactic Astronomy***:
-  - Chapter 4, Section 4.3 "Elliptical Galaxies", pp. 194–205 (stellar kinematics, line broadening, velocity dispersions).
+  - Chapter 4, Section 4.3 "Elliptical Galaxies", pp. 194-205 (stellar kinematics, line broadening, velocity dispersions).
 - **Primary Literature References**:
   - Cappellari, M., & Copin, Y. 2003, MNRAS, 342, 345 (Adaptive 2D Voronoi binning algorithm).
   - Cappellari, M. 2017, MNRAS, 466, 798 (pPXF full spectrum fitting).

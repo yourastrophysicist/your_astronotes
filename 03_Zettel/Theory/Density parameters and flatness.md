@@ -86,6 +86,15 @@ a deep question. if $\Omega_K(t)$ were anything but tiny in the early universe, 
 
 ---
 
+## worked example
+
+the flatness problem. in the radiation era $\lvert\Omega - 1\rvert \propto a^2 \propto t$, in the matter era $\propto t^{2/3}$. if $\lvert\Omega - 1\rvert < 0.002$ today, at nucleosynthesis ($t = 180$ s) it was below about $10^{-16}$, and at the Planck time below $10^{-60}$.
+
+## where it goes wrong
+
+- $\Omega = 1$ is an unstable point in a decelerating universe. that is why flatness needs an explanation.
+- "flat" refers to space, not to spacetime. a flat universe is still curved in time.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

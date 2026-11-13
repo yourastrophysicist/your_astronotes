@@ -4,20 +4,20 @@ title: "Fresnel-Arago laws"
 ---
 # Fresnel-Arago laws
 
-three laws governing when polarized waves can or cannot produce interference fringes. **fundamental restriction** on which interferometric setups work and which don't. discovered by Fresnel and Arago around 1817-1819, they predate Maxwell but follow elegantly from the wave description of polarization.
+three laws governing when polarized waves can or cannot produce interference fringes. **fundamental restriction** on which interferometric setups work and which don't. discovered by Fresnel and Arago around 1817-1819, they predate Maxwell but follow from the wave description of polarization.
 
 ## the four laws
 
 ### Law 1
 > **two coherent beams with mutually orthogonal polarizations cannot interfere.** the fringes never form.
 
-if I split a beam into two paths, each with linear polarization perpendicular to the other, then recombine them — no fringes appear. their electric field oscillations are in independent perpendicular planes; the cross term in the intensity formula vanishes.
+if I split a beam into two paths, each with linear polarization perpendicular to the other, then recombine them, no fringes appear. their electric field oscillations are in independent perpendicular planes. the cross term in the intensity formula vanishes.
 
 mathematically: if $\mathbf{E}_1 = E_0 \hat{\mathbf{x}} \cos(\omega t)$ and $\mathbf{E}_2 = E_0 \hat{\mathbf{y}} \cos(\omega t + \delta)$, the intensity at the detector is
 
 $$I \propto \langle   \vert\mathbf{E}_1 + \mathbf{E}_2\vert ^2 \rangle = \langle E_x^2 \rangle + \langle E_y^2 \rangle = 2 E_0^2 / 2 = E_0^2$$
 
-— constant, no $\delta$ dependence, no fringes (visibility $V = 0$).
+constant, no $\delta$ dependence, no fringes (visibility $V = 0$).
 
 ### Law 2
 > **two coherent beams with parallel polarizations always interfere.**
@@ -29,7 +29,7 @@ $$I(\delta) = I_1 + I_2 + 2\sqrt{I_1 I_2}\cos\delta$$
 ### Law 3
 > **the two perpendicular-polarized components of natural light cannot interfere with each other to form observable fringes**, even if one is artificially rotated to be parallel to the other.
 
-natural light is *incoherent* between its two perpendicular polarization states. each comes from independent random emissions in the source's atoms, so they have no fixed phase relationship ($\langle \cos\Delta\phi(t) \rangle = 0$). rotating one component into the same polarization as the other doesn't fix this — the underlying time-dependent phases are still independent.
+natural light is *incoherent* between its two perpendicular polarization states. each comes from independent random emissions in the source's atoms, so they have no fixed phase relationship ($\langle \cos\Delta\phi(t) \rangle = 0$). rotating one component into the same polarization as the other doesn't fix this, the underlying time-dependent phases are still independent.
 
 ### Law 4
 > **two rays polarized at right angles coming from an initially linearly polarized beam can interfere** once brought into a common plane of polarization by an analyzer.
@@ -52,14 +52,14 @@ traditional Young's double-slit masks with polarizers lose $>95\%$ of light inte
 ![../../07_Images/Interferometry/ivkovic_2024_fig2.png](../../assets/images/ivkovic_2024_fig2.png)
 *Figure 2: schematic of the experimental setup with calcite crystal and diverging lens for red (a) and green (b) lasers.*
 
-### what makes it work: the diverging lens
+### what makes it work - the diverging lens
 
 placing a negative (diverging) lens after the calcite crystal rapidly expands the small beam separation $d$ over a short distance ($L \approx 550 - 910\text{ mm}$), creating a large, bright region of overlapping spots easily visible to a whole audience.
 
 changing the distance of the lens from the calcite crystal alters the degree of spot overlap and fringe period $\Delta x$:
 
 ![../../07_Images/Interferometry/ivkovic_2024_fig4_rg.png](../../assets/images/ivkovic_2024_fig4_rg.png)
-*Figure 4: greater spot overlap photos. (a, b) without analyzer: no fringes (Law 1); (c, d) with analyzer: sharp fringes appear (Law 4).*
+*Figure 4: greater spot overlap photos. (a, b) without analyzer: no fringes (Law 1). (c, d) with analyzer: sharp fringes appear (Law 4).*
 
 ![../../07_Images/Interferometry/ivkovic_2024_fig5_rg.png](../../assets/images/ivkovic_2024_fig5_rg.png)
 *Figure 5: less spot overlap photos on screen without (a, b) and with (c, d) analyzer.*
@@ -82,7 +82,7 @@ the same setup allows reconstructing Fresnel and Arago's original 1819 experimen
 *Figure 1: schematic diagrams of the wire experiment setup for red (a) and green (b) lasers.*
 
 ![../../07_Images/Interferometry/ivkovic_2024_fig3_rg.png](../../assets/images/ivkovic_2024_fig3_rg.png)
-*Figure 3: wire experiment photos. (a, b) without analyzer: no fringes inside geometric shadow (Law 1); (c, d) with analyzer: sharp interference fringes appear in shadow (Law 4).*
+*Figure 3: wire experiment photos. (a, b) without analyzer: no fringes inside geometric shadow (Law 1). (c, d) with analyzer: sharp interference fringes appear in shadow (Law 4).*
 
 ## mathematical formulation and measurement
 
@@ -93,11 +93,11 @@ $$\Delta x = \lambda \cdot \frac{L}{d \cdot u} \implies \lambda = \frac{\Delta x
 where $u = d_S / d_L$ is the lens magnification (ratio of screen spot separation $d_S$ to lens position spot separation $d_L$), and $d$ is the calcite spot separation:
 
 ![../../07_Images/Interferometry/ivkovic_2024_fig8.png](../../assets/images/ivkovic_2024_fig8.png)
-*Figure 8: calcite exit surface spots on graph paper ($d = 1.144\text{ mm}$ red; $d = 1.209\text{ mm}$ green).*
+*Figure 8: calcite exit surface spots on graph paper ($d = 1.144\text{ mm}$ red, $d = 1.209\text{ mm}$ green).*
 
 ### experimental measurement table (Ivković et al. 2024)
 
-| quantity | He–Ne laser (red) | Nd:YVO₄ laser (green) |
+| quantity | He-Ne laser (red) | Nd:YVO₄ laser (green) |
 | :--- | :--- | :--- |
 | distance to lens ($L$) | $550 \pm 1\text{ mm}$ | $910 \pm 1\text{ mm}$ |
 | fringe spacing ($\Delta x$) | $3.507 \pm 0.009\text{ mm}$ | $7.36 \pm 0.02\text{ mm}$ |
@@ -140,7 +140,7 @@ GRAVITY at VLTI does both in different observing modes.
 
 ## the deep modern view
 
-quantum-mechanically, Fresnel-Arago is a statement about *which-path information*. perpendicular polarizations carry distinguishable which-path information; parallel polarizations don't. **distinguishable which-path information destroys interference**.
+quantum-mechanically, Fresnel-Arago is a statement about *which-path information*. perpendicular polarizations carry distinguishable which-path information. parallel polarizations don't. **distinguishable which-path information destroys interference**.
 
 so Fresnel-Arago, classical optics from 1819, is the classical analogue of the quantum complementarity principle. light's wave-particle nature is encoded in this 200-year-old result.
 

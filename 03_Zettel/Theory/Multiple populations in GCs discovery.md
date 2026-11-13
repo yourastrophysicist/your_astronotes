@@ -67,101 +67,101 @@ this is the central problem of Stellar Astrophysics today: GCs are not SSPs, the
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 15 - Multiple Stellar Populations I - Discovery & Light Elements)
 
 > **Context**: *Spectroscopic Na-O and Mg-Al anticorrelations, high-temperature CNO/NeNa/MgAl burning cycles, and HST UV filter sensitivity to C, N, O molecular bands.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![L15_p05_chromosome_map_intro-05.png](../../assets/images/L15_p05_chromosome_map_intro-05.png)
-*Figure P15-01: L15_p05_chromosome_map_intro-05.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-01: L15_p05_chromosome_map_intro-05.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_01.png](../../assets/images/LAntonino_p15_01.png)
-*Figure P15-02: LAntonino_p15_01.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-02: LAntonino_p15_01.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_02.png](../../assets/images/LAntonino_p15_02.png)
-*Figure P15-03: LAntonino_p15_02.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-03: LAntonino_p15_02.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_03.png](../../assets/images/LAntonino_p15_03.png)
-*Figure P15-04: LAntonino_p15_03.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-04: LAntonino_p15_03.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_04.png](../../assets/images/LAntonino_p15_04.png)
-*Figure P15-05: LAntonino_p15_04.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-05: LAntonino_p15_04.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_05.png](../../assets/images/LAntonino_p15_05.png)
-*Figure P15-06: LAntonino_p15_05.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-06: LAntonino_p15_05.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_06.png](../../assets/images/LAntonino_p15_06.png)
-*Figure P15-07: LAntonino_p15_06.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-07: LAntonino_p15_06.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_07.png](../../assets/images/LAntonino_p15_07.png)
-*Figure P15-08: LAntonino_p15_07.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-08: LAntonino_p15_07.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_08.png](../../assets/images/LAntonino_p15_08.png)
-*Figure P15-09: LAntonino_p15_08.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-09: LAntonino_p15_08.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_09.png](../../assets/images/LAntonino_p15_09.png)
-*Figure P15-10: LAntonino_p15_09.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-10: LAntonino_p15_09.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_10.png](../../assets/images/LAntonino_p15_10.png)
-*Figure P15-11: LAntonino_p15_10.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-11: LAntonino_p15_10.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_11.png](../../assets/images/LAntonino_p15_11.png)
-*Figure P15-12: LAntonino_p15_11.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-12: LAntonino_p15_11.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_12.png](../../assets/images/LAntonino_p15_12.png)
-*Figure P15-13: LAntonino_p15_12.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-13: LAntonino_p15_12.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_13.png](../../assets/images/LAntonino_p15_13.png)
-*Figure P15-14: LAntonino_p15_13.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-14: LAntonino_p15_13.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_14.png](../../assets/images/LAntonino_p15_14.png)
-*Figure P15-15: LAntonino_p15_14.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-15: LAntonino_p15_14.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_15.png](../../assets/images/LAntonino_p15_15.png)
-*Figure P15-16: LAntonino_p15_15.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-16: LAntonino_p15_15.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_16.png](../../assets/images/LAntonino_p15_16.png)
-*Figure P15-17: LAntonino_p15_16.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-17: LAntonino_p15_16.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_17.png](../../assets/images/LAntonino_p15_17.png)
-*Figure P15-18: LAntonino_p15_17.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-18: LAntonino_p15_17.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_18.png](../../assets/images/LAntonino_p15_18.png)
-*Figure P15-19: LAntonino_p15_18.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-19: LAntonino_p15_18.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_19.png](../../assets/images/LAntonino_p15_19.png)
-*Figure P15-20: LAntonino_p15_19.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-20: LAntonino_p15_19.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_20.png](../../assets/images/LAntonino_p15_20.png)
-*Figure P15-21: LAntonino_p15_20.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-21: LAntonino_p15_20.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_21.png](../../assets/images/LAntonino_p15_21.png)
-*Figure P15-22: LAntonino_p15_21.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-22: LAntonino_p15_21.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_22.png](../../assets/images/LAntonino_p15_22.png)
-*Figure P15-23: LAntonino_p15_22.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-23: LAntonino_p15_22.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_23.png](../../assets/images/LAntonino_p15_23.png)
-*Figure P15-24: LAntonino_p15_23.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-24: LAntonino_p15_23.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_24.png](../../assets/images/LAntonino_p15_24.png)
-*Figure P15-25: LAntonino_p15_24.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-25: LAntonino_p15_24.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![LAntonino_p15_25.png](../../assets/images/LAntonino_p15_25.png)
-*Figure P15-26: LAntonino_p15_25.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-26: LAntonino_p15_25.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![Lecture15_p15-15.png](../../assets/images/Lecture15_p15-15.png)
-*Figure P15-27: Lecture15_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-27: Lecture15_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![Lecture15_p25-25.png](../../assets/images/Lecture15_p25-25.png)
-*Figure P15-28: Lecture15_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-28: Lecture15_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![Lecture15_p35-35.png](../../assets/images/Lecture15_p35-35.png)
-*Figure P15-29: Lecture15_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-29: Lecture15_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 ![Lecture15_p5-05.png](../../assets/images/Lecture15_p5-05.png)
-*Figure P15-30: Lecture15_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 15 — Multiple Stellar Populations I: Discovery & Light Elements.*
+*Figure P15-30: Lecture15_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 15 - Multiple Stellar Populations I: Discovery & Light Elements.*
 
 
 

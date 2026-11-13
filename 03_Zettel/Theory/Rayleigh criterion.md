@@ -2,15 +2,13 @@
 layout: "default"
 title: "Rayleigh criterion"
 ---
-The **Rayleigh criterion** defines the minimum angular separation at which two point sources can be considered **resolved** by a telescope
-	it is the standard definition of the **diffraction limit**
+The **Rayleigh criterion** defines the minimum angular separation at which two point sources can be considered **resolved** by a telescope, it is the standard definition of the **diffraction limit**
 
 The criterion states:
-	two point sources are just resolved when the **central maximum** of one source's Airy disk
-		coincides with the **first diffraction minimum** of the other source's Airy disk
+- two point sources are just resolved when the **central maximum** of one source's Airy disk, coincides with the **first diffraction minimum** of the other source's Airy disk
 
 ![Pasted image 20260405183557.png](../../assets/images/Pasted%20image%2020260405183557.png)
-<font color="#bfbfbf">Left: two point sources well resolved. Centre: Rayleigh limit — the first minimum of one coincides with the maximum of the other. Right: unresolved — the two maxima blend into one.</font>
+<font color="#bfbfbf">Left: two point sources well resolved. Centre: Rayleigh limit, the first minimum of one coincides with the maximum of the other. Right: unresolved, the two maxima blend into one.</font>
 
 ---
 
@@ -36,16 +34,11 @@ $$\theta_{min}~[\text{arcsec}] = 1.22 \times \frac{\lambda~[\text{m}]}{D~[\text{
 
 ## The Airy disk
 
-The **Airy disk** is the bright central spot of the diffraction pattern
-	it contains $\approx 84\%$ of the total energy
-	its radius is $\theta_{min} = 1.22\lambda/D$
+The **Airy disk** is the bright central spot of the diffraction pattern, it contains $\approx 84\%$ of the total energy. Its radius is $\theta_{min} = 1.22\lambda/D$
 
-Around the Airy disk: alternating dark and bright rings
-	the first bright ring contains about 7% of the energy
-	successive rings contain less and less
+Around the Airy disk: alternating dark and bright rings, the first bright ring contains about 7% of the energy. Successive rings contain less and less
 
-At the Rayleigh limit, the central maximum of one source falls exactly in the first dark ring of the other
-	the combined intensity profile shows a shallow **saddle point** between the two peaks
+At the Rayleigh limit, the central maximum of one source falls exactly in the first dark ring of the other, the combined intensity profile shows a shallow **saddle point** between the two peaks
 
 ---
 
@@ -63,21 +56,18 @@ At the Rayleigh limit, the central maximum of one source falls exactly in the fi
 
 ## Limitations of the Rayleigh criterion
 
-The Rayleigh criterion is a **convention**, not a hard physical law
-	it was chosen because it corresponds to a clearly identifiable feature (the first zero)
-	\tother criteria exist:
-			**Sparrow criterion**: the combined profile is flat (no saddle), more applicable when contrast is poor
-			**Houston criterion**: $\theta = \lambda/D$ (no 1.22 factor)
+The Rayleigh criterion is a **convention**, not a hard physical law, it was chosen because it corresponds to a clearly identifiable feature (the first zero)
+- \tother criteria exist:
+	- **Sparrow criterion**: the combined profile is flat (no saddle), more applicable when contrast is poor
+	- **Houston criterion**: $\theta = \lambda/D$ (no 1.22 factor)
 
 For **real optical telescopes**:
-	the resolution is often **seeing-limited** (ground-based): $\theta \approx \lambda/r_0 \gg \lambda/D$
-		not diffraction-limited unless very small aperture or space-based
+- the resolution is often **seeing-limited** (ground-based): $\theta \approx \lambda/r_0 \gg \lambda/D$, not diffraction-limited unless very small aperture or space-based
 
 For **X-ray telescopes**:
-	the diffraction limit is completely negligible
-		at $E = 1$ keV ($\lambda = 1.24$ nm), a 1-m aperture gives $\theta_{diff} \sim 0.0003''$
-	the actual angular resolution (HPD $\sim 0.5''$ for Chandra) is entirely limited by mirror **figure errors and roughness**
-	see [[Angular Resolution]] and [[Point Spread Function (PSF)]]
+- the diffraction limit is completely negligible, at $E = 1$ keV ($\lambda = 1.24$ nm), a 1-m aperture gives $\theta_{diff} \sim 0.0003''$
+- the actual angular resolution (HPD $\sim 0.5''$ for Chandra) is entirely limited by mirror **figure errors and roughness**
+- see [[Angular Resolution]] and [[Point Spread Function (PSF)]]
 
 
 

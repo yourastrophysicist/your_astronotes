@@ -8,7 +8,7 @@ since [[Population III stars\|Pop III stars]] cannot be observed directly today,
 
 | progenitor type | $M_{\rm Pop III}$ | nucleosynthesis | observable signature |
 |---|---|---|---|
-| faint SN (mixing+fallback) | $20$-$50\,M_\odot$ | partial fallback of inner ejecta | high [C/Fe], [N/Fe], [O/Fe]; CEMP-no |
+| faint SN (mixing+fallback) | $20$-$50\,M_\odot$ | partial fallback of inner ejecta | high [C/Fe], [N/Fe], [O/Fe], CEMP-no |
 | pair-instability SN (PISN) | $140$-$260\,M_\odot$ | complete disruption | strong even-Z preference, large mass |
 | neutron-star merger / MR-SN | from binary | r-process | extreme [Eu/Fe], r-II pattern |
 | direct-collapse BH | $> 260\,M_\odot$ | no ejecta | none |
@@ -25,7 +25,7 @@ the **carbon-enhanced metal-poor (CEMP) class without s-process enhancement** is
 
 CEMP-no stars constitute $\sim 20\%$ of stars at $[{\rm Fe/H}] \sim -3$ and rise to $\sim 80\%$ at $[{\rm Fe/H}] < -4$. examples:
 
-- **HE 0107-5240** (Christlieb et al. 2002, Nature 419, 904): $[{\rm Fe/H}] = -5.3$, $[{\rm C/Fe}] = +4.0$ — first ultra-iron-poor giant.
+- **HE 0107-5240** (Christlieb et al. 2002, Nature 419, 904): $[{\rm Fe/H}] = -5.3$, $[{\rm C/Fe}] = +4.0$, first ultra-iron-poor giant.
 - **HE 1327-2326** (Frebel et al. 2005, Nature 434, 871): $[{\rm Fe/H}] = -5.4$, $[{\rm C/Fe}] = +4.2$.
 - **SDSS J1029+1729**, **SDSS J0023+0307** (newer discoveries).
 
@@ -40,7 +40,7 @@ a small fraction of metal-poor halo stars show **extreme r-process enrichment**:
 
 these are likely polluted by **rare events**: neutron-star mergers, magneto-rotational SNe, or collapsars producing r-process material in $\geq 10^{-2}\,M_\odot$ quantities per event.
 
-the breakthrough discovery: **Reticulum II UFDG** (Ji et al. 2016, Nature 531, 610) — 7 of 9 stars in a single UFDG show extreme r-process enrichment, consistent with one ancient neutron-star merger having polluted the entire small UFDG halo.
+the breakthrough discovery: **Reticulum II UFDG** (Ji et al. 2016, Nature 531, 610), 7 of 9 stars in a single UFDG show extreme r-process enrichment, consistent with one ancient neutron-star merger having polluted the entire small UFDG halo.
 
 ## even-Z elemental pattern (PISN signature?)
 
@@ -49,8 +49,8 @@ pair-instability SNe ($M_{\rm Pop III} \sim 140$-$260\,M_\odot$) destroy the ent
 predicted PISN signature: $[{\rm Si/Fe}] \sim +0.5$, $[{\rm Ca/Fe}] \sim +0.5$, $[{\rm Na/Fe}] \sim -1$, with a sharp odd-even contrast ratio.
 
 **no clear PISN candidate has yet been found** in halo + UFDG stars. the search continues. interpretations:
-- Pop III IMF was bottom-heavier than expected; few or no PISNe occurred;
-- PISN ejecta were diluted by other SN ejecta before being incorporated into surviving stars;
+- Pop III IMF was bottom-heavier than expected. Few or no PISNe occurred.
+- PISN ejecta were diluted by other SN ejecta before being incorporated into surviving stars.
 - alternatively, the more recent claim of a probable PISN descendant: J1010+2358 (Xing et al. 2023, Nature 618, 712) at $[{\rm Fe/H}] = -2.4$ shows a strong odd-even pattern + light-element deficit consistent with a $> 250\,M_\odot$ progenitor.
 
 ## stochastic enrichment
@@ -63,20 +63,20 @@ statistical studies of the abundance distributions of $[{\rm Fe/H}] < -3$ stars 
 
 these signatures provide the **only observational handle on the Pop III IMF** until JWST or future telescopes detect Pop III stars directly. they:
 
-- constrain the high-mass cutoff of the Pop III IMF;
-- test Pop III SN explosion models;
-- measure the rate of rare events (NSMs, MR-SNe) at high redshift;
+- constrain the high-mass cutoff of the Pop III IMF.
+- test Pop III SN explosion models.
+- measure the rate of rare events (NSMs, MR-SNe) at high redshift.
 - inform models of the chemical evolution of the Milky Way + dwarf galaxies.
 
 ## reference papers
 
-- **Beers & Christlieb 2005, ARA&A 43, 531** — review of metal-poor halo stars.
-- **Frebel & Norris 2015, ARA&A 53, 631** — review of UFDG chemistry.
-- **Christlieb et al. 2002, Nature 419, 904** — HE 0107-5240 discovery.
-- **Frebel et al. 2005, Nature 434, 871** — HE 1327-2326.
-- **Ji et al. 2016, Nature 531, 610** — r-process pollution of Reticulum II.
-- **Heger & Woosley 2002, 2010** — PISN nucleosynthesis predictions.
-- **Xing et al. 2023, Nature 618, 712** — PISN-descendant candidate J1010+2358.
+- **Beers & Christlieb 2005, ARA&A 43, 531** - review of metal-poor halo stars.
+- **Frebel & Norris 2015, ARA&A 53, 631** - review of UFDG chemistry.
+- **Christlieb et al. 2002, Nature 419, 904** - HE 0107-5240 discovery.
+- **Frebel et al. 2005, Nature 434, 871** - HE 1327-2326.
+- **Ji et al. 2016, Nature 531, 610** - r-process pollution of Reticulum II.
+- **Heger & Woosley 2002, 2010** - PISN nucleosynthesis predictions.
+- **Xing et al. 2023, Nature 618, 712** - PISN-descendant candidate J1010+2358.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

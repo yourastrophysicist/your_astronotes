@@ -22,7 +22,7 @@ applicable to late-type spiral and irregular galaxies in dynamic steady state, w
 
 ### 3. exponentially declining ($\tau$-model)
 $$\psi(t) = \frac{M_*}{\tau}\,e^{-t/\tau}$$
-where $\tau$ is the characteristic e-folding star-formation timescale. as $\tau \to 0$, it approaches an instantaneous SSP; as $\tau \to \infty$, it approaches constant star formation. historically used as the standard parametrization for early-type galaxies experiencing monotonic gas exhaustion.
+where $\tau$ is the characteristic e-folding star-formation timescale. as $\tau \to 0$, it approaches an instantaneous SSP. as $\tau \to \infty$, it approaches constant star formation. historically used as the standard parametrization for early-type galaxies experiencing monotonic gas exhaustion.
 
 ### 4. delayed-$\tau$ model
 $$\psi(t) = A\,t\,\exp(-t/\tau)$$
@@ -62,6 +62,21 @@ the inverse of sSFR is the **doubling timescale** $t_{\rm double} = 1/\mathrm{sS
 integrating individual galaxy SFHs over cosmological volumes generates the **cosmic star formation history (CSFH)** (Madau & Dickinson 2014):
 $$\rho_{\rm SFR}(z) = 0.015\,\frac{(1+z)^{2.7}}{1 + [(1+z)/2.9]^{5.6}} \quad [M_\odot\,\text{yr}^{-1}\,\text{Mpc}^{-3}]$$
 the cosmic star formation rate density peaked at $z \approx 1.9$ ("cosmic noon", $\sim 10$ Gyr ago) and declined by an order of magnitude toward $z = 0$.
+
+## worked example
+
+an exponential history $\psi(t) = \psi_0\,e^{-t/\tau}$ with $\tau = 3$ Gyr, observed at $t = 10$ Gyr. the mass formed up to time $t$ is $\psi_0\tau\,(1 - e^{-t/\tau})$.
+
+- fraction of the stars formed in the first 3 Gyr: $(1 - e^{-1})/(1 - e^{-3.33}) = 66\%$
+- present rate over the past average: $b = \dfrac{e^{-3.33}}{(\tau/t)(1 - e^{-3.33})} = 0.12$
+
+so this galaxy forms stars today at 12% of its average rate.
+
+## where it goes wrong
+
+- the mass formed is not the mass in stars today. about 30 to 40% goes back to the gas through winds and supernovae.
+- the light-weighted age is always younger than the mass-weighted age, because young stars are brighter.
+- a recent burst can hide a much larger old population. this is outshining.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

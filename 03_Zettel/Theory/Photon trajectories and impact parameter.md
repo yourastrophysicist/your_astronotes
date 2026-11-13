@@ -20,21 +20,21 @@ $$\left(\frac{du}{d\phi}\right)^2 = \frac{1}{b^2} - u^2(1 - 2GMu)$$
 with $u = 1/r$. taking the derivative once more:
 $$\frac{d^2 u}{d\phi^2} + u = 3GM u^2$$
 
-the right side is the GR correction; without it (Newtonian), we'd have a Kepler-like ellipse.
+the right side is the GR correction. without it (Newtonian), we'd have a Kepler-like ellipse.
 
 ## three regimes
 
 depending on $b$:
 
-### $b > b_{\rm crit}$: scattering
+### $b > b_{\rm crit}$ - scattering
 photon comes in, reaches a minimum radius, escapes back to infinity. deflection angle:
 $$\Delta\phi - \pi = \frac{4GM}{b}\quad\text{at large } b$$
 the famous **light deflection by gravity**. for the Sun, $b \sim R_\odot$: $\Delta\phi \approx 1.75''$, the Eddington 1919 result.
 
-### $b = b_{\rm crit} = 3\sqrt{3}\,GM$: critical
+### $b = b_{\rm crit} = 3\sqrt{3}\,GM$ - critical
 photon asymptotes to the photon sphere at $r = 3GM$, orbiting indefinitely. the boundary between scattering and capture.
 
-### $b < b_{\rm crit}$: capture
+### $b < b_{\rm crit}$ - capture
 photon falls into the BH. no escape.
 
 ## the deflection formula
@@ -42,7 +42,7 @@ photon falls into the BH. no escape.
 at large impact parameter ($b \gg GM$), the deflection angle is:
 $$\Delta\phi \approx \frac{4GM}{b}$$
 
-doubled compared to the Newtonian "photon-as-particle" calculation, which gives $2GM/b$. this **factor of 2** is a famous tension: Einstein's first 1911 paper (using only $g_{tt}$) got the Newtonian result; the full 1915 GR calculation got the doubled answer; Eddington's 1919 measurement confirmed the GR value.
+doubled compared to the Newtonian "photon-as-particle" calculation, which gives $2GM/b$. this **factor of 2** is a famous tension: Einstein's first 1911 paper (using only $g_{tt}$) got the Newtonian result. the full 1915 GR calculation got the doubled answer. Eddington's 1919 measurement confirmed the GR value.
 
 physical reason: GR's deflection has equal contributions from $g_{tt}$ (gravitational time dilation) and $g_{rr}$ (spatial curvature). Newtonian gravity has only the former.
 

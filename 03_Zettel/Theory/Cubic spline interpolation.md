@@ -14,7 +14,7 @@ between each pair of adjacent points $(x_i, y_i)$ and $(x_{i+1}, y_{i+1})$, fit 
 2. **slope match** at each interior point: $S_{i-1}'(x_i) = S_i'(x_i)$ → $N - 1$ equations
 3. **curvature match** at each interior point: $S_{i-1}''(x_i) = S_i''(x_i)$ → $N - 1$ equations
 
-total: $4N - 2$ equations on $4N$ unknowns ($N$ cubics × 4 coefs). two more equations needed — these are the **boundary conditions**:
+total: $4N - 2$ equations on $4N$ unknowns ($N$ cubics × 4 coefs). two more equations needed. these are the **boundary conditions**:
 
 - **natural spline**: $S_0''(x_0) = S_{N-1}''(x_N) = 0$ (zero curvature at endpoints)
 - **clamped spline**: $S_0'(x_0)$, $S_{N-1}'(x_N)$ specified
@@ -50,7 +50,7 @@ cs = CubicSpline(x_data, y_data, bc_type=((1, 0), (1, 0)))  # custom: first deri
 
 ## strengths over polynomial interpolation
 
-a single high-degree polynomial through $N+1$ points exhibits the **Runge phenomenon** — wild oscillations at the edges. cubic splines avoid this entirely because each cubic is local; oscillations cannot propagate.
+a single high-degree polynomial through $N+1$ points exhibits the **Runge phenomenon**, wild oscillations at the edges. cubic splines avoid this entirely because each cubic is local. oscillations cannot propagate.
 
 ## strengths over linear interpolation
 
@@ -66,7 +66,7 @@ a single high-degree polynomial through $N+1$ points exhibits the **Runge phenom
 
 ## natural splines vs not-a-knot
 
-`scipy.interpolate.CubicSpline` defaults to **not-a-knot** (the third derivative is continuous at the second and second-to-last points; equivalently, the first two cubics share all coefficients, as do the last two). this is more accurate near the boundary than the natural spline.
+`scipy.interpolate.CubicSpline` defaults to **not-a-knot** (the third derivative is continuous at the second and second-to-last points, equivalently, the first two cubics share all coefficients, as do the last two). this is more accurate near the boundary than the natural spline.
 
 natural splines have $S'' = 0$ at the endpoints, which can be incorrect (e.g. for $y = \sin x$ with endpoints not at multiples of $\pi$). the natural assumption is wrong → boundary error.
 

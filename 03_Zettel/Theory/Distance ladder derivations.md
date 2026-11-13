@@ -2,7 +2,7 @@
 layout: "default"
 title: "Distance ladder derivations"
 ---
-a comprehensive companion to [[Observational_Astrophysics_MOC]] Block 5. the goal is to derive every rung of the distance ladder, from the AU outward to the Hubble flow, with the geometry shown explicitly each time. this is the master "where does this distance come from" note.
+a full companion to [[Observational_Astrophysics_MOC]] Block 5. the goal is to derive every rung of the distance ladder, from the AU outward to the Hubble flow, with the geometry shown explicitly each time. this is the master "where does this distance come from" note.
 
 source: Lecture 5 ("Distance ladder") of the Obs Astrophysics course at U Padua, plus the user's exam-answer drafts `obs1.pdf` (AU + parallax) and `obs2.pdf` (distance modulus + dust + Hubble). companion to [[Cosmic_inventory_photons_derivation]] in style.
 
@@ -10,7 +10,7 @@ source: Lecture 5 ("Distance ladder") of the Obs Astrophysics course at U Padua,
 
 ## why a ladder
 
-every distance method has a limited range. nothing reaches from $1$ AU to $10^{10}$ pc in one step. so we **calibrate** each method against the next-shorter one, building a chain. each rung introduces one observational technique and inherits all the systematic errors of the rungs below. this is why $H_0$ measurements are still controversial; the chain has $\sim 5$ links, each with its own $\sim 1\%$ systematic.
+every distance method has a limited range. nothing reaches from $1$ AU to $10^{10}$ pc in one step. so we **calibrate** each method against the next-shorter one, building a chain. each rung introduces one observational technique and inherits all the systematic errors of the rungs below. this is why $H_0$ measurements are still controversial. the chain has $\sim 5$ links, each with its own $\sim 1\%$ systematic.
 
 the rungs in order:
 1. **AU** from Earth-Venus distance + Kepler.
@@ -40,7 +40,7 @@ since the 1960s, a radar pulse is sent from Earth, reflected off Venus, and the 
 $$d_{EV} = \frac{c\, t}{2}$$
 this is direct, geometric, and now defines the AU at $\sim 1$ part in $10^{11}$.
 
-a side note: the received radar power scales as $1/d^4$ because the pulse spreads on the way out *and* on the way back. for the Earth-Venus distance ($\sim 0.3$ AU) this is feasible with a few-MW transmitter; pushing radar much further runs into the inverse-fourth-power wall.
+a side note: the received radar power scales as $1/d^4$ because the pulse spreads on the way out *and* on the way back. for the Earth-Venus distance ($\sim 0.3$ AU) this is feasible with a few-MW transmitter. pushing radar much further runs into the inverse-fourth-power wall.
 
 ### Kepler converts $d_{EV}$ to AU
 
@@ -72,7 +72,7 @@ $$\boxed{\, d(\text{pc}) = \frac{1}{p(\text{arcsec})} \,}$$
 **range and precision**:
 - naked eye + photographic plates (Bessel 1838 for 61 Cyg): $\sim 10$ pc.
 - Hipparcos (1989-1993): $\sim 100$ pc with $\sim 1$ mas precision.
-- Gaia DR3 (2022): $\sim 1$ to $10$ kpc with $10\,\mu$as for bright stars; first global geometric distance scale across the Galaxy.
+- Gaia DR3 (2022): $\sim 1$ to $10$ kpc with $10\,\mu$as for bright stars. first global geometric distance scale across the Galaxy.
 
 parallax is **the only fully geometric method** in the entire ladder. every rung above it depends on parallax-calibrated standard candles. when Gaia released DR3 with parallaxes for tens of millions of stars, every rung above tightened simultaneously.
 
@@ -103,7 +103,7 @@ extinction $A_\lambda$ dims the source by $A_\lambda$ magnitudes in band $\lambd
 $$m_{\rm obs} = m_0 + A_\lambda$$
 where $m_0$ is the magnitude that would be observed if no dust intervened. the correct distance modulus is therefore
 $$\mu = m_{\rm obs} - M - A_\lambda$$
-correcting for dust *reduces* $\mu$, so the inferred distance is *smaller* than the naive estimate. this is the punchline of `obs2.pdf` part 2.
+correcting for dust *reduces* $\mu$, so the inferred distance is *smaller* than the naive estimate. this is the main result of `obs2.pdf` part 2.
 
 reddening: extinction is wavelength-dependent, stronger in the blue, so colors get redder. quantified by $E(B-V) = A_B - A_V$ and $R_V \equiv A_V/E(B-V) \approx 3.1$ for diffuse Galactic ISM. determining $E(B-V)$ from a measured color excess (e.g. by comparing observed colors to intrinsic colors expected for the spectral type, or from the **Balmer decrement** $F(H\alpha)/F(H\beta)$ vs the case-B intrinsic ratio of $2.86$) gives me $A_V$ and hence the dust-corrected distance.
 
@@ -117,11 +117,11 @@ if I know $M$ from physics, then measuring $m$ (and correcting for dust) gives m
 $$M_V \approx -2.78 \log_{10} P(\text{days}) - 1.35$$
 (Madore & Freedman calibration). Cepheids are bright ($M_V$ down to $-7$), live in the disks of star-forming galaxies, observable to $\sim 30$ Mpc with HST.
 - **TRGB**: at the helium flash, the tip of the red giant branch sits at a fixed $M_I \approx -4.0$, almost insensitive to age and metallicity. detectable as a sharp edge in the I-band luminosity function. competitive with Cepheids for nearby galaxies, less prone to dust.
-- **SN Ia**: thermonuclear explosions of $\sim 1.4\,M_\odot$ white dwarfs; intrinsic $M_V \approx -19.3$ with $\sim 0.4$ mag spread, narrowed to $\sim 0.15$ mag using the **Phillips relation** between peak brightness and decline rate $\Delta m_{15}$:
+- **SN Ia**: thermonuclear explosions of $\sim 1.4\,M_\odot$ white dwarfs. intrinsic $M_V \approx -19.3$ with $\sim 0.4$ mag spread, narrowed to $\sim 0.15$ mag using the **Phillips relation** between peak brightness and decline rate $\Delta m_{15}$:
 $$M_V^{\rm peak} = M_V^0 - \alpha (\Delta m_{15} - 1.1)$$
 range: $z \sim 1$, the workhorse for cosmology.
 
-each candle is calibrated against the rung below. parallax to Galactic Cepheids; Cepheids in galaxies hosting SN Ia; SN Ia out to cosmological distances. break a single rung and the whole ladder shifts.
+each candle is calibrated against the rung below. parallax to Galactic Cepheids, Cepheids in galaxies hosting SN Ia, SN Ia out to cosmological distances. break a single rung and the whole ladder shifts.
 
 ---
 
@@ -141,12 +141,12 @@ at small $z$, recession velocity $v \approx cz$ (special-relativistic Doppler, l
 at low redshift,
 $$v = H_0 d \quad\Rightarrow\quad d \approx \frac{cz}{H_0}$$
 
-the **Hubble diagram** plots $cz$ (or $v$) vs $d$, and the slope is $H_0$. Hubble's original 1929 plot only reached $\sim 2$ Mpc; modern Hubble diagrams using SN Ia reach $z \sim 1$.
+the **Hubble diagram** plots $cz$ (or $v$) vs $d$, and the slope is $H_0$. Hubble's original 1929 plot only reached $\sim 2$ Mpc. modern Hubble diagrams using SN Ia reach $z \sim 1$.
 
 ### caveats
 
 three things break the simple $cz/H_0$ formula:
-1. **peculiar velocities**: at $z \lesssim 0.01$, peculiar motion of the host galaxy can be a $\sim 30\%$ correction. that is why low-$z$ Hubble-law distances are unreliable; you need either many galaxies (averaging out) or independent distance estimators (Tully-Fisher, SN Ia at $z \sim 0.01$ to $0.1$).
+1. **peculiar velocities**: at $z \lesssim 0.01$, peculiar motion of the host galaxy can be a $\sim 30\%$ correction. that is why low-$z$ Hubble-law distances are unreliable. you need either many galaxies (averaging out) or independent distance estimators (Tully-Fisher, SN Ia at $z \sim 0.01$ to $0.1$).
 2. **cosmological dependence**: at $z \gtrsim 0.1$, the simple $v = cz$ Doppler approximation breaks. the proper distance depends on the full FLRW solution:
 $$d_L(z) = (1+z) \frac{c}{H_0}\int_0^z \frac{dz'}{\sqrt{\Omega_m(1+z')^3 + \Omega_\Lambda}}$$
 (flat $\Lambda$CDM). this is what makes high-$z$ SN Ia so useful: their Hubble diagram constrains $\Omega_m$ and $\Omega_\Lambda$. see [[Luminosity distance]].
@@ -206,7 +206,7 @@ if asked to derive on the board, the two derivations to have ready cold are:
 
 ---
 
-## TL;DR
+## in short
 
 start at $1$ AU calibrated by radar to nine digits, propagate to nearby stars by parallax (defining the parsec), to clusters by spectroscopic parallax, to galaxies by Cepheids and TRGB, to cosmological distances by SN Ia, and out to the Hubble flow by $d \approx cz/H_0$ with FLRW corrections at $z \gtrsim 0.1$. every distance in astronomy ultimately rests on the radar bounce off Venus.
 
@@ -226,8 +226,8 @@ start at $1$ AU calibrated by radar to nine digits, propagate to nearby stars by
 
 ## see also
 
-- [[Observational_Astrophysics_MOC]] — Block 5 lives here
-- [[Observational_Cosmology_MOC]] — Block 1 (Distances in cosmology) extends this to high $z$
+- [[Observational_Astrophysics_MOC]] - Block 5 lives here
+- [[Observational_Cosmology_MOC]] - Block 1 (Distances in cosmology) extends this to high $z$
 - [[Luminosity distance]] / [[Angular diameter distance]] / [[Radial comoving distance]]
 - [[Distance modulus]]
 - [[Hubble law]]
@@ -238,9 +238,9 @@ start at $1$ AU calibrated by radar to nine digits, propagate to nearby stars by
 - [[Cepheid period-luminosity relation]]
 - [[TRGB tip of the red giant branch]]
 - [[Type Ia supernovae as standard candles]]
-- [[Earth atmosphere for observations]] — what limits the parallax precision
-- [[CCD detectors and SNR]] — what enables the photometry that anchors every candle
-- [[Cosmic_inventory_overview]] — where the cosmic distance scale connects to the budget
+- [[Earth atmosphere for observations]] - what limits the parallax precision
+- [[CCD detectors and SNR]] - what enables the photometry that anchors every candle
+- [[Cosmic_inventory_overview]] - where the cosmic distance scale connects to the budget
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
 
 ---

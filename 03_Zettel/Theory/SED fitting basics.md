@@ -2,7 +2,7 @@
 layout: "default"
 title: "SED fitting basics"
 ---
-**spectral energy distribution (SED) fitting** is the inverse modeling methodology that extracts physical galaxy parameters—stellar mass $M_*$, star formation rate (SFR), stellar age $\tau$, metallicity $Z$, dust attenuation $A_V$, and redshift $z$—from observed multi-wavelength photometric fluxes and integrated spectra. It links raw telescope observations to theoretical stellar evolution and galaxy formation physics.
+**spectral energy distribution (SED) fitting** is the inverse modeling methodology that extracts physical galaxy parameters, stellar mass $M_*$, star formation rate (SFR), stellar age $\tau$, metallicity $Z$, dust attenuation $A_V$, and redshift $z$, from observed multi-wavelength photometric fluxes and integrated spectra. It links raw telescope observations to theoretical stellar evolution and galaxy formation physics.
 
 ---
 
@@ -30,7 +30,7 @@ the core of SED fitting is a forward model mapping a physical parameter vector $
 
 ---
 
-### statistical inference: likelihood and bayesian posteriors
+### statistical inference - likelihood and bayesian posteriors
 
 #### Gaussian likelihood
 for uncorrelated observational photometric uncertainties $\sigma_X$, the likelihood function $\mathcal{L}(\mathbf{F}^{\rm obs} \mid \mathbf{\theta})$ is:
@@ -53,7 +53,7 @@ where $p(\mathbf{\theta})$ incorporates physical priors:
 
 1. **template-grid $\chi^2$ minimization (frequentist)**:
    - computes a fixed grid of pre-synthesized templates across discrete values of $(z, \tau, Z, A_V)$.
-   - extremely fast ($\sim 10^4$ galaxies/minute); used for large photometric redshift catalogs and quick-look classification.
+   - extremely fast ($\sim 10^4$ galaxies/minute). used for large photometric redshift catalogs and quick-look classification.
    - codes: **EAZY**, **FAST**, **HyperZ**, **LePHARE**.
 2. **bayesian MCMC and nested sampling**:
    - explores continuous multi-dimensional parameter space using Markov Chain Monte Carlo (emcee) or nested sampling (dynesty, MultiNest).
@@ -79,6 +79,17 @@ the physical properties extracted from SED fitting exhibit a strict hierarchy of
 | **stellar age / SFH shape** | $0.3\text{--}0.6$ dex | Continuum breaks ($4000$ Å break, Balmer break) | "Outshining" effect (young stars drown old stars), degeneracies |
 
 ---
+
+## worked example
+
+8 bands fitted with 4 free parameters leave $\nu = 4$ degrees of freedom. a fit with $\chi^2 = 6$ has $\chi^2_\nu = 1.5$, which is acceptable. the 68% interval of one parameter is where $\chi^2$ rises by 1 above its minimum, with the other parameters refitted.
+
+## where it goes wrong
+
+- catalog errors are usually too small. adding a few percent in quadrature for the zero points avoids fits that are driven by one band.
+- if no template resembles the galaxy, the best fit is still returned, and it is meaningless. I look at $\chi^2$.
+- when the data are weak, the answer is the prior.
+- non-detections carry information and must enter the fit as upper limits.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

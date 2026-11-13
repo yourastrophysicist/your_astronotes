@@ -4,7 +4,7 @@ title: "Coherent vs incoherent imaging"
 ---
 # Coherent vs incoherent imaging
 
-a fundamental distinction. **coherent** imaging adds wave amplitudes; **incoherent** imaging adds intensities. interferometers operate in coherent mode (between sub-apertures, of light from the same astronomical source). regular telescopes mostly operate incoherently (between independent sources within the field).
+a fundamental distinction. **coherent** imaging adds wave amplitudes. **incoherent** imaging adds intensities. interferometers operate in coherent mode (between sub-apertures, of light from the same astronomical source). regular telescopes mostly operate incoherently (between independent sources within the field).
 
 ## the math
 
@@ -27,9 +27,9 @@ intensities just sum.
 
 mutual coherence requires both:
 
-1. **temporal coherence**: the wave's phase is predictable over the relevant time interval. characterized by a coherence time $\tau_c \sim 1/\Delta\nu$, the inverse bandwidth. a laser has $\tau_c \sim$ ms. starlight at 500 nm has $\Delta\nu \sim 10^{14}$ Hz so $\tau_c \sim 10^{-14}$ s — *extremely short*
+1. **temporal coherence**: the wave's phase is predictable over the relevant time interval. characterized by a coherence time $\tau_c \sim 1/\Delta\nu$, the inverse bandwidth. a laser has $\tau_c \sim$ ms. starlight at 500 nm has $\Delta\nu \sim 10^{14}$ Hz so $\tau_c \sim 10^{-14}$ s, *extremely short*
 
-2. **spatial coherence**: the wave's phase relationship between two points is stable. characterized by a coherence area $A_c \sim (\lambda/\theta_s)^2$, the inverse squared angular size of the source. a point source has infinite coherence area; a uniform disk of angular size $\theta_d$ has $A_c \sim (\lambda/\theta_d)^2$
+2. **spatial coherence**: the wave's phase relationship between two points is stable. characterized by a coherence area $A_c \sim (\lambda/\theta_s)^2$, the inverse squared angular size of the source. a point source has infinite coherence area. a uniform disk of angular size $\theta_d$ has $A_c \sim (\lambda/\theta_d)^2$
 
 for stellar interferometry: the source is *partially coherent* spatially (because it has finite angular size), and the partial coherence *is* the visibility we measure.
 
@@ -37,7 +37,7 @@ for stellar interferometry: the source is *partially coherent* spatially (becaus
 
 an interferometer combines light from two telescopes with a *common phase reference* (the same astronomical source). the relative phase between the two telescopes is determined by the geometry (path difference) plus the source brightness distribution. it does not vary on detector-integration timescales (modulo atmosphere).
 
-so the interferometer measures the cross-term $\langle \psi_1^* \psi_2 \rangle$ — the **complex coherence function**. this is the *visibility*, and it is what carries the source information.
+so the interferometer measures the cross-term $\langle \psi_1^* \psi_2 \rangle$, the **complex coherence function**. this is the *visibility*, and it is what carries the source information.
 
 ## why imaging telescopes measure incoherent quantities
 

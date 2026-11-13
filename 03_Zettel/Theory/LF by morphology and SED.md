@@ -48,6 +48,10 @@ this gives basically the same LF decomposition as visual morphology, with the ad
 
 the Schechter parameters $(\phi^*, L^*, \alpha)$ are not "the LF parameters of the universe". they are the LF parameters *of the sample you happen to have selected*. always quote them with the sample definition (band, $z$ range, color cut, morphology).
 
+## where it goes wrong
+
+- types are defined differently in each survey. comparing the luminosity functions of "spirals" between surveys is risky.
+
 ## connections
 
 - baseline: [[Schechter function]]

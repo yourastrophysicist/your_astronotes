@@ -21,14 +21,14 @@ the rotational profile has zeros in Fourier space at predictable locations. meas
 modern method of choice for high-precision $v\sin i$ in echelle spectra.
 
 ### profile-shape fitting
-fit a parameterised rotational + macroturbulence + Gaussian (for thermal + microturbulence) convolution model to a clean line. several parameters; degeneracies.
+fit a parameterised rotational + macroturbulence + Gaussian (for thermal + microturbulence) convolution model to a clean line. several parameters. degeneracies.
 
 ### cross-correlation function (CCF) width
-cross-correlate observed spectrum with a template; CCF width $\propto v\sin i$ (after subtracting other broadening contributions). simpler, less precise.
+cross-correlate observed spectrum with a template. CCF width $\propto v\sin i$ (after subtracting other broadening contributions). simpler, less precise.
 
 ## requirements
 
-- **high resolution**: $R \gtrsim 30\,000$ for $v\sin i = 5$ km/s; $R \gtrsim 100\,000$ for $v\sin i \lesssim 1$ km/s.
+- **high resolution**: $R \gtrsim 30\,000$ for $v\sin i = 5$ km/s. $R \gtrsim 100\,000$ for $v\sin i \lesssim 1$ km/s.
 - **sharp lines**: choose lines with low Doppler + microturbulence widths. metal lines in cool stars work well.
 - **isolated lines**: avoid blends.
 

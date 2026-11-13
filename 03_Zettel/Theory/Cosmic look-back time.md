@@ -57,6 +57,11 @@ the look-back time at $z = 5$ is $12.5$ Gyr (out of $13.8$). at $z = 10$ it's $1
 
 physical reason: the universe was compressed in time at early epochs. the first $\sim 1$ Gyr after the Big Bang covers $z = \infty$ down to $z \sim 6$.
 
+## where it goes wrong
+
+- look-back time is not distance. $c\,t_L$ is neither $d_C$ nor $d_L$.
+- beyond $z = 5$ the look-back time changes slowly, from 12.6 to 13.8 Gyr.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

@@ -4,7 +4,7 @@ title: "Light waves and the EM spectrum"
 ---
 # Light waves and the EM spectrum
 
-the foundational opening of any interferometry course. light is a transverse electromagnetic wave with two perpendicular oscillating components — electric and magnetic field — both perpendicular to the propagation direction. visible light is one octave of a vast electromagnetic spectrum.
+the opening of any interferometry course. light is a transverse electromagnetic wave with two perpendicular oscillating components, electric and magnetic field, both perpendicular to the propagation direction. visible light is one octave of a large electromagnetic spectrum.
 
 ## the wave nature
 
@@ -45,12 +45,12 @@ human eyes respond to wavelengths from about 380 nm (violet) to 750 nm (red). wi
 - orange: 590-620 nm
 - red: 620-750 nm
 
-the Sun's photosphere has $T \sim 5800$ K, and its blackbody peaks at $\sim 500$ nm — neatly inside the visible. evolution selected for vision in this band.
+the Sun's photosphere has $T \sim 5800$ K, and its blackbody peaks at $\sim 500$ nm, neatly inside the visible. evolution selected for vision in this band.
 
 ## the wider EM spectrum
 
 light is one octave of an enormous range:
-- radio (m to km): VLA, ALMA, EHT — interferometric astronomy
+- radio (m to km): VLA, ALMA, EHT, interferometric astronomy
 - microwave (mm-cm): CMB, ALMA bands 1-3
 - infrared (μm): VLTI, JWST, Spitzer
 - visible (380-750 nm): CHARA, COAST
@@ -58,7 +58,7 @@ light is one octave of an enormous range:
 - X-ray (Å): Chandra, XMM-Newton
 - gamma-ray (< Å): Fermi, CTA
 
-each band has its own physics, instruments, and engineering. interferometry works wherever the wave nature is preserved by the optics — most usefully at radio (heterodyne detection) and optical/IR (direct detection).
+each band has its own physics, instruments, and engineering. interferometry works wherever the wave nature is preserved by the optics, most usefully at radio (heterodyne detection) and optical/IR (direct detection).
 
 ## the wave equation
 

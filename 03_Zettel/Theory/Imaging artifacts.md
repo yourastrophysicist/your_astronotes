@@ -54,7 +54,7 @@ caused by: CLEAN run for too many iterations, picking up noise as "clean compone
 
 look like: a mottled, "staticky" appearance of the image with many small spurious sources scattered around.
 
-fix: stop CLEAN earlier; use a noise-threshold stopping criterion; mask CLEAN to the actual source region.
+fix: stop CLEAN earlier. use a noise-threshold stopping criterion. mask CLEAN to the actual source region.
 
 ### undercleaned images
 
@@ -70,7 +70,7 @@ caused by: a bright source elsewhere in the field has its sidelobes overlapping 
 
 look like: residual ringing or excess noise near the science target, even after CLEAN.
 
-fix: include the bright source in the CLEAN model; mask it explicitly; or move the pointing center.
+fix: include the bright source in the CLEAN model. mask it explicitly. or move the pointing center.
 
 ### radio-frequency interference (RFI)
 

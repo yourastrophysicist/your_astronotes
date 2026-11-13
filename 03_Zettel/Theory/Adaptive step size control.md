@@ -33,7 +33,7 @@ cost: $\sim 3\times$ a single step. simple but expensive.
 
 use *two* RK methods of different orders that share the same $\mathbf{k}_i$ stages. the difference between them estimates the error.
 
-example: **Dormand-Prince RK45**, used in `scipy.integrate.solve_ivp` (`method='RK45'`). seven $\mathbf{k}_i$ stages compute both an order-4 and an order-5 estimate; their difference is the local truncation error of the order-4 step. cost: only one extra `f` evaluation compared to RK4 alone.
+example: **Dormand-Prince RK45**, used in `scipy.integrate.solve_ivp` (`method='RK45'`). seven $\mathbf{k}_i$ stages compute both an order-4 and an order-5 estimate. their difference is the local truncation error of the order-4 step. cost: only one extra `f` evaluation compared to RK4 alone.
 
 ### 3. predictor-corrector mismatch
 
@@ -49,7 +49,7 @@ where $p$ is the integrator order and $S \in (0.8, 0.95)$ is a safety factor (so
 
 this is *the* adaptive timestep formula. it appears verbatim in scipy, in Press et al., everywhere.
 
-## tolerances: relative vs absolute
+## tolerances - relative vs absolute
 
 a single tolerance $\epsilon$ is too crude for problems with components of very different magnitudes (some $y_i \sim 10^6$, others $\sim 10^{-3}$). use a hybrid:
 
@@ -76,18 +76,18 @@ sol = solve_ivp(f, t_span=(0, 100), y0=[1, 0],
 
 ## when fixed-step beats adaptive
 
-- **symplectic integrators**: leapfrog with fixed $h$ has bounded energy drift; adaptive leapfrog generally does *not* (the symplectic property is broken). for long-time orbits, prefer fixed-step leapfrog
+- **symplectic integrators**: leapfrog with fixed $h$ has bounded energy drift. adaptive leapfrog generally does *not* (the symplectic property is broken). for long-time orbits, prefer fixed-step leapfrog
 - **simple smooth problems**: an adaptive integrator may waste effort on error estimation when a fixed RK4 is more than accurate enough
 - **exam exercises that specify a fixed $h$**: just use the fixed step they ask for
 
 ## when adaptive is essential
 
 - **close encounters in N-body**: the timestep needed during a close approach is $10^4 \times$ smaller than during smooth motion. fixed-step is infeasible
-- **stiff problems**: the timestep needed for stability is much smaller than for accuracy; adaptive control catches this automatically
+- **stiff problems**: the timestep needed for stability is much smaller than for accuracy. adaptive control catches this automatically
 - **shock formation in PDEs**: gradients sharpen, $h$ must follow
 - **Bulirsch-Stoer**: built around adaptivity, see [[Bulirsch-Stoer extrapolation]]
 
-## the diagnostic: how to see adaptivity working
+## the diagnostic - how to see adaptivity working
 
 plot the timestep $h$ as a function of $t$. for an N-body simulation it should:
 - be roughly constant during smooth motion

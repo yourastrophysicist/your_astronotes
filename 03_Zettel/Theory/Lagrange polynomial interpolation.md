@@ -14,7 +14,7 @@ each $\ell_i(x)$ is the **Lagrange basis polynomial** that equals 1 at $x_i$ and
 
 ## why "unique"
 
-a polynomial of degree at most $N$ has $N + 1$ coefficients. matching it to $N + 1$ data points gives $N + 1$ linear equations for $N + 1$ unknowns; if the $x_i$ are distinct, the system has a unique solution. the Lagrange formula just writes that solution down explicitly.
+a polynomial of degree at most $N$ has $N + 1$ coefficients. matching it to $N + 1$ data points gives $N + 1$ linear equations for $N + 1$ unknowns. if the $x_i$ are distinct, the system has a unique solution. the Lagrange formula just writes that solution down explicitly.
 
 ## python
 
@@ -43,7 +43,7 @@ each query: $O(N^2)$. for $Q$ queries: $O(Q N^2)$. faster algorithms exist (Nevi
 - **smooth**: infinitely differentiable
 - **theoretical baseline**: every numerical analysis textbook starts here
 
-## the central weakness: the Runge phenomenon
+## the central weakness - the Runge phenomenon
 
 for *equispaced* data and high $N$, the Lagrange interpolant develops violent oscillations near the boundaries of the interval, *even if the underlying function is smooth*. this is the **Runge phenomenon**, classically demonstrated on $f(x) = 1/(1 + 25 x^2)$ on $[-1, 1]$:
 
@@ -55,7 +55,7 @@ the maximum error grows exponentially with $N$ for equispaced data with non-anal
 
 ## three escape routes from Runge
 
-1. **use Chebyshev nodes** ($x_i = \cos(\pi i/N)$, clustered near the endpoints): the Runge phenomenon vanishes; high-degree polynomial interpolation converges geometrically. used in spectral methods
+1. **use Chebyshev nodes** ($x_i = \cos(\pi i/N)$, clustered near the endpoints): the Runge phenomenon vanishes. high-degree polynomial interpolation converges geometrically. used in spectral methods
 2. **use piecewise polynomials**: keep the polynomial degree low (1, 3) and stitch pieces together. this is the linear-spline / cubic-spline strategy
 3. **use rational interpolation** or barycentric Lagrange with carefully chosen weights
 

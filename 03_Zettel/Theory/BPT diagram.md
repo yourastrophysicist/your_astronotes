@@ -60,8 +60,8 @@ other diagnostic plots use different line ratios:
 ## the limitations
 
 - **only emission-line galaxies**: doesn't classify passive ellipticals or $[OIII]$-weak systems.
-- **dust correction**: BPT works on dust-corrected line ratios; uncorrected ratios scatter.
-- **integrated spectra**: BPT classification depends on aperture; a galaxy with a SF disk + AGN nucleus may classify differently in central vs outer slits.
+- **dust correction**: BPT works on dust-corrected line ratios. uncorrected ratios scatter.
+- **integrated spectra**: BPT classification depends on aperture. a galaxy with a SF disk + AGN nucleus may classify differently in central vs outer slits.
 - **at high $z$**: BPT shifts because metallicity, $U$, and ionising spectrum hardness all evolve.
 
 ## the modern context

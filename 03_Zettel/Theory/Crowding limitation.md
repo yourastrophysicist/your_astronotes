@@ -8,7 +8,7 @@ a fundamental limit on how *many sources* a sparse interferometer can image at o
 
 ## the issue
 
-a single point source produces a dirty image that is just a scaled, shifted copy of the dirty beam. CLEAN can recover it cleanly. two well-separated point sources: each produces its own dirty beam pattern; CLEAN handles both fine.
+a single point source produces a dirty image that is just a scaled, shifted copy of the dirty beam. CLEAN can recover it cleanly. two well-separated point sources: each produces its own dirty beam pattern. CLEAN handles both fine.
 
 but if many sources are present in the field, their dirty beams *overlap*. each source's sidelobes contaminate every other source's measurement. eventually, the contamination dominates and individual sources cannot be separated.
 
@@ -47,7 +47,7 @@ so designing arrays with good (u, v) coverage is partly about *reducing crowding
 
 ## the labyrie hypertelescope solution
 
-[[Hypertelescope\|hypertelescope]] schemes (Labeyrie 1996) use **pupil densification** to create a "concentrated" version of the dirty beam — most of the energy in the central peak, with much smaller sidelobes. this reduces crowding and lets sparse arrays image more densely-populated fields.
+[[Hypertelescope\|hypertelescope]] schemes (Labeyrie 1996) use **pupil densification** to create a "concentrated" version of the dirty beam, most of the energy in the central peak, with much smaller sidelobes. this reduces crowding and lets sparse arrays image more densely-populated fields.
 
 essentially: trade some signal-to-noise for a much better PSF.
 
@@ -55,7 +55,7 @@ essentially: trade some signal-to-noise for a much better PSF.
 
 related concept in radio astronomy: **confusion limit**. when the source density is so high that *unrelated* radio sources contribute to every beam, you cannot detect a new source below a flux threshold even with infinite integration time. the confusion limit depends on dirty beam, source counts, and the survey strategy.
 
-confusion is more about extragalactic statistics; crowding is more about specific imaged fields. but both arise from the same fundamental issue: limited beam, finite source density.
+confusion is more about extragalactic statistics. crowding is more about specific imaged fields. but both arise from the same fundamental issue: limited beam, finite source density.
 
 ## practical mitigation
 
@@ -63,12 +63,12 @@ three approaches:
 
 1. **better (u, v) coverage**: more antennas, longer tracks, cleaner dirty beam
 2. **deeper CLEAN**: iterate CLEAN longer to suppress sidelobes more aggressively. risks "over-cleaning" (artifacts)
-3. **multi-frequency synthesis**: combining (u, v) data from multiple frequencies gives a smoother synthesized beam — but only if the source spectra are known/parameterizable
+3. **multi-frequency synthesis**: combining (u, v) data from multiple frequencies gives a smoother synthesized beam, but only if the source spectra are known/parameterizable
 4. **modeling**: parametric model fitting (point sources at known positions) instead of CLEAN. works when the field is known to contain only point sources
 
 ## the labeyrie textbook treatment
 
-chapter 4 of Labeyrie discusses the crowding limit for *sparse-aperture* arrays specifically (where dirty beams have very high sidelobes). for filled-aperture or near-filled arrays (VLA, ALMA), crowding is rarely the binding constraint — sensitivity or atmospheric phase is.
+chapter 4 of Labeyrie discusses the crowding limit for *sparse-aperture* arrays specifically (where dirty beams have very high sidelobes). for filled-aperture or near-filled arrays (VLA, ALMA), crowding is rarely the binding constraint, sensitivity or atmospheric phase is.
 
 ## see also
 

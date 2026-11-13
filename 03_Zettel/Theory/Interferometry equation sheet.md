@@ -182,7 +182,7 @@ this is why optical interferometry on faint targets is hard.
 | Sgr A$^*$ ring diameter | 50 μas |
 | M87 ring diameter | 42 μas |
 
-## BookAI additions: radio quantities and signal chain
+## BookAI additions - radio quantities and signal chain
 
 specific intensity:
 

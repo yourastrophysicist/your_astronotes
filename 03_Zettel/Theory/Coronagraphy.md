@@ -19,7 +19,7 @@ result: the central star is *suppressed*, while the surrounding area is preserve
 ![Lyot coronagraph layout: focal plane occulting mask and Lyot pupil stop suppressing central starlight diffraction wings.](../../assets/images/Coronagraphy.jpg)
 
 
-unlike nulling, coronagraphy is *non-interferometric* — it suppresses light by absorption, not interference. but the effect is similar: high contrast in a small region.
+unlike nulling, coronagraphy is *non-interferometric*. it suppresses light by absorption, not interference. but the effect is similar: high contrast in a small region.
 
 simple Lyot coronagraph contrast: $\sim 10^3$-$10^4$. modern coronagraphs (apodized, vortex, four-quadrant): $10^7$-$10^9$.
 
@@ -31,7 +31,7 @@ an opaque mask at the focal plane + an undersized pupil stop (Lyot stop). the or
 
 ### apodized Lyot
 
-the focal-plane mask is *apodized* — a smooth transition from opaque to transparent. reduces diffraction at the mask edge. contrast up to $10^6$.
+the focal-plane mask is *apodized*, a smooth transition from opaque to transparent. reduces diffraction at the mask edge. contrast up to $10^6$.
 
 ### phase-mask coronagraph (Roddier-Roddier)
 
@@ -96,7 +96,7 @@ the mask response depends weakly on polarization. for $10^{10}$ contrast, polari
 
 ### 3. mask quality
 
-the mask itself must be near-perfect — sharp edges, exact dimensions. modern micromachined masks reach $10^{10}$ relative precision.
+the mask itself must be near-perfect, sharp edges, exact dimensions. modern micromachined masks reach $10^{10}$ relative precision.
 
 ## the synergy with interferometry
 

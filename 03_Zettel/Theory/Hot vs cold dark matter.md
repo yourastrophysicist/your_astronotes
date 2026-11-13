@@ -17,7 +17,7 @@ this distinction has dramatic consequences for **structure formation**.
 a hot relic is relativistic at decoupling, so it has a large velocity dispersion. in the matter era, particles **free-stream** out of any density perturbation smaller than their free-streaming length:
 $$\lambda_{\rm fs} \sim \int v\, dt$$
 
-this **erases** small-scale structure. for hot dark matter (e.g. eV-scale neutrinos), the free-streaming length is huge — comparable to a galaxy supercluster. so HDM cannot produce the observed small-scale structure (galaxies on the scale of $\sim 100$ kpc).
+this **erases** small-scale structure. for hot dark matter (e.g. eV-scale neutrinos), the free-streaming length is huge, comparable to a galaxy supercluster. so HDM cannot produce the observed small-scale structure (galaxies on the scale of $\sim 100$ kpc).
 
 → **HDM is ruled out** as the dominant dark matter component. light neutrinos contribute at most $\Omega_\nu h^2 \lesssim 0.001$ (see [[Cosmic_inventory_neutrinos]]).
 
@@ -30,7 +30,7 @@ a cold relic is non-relativistic at decoupling, so it has very small velocity di
 → **CDM is the C in ΛCDM**. our standard cosmological model.
 
 candidates include:
-- WIMPs (weak-scale particles): mass $\sim 100$ GeV, decouple non-relativistically (see Dark matter relics — WIMP miracle)
+- WIMPs (weak-scale particles): mass $\sim 100$ GeV, decouple non-relativistically (see Dark matter relics, WIMP miracle)
 - axions: very light ($\sim \mu$eV) but **never thermal**, produced by misalignment, behaves as cold even though light
 - primordial black holes: behave as cold
 - sterile neutrinos at sufficiently high mass
@@ -49,7 +49,7 @@ WDM is less constrained but may help explain some "small-scale" anomalies of CDM
 
 CDM structure forms **bottom-up**: small halos form first, then merge into larger ones. this matches the observed picture of galaxy formation followed by cluster formation.
 
-HDM would produce **top-down** structure: large structures form first, then fragment into smaller ones. this is the wrong sequence — observations show small galaxies existed at $z > 6$, well before clusters virialized.
+HDM would produce **top-down** structure: large structures form first, then fragment into smaller ones. this is the wrong sequence, observations show small galaxies existed at $z > 6$, well before clusters virialized.
 
 so the "way structure forms" alone tells us dark matter must be cold (or very nearly so).
 
@@ -87,6 +87,14 @@ we **don't know**:
 
 ---
 
+## worked example
+
+the free-streaming length of a neutrino of 1 eV is about $40\,(m/30\ \text{eV})^{-1}$ Mpc, so about 1.2 Gpc comoving. any structure smaller than that is erased.
+
+## where it goes wrong
+
+- warm dark matter is a real middle option, not a compromise.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -102,7 +110,7 @@ we **don't know**:
 - [[Cosmic_inventory_dark_matter]]
 - [[Cosmic_inventory_neutrinos]]
 - [[Decoupling and freeze-out]]
-- Dark matter relics — WIMP miracle
+- Dark matter relics, WIMP miracle
 - [[Matter power spectrum and BAO]]
 
 

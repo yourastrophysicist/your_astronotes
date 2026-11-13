@@ -6,7 +6,7 @@ title: "Color bimodality of galaxies"
 
 ## 1. Empirical Discovery and Phenomenon
 
-In extensive spectroscopic and photometric galaxy surveys such as SDSS and 2dFGRS (Strateva et al. 2001; Blanton et al. 2003; Baldry et al. 2004), the optical color distribution of galaxies does not follow a continuous single peak. Instead, it exhibits a distinct **color bimodality** dividing galaxies into two primary populations.
+In extensive spectroscopic and photometric galaxy surveys such as SDSS and 2dFGRS (Strateva et al. 2001, Blanton et al. 2003, Baldry et al. 2004), the optical color distribution of galaxies does not follow a continuous single peak. Instead, it exhibits a distinct **color bimodality** dividing galaxies into two primary populations.
 
 1. **The Red Sequence** - Composed of passive early-type galaxies (ellipticals and lenticulars S0) featuring old stellar populations, high metal enrichment, low cold-gas fractions, and high central concentration.
 2. **The Blue Cloud** - Composed of star-forming late-type galaxies (spirals and irregulars) featuring ongoing star formation, abundant young OB stars, substantial cold gas reservoirs, and exponential disks.
@@ -31,17 +31,17 @@ $$\mu_{\rm red}(M_r) \approx 2.45 - 0.08 \, (M_r + 20)$$
 
 $$\mu_{\rm blue}(M_r) \approx 1.40 - 0.15 \, (M_r + 20)$$
 
-- The slope of the red sequence ($d(u - r)/dM_r \approx -0.08$) reflects the **mass-metallicity relation**; more luminous ellipticals have deeper potential wells, retain more supernova ejecta, and achieve higher stellar metallicities, which shifts their colors redder via line blanketing.
+- The slope of the red sequence ($d(u - r)/dM_r \approx -0.08$) reflects the **mass-metallicity relation**. More luminous ellipticals have deeper potential wells, retain more supernova ejecta, and achieve higher stellar metallicities, which shifts their colors redder via line blanketing.
 - The blue cloud exhibits a steeper slope ($d(u - r)/dM_r \approx -0.15$) driven by both metallicity and decreasing specific star formation rate in more massive spirals.
 
 ### The Canonical Color and Morphology Delimiters
 Statistical analysis by Strateva et al. (2001) established optimal boundary criteria.
 - **Color Delimiter** - At $M_r \approx -20$, the minimum of the bimodal distribution sits at.
   $$u - r = 2.22$$
-  Galaxies with $u - r > 2.22$ are classified as red sequence; those with $u - r < 2.22$ belong to the blue cloud.
+  Galaxies with $u - r > 2.22$ are classified as red sequence. Those with $u - r < 2.22$ belong to the blue cloud.
 - **Concentration Index Delimiter** - The Petrosian concentration index $C \equiv r_{90} / r_{50}$ (ratio of radii enclosing $90\%$ and $50\%$ of total Petrosian light) provides an orthogonal morphological separation.
   $$C = 2.6$$
-  Galaxies with $C > 2.6$ are early-type spheroids (de Vaucouleurs profiles have $C \approx 3.3$); galaxies with $C < 2.6$ are late-type disks (exponential disks have $C \approx 2.3$).
+  Galaxies with $C > 2.6$ are early-type spheroids (de Vaucouleurs profiles have $C \approx 3.3$). Galaxies with $C < 2.6$ are late-type disks (exponential disks have $C \approx 2.3$).
 
 ---
 
@@ -121,7 +121,7 @@ When sketching the color bimodality diagram on the blackboard.
 - **Red Sequence Line** - Narrow strip at $u - r \approx 2.4 - 2.8$ with shallow slope $-0.08$
 - **Blue Cloud Region** - Broader band at $u - r \approx 1.0 - 1.8$ with steeper slope $-0.15$
 - **Green Valley Threshold** - Dashed horizontal line at $u - r = 2.22$
-- **Luminosity Turnover** - Note that for $M_r < -21$, red sequence galaxies dominate; for $M_r > -19$, blue cloud galaxies dominate
+- **Luminosity Turnover** - Note that for $M_r < -21$, red sequence galaxies dominate. For $M_r > -19$, blue cloud galaxies dominate
 
 ---
 
@@ -194,6 +194,11 @@ When sketching the color bimodality diagram on the blackboard.
 ![gal_lf3-22.png](../../assets/images/gal_lf3-22.png)
 
 
+
+## where it goes wrong
+
+- the two peaks are clearer in $u - r$ than in $g - r$, because $u$ is more sensitive to young stars.
+- a red galaxy can be dusty and star-forming, not passive. a second colour, like $V - J$, separates the two.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

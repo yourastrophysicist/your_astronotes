@@ -2,7 +2,6 @@
 layout: "default"
 title: "Proper motion and stellar kinematics"
 ---
-{% raw %}
 in addition to the periodic reflex motions of parallax and aberration caused by Earth's orbit, stars have intrinsic physical motion through three-dimensional space relative to the solar system: their **space velocity** $\vec{v}$.
 
 the projection of this 3D space velocity onto the plane of the sky is observed as an angular drift called **proper motion** (moto proprio).
@@ -21,13 +20,13 @@ $$v = \sqrt{v_r^2 + v_t^2}$$
 
 ![sphereastro2-26.png](../../assets/images/sphereastro2-26.png)
 
-### 1. radial velocity $v_r$:
+### 1. radial velocity $v_r$
 measured directly in physical units (km/s) from the Doppler shift of spectral absorption/emission lines:
 $$z = \frac{\lambda_{\text{obs}} - \lambda_0}{\lambda_0} \approx \frac{v_r}{c} \implies v_r = c \left(\frac{\Delta\lambda}{\lambda_0}\right)$$
 - $v_r > 0$ (redshift): star is receding from the Sun.
 - $v_r < 0$ (blueshift): star is approaching the Sun.
 
-### 2. proper motion $\mu$ and tangential velocity $v_t$:
+### 2. proper motion $\mu$ and tangential velocity $v_t$
 **proper motion** $\mu$ is the annual angular displacement of the star on the celestial sphere, usually measured in arcseconds per year ($''/\text{yr}$) or milliarcseconds per year (mas/yr).
 
 it is resolved into equatorial components:
@@ -56,6 +55,20 @@ $$\boxed{\, v_t = 4.7404 \, d(\text{pc}) \, \mu(''/\text{yr}) \approx 4.74 \, \f
   - **Population II stars (halo & globular clusters)**: high proper motions and large velocity dispersions ($\sigma_v \sim 100-200$ km/s), plunge through the disk on highly eccentric orbits. high-proper-motion star searches historically discovered the halo population and halo subdwarfs.
 
 ---
+
+## worked example
+
+Barnard's star has $\mu = 10.4''$/yr and $p = 0.547''$, so $d = 1.83$ pc. the tangential velocity is
+
+$$v_t = 4.74\,\mu\,d = 4.74 \times 10.4 \times 1.83 = 90\ \text{km/s}$$
+
+with the radial velocity $v_r = -110$ km/s the space velocity is $v = \sqrt{90^2 + 110^2} = 142$ km/s.
+
+## where it goes wrong
+
+- the factor 4.74 is one AU per year in km/s. it only works with $\mu$ in arcsec/yr and $d$ in pc.
+- the proper motion in right ascension must be multiplied by $\cos\delta$ to be an angle on the sky.
+- proper motion is a straight drift, parallax is a yearly loop. a short time baseline can confuse the two.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -86,14 +99,14 @@ $$\boxed{\, v_t = 4.7404 \, d(\text{pc}) \, \mu(''/\text{yr}) \approx 4.74 \, \f
 
 ![obs_sph2-33.png](../../assets/images/obs_sph2-33.png)
 *Radial velocity v_r from Doppler shift and total space velocity v = sqrt(v_r^2 + v_t^2).*
-{% endraw %}
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (4)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Aberration%20of%20light.html" class="backlink-item">Aberration of light</a></li>
-    <li class="backlink-item-wrap"><a href="./Annual%20stellar%20parallax.html" class="backlink-item">Annual stellar parallax</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Observational_Astrophysics_MOC.html" class="backlink-item">Observational_Astrophysics_MOC</a></li>
-  </ul>
-</div>
+
+
+## Linked References
+
+- [[Aberration of light]]
+- [[Annual stellar parallax]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Astrophysics_MOC]]
+
+

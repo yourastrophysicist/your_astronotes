@@ -11,11 +11,11 @@ certain pulsating variable stars have intrinsic luminosities that are predictabl
 classical Cepheids are massive ($M \gtrsim 5\,M_\odot$) yellow supergiants, pulsating in radial mode with periods $1$ to $50$ days. they obey the **Leavitt period-luminosity relation**:
 $$M_V = a + b\,\log_{10}P(\text{days})$$
 
-calibration (HST + Gaia + Wesenheit relations): $b \approx -2.78$, $a \approx -1.35$ in V; brighter and tighter in the near-IR (Wesenheit indices). intrinsic dispersion: $\sim 0.1$ mag in NIR Wesenheit, $\sim 0.3$ mag in V.
+calibration (HST + Gaia + Wesenheit relations): $b \approx -2.78$, $a \approx -1.35$ in V. brighter and tighter in the near-IR (Wesenheit indices). intrinsic dispersion: $\sim 0.1$ mag in NIR Wesenheit, $\sim 0.3$ mag in V.
 
-range: $\sim 30$ Mpc with HST; pushes to $\sim 100$ Mpc with JWST.
+range: $\sim 30$ Mpc with HST. pushes to $\sim 100$ Mpc with JWST.
 
-calibrators: Galactic Cepheids with Gaia parallaxes; SMC and LMC Cepheids with eclipsing-binary geometric distances. see [[Cepheid period-luminosity relation]].
+calibrators: Galactic Cepheids with Gaia parallaxes. SMC and LMC Cepheids with eclipsing-binary geometric distances. see [[Cepheid period-luminosity relation]].
 
 ### RR Lyrae
 
@@ -41,7 +41,7 @@ range: $\sim 30$ Mpc in NIR. used as alternatives to Cepheids in dust-heavy regi
 
 each family is calibrated against parallax in two steps:
 1. **Galactic** examples with Gaia DR3 parallaxes anchor the absolute relation.
-2. **LMC/SMC** examples (with their own geometric eclipsing-binary distances of $1\%$ precision; Pietrzyński et al. 2019) provide a high-statistics zero-point.
+2. **LMC/SMC** examples (with their own geometric eclipsing-binary distances of $1\%$ precision, Pietrzyński et al. 2019) provide a high-statistics zero-point.
 
 then the relation is applied to extragalactic targets where individual variable stars can be detected and measured.
 
@@ -54,7 +54,13 @@ since $\rho \propto M/R^3$ and $L \propto R^2 T^4$, the period correlates with l
 
 ## checks against each other
 
-modern best practice: cross-check Cepheid + TRGB + Mira distances to the same galaxy. agreement at $\lesssim 0.05$ mag confirms systematic stability; disagreement signals a problem (dust, metallicity, blending). the ongoing $H_0$ tension is partly about whether Cepheid distances are systematically high vs TRGB.
+modern best practice: cross-check Cepheid + TRGB + Mira distances to the same galaxy. agreement at $\lesssim 0.05$ mag confirms systematic stability. disagreement signals a problem (dust, metallicity, blending). the ongoing $H_0$ tension is partly about whether Cepheid distances are systematically high vs TRGB.
+
+## where it goes wrong
+
+- a light curve with few points can give the wrong period through aliasing.
+- the mean magnitude must be taken in flux and over the whole cycle, not at maximum.
+- each kind of variable has its own calibration and its own range of distances.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

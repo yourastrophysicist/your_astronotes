@@ -4,7 +4,7 @@ title: "Globular clusters as SSP laboratories"
 ---
 globular clusters became the canonical "simple stellar population" laboratory because of a coincidence of properties that rarely occur together elsewhere in nature. they are *old* (typical ages $11$ to $13$ Gyr), *populous* enough ($N_\star \sim 10^4$ to $10^6$ stars) for every short-lived evolutionary phase to be statistically populated, *tightly bound* (crossing time $\ll$ relaxation time $\ll$ age), and morphologically simple (spheroidal, low rotation, low internal extinction). each of these properties translates to an inferential advantage when reading the [[Color-magnitude diagrams of clusters]].
 
-old age means the main sequence turn-off mass is low, $M_\mathrm{TO} \approx 0.85 \, M_\odot$ for a 12 Gyr population, so essentially all evolutionary stages predicted by stellar evolution theory above the TO are reached and visible in the CMD: subgiant branch, red giant branch, horizontal branch, asymptotic giant branch, and finally the white dwarf cooling sequence. nothing massive is left burning hydrogen on the upper MS; the cluster is a clean snapshot of low-mass evolution.
+old age means the main sequence turn-off mass is low, $M_\mathrm{TO} \approx 0.85 \, M_\odot$ for a 12 Gyr population, so essentially all evolutionary stages predicted by stellar evolution theory above the TO are reached and visible in the CMD: subgiant branch, red giant branch, horizontal branch, asymptotic giant branch, and finally the white dwarf cooling sequence. nothing massive is left burning hydrogen on the upper MS. the cluster is a clean snapshot of low-mass evolution.
 
 populous means short-lived phases (HB lifetime $\sim 10^8$ yr, AGB $\sim 10^6$ yr, post-AGB $\sim 10^4$ yr) are sampled in non-zero numbers. the "fuel-consumption theorem" of Renzini and Buzzoni 1986 makes this rigorous: the number $N_j$ of stars in a post-MS phase $j$ equals
 $$ N_j = B(t) \, L_T \, t_j $$
@@ -18,7 +18,7 @@ the milky way hosts $\sim 150$ GCs catalogued (harris catalogue, 2010 edition), 
 
 beyond the milky way, GC systems are observed around essentially every galaxy with $M_\star \gtrsim 10^9 \, M_\odot$. M87 in virgo has $\gtrsim 10^4$ GCs, M31 has $\sim 500$ confirmed plus PHAT extensions, dwarfs like fornax and sagittarius have $\sim 5$ to $10$. at high redshift, JWST has tentatively resolved GC candidates in the lensed sparkler galaxy at $z \sim 9$, suggesting GC formation traces the earliest phases of cosmic structure.
 
-cite the foundational paper: **Renzini & Buzzoni 1986**, "global properties of stellar populations and the spectral evolution of galaxies", which established the fuel-consumption framework that links resolved CMDs to integrated SSP photometry.
+cite the paper: **Renzini & Buzzoni 1986**, "global properties of stellar populations and the spectral evolution of galaxies", which established the fuel-consumption framework that links resolved CMDs to integrated SSP photometry.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -42,35 +42,35 @@ cite the foundational paper: **Renzini & Buzzoni 1986**, "global properties of s
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 22 — Course Synthesis & Observational Frontiers)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 22 - Course Synthesis & Observational Frontiers)
 
 > **Context**: *Unified paradigm of star clusters as stellar evolution laboratories, open questions in multiple populations, and master oral defense review.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![LAntonino_p22_01.png](../../assets/images/LAntonino_p22_01.png)
-*Figure P22-01: LAntonino_p22_01.png — Observational data, CMD morphology, and diagnostics from Lecture 22 — Course Synthesis & Observational Frontiers.*
+*Figure P22-01: LAntonino_p22_01.png - Observational data, CMD morphology, and diagnostics from Lecture 22 - Course Synthesis & Observational Frontiers.*
 
 ![LAntonino_p22_02.png](../../assets/images/LAntonino_p22_02.png)
-*Figure P22-02: LAntonino_p22_02.png — Observational data, CMD morphology, and diagnostics from Lecture 22 — Course Synthesis & Observational Frontiers.*
+*Figure P22-02: LAntonino_p22_02.png - Observational data, CMD morphology, and diagnostics from Lecture 22 - Course Synthesis & Observational Frontiers.*
 
 ![LAntonino_p22_03.png](../../assets/images/LAntonino_p22_03.png)
-*Figure P22-03: LAntonino_p22_03.png — Observational data, CMD morphology, and diagnostics from Lecture 22 — Course Synthesis & Observational Frontiers.*
+*Figure P22-03: LAntonino_p22_03.png - Observational data, CMD morphology, and diagnostics from Lecture 22 - Course Synthesis & Observational Frontiers.*
 
 ![LAntonino_p22_04.png](../../assets/images/LAntonino_p22_04.png)
-*Figure P22-04: LAntonino_p22_04.png — Observational data, CMD morphology, and diagnostics from Lecture 22 — Course Synthesis & Observational Frontiers.*
+*Figure P22-04: LAntonino_p22_04.png - Observational data, CMD morphology, and diagnostics from Lecture 22 - Course Synthesis & Observational Frontiers.*
 
 ![LAntonino_p22_05.png](../../assets/images/LAntonino_p22_05.png)
-*Figure P22-05: LAntonino_p22_05.png — Observational data, CMD morphology, and diagnostics from Lecture 22 — Course Synthesis & Observational Frontiers.*
+*Figure P22-05: LAntonino_p22_05.png - Observational data, CMD morphology, and diagnostics from Lecture 22 - Course Synthesis & Observational Frontiers.*
 
 ![LAntonino_p22_06.png](../../assets/images/LAntonino_p22_06.png)
-*Figure P22-06: LAntonino_p22_06.png — Observational data, CMD morphology, and diagnostics from Lecture 22 — Course Synthesis & Observational Frontiers.*
+*Figure P22-06: LAntonino_p22_06.png - Observational data, CMD morphology, and diagnostics from Lecture 22 - Course Synthesis & Observational Frontiers.*
 
 ![LAntonino_p22_08.png](../../assets/images/LAntonino_p22_08.png)
-*Figure P22-07: LAntonino_p22_08.png — Observational data, CMD morphology, and diagnostics from Lecture 22 — Course Synthesis & Observational Frontiers.*
+*Figure P22-07: LAntonino_p22_08.png - Observational data, CMD morphology, and diagnostics from Lecture 22 - Course Synthesis & Observational Frontiers.*
 
 ![LAntonino_p22_09.png](../../assets/images/LAntonino_p22_09.png)
-*Figure P22-08: LAntonino_p22_09.png — Observational data, CMD morphology, and diagnostics from Lecture 22 — Course Synthesis & Observational Frontiers.*
+*Figure P22-08: LAntonino_p22_09.png - Observational data, CMD morphology, and diagnostics from Lecture 22 - Course Synthesis & Observational Frontiers.*
 
 
 

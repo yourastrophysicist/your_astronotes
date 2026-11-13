@@ -4,11 +4,11 @@ title: "Scintillation and twinkling"
 ---
 # Scintillation and twinkling
 
-the **amplitude** fluctuations of starlight caused by atmospheric turbulence — the visible "twinkling" of stars to the naked eye. distinct from phase fluctuations (which cause seeing). for interferometry, scintillation is usually a small effect compared to phase, but it sets a noise floor for high-precision photometry and contributes to fringe-tracking errors.
+the **amplitude** fluctuations of starlight caused by atmospheric turbulence, the visible "twinkling" of stars to the naked eye. distinct from phase fluctuations (which cause seeing). for interferometry, scintillation is usually a small effect compared to phase, but it sets a noise floor for high-precision photometry and contributes to fringe-tracking errors.
 
 ## the physics
 
-turbulent eddies act as weak *lenses* that focus or defocus rays. light passing through a converging patch is concentrated; light through a diverging patch is dispersed. on the ground, the resulting illumination pattern has bright and dark patches — **scintillation patterns** — that move with the wind.
+turbulent eddies act as weak *lenses* that focus or defocus rays. light passing through a converging patch is concentrated. light through a diverging patch is dispersed. on the ground, the resulting illumination pattern has bright and dark patches, **scintillation patterns**, that move with the wind.
 
 at a fixed pupil point, these passing patches produce time-varying intensity = the **twinkle**.
 
@@ -26,7 +26,7 @@ so:
 - aperture $D \ll r_F$ (small apertures, small ground patches): scintillation is strong
 - aperture $D \gg r_F$: scintillation averages over many bright/dark patches, intensity is more stable
 
-planet appearance vs star: planets have angular sizes large enough that scintillation patches average over the disk. stars are point-like and twinkle. the physical principle is the same; the spatial averaging differs.
+planet appearance vs star: planets have angular sizes large enough that scintillation patches average over the disk. stars are point-like and twinkle. the physical principle is the same. the spatial averaging differs.
 
 ## the scintillation index
 
@@ -47,7 +47,7 @@ contrast with seeing, which scales as $\lambda^{-1/5}$. seeing is *less* wavelen
 
 ## the airmass scaling
 
-scintillation depends on $z^{5/6}$ in the integral. at high airmass, the path goes through more atmosphere at higher altitude (larger effective $z$). so scintillation gets worse near the horizon — the visible "twinkle" of low stars is much stronger than near zenith.
+scintillation depends on $z^{5/6}$ in the integral. at high airmass, the path goes through more atmosphere at higher altitude (larger effective $z$). so scintillation gets worse near the horizon, the visible "twinkle" of low stars is much stronger than near zenith.
 
 ## scintillation timescales
 
@@ -59,7 +59,7 @@ i.e. several Hz to kHz. faster than the typical AO loop and faster than most pho
 
 ## observable consequences
 
-- **photometric noise**: short-exposure photometry from the ground is limited by scintillation. for an 8m telescope at airmass 1, $\sigma_I \sim 0.1\%$ in 1 minute is the typical floor — limits exoplanet transit photometry, asteroseismology
+- **photometric noise**: short-exposure photometry from the ground is limited by scintillation. for an 8m telescope at airmass 1, $\sigma_I \sim 0.1\%$ in 1 minute is the typical floor, limits exoplanet transit photometry, asteroseismology
 - **transit photometry**: scintillation noise dominates exoplanet photometry from the ground. some space-based motivations
 - **interferometric fringes**: scintillation at each telescope modulates the photon flux, contributing to fringe SNR fluctuations. usually a small effect compared to phase
 
@@ -87,7 +87,7 @@ go above the atmosphere. HST and Gaia don't twinkle.
 
 twinkling of stars has been observed since antiquity. the wave-optical explanation came in the 19th century. precise quantitative theory developed in the mid-20th century by Tatarski, Roddier, and Fried, parallel to the AO development.
 
-planets famously do not twinkle (much). the difference is primary education's introduction to scintillation: planets are extended sources averaging over the patches; stars are point sources and feel the full effect.
+planets famously do not twinkle (much). the difference is primary education's introduction to scintillation: planets are extended sources averaging over the patches. stars are point sources and feel the full effect.
 
 ## see also
 

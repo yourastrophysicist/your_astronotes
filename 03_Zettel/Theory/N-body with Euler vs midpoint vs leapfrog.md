@@ -36,7 +36,7 @@ plot $E(t)/E_0 - 1$ for a Kepler orbit, fixed $h$, 100 orbital periods:
 - **leapfrog**: bounded oscillation in $\Delta E/E$ at amplitude ~$10^{-5}$ for $h = T/100$. orbit closes on itself, no drift even for $10^6$ orbits
 
 this is *the* standard plot every computational astrophysics course ends with. it teaches:
-1. higher-order methods are not enough; structure preservation matters
+1. higher-order methods are not enough. structure preservation matters
 2. for long-time Hamiltonian integration, **symplectic > order**
 
 ## the python comparison code
@@ -102,13 +102,13 @@ expected:
 
 ## the moral
 
-for a *gravitational* (Hamiltonian) system, symplectic integrators are not optional — they are what makes long-time integration meaningful. for short integrations (a few orbital periods), any decent scheme works. for long integrations (cosmological simulations, planetary system stability over Gyr), only symplectic schemes are trusted.
+for a *gravitational* (Hamiltonian) system, symplectic integrators are not optional. they are what makes long-time integration meaningful. for short integrations (a few orbital periods), any decent scheme works. for long integrations (cosmological simulations, planetary system stability over Gyr), only symplectic schemes are trusted.
 
 the cost of leapfrog is the same as midpoint (one acceleration per step). there is no reason *not* to use leapfrog for any second-order Hamiltonian system unless the problem requires higher order, in which case use [[Fourth-order Hermite predictor-corrector]] or higher-order symplectic schemes (Forest-Ruth, Yoshida).
 
 ## the exam connection
 
-the exam template's exercise 4 (Pythagorean three-body) asks for **midpoint** integration. this is *deliberate*: the midpoint scheme will show a non-trivial energy drift, which is the diagnostic the question is testing. if I integrated the same problem with leapfrog, $\lvert \Delta E/E\rvert$ would be much smaller — a different answer.
+the exam template's exercise 4 (Pythagorean three-body) asks for **midpoint** integration. this is *deliberate*: the midpoint scheme will show a non-trivial energy drift, which is the diagnostic the question is testing. if I integrated the same problem with leapfrog, $\lvert \Delta E/E\rvert$ would be much smaller, a different answer.
 
 so for the exam, the question's choice of integrator is part of the problem. follow what is asked.
 

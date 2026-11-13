@@ -46,6 +46,21 @@ $$t_{\rm lb}(z) = \frac{1}{H_0} \int_0^z \frac{dz'}{(1+z') E(z')}$$
 ### 6. differential comoving volume $dV_C$
 $$dV_C = D_H \frac{d_M^2(z)}{E(z)} d\Omega \, dz$$
 
+## worked example
+
+a galaxy at $z = 2$ in flat $\Lambda$CDM with $H_0 = 67.4$, $\Omega_m = 0.315$:
+
+- $d_C = 5.31$ Gpc
+- $d_L = 3 \times 5.31 = 15.9$ Gpc, distance modulus 46.0
+- $d_A = 5.31/3 = 1.77$ Gpc, 8.6 kpc per arcsec
+- look-back time 10.5 Gyr, age at emission 3.3 Gyr
+
+## where it goes wrong
+
+- the calculators use different default $H_0$. I always set it.
+- some give $d_A$ in proper units and some in comoving units.
+- the radiation term is neglected by most simple calculators, which matters above $z \approx 1000$.
+
 ## connections
 
 - distance proofs: [[Luminosity distance]], [[Angular diameter distance]], [[Surface brightness dimming]]

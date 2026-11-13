@@ -21,7 +21,7 @@ with $M_{\rm Pl} = (8\pi G)^{-1/2} \approx 2.4 \times 10^{18}$ GeV the reduced P
 
 ---
 
-## solution: $T \propto 1/\sqrt t$
+## solution - $T \propto 1/\sqrt t$
 
 if $g_*$ is approximately constant over the time interval, then $H = 1/(2t)$ in radiation domination ($a \propto t^{1/2}$), so:
 $$\frac{1}{2t} = \sqrt{\frac{8\pi^3}{90}\, g_*}\, \frac{T^2}{M_{\rm Pl}}$$
@@ -46,7 +46,7 @@ so:
 
 each mass threshold (top quark, W/Z bosons, electron) drops $g_*$ as that species annihilates and disappears from the relativistic plasma. so the relation $T(t)$ has **kinks** at each threshold.
 
-the **Hubble rate** $H \propto g_*^{1/2} T^2$ depends on $g_*$ — and so does the temperature at which any given particle freezes out (since $\Gamma \sim H$ defines decoupling).
+the **Hubble rate** $H \propto g_*^{1/2} T^2$ depends on $g_*$, and so does the temperature at which any given particle freezes out (since $\Gamma \sim H$ defines decoupling).
 
 > **so the abundance of any thermal relic depends on $g_*$ at decoupling.**
 
@@ -59,7 +59,7 @@ a famous BBN application: extra light degrees of freedom (a fourth neutrino spec
 combined with entropy conservation $g_{*s} T^3 a^3 = $ const (see [[Conservation of entropy in a comoving volume]]), this gives:
 $$T \propto \frac{1}{a\, [g_{*s}]^{1/3}}$$
 
-across smooth epochs (constant $g_{*s}$), this reduces to $T \propto 1/a$. the photon temperature redshifts inversely with the scale factor — that's why the CMB is so cold today even though it was 3000 K at recombination.
+across smooth epochs (constant $g_{*s}$), this reduces to $T \propto 1/a$. the photon temperature redshifts inversely with the scale factor. that's why the CMB is so cold today even though it was 3000 K at recombination.
 
 ---
 
@@ -72,6 +72,15 @@ extrapolating backward from $T_0 = 2.725$ K at $a = 1$ today:
 - $T(z=10^{10}) \approx 3 \times 10^{10}$ K $\approx 3$ MeV (n/p freeze-out)
 
 ---
+
+## worked example
+
+$t = 2.42\,g_*^{-1/2}\,(T/\text{MeV})^{-2}$ s. at $T = 0.1$ MeV with $g_* = 3.36$: $t = 2.42 \times 0.546 \times 100 = 132$ s.
+
+## where it goes wrong
+
+- $g_*$ changes at each annihilation, so one constant does not work across thresholds.
+- the relation holds in the radiation era only.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

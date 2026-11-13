@@ -46,6 +46,12 @@ an independent rung in the distance ladder: SBF can target the same galaxies as 
 - color dependence ($\sim 0.1$ mag/(V-I) mag) means accurate $V - I$ photometry is essential.
 - Poisson noise floor from atmosphere and detector limits the smallest detectable fluctuations.
 
+## where it goes wrong
+
+- the fluctuations are dominated by giants, so the calibration depends on the stellar population and is done against colour.
+- globular clusters, background galaxies and dust lanes add fluctuations and must be masked.
+- the method fails for galaxies with young stars or patchy dust.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

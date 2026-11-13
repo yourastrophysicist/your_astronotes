@@ -15,7 +15,7 @@ a Wolf-Rayet (WR) star: a hot, evolved massive star ($M_{\rm initial} \gtrsim 25
 - wind velocity ~1000-3000 km/s
 - typical lifetime: $\sim 10^5$ years
 
-the wind carries material away from the star. as it cools, dust forms — often in clumpy, asymmetric structures.
+the wind carries material away from the star. as it cools, dust forms, often in clumpy, asymmetric structures.
 
 ## what interferometry sees
 

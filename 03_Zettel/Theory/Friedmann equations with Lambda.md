@@ -25,7 +25,7 @@ $$\boxed{\,H^2 = \left(\frac{\dot a}{a}\right)^2 = \frac{8\pi G}{3}\rho - \frac{
 **acceleration equation** (from the space-space component):
 $$\boxed{\,\frac{\ddot a}{a} = -\frac{4\pi G}{3}\left(\rho + \frac{3p}{c^2}\right) + \frac{\Lambda c^2}{3}\,}$$
 
-note: pressure $p$ appears as a *source* of gravity in GR — radiation, with $p = \rho c^2/3$, gravitates with $\rho + 3p/c^2 = 2\rho$, twice the rest-mass-equivalent of dust.
+note: pressure $p$ appears as a *source* of gravity in GR, radiation, with $p = \rho c^2/3$, gravitates with $\rho + 3p/c^2 = 2\rho$, twice the rest-mass-equivalent of dust.
 
 ---
 
@@ -34,7 +34,7 @@ note: pressure $p$ appears as a *source* of gravity in GR — radiation, with $p
 a cosmological constant $\Lambda$ behaves like a perfect fluid with
 $$\rho_V = \frac{\Lambda c^2}{8\pi G}, \qquad p_V = -\rho_V c^2$$
 
-negative pressure! and constant in space and time — the *vacuum* energy density. with $\rho_V$ defined this way, I can absorb the $\Lambda$ term into $\rho$ in the Friedmann equation:
+negative pressure! and constant in space and time, the *vacuum* energy density. with $\rho_V$ defined this way, I can absorb the $\Lambda$ term into $\rho$ in the Friedmann equation:
 $$H^2 = \frac{8\pi G}{3}(\rho_m + \rho_\gamma + \rho_V) - \frac{k c^2}{a^2}$$
 
 then the universe just contains "matter + radiation + vacuum," all with the same form of Friedmann equation.
@@ -88,6 +88,15 @@ at $z \to 0$: $H \to H_0$. at $z \to \infty$: $H \to H_0 \sqrt{\Omega_m}(1+z)^{3
 
 ---
 
+## worked example
+
+the static Einstein universe needs $\ddot a = 0$ and $\dot a = 0$ with dust. the acceleration equation gives $\Lambda c^2 = 4\pi G\rho$. the Friedmann equation then gives $kc^2/a^2 = \Lambda c^2$, so $k = +1$. the balance is unstable: a small expansion lowers $\rho$ and the universe runs away.
+
+## where it goes wrong
+
+- $\Lambda$ can be written as a fluid with $p = -\rho c^2$, or kept on the geometric side. the physics is the same.
+- the units. in $\Lambda c^2/3$, $\Lambda$ is in m$^{-2}$.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -99,13 +108,13 @@ at $z \to 0$: $H \to H_0$. at $z \to \infty$: $H \to H_0 \sqrt{\Omega_m}(1+z)^{3
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
-- [[Newtonian Friedmann derivation]] — the classical version, parallel to this
+- [[Newtonian Friedmann derivation]] - the classical version, parallel to this
 - 03_Zettel/Theory/Robertson-Walker metric
 - [[Friedmann models]]
 - [[Density parameters and flatness]]
 - [[Hubble constant and deceleration parameter]]
 - [[Cosmic_inventory_dark_energy]]
-- [[Baumann_reference]] — chapter 1.3 has the full GR derivation
+- [[Baumann_reference]] - chapter 1.3 has the full GR derivation
 
 
 

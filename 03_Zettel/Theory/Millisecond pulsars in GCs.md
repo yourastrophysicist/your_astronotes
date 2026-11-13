@@ -23,7 +23,7 @@ isolated MSPs in GCs are also common, formed by mergers, disruption of the compa
 - $P \sim 1.4\text{--}10$ ms, $\dot P \sim 10^{-19}\text{--}10^{-21}$,
 - characteristic ages $\tau_c \sim P/(2\dot P) \sim 10^{9}\text{--}10^{10}$ yr,
 - often in tight binaries with $P_{\text{orb}} \sim$ hours to days,
-- some are eclipsing (black widows: companion $< 0.05\,M_\odot$; redbacks: $\sim 0.1\text{--}0.3\,M_\odot$).
+- some are eclipsing (black widows: companion $< 0.05\,M_\odot$, redbacks: $\sim 0.1\text{--}0.3\,M_\odot$).
 
 **uses**
 
@@ -40,7 +40,7 @@ the cumulative $\gamma$-ray emission from MSP populations in GCs is a non-neglig
 
 **caveat**
 
-the production of MSPs in GCs depends on dense-core dynamics, so MSP per unit mass is not a universal number. core-collapsed clusters and very dense GCs produce many; less dense ones produce few. the high MSP yield is the cleanest signature that GC cores process binaries at extreme rates.
+the production of MSPs in GCs depends on dense-core dynamics, so MSP per unit mass is not a universal number. core-collapsed clusters and very dense GCs produce many. less dense ones produce few. the high MSP yield is the cleanest signature that GC cores process binaries at extreme rates.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

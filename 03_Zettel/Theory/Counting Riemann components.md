@@ -29,20 +29,20 @@ $$\frac{1}{2}\binom{n(n-1)/2}{2}\!\left[\binom{n(n-1)/2}{2} + 1\right] - \binom{
 
 ## physical interpretation per dimension
 
-### $n = 1$: no curvature
-a 1D manifold is just a curve; you can always parameterise it by arc length. no intrinsic curvature.
+### $n = 1$ - no curvature
+a 1D manifold is just a curve. you can always parameterise it by arc length. no intrinsic curvature.
 
-### $n = 2$: one component
+### $n = 2$ - one component
 just **one independent component**: the **Gaussian curvature** $K$. for the 2-sphere, $K = 1/R^2$. for the plane, $K = 0$. for a hyperbolic surface, $K < 0$.
 
 so 2D geometry is characterised by a single function $K(x, y)$ on the manifold.
 
-### $n = 3$: six components
+### $n = 3$ - six components
 the **three-dimensional Riemann tensor is fully determined by the Ricci tensor**. in 3D, Riemann = Ricci's content. the Weyl tensor (the trace-free part) **vanishes identically in 3D**.
 
 physical consequence: in 3D vacuum ($T_{\mu\nu} = 0$), Einstein's equation $R_{\mu\nu} = 0$ forces Riemann = 0, so spacetime is flat. **3D gravity has no degrees of freedom in vacuum**: no gravitons, no waves. only nontrivial in the presence of matter.
 
-### $n = 4$: twenty components
+### $n = 4$ - twenty components
 the dimension of physical spacetime. here Ricci has 10 components (symmetric $4\times 4$), and Weyl tensor has the remaining $10 = 20 - 10$.
 
 vacuum ($T = 0$) Einstein's equation $R_{\mu\nu} = 0$ kills 10 components but leaves Weyl free. so vacuum gravitational fields exist: **gravitational waves are the Weyl tensor propagating**. 4D gravity has 2 propagating polarisations (in the TT gauge), reflecting Weyl's structure.
@@ -55,7 +55,7 @@ Ricci has $\binom{n}{2} + n = n(n+1)/2$ components, Weyl has the rest. higher-di
 in 4D:
 $$R_{\rho\sigma\mu\nu} = \underbrace{C_{\rho\sigma\mu\nu}}_{\text{Weyl, 10}} + \underbrace{(\text{Ricci traces})}_{\text{Ricci, 10}}$$
 
-with Weyl trace-free: $C^\mu{}_{\sigma\mu\nu} = 0$. Weyl carries the "vacuum" gravitational degrees of freedom (the GW); Ricci carries the matter-coupled part.
+with Weyl trace-free: $C^\mu{}_{\sigma\mu\nu} = 0$. Weyl carries the "vacuum" gravitational degrees of freedom (the GW). Ricci carries the matter-coupled part.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

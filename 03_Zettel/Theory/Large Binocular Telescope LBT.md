@@ -22,15 +22,15 @@ a unique twin-mirror telescope at Mt. Graham, Arizona. **two 8.4m primary mirror
 
 LBT can operate in two modes:
 
-### Mode 1: Twin Telescope
+### Mode 1 - Twin Telescope
 
 each mirror feeds its own instrument independently. effectively two 8m telescopes on one mount, capable of simultaneous spectroscopy or imaging in different bands.
 
-### Mode 2: Fizeau Interferometer
+### Mode 2 - Fizeau Interferometer
 
 light from both mirrors is combined coherently in an image-plane Fizeau combiner. resulting "image" has the *resolution* of a 22.65m baseline (but only sampled at one orientation).
 
-at H-band ($\lambda = 1.65$ μm), Fizeau resolution: $\theta = \lambda/22.65 = 15$ mas — between single-VLT and VLTI.
+at H-band ($\lambda = 1.65$ μm), Fizeau resolution: $\theta = \lambda/22.65 = 15$ mas, between single-VLT and VLTI.
 
 ## the LBTI instrument
 
@@ -52,17 +52,17 @@ three things distinguish LBT:
 
 unlike a separated-element interferometer (VLTI, CHARA), LBT's two mirrors share one mount. no inter-telescope synchronization needed for tracking. simpler operation.
 
-drawbacks: only one possible baseline (the fixed 6m), no Earth-rotation aperture synthesis (the geometry stays fixed relative to the mount), so (u, v) coverage is poor — single point per snapshot.
+drawbacks: only one possible baseline (the fixed 6m), no Earth-rotation aperture synthesis (the geometry stays fixed relative to the mount), so (u, v) coverage is poor, single point per snapshot.
 
 ### 2. Fizeau imaging
 
-fringes form in the image plane directly. no separate beam combiner needed — the two telescopes feed the same focus naturally. produces *direct images* with diffraction-limited resolution along the baseline.
+fringes form in the image plane directly. no separate beam combiner needed, the two telescopes feed the same focus naturally. produces *direct images* with diffraction-limited resolution along the baseline.
 
-drawbacks: image is anisotropic (high resolution in one direction, low in the other); only useful for sources with structure aligned with the baseline.
+drawbacks: image is anisotropic (high resolution in one direction, low in the other). only useful for sources with structure aligned with the baseline.
 
 ### 3. AO at each primary
 
-each primary has its own adaptive secondary (FLAO system, 672 actuators). near-diffraction-limited performance at K-band — Strehl > 0.5 routinely.
+each primary has its own adaptive secondary (FLAO system, 672 actuators). near-diffraction-limited performance at K-band, Strehl > 0.5 routinely.
 
 with both AO systems running, the Fizeau combination produces high-Strehl images at the diffraction limit of the 22.65m equivalent baseline.
 
@@ -74,9 +74,9 @@ LBT is *not* trying to compete with VLTI/CHARA for general-purpose interferometr
 - the 6m baseline is well-matched to nearby-star planet-formation studies
 - single-mount operation is simpler for time-critical observations (e.g. transient events)
 
-## the alternative use: as a 22.65m collecting area
+## the alternative use - as a 22.65m collecting area
 
-when not operating in Fizeau mode, LBT can *coherently* combine light from both mirrors (with delay matching) to produce a single PSF — the PSF of an effective 22.65m telescope (along the baseline). this gives:
+when not operating in Fizeau mode, LBT can *coherently* combine light from both mirrors (with delay matching) to produce a single PSF, the PSF of an effective 22.65m telescope (along the baseline). this gives:
 
 - $\sim 2\times$ the collecting area of a single 8m
 - diffraction-limited PSF in one direction (along the baseline)

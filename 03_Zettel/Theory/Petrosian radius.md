@@ -35,7 +35,7 @@ The **Petrosian radius** $r_P$ is defined as the unique radius at which $\eta(r)
 
 $$\eta(r_P) = \eta_P$$
 
-In the Sloan Digital Sky Survey (SDSS; Blanton et al. 2001; Strauss et al. 2002), the canonical threshold is.
+In the Sloan Digital Sky Survey (SDSS, Blanton et al. 2001, Strauss et al. 2002), the canonical threshold is.
 
 $$\eta_P = 0.20$$
 
@@ -138,7 +138,7 @@ In SDSS, this effect causes the raw Petrosian magnitudes of luminous ellipticals
 
 ## 5. SDSS Petrosian Parameters and Definitions
 
-In the SDSS photometric pipeline (Stoughton et al. 2002; Blanton et al. 2001).
+In the SDSS photometric pipeline (Stoughton et al. 2002, Blanton et al. 2001).
 1. **Petrosian Flux ($F_P$)** - The flux measured inside a circular aperture of radius $2 r_P$.
    $$F_P = 2\pi \int_0^{2 r_P} I(r) \, r \, dr$$
 2. **Petrosian Magnitude ($m_P$)** - Calibrated on the AB magnitude system.
@@ -183,8 +183,8 @@ When illustrating the Petrosian radius on the blackboard.
 ```
 
 ### Key Blackboard Features
-- **Top Panel** - Vertical axis $\eta(r)$ from $0$ to $1.0$; horizontal axis radius $r$. Show monotonic decline starting at $(0, 1.0)$, crossing the horizontal dashed line $\eta = 0.20$ at $r_P \approx 3.62 h$ for an exponential disk.
-- **Bottom Panel** - Curve of growth $F(<r)/L_{\rm tot}$ showing asymptotic saturation. Mark $F(<r_P) \approx 88\%$ and $F(<2 r_P) \approx 99.4\%$ for spirals; mark $F(<2 r_P) \approx 82\%$ for ellipticals.
+- **Top Panel** - Vertical axis $\eta(r)$ from $0$ to $1.0$. Horizontal axis radius $r$. Show monotonic decline starting at $(0, 1.0)$, crossing the horizontal dashed line $\eta = 0.20$ at $r_P \approx 3.62 h$ for an exponential disk.
+- **Bottom Panel** - Curve of growth $F(<r)/L_{\rm tot}$ showing asymptotic saturation. Mark $F(<r_P) \approx 88\%$ and $F(<2 r_P) \approx 99.4\%$ for spirals. Mark $F(<2 r_P) \approx 82\%$ for ellipticals.
 - **Cosmological Proof** - Write the cancellation $\eta(r, z) = \frac{\mathcal{D}(z) I_0}{\mathcal{D}(z) \langle I_0 \rangle} = \eta_0(r)$ clearly on the side.
 
 ---

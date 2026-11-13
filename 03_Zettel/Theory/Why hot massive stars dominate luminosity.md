@@ -40,7 +40,7 @@ at any wavelength $\lambda$ shortward of the peak of a star's blackbody spectrum
 - **optical** ($400$ to $700$ nm): contributions from F, G, K, and earlier types.
 - **NIR** (J, H, K): K and M giants, also red supergiants.
 
-this is why **UV emission traces young (massive) stars** and is a clean SFR tracer for $\tau \sim 100$ Myr; while **NIR traces old stellar populations** (the integrated mass).
+this is why **UV emission traces young (massive) stars** and is a clean SFR tracer for $\tau \sim 100$ Myr. while **NIR traces old stellar populations** (the integrated mass).
 
 ## consequence for galaxy spectra
 
@@ -50,6 +50,18 @@ the SED of a galaxy at any moment is the **superposition** of contributions from
 - NIR ($\lambda > 1\,\mu$m) traces the integral of past star formation, i.e. the stellar mass.
 
 this is the spectral basis for population-synthesis SED fitting (see [[Stellar population synthesis]] and `obs5.pdf`/`obs7.pdf`).
+
+## worked example
+
+with $L \propto M^{3.5}$, one star of $10\,M_\odot$ shines like $10^{3.5} \approx 3200$ Suns. the Salpeter mass function gives $10^{-2.35} = 0.0045$ such stars for each solar-mass star, per unit mass interval. the light per mass interval is then $0.0045 \times 3200 \approx 14$ times larger at $10\,M_\odot$ than at $1\,M_\odot$.
+
+so the light of a young population comes from the few massive stars, while the mass is in the many small ones.
+
+## where it goes wrong
+
+- this holds only while the massive stars are alive. a $10\,M_\odot$ star lasts $10\ \text{Gyr} \times 10^{-2.5} \approx 30$ Myr.
+- ultraviolet light measures recent star formation, not stellar mass.
+- the mass-to-light ratio of a population rises steadily as it ages, by a factor of ten or more in the optical.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

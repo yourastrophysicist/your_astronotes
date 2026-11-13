@@ -42,7 +42,7 @@ precision now reaches $\sim 10^{-5}$:
 - **Gaia** mission: spacecraft positional data confirm light deflection across the sky to $\sim 10^{-5}$.
 - **gravitational lensing** of distant galaxies + quasars: directly observable, used as a cosmological tool.
 
-## as a tool: gravitational lensing
+## as a tool - gravitational lensing
 
 extending the deflection to extended sources:
 - **strong lensing**: rings, multiple images of background quasars by foreground galaxies.

@@ -4,7 +4,7 @@ title: "Fresnel biprism"
 ---
 # Fresnel biprism
 
-Fresnel's elegant single-element interferometer. a glass prism with a very small apex angle (close to 180°) refracts light from a single source into two slightly-deflected beams that *appear* to come from two distinct virtual sources. those virtual sources interfere at the screen, producing Young-like fringes.
+Fresnel's single-element interferometer. a glass prism with a very small apex angle (close to 180°) refracts light from a single source into two slightly-deflected beams that *appear* to come from two distinct virtual sources. those virtual sources interfere at the screen, producing Young-like fringes.
 
 simpler to align than the Fresnel double mirror: just one optical element.
 
@@ -15,7 +15,7 @@ simpler to align than the Fresnel double mirror: just one optical element.
 
 a thin glass biprism has two refracting surfaces meeting at an apex angle slightly less than 180° (i.e. the prism has two halves with very small apex angles $\beta$ each).
 
-a point source $S$ is placed on the axis behind the biprism. light passing through the upper half is refracted slightly downward; light through the lower half is refracted slightly upward.
+a point source $S$ is placed on the axis behind the biprism. light passing through the upper half is refracted slightly downward. light through the lower half is refracted slightly upward.
 
 each half acts like a separate prism, deflecting light by angle $\delta = (n-1)\beta$ where $n$ is the prism's refractive index. so each half produces a virtual image of $S$ shifted by $\Delta = a \delta$ where $a$ is the source-to-prism distance.
 

@@ -41,15 +41,15 @@ with $E_S - E_D \approx 2.9$ eV. so:
 - $T_e = 12\,000$ K: ratio $\sim 0.025$, factor $5$ change.
 - $T_e = 20\,000$ K: ratio $\sim 0.06$.
 
-very steep, hence sensitive. in practice, measuring $\lambda 4363$ requires high-quality spectra; faint compared to the green doublet.
+very steep, hence sensitive. in practice, measuring $\lambda 4363$ requires high-quality spectra. faint compared to the green doublet.
 
 ## practical caveats
 
 1. **density correction**: $\lambda 4363$ has higher critical density ($n_c \sim 3 \times 10^7$ cm$^{-3}$) than $\lambda 5007$ ($n_c \sim 7 \times 10^5$). at $n_e \gtrsim 10^5$, $\lambda 5007$ saturates first, biasing the ratio toward higher apparent $T_e$.
 2. **$\lambda 4363$ contamination**: blended with Hg I sky line in some sites. careful sky-subtraction needed.
-3. **thermal-pressure-driven $T$ gradient**: real nebulae have $T_e$ inhomogeneities; the ratio measures a $T$-weighted mean.
+3. **thermal-pressure-driven $T$ gradient**: real nebulae have $T_e$ inhomogeneities. the ratio measures a $T$-weighted mean.
 
-modern abundance work (gas-phase metallicity in extragalactic HII regions) heavily relies on $\lambda 4363$ measurements; absence of detection requires "strong-line" calibration (R23, N2, O3N2 indices).
+modern abundance work (gas-phase metallicity in extragalactic HII regions) heavily relies on $\lambda 4363$ measurements. absence of detection requires "strong-line" calibration (R23, N2, O3N2 indices).
 
 ## scaling with metallicity
 

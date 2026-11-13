@@ -24,7 +24,7 @@ a modern laptop does $\sim 10^9$ floating-point operations per second on numpy c
 
 **linear systems** ($A\mathbf{x} = \mathbf{b}$):
 - Gauss elimination, LU: $O(N^3)$ once, $O(N^2)$ per RHS afterwards
-- Gauss-Seidel iteration: $O(N^2)$ per iteration; converges in $\sim O(\log(1/\epsilon))$ iterations for nice matrices, so total $\sim O(N^2 \log(1/\epsilon))$. for sparse $A$ with $k$ nonzeros per row, only $O(kN)$ per iteration
+- Gauss-Seidel iteration: $O(N^2)$ per iteration. Converges in $\sim O(\log(1/\epsilon))$ iterations for nice matrices, so total $\sim O(N^2 \log(1/\epsilon))$. for sparse $A$ with $k$ nonzeros per row, only $O(kN)$ per iteration
 
 **eigenvalues**:
 - power iteration (dominant only): $O(N^2)$ per iteration
@@ -35,7 +35,7 @@ a modern laptop does $\sim 10^9$ floating-point operations per second on numpy c
 - Newton-Raphson: $O(\log\log(1/\epsilon))$ iterations (quadratic convergence), but each iteration costs an $f$ and $f'$ evaluation
 
 **integration**:
-- trapezoidal/Simpson: $O(N)$ for $N$ points, error $O(N^{-p})$ — high-order rules win for smooth integrands
+- trapezoidal/Simpson: $O(N)$ for $N$ points, error $O(N^{-p})$, high-order rules win for smooth integrands
 - Monte Carlo: $O(N)$, error $O(N^{-1/2})$ regardless of dimension
 
 **ODEs**:
@@ -69,7 +69,7 @@ for i in range(N):
         result += A[i, j] * x[j] * x[i]
 ```
 
-**fast** (100×–1000× faster):
+**fast** (100×-1000× faster):
 ```python
 result = x @ A @ x
 ```
@@ -89,7 +89,7 @@ the result tells me which function consumes 80% of the time. **only optimize tha
 
 ## the "is this feasible?" mental check
 
-before writing code, mentally compute: what is $N$, what is the algorithm complexity, what is the constant factor (~$10^9$ FLOPS), what is the resulting wall-clock time. if it is more than a few hours, redesign — pick a faster algorithm, exploit sparsity, parallelize, or reduce $N$ (cosmologically: use a sample of the catalog).
+before writing code, mentally compute: what is $N$, what is the algorithm complexity, what is the constant factor (~$10^9$ FLOPS), what is the resulting wall-clock time. if it is more than a few hours, redesign, pick a faster algorithm, exploit sparsity, parallelize, or reduce $N$ (cosmologically: use a sample of the catalog).
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

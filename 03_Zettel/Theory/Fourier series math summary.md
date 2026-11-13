@@ -4,7 +4,7 @@ title: "Fourier series math summary"
 ---
 # Fourier series math summary
 
-the math foundation that the discrete Fourier transform discretizes. every periodic function is a sum of sines and cosines; every "nice enough" non-periodic function is an integral over them.
+the math foundation that the discrete Fourier transform discretizes. every periodic function is a sum of sines and cosines. every "nice enough" non-periodic function is an integral over them.
 
 ## Fourier series (periodic functions)
 
@@ -30,7 +30,7 @@ inverse:
 
 $$f(x) = \int_{-\infty}^{\infty} \hat f(k) e^{2\pi i k x} \, dk$$
 
-note the symmetric $2\pi$ in the exponents. some conventions put $2\pi$ only on the inverse, with $\omega = 2\pi k$ as the integration variable; the relations are the same up to a constant.
+note the symmetric $2\pi$ in the exponents. some conventions put $2\pi$ only on the inverse, with $\omega = 2\pi k$ as the integration variable. the relations are the same up to a constant.
 
 ## the four key theorems
 
@@ -81,7 +81,7 @@ the basis functions $e^{2\pi i n x/L}/\sqrt L$ are orthonormal on $[0, L]$. this
 
 if $f$ has no frequency content above $f_{\max}$, it is fully determined by uniform samples at intervals $\Delta t \leq 1/(2 f_{\max})$. the **Nyquist frequency** $f_{\rm Nyq} = 1/(2\Delta t)$ is the highest frequency representable on a grid with spacing $\Delta t$.
 
-if $f$ has content *above* $f_{\rm Nyq}$, those high frequencies "alias" into the visible band — they appear as fake low-frequency content. **aliasing** is the cause of moire patterns and the wagon-wheel effect.
+if $f$ has content *above* $f_{\rm Nyq}$, those high frequencies "alias" into the visible band. they appear as fake low-frequency content. **aliasing** is the cause of moire patterns and the wagon-wheel effect.
 
 ## from continuous to discrete
 

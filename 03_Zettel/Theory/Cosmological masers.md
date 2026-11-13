@@ -4,7 +4,7 @@ title: "Cosmological masers"
 ---
 # Cosmological masers
 
-VLBI imaging of *water masers* in nearby galaxies — narrow, very-bright emission lines from $H_2O$ molecules excited by stellar/AGN radiation. their high brightness temperature ($T_b \sim 10^{14}$ K) makes them ideal VLBI targets, and their presence in galactic disks gives us *geometric* distance measurements.
+VLBI imaging of *water masers* in nearby galaxies, narrow, very-bright emission lines from $H_2O$ molecules excited by stellar/AGN radiation. their high brightness temperature ($T_b \sim 10^{14}$ K) makes them ideal VLBI targets, and their presence in galactic disks gives us *geometric* distance measurements.
 
 ## the masers
 
@@ -24,7 +24,7 @@ water masers in nearby galaxies trace the kinematics of *molecular gas* in the c
 
 VLBI imaging at ~mas resolution traces the maser positions and velocities precisely. when the masers form a Keplerian disk, this gives a *direct geometric distance* to the host galaxy.
 
-## the canonical example: NGC 4258
+## the canonical example - NGC 4258
 
 a nearby spiral galaxy at $\sim 7.6$ Mpc. its central region hosts a Keplerian disk of water masers around the central SMBH ($M_{\rm BH} = 4 \times 10^7 M_\odot$).
 

@@ -38,7 +38,7 @@ the interval halves each step, so after $k$ steps the bracket has width $(b - a)
 
 $$k \geq \log_2\!\left(\frac{b - a}{\epsilon}\right)$$
 
-for $b - a = 1$ and $\epsilon = 10^{-10}$: $k \approx 33$ iterations. for $\epsilon = \epsilon_{\rm machine} \approx 10^{-16}$: $k \approx 53$ — bisection cannot improve faster than this regardless of how clever the function is.
+for $b - a = 1$ and $\epsilon = 10^{-10}$: $k \approx 33$ iterations. for $\epsilon = \epsilon_{\rm machine} \approx 10^{-16}$: $k \approx 53$, bisection cannot improve faster than this regardless of how clever the function is.
 
 this is **linear convergence** with rate $1/2$. slow compared to Newton-Raphson's quadratic, but **guaranteed** (no convergence test needed if the bracket is valid).
 
@@ -47,13 +47,13 @@ this is **linear convergence** with rate $1/2$. slow compared to Newton-Raphson'
 - **always converges** if the function is continuous and the bracket has a sign change
 - **does not need the derivative**
 - **does not blow up** at flat or oscillatory regions of $f$
-- **simple to implement** — five lines
+- **simple to implement** - five lines
 
 ## weaknesses
 
 - **slow**: 33 iterations to reach $10^{-10}$, vs ~5 for Newton-Raphson
-- **only finds one root** — if there are multiple roots in the bracket, bisection finds *some* root (the one that survives the sign-change tracking) but not all
-- **needs a bracket** — must already know two points where $f$ takes opposite signs. for a function I know little about, this can require a separate "search for a sign change" step
+- **only finds one root** - if there are multiple roots in the bracket, bisection finds *some* root (the one that survives the sign-change tracking) but not all
+- **needs a bracket** - must already know two points where $f$ takes opposite signs. for a function I know little about, this can require a separate "search for a sign change" step
 
 ## when to use bisection
 
@@ -61,7 +61,7 @@ this is **linear convergence** with rate $1/2$. slow compared to Newton-Raphson'
 - **flat or noisy derivatives**: when $f'(x)$ is small or unreliable, Newton fails and bisection just keeps grinding
 - **exam-grade reliability**: if I am writing a script that needs to work and I cannot afford to debug Newton's failure modes, bisection is the safe choice
 
-## the hybrid: Brent's method
+## the hybrid - Brent's method
 
 `scipy.optimize.brentq` combines bisection (for safety) with inverse quadratic interpolation (for speed). it is *the* default 1D root finder in scipy and what I should use in practice. it has both bisection's guaranteed convergence and Newton-like speed where the function is smooth.
 
@@ -74,7 +74,7 @@ root = brentq(f, a, b)
 
 - **finding orbital roots**: where does a Keplerian orbit cross a given radius? bisect on $r(t) - r_0 = 0$
 - **finding equation-of-state intersections**: opacity = energy generation, given densities and temperatures
-- **finding spectral line centers**: derivative of intensity = 0 — bisect or use a smarter method
+- **finding spectral line centers**: derivative of intensity = 0, bisect or use a smarter method
 - **finding cosmological recombination redshift**: $X_e(z) - 0.5 = 0$ from Saha equation
 - **inverting a tabulated function**: given $y$, find $x$ such that $f(x) = y$ when $f$ is monotonic but not analytic
 

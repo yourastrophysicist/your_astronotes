@@ -4,7 +4,7 @@ title: "Beam combiners"
 ---
 # Beam combiners
 
-the optical heart of every interferometer. where light from separated apertures is brought together to interfere. each instrument's choice of beam combiner shapes its capabilities — pairwise vs all-at-once, image-plane vs pupil-plane, fiber vs free-space.
+the optical heart of every interferometer. where light from separated apertures is brought together to interfere. each instrument's choice of beam combiner shapes its capabilities, pairwise vs all-at-once, image-plane vs pupil-plane, fiber vs free-space.
 
 ## three architectures
 
@@ -17,7 +17,7 @@ two beams meet at a half-silvered mirror. each output port carries the sum (or d
 
 ### Fizeau (image-plane)
 
-beams from each telescope are kept separate but reimaged to overlap at a focal plane. the resulting image is the *coherent sum* — a fringe pattern modulated by the source brightness distribution. essentially a "telescope-of-telescopes."
+beams from each telescope are kept separate but reimaged to overlap at a focal plane. the resulting image is the *coherent sum*, a fringe pattern modulated by the source brightness distribution. essentially a "telescope-of-telescopes."
 
 **advantages**: direct imaging without separate combiner, multi-beam works naturally
 **disadvantages**: limited to short-baseline interferometers (LBT, hypertelescope concepts)
@@ -33,7 +33,7 @@ modern instruments (GRAVITY, MIRC-X) all use single-mode fibers.
 
 ### integrated optics
 
-variant of single-mode fiber: a planar silica chip with etched waveguides. light from each telescope enters one input; combined outputs come out at multiple ports. compact, stable, multiplexable.
+variant of single-mode fiber: a planar silica chip with etched waveguides. light from each telescope enters one input. combined outputs come out at multiple ports. compact, stable, multiplexable.
 
 GRAVITY's beam combiner is integrated optics (4 telescopes → 6 baselines → 24 outputs).
 
@@ -75,7 +75,7 @@ modern instruments support both modes:
 
 ## the polarization question
 
-the wave is polarized; the beam combiner must handle both polarizations:
+the wave is polarized. the beam combiner must handle both polarizations:
 
 - **single-polarization** mode: select one polarization (e.g. linear horizontal), throw away half the light
 - **dual-polarization** mode: detect both, recover full Stokes information
@@ -88,7 +88,7 @@ three:
 
 ### 1. interferometric phase stability
 
-the optical path through the combiner must be stable to $\lesssim \lambda/100$ ($\sim 10$ nm at K-band). thermal expansion, vibration, mechanical creep — all must be controlled.
+the optical path through the combiner must be stable to $\lesssim \lambda/100$ ($\sim 10$ nm at K-band). thermal expansion, vibration, mechanical creep, all must be controlled.
 
 solution: enclosed in temperature-stabilized, vibration-isolated housings. metrology lasers monitor any drift.
 

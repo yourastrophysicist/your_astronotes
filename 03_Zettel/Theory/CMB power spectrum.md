@@ -14,7 +14,7 @@ $$C_\ell \equiv \frac{1}{2\ell + 1}\sum_m \lvert a_{\ell m}\rvert^2$$
 
 usually plotted as $D_\ell \equiv \ell(\ell+1)C_\ell/(2\pi)$ (which gives a roughly horizontal flat band at the Sachs-Wolfe plateau, easier to see structure on).
 
-## the structure: acoustic peaks
+## the structure - acoustic peaks
 
 main features:
 
@@ -71,6 +71,15 @@ modes that have **just completed** an oscillation at recombination $\to$ compres
 
 so the peak positions encode the sound horizon at recombination (a known scale), and the heights encode the relative pressure / gravity.
 
+## worked example
+
+the multipole of the first peak. with $r_s = 147$ Mpc and $d_M(1090) = 14.0$ Gpc, $\theta_s = 0.0105$ rad and $\ell_1 \approx \pi/\theta_s \approx 300$. the observed peak is at 220 because the acoustic phase is shifted by the potential.
+
+## where it goes wrong
+
+- cosmic variance limits the low multipoles. there are only $2\ell + 1$ modes at each $\ell$.
+- $\ell(\ell + 1)C_\ell/2\pi$ is plotted, not $C_\ell$.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -85,7 +94,7 @@ so the peak positions encode the sound horizon at recombination (a known scale),
 
 ## see also
 
-- CMB — discovery and blackbody spectrum
+- CMB, discovery and blackbody spectrum
 - [[CMB anisotropies]]
 - [[Polarization E and B modes]]
 - [[Photon decoupling and CMB]]

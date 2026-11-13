@@ -12,7 +12,7 @@ source: Lecture 4 ("CCD and SNR") of the Obs Astrophysics course at U Padua, wit
 
 a CCD pixel is a **MOS capacitor**: a silicon substrate with an insulating SiO$_2$ layer and a metal electrode on top. when the electrode is biased positive, it creates a depletion region in the silicon underneath, a potential well for electrons.
 
-a photon with energy $E_\gamma > E_{\rm gap}^{\rm Si} = 1.12$ eV (i.e. $\lambda < 1100$ nm) has a chance of producing an electron-hole pair. the electron drifts into the well, the hole is swept away. each detected photon gives **one electron** in the well; CCD silicon is not good at counting visible photons twice.
+a photon with energy $E_\gamma > E_{\rm gap}^{\rm Si} = 1.12$ eV (i.e. $\lambda < 1100$ nm) has a chance of producing an electron-hole pair. the electron drifts into the well, the hole is swept away. each detected photon gives **one electron** in the well. CCD silicon is not good at counting visible photons twice.
 
 the probability that a photon produces an electron and that the electron survives to be counted is the **quantum efficiency** $\eta(\lambda)$:
 $$\eta(\lambda) \equiv \frac{N_{\rm electrons}}{N_{\rm photons}}$$
@@ -32,7 +32,7 @@ once the integration ends, charge is shifted along the columns and through a ser
 
 - **gain** $g$: the conversion factor in **electrons per ADU** (analog-to-digital unit). a $g = 1.5$ e$^-$/ADU CCD records $1500$ electrons as $1000$ ADU. set by the on-chip amplifier and the ADC.
 - **bias level**: a small constant offset added to every pixel so that zero photons read out as $\sim 1000$ ADU rather than zero (avoids issues at the lower digitisation rail). measured from an **overscan** region at the edge of the chip during every readout.
-- **read noise** $\sigma_{\rm RN}$: the electronics noise in the amplifier and ADC, in electrons per pixel per readout. typical: $3$ to $10$ e$^-$/pixel for science CCDs. crucially, it does **not** scale with exposure time; one read = one $\sigma_{\rm RN}$.
+- **read noise** $\sigma_{\rm RN}$: the electronics noise in the amplifier and ADC, in electrons per pixel per readout. typical: $3$ to $10$ e$^-$/pixel for science CCDs. it does **not** scale with exposure time. one read = one $\sigma_{\rm RN}$.
 
 other systematics in the chain:
 - **charge transfer efficiency** (CTE): each pixel-to-pixel shift is not perfect. modern science CCDs have CTE $> 0.99999$, so loss is negligible except for very faint targets and many shifts.
@@ -46,12 +46,12 @@ an exposure produces a count $N$ on a pixel. four independent sources contribute
 
 1. **photon noise from the source**, $\sigma_*^2 = N_*$. fundamental Poisson fluctuation of the detected source photons.
 2. **photon noise from the sky**, $\sigma_{\rm sky}^2 = N_{\rm sky}$ per pixel. Poisson on the integrated sky brightness in the aperture.
-3. **dark current**, $\sigma_d^2 = N_d = D \cdot t$ where $D$ is the dark rate (e$^-$/pixel/s) and $t$ is exposure time. thermally generated electrons; suppressed by cooling. at $-100°$C, $D$ is negligible. at room temperature, fatal.
+3. **dark current**, $\sigma_d^2 = N_d = D \cdot t$ where $D$ is the dark rate (e$^-$/pixel/s) and $t$ is exposure time. thermally generated electrons, suppressed by cooling. at $-100°$C, $D$ is negligible. at room temperature, fatal.
 4. **read noise**, $\sigma_{\rm RN}^2$ per pixel per readout. independent of exposure time.
 
 each source is independent of the others (good approximation), so variances add:
 $$\sigma_{\rm total}^2 = N_* + n_{\rm pix}(N_{\rm sky} + N_d + \sigma_{\rm RN}^2)$$
-where $n_{\rm pix}$ is the number of pixels in the source aperture. (the source noise term $N_*$ already integrates over the aperture; the per-pixel terms get multiplied by $n_{\rm pix}$.)
+where $n_{\rm pix}$ is the number of pixels in the source aperture. (the source noise term $N_*$ already integrates over the aperture. the per-pixel terms get multiplied by $n_{\rm pix}$.)
 
 ---
 
@@ -87,7 +87,7 @@ SNR still grows as $\sqrt{t}$, but with a worse prefactor than source-limited. y
 
 $\sigma_{\rm RN}^2 \gg N_{\rm sky} + N_d$, typical when sky is very low (NIR with cold instrument, narrow-band imaging) or the exposure is short (high-speed photometry).
 $${\rm SNR} \approx \frac{N_*}{\sqrt{n_{\rm pix}}\,\sigma_{\rm RN}} \propto t$$
-crucially, SNR scales **linearly** with $t$ here, not $\sqrt{t}$. so if you take $K$ short exposures of total time $t$, you accumulate $K$ independent reads of read noise:
+SNR scales **linearly** with $t$ here, not $\sqrt{t}$. so if you take $K$ short exposures of total time $t$, you accumulate $K$ independent reads of read noise:
 $${\rm SNR}_K \approx \frac{R_* t}{\sqrt{K n_{\rm pix}}\,\sigma_{\rm RN}}$$
 which is $\sqrt{K}$ worse than one long exposure of duration $t$. **this is why you take long exposures**: in the read-noise-limited regime, fewer reads = more SNR for the same shutter-open time.
 
@@ -136,7 +136,7 @@ a third option for resolved galaxies: **surface photometry** with isophote fitti
 ## cosmic rays and bad pixels
 
 every $\sim$ minute a cosmic ray hits the CCD and dumps thousands of electrons into a pixel cluster. mitigations:
-- take **multiple shorter exposures** and combine with sigma-clipping or median; cosmic rays appear in only one frame.
+- take **multiple shorter exposures** and combine with sigma-clipping or median. cosmic rays appear in only one frame.
 - for single deep exposures: detection algorithms (lacosmic, astroscrappy) flag and replace.
 
 dithering (small pointing offsets between frames) also helps: bad pixels and CR hits land on different sky positions in each frame, so the median rejects them.
@@ -171,6 +171,12 @@ the spine of any oral question on CCDs is:
 5. **calibration sequence**: bias, dark, flat, defects/CRs.
 6. **a worked numerical example** if asked: pick reasonable numbers, identify which regime, compute SNR.
 
+## where it goes wrong
+
+- Poisson statistics apply to electrons. I multiply the ADU by the gain before taking any square root.
+- near full well the response is no longer linear, and the photometry of bright stars is wrong before the image looks saturated.
+- cosmic rays are sharper than the PSF. splitting the exposure is the only clean way to remove them.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -184,14 +190,14 @@ the spine of any oral question on CCDs is:
 
 ## see also
 
-- [[Observational_Astrophysics_MOC]] — Block 4 lives here
-- [[Earth atmosphere for observations]] — what the photons go through *before* the CCD
+- [[Observational_Astrophysics_MOC]] - Block 4 lives here
+- [[Earth atmosphere for observations]] - what the photons go through *before* the CCD
 - [[Aperture photometry]]
 - [[PSF photometry]]
 - [[CCD calibration steps]]
-- [[Magnitudes and photometric systems]] — converts CCD counts into a magnitude
-- [[Distance ladder derivations]] — what the magnitudes are for
-- [[Lab_High-Energy_MOC]] — X-ray detectors (CCDs, microcalorimeters), the same SNR logic with different noise sources
+- [[Magnitudes and photometric systems]] - converts CCD counts into a magnitude
+- [[Distance ladder derivations]] - what the magnitudes are for
+- [[Lab_High-Energy_MOC]] - X-ray detectors (CCDs, microcalorimeters), the same SNR logic with different noise sources
 
 ---
 

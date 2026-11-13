@@ -22,7 +22,7 @@ narrower for wider slits, broader for narrower slits. classical Heisenberg-style
 
 ## why this matters for spectroscopy
 
-every component of a spectrograph (slit, grating, camera) has a finite aperture, so each contributes a single-slit diffraction envelope to the final image. the slit at the focal plane sets the **slit-image** width on the detector; the dispersing element (grating) introduces the second envelope.
+every component of a spectrograph (slit, grating, camera) has a finite aperture, so each contributes a single-slit diffraction envelope to the final image. the slit at the focal plane sets the **slit-image** width on the detector. the dispersing element (grating) introduces the second envelope.
 
 in particular, the **grating envelope**: each individual groove of an N-slit grating diffracts as a single slit of width $b$, modulating the otherwise sharp grating maxima. the result is the [[N-slit interference and gratings]] pattern: sharp principal maxima sitting *under* a single-slit envelope.
 

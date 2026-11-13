@@ -62,7 +62,7 @@ current measurements: $\lvert \Omega_k\rvert < 0.005$. universe is **flat to bet
 derived from acceleration equation:
 $$q_0 \equiv -\frac{\ddot a a}{\dot a^2}\bigg\vert_{t_0} = \frac{1}{2}\Omega_m + \Omega_r - \Omega_\Lambda$$
 
-(approximate; ignores radiation today since $\Omega_r$ tiny). with current values:
+(approximate, ignores radiation today since $\Omega_r$ tiny). with current values:
 $$q_0 \approx \frac{1}{2}(0.315) - 0.685 = -0.527$$
 
 negative = **accelerating** universe. measured directly from SN Ia Hubble diagram.
@@ -75,6 +75,12 @@ CMB data measures $\Omega h^2$ directly (via the physical density), then $\Omega
 - $\Omega_m h^2 = 0.143$.
 
 these are determined to $\sim 1\%$ from Planck CMB peak structure. converting to $\Omega$ requires $H_0$, the most uncertain step (Hubble tension at $\sim 7\%$).
+
+## where it goes wrong
+
+- $\Omega_k$ has the opposite sign of $k$.
+- the $\Omega$ values add to one by definition, so this is not a test of anything.
+- $\Omega_r$ is small today but was dominant before $z = 3400$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

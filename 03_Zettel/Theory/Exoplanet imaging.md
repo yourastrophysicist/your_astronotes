@@ -52,11 +52,11 @@ four directly-imaged planets in a multi-planet system (~70 light-years). studied
 
 ### Proxima Centauri b
 
-a 1.3 Earth-mass planet at the habitable zone of the closest star to the Sun. detected via radial velocity; not yet directly imaged. proxima b is the prime target for future direct-imaging missions.
+a 1.3 Earth-mass planet at the habitable zone of the closest star to the Sun. detected via radial velocity. not yet directly imaged. proxima b is the prime target for future direct-imaging missions.
 
 ### TRAPPIST-1 system
 
-seven Earth-sized planets around an M dwarf at 12 pc. characterized via transit photometry; *some* of the planets have been directly imaged in their reflected light (inner planets, moderate contrast). atmospheric spectroscopy with JWST.
+seven Earth-sized planets around an M dwarf at 12 pc. characterized via transit photometry. *some* of the planets have been directly imaged in their reflected light (inner planets, moderate contrast). atmospheric spectroscopy with JWST.
 
 ## the contrast targets
 
@@ -77,7 +77,7 @@ space-based coronagraph capable of $10^{-9}$ contrast. designed to image cool Ju
 
 ### Habex / LUVOIR concepts
 
-future flagship missions with $10^{-10}$ contrast goals — Earth-twin imaging.
+future flagship missions with $10^{-10}$ contrast goals, Earth-twin imaging.
 
 ### LIFE (Large Interferometer For Exoplanets)
 

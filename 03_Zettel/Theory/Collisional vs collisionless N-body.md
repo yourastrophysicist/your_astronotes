@@ -4,7 +4,7 @@ title: "Collisional vs collisionless N-body"
 ---
 # Collisional vs collisionless N-body
 
-two physical regimes of gravitational $N$-body dynamics that demand fundamentally different numerical strategies. the distinction is not about whether the particles literally collide; it is about whether *two-body* gravitational encounters significantly perturb each particle's orbit during the simulation.
+two physical regimes of gravitational $N$-body dynamics that demand fundamentally different numerical strategies. the distinction is not about whether the particles literally collide. it is about whether *two-body* gravitational encounters significantly perturb each particle's orbit during the simulation.
 
 ## the relaxation timescale
 
@@ -14,9 +14,9 @@ $$t_{\rm relax} \approx \frac{N}{8 \ln N} \, t_{\rm cross}$$
 
 where $t_{\rm cross}$ is the crossing time. with $\ln N$ called the Coulomb logarithm.
 
-- $N = 10^4$ (small open cluster): $t_{\rm relax}/t_{\rm cross} \approx 140$ — relaxation matters within ~100 crossing times
+- $N = 10^4$ (small open cluster): $t_{\rm relax}/t_{\rm cross} \approx 140$, relaxation matters within ~100 crossing times
 - $N = 10^6$ (globular cluster): $\sim 1000$ crossing times
-- $N = 10^{11}$ (galaxy): $\sim 10^9$ crossing times $\gg t_{\rm Hubble}$ — relaxation never happens during the lifetime of the universe
+- $N = 10^{11}$ (galaxy): $\sim 10^9$ crossing times $\gg t_{\rm Hubble}$, relaxation never happens during the lifetime of the universe
 
 so:
 
@@ -73,7 +73,7 @@ in a globular cluster, two stars *can* really come within an AU. the resulting c
 
 ## the boundary regime ($N \sim 10^7$)
 
-systems with $N \sim 10^7$ — the inner halos of galaxies, globular cluster ensembles in a galactic halo — sit at the boundary. neither pure collisional nor pure collisionless. specialized hybrid codes (FROST, P3T) treat close-encounter pairs collisionally and the bulk collisionlessly.
+systems with $N \sim 10^7$, the inner halos of galaxies, globular cluster ensembles in a galactic halo, sit at the boundary. neither pure collisional nor pure collisionless. specialized hybrid codes (FROST, P3T) treat close-encounter pairs collisionally and the bulk collisionlessly.
 
 ## astrophysics applications
 

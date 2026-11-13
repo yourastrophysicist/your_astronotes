@@ -12,13 +12,13 @@ where the exponent $\alpha$ varies systematically across four mass regimes due t
 
 1. **very low mass ($M \le 0.43\,M_\odot$, M-dwarfs)**:
    $$\alpha \approx 2.3 \quad (L \propto M^{2.3})$$
-   stars are fully convective (or possess deep convective envelopes); molecular opacities ($\mathrm{H}_2\mathrm{O}$, $\mathrm{TiO}$) and collision-induced $\mathrm{H}_2$ absorption dominate the atmosphere, flattening the relation.
+   stars are fully convective (or possess deep convective envelopes). molecular opacities ($\mathrm{H}_2\mathrm{O}$, $\mathrm{TiO}$) and collision-induced $\mathrm{H}_2$ absorption dominate the atmosphere, flattening the relation.
 2. **intermediate low mass ($0.43 < M/M_\odot \le 2.0$, solar-type)**:
    $$\alpha \approx 4.0 \quad (L \propto M^4)$$
    classical Kramers opacity ($\kappa \propto \rho T^{-3.5}$) and radiative diffusion dominate energy transport, powered by the pp-chains.
 3. **intermediate to massive ($2.0 < M/M_\odot \le 20.0$, A and B stars)**:
    $$\alpha \approx 3.5 \quad (L \propto M^{3.5})$$
-   core CNO-cycle fusion dominates with convective cores; Thomson electron scattering ($\kappa_{\rm es} = \text{const}$) becomes significant.
+   core CNO-cycle fusion dominates with convective cores. Thomson electron scattering ($\kappa_{\rm es} = \text{const}$) becomes significant.
 4. **very massive ($M > 20.0\,M_\odot$, O stars)**:
    $$\alpha \to 1.0\text{--}1.5 \quad (L \propto M)$$
    radiation pressure $P_{\rm rad} = \frac{1}{3} a T^4$ dominates over gas pressure ($P \approx P_{\rm rad}$). the star approaches the **Eddington luminosity limit**:
@@ -64,7 +64,17 @@ $$\tau_{\rm MS} \approx 10\,\text{Gyr}\,\left(\frac{M}{M_\odot}\right)^{-2.5}$$
    $$L_{\rm SSP}(t) \propto t^{-0.7\text{--}0.9}$$
    while the integrated colors shift redward as cooler, lower-mass stars and red giants dominate the light.
 3. **mass-to-light ratio stability in the infrared**:
-   the mass-to-light ratio $\Upsilon_V \equiv M_*/L_V$ grows by a factor $> 100$ between ages $10$ Myr and $10$ Gyr. however, in the near-infrared $K$-band ($2.2\,\mu$m), red giants and low-mass MS stars emit near their Rayleigh-Jeans peak, keeping $\Upsilon_K \approx 0.6\text{--}1.0\,M_\odot/L_\odot$ stable within $\sim 30\%$ across all mature stellar ages. this makes near-IR photometry the gold standard for measuring total stellar masses in galaxies.
+   the mass-to-light ratio $\Upsilon_V \equiv M_*/L_V$ grows by a factor $> 100$ between ages $10$ Myr and $10$ Gyr. however, in the near-infrared $K$-band ($2.2\,\mu$m), red giants and low-mass MS stars emit near their Rayleigh-Jeans peak, keeping $\Upsilon_K \approx 0.6\text{--}1.0\,M_\odot/L_\odot$ stable within $\sim 30\%$ across all mature stellar ages. this makes near-IR photometry the standard for measuring total stellar masses in galaxies.
+
+## worked example
+
+Sirius A has $M = 2.06\,M_\odot$ from its orbit. the standard exponent gives $L = 2.06^{3.5} = 12.5\,L_\odot$. the measured value is $25\,L_\odot$, which needs an exponent of 4.5. so around $2\,M_\odot$ the relation is steeper than the average, and a single power law is only a first guide.
+
+## where it goes wrong
+
+- the relation is calibrated on binaries, the only stars with directly measured masses.
+- it applies to the main sequence only.
+- using one exponent for all masses. the slope changes at about $0.4$, $2$ and $50\,M_\odot$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

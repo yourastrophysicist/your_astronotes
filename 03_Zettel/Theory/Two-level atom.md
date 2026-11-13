@@ -10,7 +10,7 @@ processes connecting the two levels:
 - collisional excitation: $1 \to 2$ at rate $n_e q_{12}$.
 - collisional de-excitation: $2 \to 1$ at rate $n_e q_{21}$.
 - radiative spontaneous decay: $2 \to 1$ at rate $A_{21}$.
-- (radiative absorption $1 \to 2$ from local radiation field; usually negligible in optically thin nebulae.)
+- (radiative absorption $1 \to 2$ from local radiation field, usually negligible in optically thin nebulae.)
 
 in steady state, the population of level $2$ is set by **rates in $=$ rates out**:
 $$n_1 n_e q_{12} = n_2 (A_{21} + n_e q_{21})$$
@@ -24,7 +24,7 @@ $$\frac{n_2}{n_1} = \frac{g_2}{g_1}\,e^{-E_{21}/k_BT_e}\,\frac{n_e q_{21}}{A_{21
 
 the first factor is the Boltzmann ratio (LTE result). the second is a correction from non-LTE.
 
-## the two limits: critical density
+## the two limits - critical density
 
 define the **critical density**:
 $$\boxed{\, n_c \equiv A_{21}/q_{21} \,}$$
@@ -34,7 +34,7 @@ then:
 ### low density ($n_e \ll n_c$)
 $A_{21} \gg n_e q_{21}$. the second factor reduces to $n_e q_{21}/A_{21}$. so:
 $$\frac{n_2}{n_1} \approx \frac{g_2}{g_1}\,e^{-E_{21}/k_BT_e}\,\frac{n_e}{n_c}$$
-**every collisional excitation produces a photon**; line emissivity $\propto n_1 n_e q_{12}$, so $\propto n_e$ at fixed $T$.
+**every collisional excitation produces a photon**. line emissivity $\propto n_1 n_e q_{12}$, so $\propto n_e$ at fixed $T$.
 
 ### high density ($n_e \gg n_c$)
 the second factor approaches $1$. so:

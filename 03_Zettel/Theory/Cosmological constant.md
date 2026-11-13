@@ -48,9 +48,9 @@ $$\Lambda \approx 1.1 \times 10^{-52}\,\text{m}^{-2}$$
 
 a **tiny** number compared to natural Planck-scale quantities. the **cosmological constant problem** is to explain why $\Lambda$ is $\sim 10^{120}$ times smaller than naive QFT estimates (Planck-energy quantum vacuum energy).
 
-## the consequence: dark energy
+## the consequence - dark energy
 
-$\Lambda$ contributes $\sim 68\%$ of the total energy budget of the universe today. drives accelerated expansion ($\ddot a > 0$). makes the universe ever-expanding; eventually, structures other than gravitationally bound systems (Local Group, etc.) are pushed beyond the cosmological horizon.
+$\Lambda$ contributes $\sim 68\%$ of the total energy budget of the universe today. drives accelerated expansion ($\ddot a > 0$). makes the universe ever-expanding. eventually, structures other than gravitationally bound systems (Local Group, etc.) are pushed beyond the cosmological horizon.
 
 implications for the future:
 - **expansion accelerates** indefinitely.

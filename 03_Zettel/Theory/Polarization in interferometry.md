@@ -34,7 +34,7 @@ where $RM$ is the rotation measure, proportional to the integral of the magnetic
 
 ## astrophysical context
 
-Polarization imaging is a crucial capability of arrays like ALMA and the VLA. It is used to trace the twisted magnetic field lines in active galactic nucleus jets, the magnetic support of star-forming molecular clouds, and the orientation of dust grains in protoplanetary disks. Famously, Event Horizon Telescope polarimetry of M87 revealed the highly ordered, spiraling magnetic field structure actively feeding the supermassive black hole near the event horizon.
+Polarization imaging is a key capability of arrays like ALMA and the VLA. It is used to trace the twisted magnetic field lines in active galactic nucleus jets, the magnetic support of star-forming molecular clouds, and the orientation of dust grains in protoplanetary disks. Famously, Event Horizon Telescope polarimetry of M87 revealed the highly ordered, spiraling magnetic field structure actively feeding the supermassive black hole near the event horizon.
 
 ---
 

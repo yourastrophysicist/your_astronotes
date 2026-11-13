@@ -12,7 +12,7 @@ title: "Time keeping in astronomy"
 - **UT1**: UT0 corrected for polar motion. tracks Earth's actual rotation, varies smoothly. used for celestial pointing.
 - **UTC**: coordinated universal time. atomic-clock-based but kept within $0.9$ s of UT1 by inserting **leap seconds**. this is what civil clocks (and computer clocks via NTP) display.
 
-UTC = UT1 + DUT1, with $$\lvert\text{DUT1}\rvert$ < 0.9$ s by definition.
+UTC = UT1 + DUT1, with $\lvert\text{DUT1}\rvert < 0.9$ s by definition.
 
 ### atomic time TAI
 
@@ -45,6 +45,18 @@ UTC has been adjusted with **leap seconds** since 1972 to keep it close to UT1. 
 
 a single Julian Date can be ambiguous about which time scale it is in. always specify: JD$_{\rm TT}$, MJD$_{\rm UTC}$, etc.
 
+## worked example
+
+the Julian Date of 12 November 2026 at $0^{\rm h}$ UT. J2000.0 is JD 2451545.0, at noon of 1 January 2000. from there to noon of 1 January 2026 there are 26 years with 7 leap days, $26 \times 365 + 7 = 9497$ days. from 1 January to 12 November there are 315 days. so noon of 12 November is JD 2461357.0 and midnight is
+
+$$\text{JD} = 2461356.5, \qquad \text{MJD} = \text{JD} - 2400000.5 = 61356$$
+
+## where it goes wrong
+
+- the Julian day starts at noon, the modified Julian day at midnight.
+- UTC is not uniform. it has leap seconds, and TAI $-$ UTC $= 37$ s since 2017. TT $=$ TAI $+ 32.184$ s.
+- timing of pulsars, transits and eclipses must be referred to the barycentre. the correction reaches $\pm 8.3$ minutes.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -55,7 +67,7 @@ a single Julian Date can be ambiguous about which time scale it is in. always sp
 
 ## see also
 
-- [[Equatorial system]] — sidereal time enters the hour angle
+- [[Equatorial system]], sidereal time enters the hour angle
 - [[Sidereal vs solar time]]
 - [[Precession nutation aberration parallax]]
 - [[Earth coordinates]]

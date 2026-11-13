@@ -48,7 +48,7 @@ these are typically used to fix the **transverse-traceless (TT) gauge** in vacuu
 | Lorenz cond. | $\partial^\mu A_\mu = 0$ | $\partial^\mu \bar h_{\mu\nu} = 0$ |
 | field eq. (gauge) | $\Box A^\mu = -\mu_0 j^\mu$ | $\Box \bar h_{\mu\nu} = -16\pi G T_{\mu\nu}$ |
 
-both are wave equations sourced by their currents. both have residual gauge freedom that can fix to transverse + (in EM, transverse only; in GR, transverse + traceless).
+both are wave equations sourced by their currents. both have residual gauge freedom that can fix to transverse + (in EM, transverse only, in GR, transverse + traceless).
 
 ## practical remarks
 

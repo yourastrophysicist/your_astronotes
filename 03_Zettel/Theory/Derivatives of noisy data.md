@@ -14,7 +14,7 @@ $$y'_i = \frac{y_{i+1} - y_i}{h} = \frac{f_{i+1} - f_i}{h} + \frac{\eta_{i+1} - 
 
 the noise in the numerator has std $\sqrt{2}\sigma$ (independent), so the noise in the derivative estimate is $\sqrt{2}\sigma/h$. for $h \ll 1$, this completely dominates the actual derivative signal.
 
-worse: as I shrink $h$ to *reduce truncation error*, the noise *grows*. there is no good $h$ — the U-shape from clean-data finite differences becomes a "bad-everywhere" curve.
+worse: as I shrink $h$ to *reduce truncation error*, the noise *grows*. there is no good $h$, the U-shape from clean-data finite differences becomes a "bad-everywhere" curve.
 
 ## three escape routes
 

@@ -2,7 +2,7 @@
 layout: "default"
 title: "Annual stellar parallax"
 ---
-the second rung of the cosmic distance ladder, calibrated entirely by Euclidean geometry. **annual stellar parallax** is the only direct, assumption-free geometric method for measuring distances to stars outside the solar system; every subsequent rung of the distance scale rests upon it.
+the second rung of the cosmic distance ladder, calibrated entirely by Euclidean geometry. **annual stellar parallax** is the only direct, assumption-free geometric method for measuring distances to stars outside the solar system. every subsequent rung of the distance scale rests upon it.
 
 ![sphereastro2-21.png](../../assets/images/sphereastro2-21.png)
 
@@ -28,7 +28,7 @@ $$1\text{ pc} = \frac{1\,\text{AU}}{1''\text{ in radians}} = \frac{1.4959787 \ti
 this yields the celebrated relation:
 $$\boxed{\, d(\text{pc}) = \frac{1}{p(\text{arcsec})} \,}$$
 
-### key benchmark distances:
+### key benchmark distances
 - **nearest star**: Proxima Centauri: $p = 0.7687'' \implies d = 1.30$ pc ($4.24$ ly).
 - **historical landmark**: in 1838, **Friedrich Bessel** measured the first stellar parallax for $61$ Cygni ($p = 0.286'' \implies d = 3.5$ pc), ending a 2000-year search since Aristotle.
 - $d = 10$ pc $\implies p = 0.1'' = 100$ mas.
@@ -52,7 +52,7 @@ similar to aberration, the annual motion of Earth causes a star to trace out a *
 
 ---
 
-## the space astrometry revolution: Hipparcos to Gaia
+## the space astrometry revolution - Hipparcos to Gaia
 
 ground-based telescopes are fundamentally limited by atmospheric turbulence (seeing, $\theta \sim 0.5''-1''$), restricting ground parallax measurements to $d \lesssim 20-50$ pc with accuracies of $\sim 5-10$ mas.
 
@@ -61,6 +61,13 @@ space astrometry removed the atmosphere:
 2. **ESA Gaia (2013-present)**: measured parallaxes, proper motions, and photometry for over **1.8 billion stars** across the entire Milky Way, with astrometric precision reaching **$10-20\,\mu\text{as}$** for bright stars! Gaia directly calibrates Cepheids, RR Lyrae, and open cluster isochrones across the Galactic disk.
 
 ---
+
+## where it goes wrong
+
+- the parallax is the angle for a baseline of 1 AU, half of the full annual shift.
+- $d = 1/p$ is biased when the error is large. for $\sigma_p/p$ above about 20% the inversion overestimates the distance on average.
+- ground-based parallaxes are relative to background stars that have their own small parallax. space missions measure absolute ones.
+- Gaia parallaxes carry a zero-point offset of a few tens of microarcseconds that must be corrected.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

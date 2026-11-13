@@ -28,11 +28,11 @@ units: with $\chi$ in erg, $T$ in K, $n$ in cm$^{-3}$. all quantities in cgs.
 ## the structure of the equation
 
 at low $T$: $e^{-\chi/k_BT} \to 0$, so $n_{i+1}/n_i \to 0$. all atoms neutral.
-at high $T$: $e^{-\chi/k_BT} \to 1$, but the prefactor doesn't suppress; ionisation dominates.
+at high $T$: $e^{-\chi/k_BT} \to 1$, but the prefactor doesn't suppress. ionisation dominates.
 
 the **transition** between the two regimes is sharp around $k_BT \sim \chi/10$ to $\chi/30$ (the exponential factor stays small until $k_BT$ is a fair fraction of $\chi$).
 
-## numerical example: H ionisation
+## numerical example - H ionisation
 
 $\chi_{\rm H} = 13.6$ eV. at $T = 5800$ K (solar), $k_BT = 0.5$ eV:
 $$\frac{n_{\rm H II}\,n_e}{n_{\rm H I}} = \frac{2 \cdot 1}{2}\,\left(\frac{m_e \cdot 0.5\,\text{eV}/k_B}{h^2/2\pi}\right)^{3/2}\,e^{-13.6/0.5}$$
@@ -65,7 +65,7 @@ at recombination of the early universe ($z \sim 1100$, $T \sim 3000$ K), the sam
 ## see also
 
 - [[Boltzmann equation in spectroscopy]]
-- [[Saha equation and recombination]] — cosmological analogue
+- [[Saha equation and recombination]] - cosmological analogue
 - [[Statistical weight g]]
 - [[Partition function]]
 - [[Population of excited levels]]

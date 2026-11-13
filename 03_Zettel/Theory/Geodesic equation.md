@@ -8,7 +8,7 @@ bthe **geodesic equation** describes how free particles move in a curved spaceti
 
 $$\boxed{\, \ddot x^\mu + \Gamma^\mu{}_{\alpha\beta}\dot x^\alpha\dot x^\beta = 0 \,}$$
 
-with dot meaning $d/d\tau$ for timelike particles ($\tau$ = proper time) or $d/d\lambda$ for null particles ($\lambda$ = affine parameter; see [[Affine parameter]]).
+with dot meaning $d/d\tau$ for timelike particles ($\tau$ = proper time) or $d/d\lambda$ for null particles ($\lambda$ = affine parameter, see [[Affine parameter]]).
 
 this is a system of 4 second-order ODEs, with initial conditions $x^\mu(0)$ and $\dot x^\mu(0)$.
 

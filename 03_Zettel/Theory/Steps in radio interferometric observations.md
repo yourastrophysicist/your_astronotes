@@ -35,7 +35,7 @@ The typical sequence of operations is
 
 ## astrophysical context
 
-Major facilities like ALMA and the VLA process observations through this standard pipeline. The calibration overhead is significant. Spending 20 to 40 percent of the total telescope time just looking at calibrators is typical. This intensive process ensures that the amplitude scales are absolute and that the phase errors from the troposphere or ionosphere are removed, allowing for the incredibly high dynamic range images seen in modern radio astronomy.
+Major facilities like ALMA and the VLA process observations through this standard pipeline. The calibration overhead is significant. Spending 20 to 40 percent of the total telescope time just looking at calibrators is typical. This intensive process ensures that the amplitude scales are absolute and that the phase errors from the troposphere or ionosphere are removed, allowing for the very high dynamic range images seen in modern radio astronomy.
 
 ---
 

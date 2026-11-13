@@ -2,7 +2,7 @@
 layout: "default"
 title: "Curve of growth abundance analysis"
 ---
-measuring stellar abundances via the **curve-of-growth method**: combine equivalent width of many lines of the same species with their atomic-physics oscillator strengths, and the unique abundance shifts the points to land on the universal curve of growth. classical method, foundational to stellar spectroscopy.
+measuring stellar abundances via the **curve-of-growth method**: combine equivalent width of many lines of the same species with their atomic-physics oscillator strengths, and the unique abundance shifts the points to land on the universal curve of growth. classical method, to stellar spectroscopy.
 
 ## the procedure
 
@@ -24,7 +24,7 @@ abundance work needs:
 
 then the curve of growth + atomic data + EW gives abundance.
 
-## the modern alternative: spectral synthesis
+## the modern alternative - spectral synthesis
 
 instead of curve-of-growth, **fit the entire line profile** with a synthetic spectrum:
 1. compute synthetic spectra for grids of $T_{\rm eff}, \log g, [Fe/H], \xi_t$.
@@ -50,7 +50,7 @@ iterative procedure:
 
 end product: $T_{\rm eff} \pm 50$ K, $\log g \pm 0.1$, $[Fe/H] \pm 0.05$ for high-S/N spectra. this is the **spectroscopic temperature/gravity/metallicity (STGM) determination**.
 
-## abundance patterns: $\alpha$/Fe etc.
+## abundance patterns - $\alpha$/Fe etc.
 
 beyond Fe, key abundance ratios:
 - **$[\alpha/Fe]$** (O, Mg, Si, Ca, Ti / Fe): reflects star-formation timescale (see [[Metallicity and chemical evolution]]).

@@ -2,68 +2,68 @@
 layout: "default"
 title: "Observational_Cosmology_MOC"
 ---
-# Observational Cosmology — Map of Content
+# Observational Cosmology - Map of Content
 
-A.Y. 2024/2025 — **Prof. Giulia Rodighiero** and **Prof. Paolo Cassata**, with visiting professor **Pablo Pérez-González** and a special lecture on lensing by **Dr. Andrea Enia**.
+A.Y. 2024/2025, **Prof. Giulia Rodighiero** and **Prof. Paolo Cassata**, with visiting professor **Pablo Pérez-González** and a special lecture on lensing by **Dr. Andrea Enia**.
 
-The central thread of this course is a different question from the high-energy lab — instead of *how do we detect the most violent objects*, here it is:
-	**how do we measure the universe itself, and everything inside it, from inside it?**
+The central thread of this course is a different question from the high-energy lab, instead of *how do we detect the most violent objects*, here it is:
+- **how do we measure the universe itself, and everything inside it, from inside it?**
 
 Every topic connects to this chain:
 $$\text{distant source} \to \text{cosmological redshift} \to \text{expanding geometry} \to \text{distance ladder} \to \text{observable (flux, size, spectrum)} \to \text{cosmological parameters}$$
 
-Every observation we make is contaminated by the universe we are trying to measure. The K-correction, the angular-diameter turnover, the surface-brightness $(1+z)^{-4}$ penalty — all of them are the universe leaving fingerprints on its own photons.
+Every observation we make is contaminated by the universe we are trying to measure. The K-correction, the angular-diameter turnover, the surface-brightness $(1+z)^{-4}$ penalty, all of them are the universe leaving fingerprints on its own photons.
 
 ---
 
 ## Timetable and lecturers
 
-- **24 Feb – 24 Mar** — G. Rodighiero (Chapters 0–1: Friedmann universe, large-scale structure)
-- **31 Mar – 3 Apr** — **P. Pérez-González** (visiting, galaxy studies / high-z observations — see below)
-- **7–8 Apr** — A. Enia (special lectures on gravitational lensing)
-- **14 Apr – 26 May** — P. Cassata (thermal history, CMB, primordial universe, perturbations, structure formation)
+- **24 Feb - 24 Mar** - G. Rodighiero (Chapters 0-1: Friedmann universe, large-scale structure)
+- **31 Mar - 3 Apr** - **P. Pérez-González** (visiting, galaxy studies / high-z observations - see below)
+- **7-8 Apr** - A. Enia (special lectures on gravitational lensing)
+- **14 Apr - 26 May** - P. Cassata (thermal history, CMB, primordial universe, perturbations, structure formation)
 
-Note: in the original syllabus topic 7 ("Primordial Universe, Big Bang, phase transitions, cosmological inflation") was struck through and replaced by **"Detection techniques for protoclusters"**, and a red frame surrounds topics 9–10 (post-recombination IGM and galaxy formation/evolution) — this is the part tied directly to JWST and to Pablo's visit.
+Note: in the original syllabus topic 7 ("Primordial Universe, Big Bang, phase transitions, cosmological inflation") was struck through and replaced by **"Detection techniques for protoclusters"**, and a red frame surrounds topics 9-10 (post-recombination IGM and galaxy formation/evolution). This is the part tied directly to JWST and to Pablo's visit.
 
 ---
 
-## Block 0 — The homogeneous Friedmann universe
+## Block 0 - The homogeneous Friedmann universe
 
 This is the mathematical spine that everything later hangs off of. Before any real object enters the course, we set the stage: a metric, a scale factor, a redshift, a handful of density parameters.
 
-- [[Cosmological principle]] — homogeneous + isotropic at a given cosmic time; "fundamental observer"
-- [[Hubble law]] — $\vec{v} = H_0 \vec{d}$, recession proportional to distance, scale factor $R(t)$
-- [[Robertson-Walker metric]] — $ds^2 = dt^2 - \frac{a^2(t)}{c^2}\left[\frac{dr^2}{1-kr^2} + r^2(d\vartheta^2 + \sin^2\vartheta\, d\varphi^2)\right]$, $a(t) \equiv R(t)/R_0$
-- [[Curvature parameter k]] — $k=0$ flat, $k=+1$ closed spherical, $k=-1$ open hyperbolic
-- [[Comoving vs proper coordinates]] — $d = a(t) \cdot r$, $H_0 = \dot{a}/a|_{t_0} \simeq 70$ km/s/Mpc
-- [[Cosmological redshift]] — $(1+z) = a(t_e)^{-1} = \nu_e/\nu_0$; redshift is the ratio of scale factors between emission and reception
-- [[Newtonian derivation of Friedmann]] — shell argument, $\ddot{a} = -\frac{4\pi}{3}G\rho_0 a^{-2}$, energy-conservation integral gives $\dot{a}^2 = \frac{8\pi G\rho_0}{3}a^{-1} - kc^2$
-- [[Friedmann solutions]] — Milne vacuum ($R\propto t$), Einstein–de Sitter ($a\propto t^{2/3}$), open, closed
-- [[GR Friedmann with Lambda\|GR Friedmann with Λ]] — Einstein field eqs. $R_{ik} - \tfrac{1}{2}g_{ik}R - g_{ik}\Lambda = \frac{8\pi G}{c^4}T_{ik}$; $T_{ik}$ perfect fluid; $\Lambda$ as vacuum energy $\rho_V$
-- [[Density parameters]] — $\Omega_m, \Omega_\Lambda, \Omega_\gamma, \Omega_k$; critical density $\rho_c = 3H_0^2/8\pi G$
-- [[Matter vs radiation density scaling]] — $\rho_m \propto a^{-3}$, $\rho_\gamma \propto a^{-4}$, equivalence at $z \sim 3330$, $t \sim 53{,}000$ yr
-- [[Curvature-dynamics relation]] — $c^2 k = H_0^2[\Omega_m + \Omega_\Lambda - 1]$, flat iff $\sum\Omega = 1$
-- [[Deceleration parameter]] — $q_0 \equiv -\ddot{a}a/\dot{a}^2|_{t_0} = \Omega_m/2 - \Omega_\Lambda$
-- [[Time-redshift relation]] — $dt = -\frac{dz}{H_0(1+z)}[(1+z)^2(\Omega_m z + 1) - z\Omega_\Lambda(2+z)]^{-1/2}$
-- [[Cosmic look-back time]] — integral out to $z$; extrapolation to $z\to\infty$ gives $t_0 \approx 13.7$ Gyr
+- [[Cosmological principle]] - homogeneous + isotropic at a given cosmic time, "fundamental observer"
+- [[Hubble law]] - $\vec{v} = H_0 \vec{d}$, recession proportional to distance, scale factor $R(t)$
+- [[Robertson-Walker metric]] - $ds^2 = dt^2 - \frac{a^2(t)}{c^2}\left[\frac{dr^2}{1-kr^2} + r^2(d\vartheta^2 + \sin^2\vartheta\, d\varphi^2)\right]$, $a(t) \equiv R(t)/R_0$
+- [[Curvature parameter k]] - $k=0$ flat, $k=+1$ closed spherical, $k=-1$ open hyperbolic
+- [[Comoving vs proper coordinates]] - $d = a(t) \cdot r$, $H_0 = \dot{a}/a|_{t_0} \simeq 70$ km/s/Mpc
+- [[Cosmological redshift]] - $(1+z) = a(t_e)^{-1} = \nu_e/\nu_0$, redshift is the ratio of scale factors between emission and reception
+- [[Newtonian derivation of Friedmann]] - shell argument, $\ddot{a} = -\frac{4\pi}{3}G\rho_0 a^{-2}$, energy-conservation integral gives $\dot{a}^2 = \frac{8\pi G\rho_0}{3}a^{-1} - kc^2$
+- [[Friedmann solutions]] - Milne vacuum ($R\propto t$), Einstein-de Sitter ($a\propto t^{2/3}$), open, closed
+- [[GR Friedmann with Lambda\|GR Friedmann with Λ]] - Einstein field eqs. $R_{ik} - \tfrac{1}{2}g_{ik}R - g_{ik}\Lambda = \frac{8\pi G}{c^4}T_{ik}$, $T_{ik}$ perfect fluid, $\Lambda$ as vacuum energy $\rho_V$
+- [[Density parameters]] - $\Omega_m, \Omega_\Lambda, \Omega_\gamma, \Omega_k$, critical density $\rho_c = 3H_0^2/8\pi G$
+- [[Matter vs radiation density scaling]] - $\rho_m \propto a^{-3}$, $\rho_\gamma \propto a^{-4}$, equivalence at $z \sim 3330$, $t \sim 53{,}000$ yr
+- [[Curvature-dynamics relation]] - $c^2 k = H_0^2[\Omega_m + \Omega_\Lambda - 1]$, flat iff $\sum\Omega = 1$
+- [[Deceleration parameter]] - $q_0 \equiv -\ddot{a}a/\dot{a}^2|_{t_0} = \Omega_m/2 - \Omega_\Lambda$
+- [[Time-redshift relation]] - $dt = -\frac{dz}{H_0(1+z)}[(1+z)^2(\Omega_m z + 1) - z\Omega_\Lambda(2+z)]^{-1/2}$
+- [[Cosmic look-back time]] - integral out to $z$, extrapolation to $z\to\infty$ gives $t_0 \approx 13.7$ Gyr
 
 ---
 
-## Block 1 — Distances in cosmology
+## Block 1 - Distances in cosmology
 
 Four distances, all equal at low $z$, all different at high $z$. This is where observational cosmology stops being linear algebra and becomes the art of comparing apples to apples across billions of years.
 
-- [[Radial comoving distance]] — $d_M = r(z) = \frac{c}{H_0}\int_0^z [\Omega_m(1+z')^3 + \Omega_\Lambda]^{-1/2}\, dz'$ (flat)
-- [[Angular diameter distance]] — $d_A = D/d\vartheta = d_M/(1+z)$; non-monotonic, turns over around $z \sim 1.5$
-- [[Luminosity distance]] — $d_L = r(1+z) = d_M(1+z) = d_A(1+z)^2$; two $(1+z)$ factors from photon-energy loss and photon-arrival-rate dilation
-- [[Surface brightness dimming]] — $\sigma \propto d_A^2/d_L^2 \propto (1+z)^{-4}$, the brutal penalty on high-$z$ imaging
-- [[K-correction]] — the translation between what the source emits at $\nu_e = \nu_0(1+z)$ and what our filter sees at $\nu_0$; magnitudes become $m = M + 5\log d_{L,\text{Mpc}} + 25 + K(z)$
-- [[K-correction in optical vs sub-mm]] — in the optical $K(z) > 0$, galaxies look fainter; in sub-mm $K(z) < 0$ because we climb the dust bump, so 850 μm sources stay roughly constant flux from $z\sim1$ to $z\sim10$ (the sub-mm is a window onto the high-$z$ universe)
-- [[Supernova Hubble diagram]] — Perlmutter, Riess, Schmidt; SN Ia Type Ia standard candles at $z \sim 0.5$–$1$ are fainter than an empty or matter-only universe predicts → need $\Lambda$; best fit $\Omega_M \approx 0.27$, $\Omega_\Lambda \approx 0.73$
+- [[Radial comoving distance]] - $d_M = r(z) = \frac{c}{H_0}\int_0^z [\Omega_m(1+z')^3 + \Omega_\Lambda]^{-1/2}\, dz'$ (flat)
+- [[Angular diameter distance]] - $d_A = D/d\vartheta = d_M/(1+z)$, non-monotonic, turns over around $z \sim 1.5$
+- [[Luminosity distance]] - $d_L = r(1+z) = d_M(1+z) = d_A(1+z)^2$, two $(1+z)$ factors from photon-energy loss and photon-arrival-rate dilation
+- [[Surface brightness dimming]] - $\sigma \propto d_A^2/d_L^2 \propto (1+z)^{-4}$, the brutal penalty on high-$z$ imaging
+- [[K-correction]] - the translation between what the source emits at $\nu_e = \nu_0(1+z)$ and what our filter sees at $\nu_0$, magnitudes become $m = M + 5\log d_{L,\text{Mpc}} + 25 + K(z)$
+- [[K-correction in optical vs sub-mm]] - in the optical $K(z) > 0$, galaxies look fainter, in sub-mm $K(z) < 0$ because we climb the dust bump, so 850 μm sources stay roughly constant flux from $z\sim1$ to $z\sim10$ (the sub-mm is a window onto the high-$z$ universe)
+- [[Supernova Hubble diagram]] - Perlmutter, Riess, Schmidt, SN Ia Type Ia standard candles at $z \sim 0.5$ to $1$ are fainter than an empty or matter-only universe predicts → need $\Lambda$, best fit $\Omega_M \approx 0.27$, $\Omega_\Lambda \approx 0.73$
 
 ---
 
-## Block 2 — The standard model: ΛCDM
+## Block 2 - The standard model - ΛCDM
 
 The current best numbers:
 $$H_0 \simeq 70~\text{km/s/Mpc}, \quad \Omega_m \simeq 0.3, \quad \Omega_\Lambda \simeq 0.7, \quad \Omega_\gamma \simeq 10^{-3}$$
@@ -74,22 +74,22 @@ Three regimes in $a(t)$:
 - **Λ-dominated** from $z \sim 0.7$ onward: $a(t) \propto \exp(\sqrt{\Lambda/3}\, t)$
 
 - [[ΛCDM current parameters]]
-- [[Transition epochs]] — matter–radiation equivalence, recombination, onset of Λ
-- [[Various models of the universe]] — EdS vs open vs standard — they coincide at small $t$, diverge massively at large $t$
+- [[Transition epochs]] - matter-radiation equivalence, recombination, onset of Λ
+- [[Various models of the universe]] - EdS vs open vs standard - they coincide at small $t$, diverge massively at large $t$
 
 ---
 
-## Block 3 — Deviations from homogeneity and gravitational lensing  *(Rodighiero + Enia)*
+## Block 3 - Deviations from homogeneity and gravitational lensing  *(Rodighiero + Enia)*
 
 Once the FLRW backdrop is built, we perturb it.
 
-- [[Gravitational lensing - intro]] *(Dr. A. Enia, 7–8 April)*
+- [[Gravitational lensing - intro]] *(Dr. A. Enia, 7-8 April)*
 - [[Strong vs weak lensing]]
-- [[Lensing as a cosmological probe]] — mass mapping, Einstein radius, time delays
+- [[Lensing as a cosmological probe]] - mass mapping, Einstein radius, time delays
 
 ---
 
-## Block 4 — Perturbations and peculiar motions *(Cassata, later)*
+## Block 4 - Perturbations and peculiar motions *(Cassata, later)*
 
 - [[Cosmological evolution of perturbations in the cosmic fluid]]
 - [[Perturbations in an expanding universe]]
@@ -99,167 +99,167 @@ Once the FLRW backdrop is built, we perturb it.
 
 ---
 
-## Block 5 — Thermal history of the universe *(Cassata)*
+## Block 5 - Thermal history of the universe *(Cassata)*
 
-- [[Brief thermal history]] — from Planck era to recombination
-- [[Recombination]] — $z \sim 1100$, drop in free-electron fraction
-- [[Decoupling]] — photon mean free path → $\infty$, last scattering surface
+- [[Brief thermal history]] - from Planck era to recombination
+- [[Recombination]] - $z \sim 1100$, drop in free-electron fraction
+- [[Decoupling]] - photon mean free path → $\infty$, last scattering surface
 
 ---
 
-## Block 6 — The Cosmic Microwave Background *(Cassata)*
+## Block 6 - The Cosmic Microwave Background *(Cassata)*
 
-- [[CMB - discovery and blackbody spectrum]] — Penzias & Wilson 1965, $T_0 = 2.725$ K
-- [[CMB anisotropies]] — dipole, acoustic peaks, $\Delta T/T \sim 10^{-5}$
-- [[CMB power spectrum]] — COBE, WMAP, Planck; peaks constrain $\Omega_b h^2$, $\Omega_m h^2$, curvature
+- [[CMB - discovery and blackbody spectrum]] - Penzias & Wilson 1965, $T_0 = 2.725$ K
+- [[CMB anisotropies]] - dipole, acoustic peaks, $\Delta T/T \sim 10^{-5}$
+- [[CMB power spectrum]] - COBE, WMAP, Planck, peaks constrain $\Omega_b h^2$, $\Omega_m h^2$, curvature
 - [[Polarization E and B modes]]
 
 ---
 
-## Block 7 — Primordial universe  *(Cassata — replaced in this AY by detection techniques for protoclusters)*
+## Block 7 - Primordial universe  *(Cassata - replaced in this AY by detection techniques for protoclusters)*
 
 - [[Big Bang nucleosynthesis]]
 - [[Phase transitions]]
-- [[Cosmological inflation]] — Guth, Linde; solves flatness, horizon, monopole problems
-- [[Protocluster detection techniques]] — overdensities of Lyα emitters, narrow-band imaging, IR-selected structures, spectroscopic confirmation, the JWST era
+- [[Cosmological inflation]] - Guth, Linde, solves flatness, horizon, monopole problems
+- [[Protocluster detection techniques]] - overdensities of Lyα emitters, narrow-band imaging, IR-selected structures, spectroscopic confirmation, the JWST era
 
 ---
 
-## Block 8 — Origin and evolution of cosmological structure *(Cassata)*
+## Block 8 - Origin and evolution of cosmological structure *(Cassata)*
 
 - [[Linear vs nonlinear regime]]
-- [[Spherical collapse]] — $\delta_c \simeq 1.686$
-- [[Press-Schechter formalism]] — halo mass function
-- [[N-body simulations]] — Millennium, IllustrisTNG
+- [[Spherical collapse]] - $\delta_c \simeq 1.686$
+- [[Press-Schechter formalism]] - halo mass function
+- [[N-body simulations]] - Millennium, IllustrisTNG
 
 ---
 
-## Block 9 — The post-recombination universe, diffuse baryons, IGM *(Cassata)*
+## Block 9 - The post-recombination universe, diffuse baryons, IGM *(Cassata)*
 
-- [[Reionization]] — $z \sim 6$–$10$, ionizing photons from first galaxies/quasars
+- [[Reionization]] - $z \sim 6$ to $10$, ionizing photons from first galaxies/quasars
 - [[Intergalactic medium]]
-- [[Lyman-alpha forest\|Lyman-α forest]] — neutral hydrogen along quasar sight lines
-- [[Missing baryons]] — WHIM, warm-hot intergalactic medium
+- [[Lyman-alpha forest\|Lyman-α forest]] - neutral hydrogen along quasar sight lines
+- [[Missing baryons]] - WHIM, warm-hot intergalactic medium
 
 ---
 
-## Block 10 — Galaxy formation and evolution *(Pablo Pérez-González + Cassata)*
+## Block 10 - Galaxy formation and evolution *(Pablo Pérez-González + Cassata)*
 
 This block is where observational cosmology touches down into actual galaxies and the data Pablo works on.
 
-Pablo's lecture series (31 March – 3 April):
+Pablo's lecture series (31 March - 3 April):
 
-### Lecture 0 — historical introduction
-- [[Pablo_01_Introduction_to_galaxy_studies]] — historical arc from Al-Sufi's "small cloud" to JWST
+### Lecture 0 - historical introduction
+- [[Pablo_01_Introduction_to_galaxy_studies]] - historical arc from Al-Sufi's "small cloud" to JWST
 
-### Lecture 1A — statistical properties of galaxies (lecture overview)
-- [[Pablo_02_Statistical_properties_of_galaxies]] — the master overview of this block
+### Lecture 1A - statistical properties of galaxies (lecture overview)
+- [[Pablo_02_Statistical_properties_of_galaxies]] - the master overview of this block
 
 #### Distributions of galaxy parameters
-- [[Color bimodality of galaxies]] — Baldry 2004 two peaks in $u-r$
-- [[Red sequence and blue cloud]] — passive vs star-forming populations
-- [[Green valley and quenching tracks]] — Faber 2007 evolutionary arrows
-- [[Galaxy color, density and morphology]] — Hogg 2004, Blanton & Moustakas 2009
+- [[Color bimodality of galaxies]] - Baldry 2004 two peaks in $u-r$
+- [[Red sequence and blue cloud]] - passive vs star-forming populations
+- [[Green valley and quenching tracks]] - Faber 2007 evolutionary arrows
+- [[Galaxy color, density and morphology]] - Hogg 2004, Blanton & Moustakas 2009
 
 #### Counts
-- [[Galaxy number counts N(m)]] — the Euclidean prediction $N(<m) \propto 10^{0.6 m}$
-- [[Differential vs cumulative number counts]] — $dN/dm$ vs $N(<m)$, $dN/dS$
-- [[Galaxy counts at different wavelengths]] — Durham compilation, optical to sub-mm
-- [[Driver 1998 counts by morphology]] — faint blue galaxy excess
+- [[Galaxy number counts N(m)]] - the Euclidean prediction $N(<m) \propto 10^{0.6 m}$
+- [[Differential vs cumulative number counts]] - $dN/dm$ vs $N(<m)$, $dN/dS$
+- [[Galaxy counts at different wavelengths]] - Durham compilation, optical to sub-mm
+- [[Driver 1998 counts by morphology]] - faint blue galaxy excess
 
 #### Sizes and biases
-- [[Galaxy size-luminosity relation]] — $R_e$ vs $M_B$ across galaxy classes
-- [[Redshift distribution of flux-limited samples]] — Brinchmann 2008
-- [[Malmquist bias]] — flux-limited samples preferentially select luminous sources
-- [[Photometric redshifts]] — Benítez 2000 likelihood, 4000 Å break
-- [[Photo-z biases and catastrophic outliers]] — Oyaizu 2008, failure modes
+- [[Galaxy size-luminosity relation]] - $R_e$ vs $M_B$ across galaxy classes
+- [[Redshift distribution of flux-limited samples]] - Brinchmann 2008
+- [[Malmquist bias]] - flux-limited samples preferentially select luminous sources
+- [[Photometric redshifts]] - Benítez 2000 likelihood, 4000 Å break
+- [[Photo-z biases and catastrophic outliers]] - Oyaizu 2008, failure modes
 
 #### Luminosity function
-- [[Luminosity function definition]] — $dN = \phi(L)\, dL\, dV$
-- [[Schechter function]] — $\phi(L) = (\phi^*/L^*)(L/L^*)^\alpha e^{-L/L^*}$
-- [[Schechter function in magnitudes]] — the form fit to data
-- [[Integrals of the Schechter function]] — number, luminosity, $N(>L^*)$ as Gamma functions
-- [[1Vmax estimator]] — Schmidt 1968 non-parametric LF
-- [[Schechter K-band luminosity function]] — Smith 2009: $M^*=-23.19$, $\alpha=-0.81$, $\phi^*=0.0166$
-- [[Double power-law modified Schechter]] — Pérez-González 2005 bright-end excess at high $z$
-- [[LF by morphology and SED]] — Driver 2006, Wolf 2003
+- [[Luminosity function definition]] - $dN = \phi(L)\, dL\, dV$
+- [[Schechter function]] - $\phi(L) = (\phi^*/L^*)(L/L^*)^\alpha e^{-L/L^*}$
+- [[Schechter function in magnitudes]] - the form fit to data
+- [[Integrals of the Schechter function]] - number, luminosity, $N(>L^*)$ as Gamma functions
+- [[1Vmax estimator]] - Schmidt 1968 non-parametric LF
+- [[Schechter K-band luminosity function]] - Smith 2009: $M^*=-23.19$, $\alpha=-0.81$, $\phi^*=0.0166$
+- [[Double power-law modified Schechter]] - Pérez-González 2005 bright-end excess at high $z$
+- [[LF by morphology and SED]] - Driver 2006, Wolf 2003
 
 #### Mass functions and the halo connection
-- [[Stellar mass function]] — Cole 2001, Bell 2003, Pérez-González 2008
-- [[Halo mass function vs galaxy mass function]] — the factor-of-six gap
-- [[Halo gravity suppression of galaxy formation]] — SN feedback at low mass, AGN feedback at high mass
-- [[Stellar-to-halo mass ratio]] — Behroozi 2013 peak at $M_h \sim 10^{12}\,M_\odot$
+- [[Stellar mass function]] - Cole 2001, Bell 2003, Pérez-González 2008
+- [[Halo mass function vs galaxy mass function]] - the factor-of-six gap
+- [[Halo gravity suppression of galaxy formation]] - SN feedback at low mass, AGN feedback at high mass
+- [[Stellar-to-halo mass ratio]] - Behroozi 2013 peak at $M_h \sim 10^{12}\,M_\odot$
 
 #### Cosmic histories (integrals over $z$)
-- [[Cosmic star formation history]] — Madau-Dickinson plot, peak at $z \sim 2$
-- [[Cosmic stellar mass density growth]] — Pérez-González 2008a buildup
-- [[SFR and stellar mass density connection]] — $\rho_{SFR} = d\rho_*/dt$
+- [[Cosmic star formation history]] - Madau-Dickinson plot, peak at $z \sim 2$
+- [[Cosmic stellar mass density growth]] - Pérez-González 2008a buildup
+- [[SFR and stellar mass density connection]] - $\rho_{SFR} = d\rho_*/dt$
 
 #### Scaling relations
-- [[Galaxy main sequence of star formation]] — Rodighiero 2011, Santini 2017
-- [[Fundamental plane of ellipticals]] — $R_e \propto \sigma^{1.4} \langle I \rangle_e^{-0.9}$
-- [[Tully-Fisher relation]] — $L \propto V_{\text{flat}}^4$
-- [[Schmidt-Kennicutt law]] — $\Sigma_{SFR} \propto \Sigma_{\text{gas}}^{1.4}$
-- [[Magorrian relation]] — $M_{BH} \approx 10^{-3}\, M_{\text{bulge}}$
+- [[Galaxy main sequence of star formation]] - Rodighiero 2011, Santini 2017
+- [[Fundamental plane of ellipticals]] - $R_e \propto \sigma^{1.4} \langle I \rangle_e^{-0.9}$
+- [[Tully-Fisher relation]] - $L \propto V_{\text{flat}}^4$
+- [[Schmidt-Kennicutt law]] - $\Sigma_{SFR} \propto \Sigma_{\text{gas}}^{1.4}$
+- [[Magorrian relation]] - $M_{BH} \approx 10^{-3}\, M_{\text{bulge}}$
 
-### Lecture 1B — star formation in galaxies
-- [[Pablo_03_Star_formation_in_galaxies]] — the master overview of this block
+### Lecture 1B - star formation in galaxies
+- [[Pablo_03_Star_formation_in_galaxies]] - the master overview of this block
 
 #### Definitions and time scales
-- [[Star formation rate and sSFR]] — $\psi = dM_*/dt$, sSFR as doubling-time inverse
-- [[Star formation history parametrizations]] — SSP, CON, τ, delayed, non-parametric
-- [[Galaxy time scales]] — Hubble, dynamical $\sqrt{3\pi/16 G\rho}$, cooling, SF, enrichment, merger
-- [[Initial mass function]] — Salpeter 1955 ($\alpha = 2.35$), Kroupa 2001, Chabrier 2003
+- [[Star formation rate and sSFR]] - $\psi = dM_*/dt$, sSFR as doubling-time inverse
+- [[Star formation history parametrizations]] - SSP, CON, τ, delayed, non-parametric
+- [[Galaxy time scales]] - Hubble, dynamical $\sqrt{3\pi/16 G\rho}$, cooling, SF, enrichment, merger
+- [[Initial mass function]] - Salpeter 1955 ($\alpha = 2.35$), Kroupa 2001, Chabrier 2003
 
 #### SFR tracers across the spectrum
-- [[UV SFR tracer]] — Kennicutt 1998, $1.4 \times 10^{-28} L_\nu$
-- [[UV slope and IRX-beta relation]] — Meurer 1999, dust correction without IR
-- [[Dust attenuation and extinction curves]] — Calzetti 2000, Cardelli 1989, Charlot & Fall 2000
-- [[H-alpha SFR tracer]] — $7.9 \times 10^{-42} L(\text{H}\alpha)$, 10 Myr timescale
-- [[Balmer decrement]] — $F(\text{H}\alpha)/F(\text{H}\beta) = 2.86$ for case B
-- [[Lyman alpha SFR tracer]] — resonance scattering, Verhamme 2008
-- [[OII SFR tracer]] — forbidden, metallicity-dependent, redshift-desert tool
-- [[Other SFR tracer lines]] — Pα, [CII] 158 μm, PAHs, radio recombination
-- [[X-ray SFR tracer]] — HMXBs + diffuse, Ranalli 2003, metallicity dependence
-- [[IR SFR tracer]] — $4.5 \times 10^{-44} L_{\text{TIR}}$, Pérez-González 2006
-- [[Radio SFR tracer]] — FIR-radio correlation $q \simeq 2.3$, Murphy 2011
-- [[SFR tracer comparison]] — Cardiel 2003, tracer disagreements as diagnostics
+- [[UV SFR tracer]] - Kennicutt 1998, $1.4 \times 10^{-28} L_\nu$
+- [[UV slope and IRX-beta relation]] - Meurer 1999, dust correction without IR
+- [[Dust attenuation and extinction curves]] - Calzetti 2000, Cardelli 1989, Charlot & Fall 2000
+- [[H-alpha SFR tracer]] - $7.9 \times 10^{-42} L(\text{H}\alpha)$, 10 Myr timescale
+- [[Balmer decrement]] - $F(\text{H}\alpha)/F(\text{H}\beta) = 2.86$ for case B
+- [[Lyman alpha SFR tracer]] - resonance scattering, Verhamme 2008
+- [[OII SFR tracer]] - forbidden, metallicity-dependent, redshift-desert tool
+- [[Other SFR tracer lines]] - Pα, [CII] 158 μm, PAHs, radio recombination
+- [[X-ray SFR tracer]] - HMXBs + diffuse, Ranalli 2003, metallicity dependence
+- [[IR SFR tracer]] - $4.5 \times 10^{-44} L_{\text{TIR}}$, Pérez-González 2006
+- [[Radio SFR tracer]] - FIR-radio correlation $q \simeq 2.3$, Murphy 2011
+- [[SFR tracer comparison]] - Cardiel 2003, tracer disagreements as diagnostics
 
 #### SFH reconstruction and SPS
-- [[SFH from resolved CMDs]] — Local Group, Ferguson 2002, Tolstoy 2009, Harris & Zaritsky 2004
-- [[SED fitting for SFH]] — Papovich 2001, Pérez-González 2008, modern codes
-- [[Stellar population synthesis]] — BC03, Maraston 2005, FSPS, Starburst99, Lick indices
+- [[SFH from resolved CMDs]] - Local Group, Ferguson 2002, Tolstoy 2009, Harris & Zaritsky 2004
+- [[SED fitting for SFH]] - Papovich 2001, Pérez-González 2008, modern codes
+- [[Stellar population synthesis]] - BC03, Maraston 2005, FSPS, Starburst99, Lick indices
 
 #### Galaxy classes
-- [[Starburst galaxies]] — M82, Wolf-Rayet, BCDs, SSCs, superwinds
-- [[Post-starburst galaxies]] — E+A, Balmer absorption, Kriek 2010
-- [[LIRGs ULIRGs HyLIRGs]] — IRAS 1983, Sanders & Mirabel 1996, Arp 220
-- [[Galaxy mergers and SF]] — $f_m \propto (1+z)^{2-3}$, merger-ULIRG-elliptical sequence
+- [[Starburst galaxies]] - M82, Wolf-Rayet, BCDs, SSCs, superwinds
+- [[Post-starburst galaxies]] - E+A, Balmer absorption, Kriek 2010
+- [[LIRGs ULIRGs HyLIRGs]] - IRAS 1983, Sanders & Mirabel 1996, Arp 220
+- [[Galaxy mergers and SF]] - $f_m \propto (1+z)^{2-3}$, merger-ULIRG-elliptical sequence
 
 #### Chemical evolution
-- [[Chemical evolution of galaxies]] — Tinsley 1979, α/Fe clock, mass-metallicity, yields
+- [[Chemical evolution of galaxies]] - Tinsley 1979, α/Fe clock, mass-metallicity, yields
 
-### Lecture 1C — nuclear activity and supermassive black holes in galaxies
-- [[Pablo_04_Nuclear_activity_in_galaxies]] — the master overview of accretion physics, AGN demographics, and feedback
+### Lecture 1C - nuclear activity and supermassive black holes in galaxies
+- [[Pablo_04_Nuclear_activity_in_galaxies]] - the master overview of accretion physics, AGN demographics, and feedback
 
 #### Accretion engines and unified model
-- [[AGN taxonomy unified model and feedback]] — Eddington limit, Antonucci-Miller unified model, Magorrian / M-sigma relations, and quasar vs radio mode feedback
-- [[AGN and supermassive black holes]] — EHT event-horizon shadows (M87*, Sgr A*), relativistic jets, and GRAVITY BLR kinematics
+- [[AGN taxonomy unified model and feedback]] - Eddington limit, Antonucci-Miller unified model, Magorrian / M-sigma relations, and quasar vs radio mode feedback
+- [[AGN and supermassive black holes]] - EHT event-horizon shadows (M87*, Sgr A*), relativistic jets, and GRAVITY BLR kinematics
 
 #### Spectroscopic classification
-- [[BPT emission line diagnostic diagram]] — [O III]/Hβ vs [N II]/Hα line ratios, Kewley vs Kauffmann starburst boundaries, Seyferts, and LINERs
+- [[BPT emission line diagnostic diagram]] - [O III]/Hβ vs [N II]/Hα line ratios, Kewley vs Kauffmann starburst boundaries, Seyferts, and LINERs
 
-### Lecture 1D — galaxies at cosmological distances and cosmic dawn
-- [[Pablo_05_Galaxies_at_cosmological_distances]] — the master overview of high-z galaxy selection, JWST discoveries, and structural evolution
+### Lecture 1D - galaxies at cosmological distances and cosmic dawn
+- [[Pablo_05_Galaxies_at_cosmological_distances]] - the master overview of high-z galaxy selection, JWST discoveries, and structural evolution
 
 #### High-redshift selection and cosmic dawn
-- [[High-redshift galaxy selection and Lyman break technique]] — 912 Å photoelectric dropouts (U, B, V dropouts), LAEs, and sub-mm galaxies
-- [[Cosmic dawn and high-redshift galaxies with JWST]] — JADES-GS-z14-0 ($z=14.32$), $z > 10$ overabundance puzzle, and Little Red Dots (LRDs)
+- [[High-redshift galaxy selection and Lyman break technique]] - 912 Å photoelectric dropouts (U, B, V dropouts), LAEs, and sub-mm galaxies
+- [[Cosmic dawn and high-redshift galaxies with JWST]] - JADES-GS-z14-0 ($z=14.32$), $z > 10$ overabundance puzzle, and Little Red Dots (LRDs)
 
 #### Morphology and SED analysis
-- [[Non-parametric galaxy morphology metrics]] — CAS system ($C, A, S$), Gini coefficient ($G$), and $M_{20}$ merger diagnostics
-- [[Galaxy SED fitting]] — multi-wavelength photometric redshifts, stellar mass estimation, and star formation history inversion
-- [[Galaxy morphology vs physical properties]] — Hubble sequence physical drivers, visual classification, and environmental morphology-density relation
+- [[Non-parametric galaxy morphology metrics]] - CAS system ($C, A, S$), Gini coefficient ($G$), and $M_{20}$ merger diagnostics
+- [[Galaxy SED fitting]] - multi-wavelength photometric redshifts, stellar mass estimation, and star formation history inversion
+- [[Galaxy morphology vs physical properties]] - Hubble sequence physical drivers, visual classification, and environmental morphology-density relation
 
 ---
 
@@ -267,17 +267,17 @@ Pablo's lecture series (31 March – 3 April):
 
 Canonical and modern arXiv astro-ph.CO benchmark papers underlying the BAO and weak-lensing techniques above.
 
-- [[Eisenstein_2005_BAO_Detection_SDSS_LRGs\|Eisenstein et al. (2005) — BAO Detection in SDSS LRGs]] — first BAO detection, the sound horizon as a standard ruler
-- [[DESI_2024_BAO_Cosmological_Constraints\|DESI Collaboration (2024) — DESI 2024 VI: BAO Cosmological Constraints]] — multi-redshift BAO, hint of dynamical dark energy ($w_0,w_a$)
-- [[Bartelmann_Schneider_2001_Weak_Gravitational_Lensing\|Bartelmann & Schneider (2001) — Weak Gravitational Lensing]] — convergence/shear formalism, cosmic shear power spectrum
+- [[Eisenstein_2005_BAO_Detection_SDSS_LRGs\|Eisenstein et al. (2005) - BAO Detection in SDSS LRGs]] - first BAO detection, the sound horizon as a standard ruler
+- [[DESI_2024_BAO_Cosmological_Constraints\|DESI Collaboration (2024) - DESI 2024 VI: BAO Cosmological Constraints]] - multi-redshift BAO, hint of dynamical dark energy ($w_0,w_a$)
+- [[Bartelmann_Schneider_2001_Weak_Gravitational_Lensing\|Bartelmann & Schneider (2001) - Weak Gravitational Lensing]] - convergence/shear formalism, cosmic shear power spectrum
 
 ---
 
 ## Appendices and tools
 
-- [[Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback\|Cosmology calculator — how to use H0 Ω_m Ω_Λ to get d_L, d_A, t_lookback]]
-- [[Surveys to remember]] — 2dFGRS, SDSS, DEEP-2, BOSS, WiggleZ, WFMOS, 4MOST
-- [[Space and ground facilities relevant for OC]] — HST, Chandra, XMM, Spitzer, Herschel, JWST, Keck, VLT, Subaru, LBT, GTC, ALMA; upcoming ELT, SKA
+- [[Cosmology calculator - how to use H0 Omega_m Omega_Lambda to get dL dA t_lookback\|Cosmology calculator - how to use H0 Ω_m Ω_Λ to get d_L, d_A, t_lookback]]
+- [[Surveys to remember]] - 2dFGRS, SDSS, DEEP-2, BOSS, WiggleZ, WFMOS, 4MOST
+- [[Space and ground facilities relevant for OC]] - HST, Chandra, XMM, Spitzer, Herschel, JWST, Keck, VLT, Subaru, LBT, GTC, ALMA, upcoming ELT, SKA
 
 ---
 
@@ -483,7 +483,7 @@ Every zettel in this map ends with a short sourced section: a definition quoted 
 
 ## Prof. Giulia Rodighiero & Prof. Paolo Cassata Oral Exam Defense Preparation Matrix
 
-### Question 1: Physics of CMB Acoustic Peaks and Parameter Sensitivities
+### Question 1 - Physics of CMB Acoustic Peaks and Parameter Sensitivities
 - **Blackboard Prompt**: *Derive the sound horizon $r_s$ at recombination. How do the positions and relative heights of the acoustic peaks in the Planck $D_\ell^{TT}$ spectrum constrain $\Omega_b h^2$, $\Omega_c h^2$, and spatial curvature $\Omega_k$?*
 - **Starting Equation**: 
   $$r_s(z_*) = \int_{z_*}^\infty \frac{c_s(z)}{H(z)} dz, \quad c_s(z) = \frac{c}{\sqrt{3\left(1 + \frac{3\rho_b}{4\rho_\gamma}\right)}}$$
@@ -498,7 +498,7 @@ Every zettel in this map ends with a short sourced section: a definition quoted 
      - *Baryon Density $\Omega_b h^2$*: Baryons add mass to the fluid without pressure. Increasing $\Omega_b$ deepens potential wells, enhancing compression peaks (odd peaks: 1st, 3rd) relative to rarefaction peaks (2nd peak). The ratio of peak 1 to peak 2 measures $\Omega_b h^2 \approx 0.02237$.
      - *Cold Dark Matter $\Omega_c h^2$*: Governs early matter-radiation equality. Higher $\Omega_c$ moves equality earlier, shortening radiation driving and suppressing the amplitude of all peaks relative to the Sachs-Wolfe plateau.
 
-### Question 2: The Gunn-Peterson Trough and Reionization Optical Depth
+### Question 2 - The Gunn-Peterson Trough and Reionization Optical Depth
 - **Blackboard Prompt**: *Derive the Gunn-Peterson optical depth for neutral hydrogen in the intergalactic medium. Why does even a tiny neutral fraction ($x_{\rm HI} \sim 10^{-4}$) produce total absorption in quasar spectra at $z > 6$?*
 - **Starting Equation**: 
   $$\tau_{\rm GP} = \int \sigma_\alpha(\nu) n_{\rm HI}(z) \frac{c dt}{dz} dz$$
@@ -512,7 +512,7 @@ Every zettel in this map ends with a short sourced section: a definition quoted 
   5. For transmission $e^{-\tau}$ to be measurable ($e^{-\tau} > 0.01 \implies \tau < 4.6$), the neutral fraction must be less than $x_{\rm HI} < 10^{-5}$!
   6. Therefore, the observed transmission in quasar spectra at $z < 5.5$ requires the IGM to be ionized to greater than $99.999\%$. The complete blackout observed at $z > 6$ (Becker et al. 2001, Fan et al. 2006) demonstrates that $x_{\rm HI}$ rises above $10^{-4}-10^{-3}$, marking the final percolation boundary of reionization.
 
-### Question 3: Cosmological 21cm Line Radiative Transfer
+### Question 3 - Cosmological 21cm Line Radiative Transfer
 - **Blackboard Prompt**: *Derive the differential brightness temperature $\delta T_b$ of the 21cm hydrogen hyperfine transition against the CMB. What physical mechanisms couple the spin temperature $T_S$ to the gas kinetic temperature $T_K$ vs CMB temperature $T_\gamma$?*
 - **Starting Equation**: 
   $$\delta T_b(\nu) = \frac{T_S - T_\gamma}{1+z} (1 - e^{-\tau_{21}}) \approx \frac{T_S - T_\gamma}{1+z} \tau_{21}$$

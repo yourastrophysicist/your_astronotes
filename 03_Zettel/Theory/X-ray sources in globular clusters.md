@@ -2,7 +2,7 @@
 layout: "default"
 title: "X-ray sources in globular clusters"
 ---
-X-ray observations of [[Globular Clusters]] reveal a zoo of compact-object binaries that is otherwise invisible. the high spatial resolution of Chandra ($\sim 0.5''$) is essential because GC cores are crowded; pre-Chandra data could only see the brightest few sources per cluster. Chandra surveys since 2000 (heinke et al., grindlay et al., pooley et al.) have catalogued thousands of X-ray sources across the galactic GC system.
+X-ray observations of [[Globular Clusters]] reveal a zoo of compact-object binaries that is otherwise invisible. the high spatial resolution of Chandra ($\sim 0.5''$) is essential because GC cores are crowded. Pre-Chandra data could only see the brightest few sources per cluster. Chandra surveys since 2000 (heinke et al., grindlay et al., pooley et al.) have catalogued thousands of X-ray sources across the galactic GC system.
 
 **bright X-ray sources: LMXBs**
 

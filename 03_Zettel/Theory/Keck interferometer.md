@@ -8,7 +8,7 @@ a (now decommissioned) interferometer that combined the two 10m Keck telescopes 
 
 ## the architecture
 
-- **2 × 10m Keck telescopes** on a single mount (no, wait — separated dishes, separate mounts)
+- **2 × 10m Keck telescopes** on a single mount (no, wait - separated dishes, separate mounts)
 - baseline: 85 m (fixed, the inter-telescope distance)
 - wavelength: K (2.2 μm), L (3.5 μm)
 - AO at each telescope (LGS-AO + adaptive secondaries)
@@ -27,7 +27,7 @@ the two 10m Kecks were the *largest* interferometric collectors ever (until ELTs
 
 ### 2. nulling capability
 
-KI included a **nulling interferometer** mode for high-contrast imaging — destructive interference on the central source, looking for faint companions or dust shells.
+KI included a **nulling interferometer** mode for high-contrast imaging, destructive interference on the central source, looking for faint companions or dust shells.
 
 ### 3. fixed single baseline
 

@@ -52,7 +52,7 @@ Faint optical sources with low photon counts yield noisy fringe visibilities reg
 
 ---
 
-## radio vs optical: photons or waves?
+## radio vs optical - photons or waves?
 
 The boundary between whether an astronomical instrument operates in the **photon-counting regime** or the **classical wave/current regime** is governed by the photon occupation number per coherence mode, dictated by the Planck blackbody law:
 

@@ -22,7 +22,7 @@ the surprising fact: above the photosphere where $T \sim 6000$ K, the gas gets *
 - **magnetic-wave heating**: Alfvén and slow-mode MHD waves dissipating in coronal loops.
 - **magnetic reconnection** in active regions.
 
-the **coronal heating problem** remains a major open problem in solar physics; multiple mechanisms contribute.
+the **coronal heating problem** remains a major open problem in solar physics. multiple mechanisms contribute.
 
 ## what controls the photosphere
 
@@ -32,7 +32,7 @@ the photosphere is the layer where $\tau \sim 1$ in the continuum. its structure
 - **chemical composition**: changes opacity, hence $T(\tau)$.
 - **convection**: in cool stars, turbulent mixing sets the lower boundary. modelled with mixing-length theory.
 
-modern atmospheric codes (ATLAS9, MARCS, PHOENIX) solve all this self-consistently in 1D plane-parallel or 1D spherical geometry; 3D radiative-MHD codes (Bifrost, CO5BOLD) are state-of-the-art for solar work.
+modern atmospheric codes (ATLAS9, MARCS, PHOENIX) solve all this self-consistently in 1D plane-parallel or 1D spherical geometry. 3D radiative-MHD codes (Bifrost, CO5BOLD) are state-of-the-art for solar work.
 
 ## solar example numbers
 
@@ -90,98 +90,98 @@ other stars are point sources, but Sun-as-a-star spectroscopy + interferometric 
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 07 - Stellar Spectroscopy I - Atmospheres & Radiative Transfer)
 
 > **Context**: *Stellar atmospheric stratification, optical depth tau, hydrostatic equilibrium, source function, LTE assumption, Boltzmann excitation, and Saha ionization.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![LAntonino_p07_01.png](../../assets/images/LAntonino_p07_01.png)
-*Figure P07-01: LAntonino_p07_01.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-01: LAntonino_p07_01.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_02.png](../../assets/images/LAntonino_p07_02.png)
-*Figure P07-02: LAntonino_p07_02.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-02: LAntonino_p07_02.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_03.png](../../assets/images/LAntonino_p07_03.png)
-*Figure P07-03: LAntonino_p07_03.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-03: LAntonino_p07_03.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_04.png](../../assets/images/LAntonino_p07_04.png)
-*Figure P07-04: LAntonino_p07_04.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-04: LAntonino_p07_04.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_05.png](../../assets/images/LAntonino_p07_05.png)
-*Figure P07-05: LAntonino_p07_05.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-05: LAntonino_p07_05.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_06.png](../../assets/images/LAntonino_p07_06.png)
-*Figure P07-06: LAntonino_p07_06.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-06: LAntonino_p07_06.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_07.png](../../assets/images/LAntonino_p07_07.png)
-*Figure P07-07: LAntonino_p07_07.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-07: LAntonino_p07_07.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_08.png](../../assets/images/LAntonino_p07_08.png)
-*Figure P07-08: LAntonino_p07_08.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-08: LAntonino_p07_08.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_09.png](../../assets/images/LAntonino_p07_09.png)
-*Figure P07-09: LAntonino_p07_09.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-09: LAntonino_p07_09.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_10.png](../../assets/images/LAntonino_p07_10.png)
-*Figure P07-10: LAntonino_p07_10.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-10: LAntonino_p07_10.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_11.png](../../assets/images/LAntonino_p07_11.png)
-*Figure P07-11: LAntonino_p07_11.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-11: LAntonino_p07_11.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_12.png](../../assets/images/LAntonino_p07_12.png)
-*Figure P07-12: LAntonino_p07_12.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-12: LAntonino_p07_12.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_13.png](../../assets/images/LAntonino_p07_13.png)
-*Figure P07-13: LAntonino_p07_13.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-13: LAntonino_p07_13.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_14.png](../../assets/images/LAntonino_p07_14.png)
-*Figure P07-14: LAntonino_p07_14.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-14: LAntonino_p07_14.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_15.png](../../assets/images/LAntonino_p07_15.png)
-*Figure P07-15: LAntonino_p07_15.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-15: LAntonino_p07_15.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_16.png](../../assets/images/LAntonino_p07_16.png)
-*Figure P07-16: LAntonino_p07_16.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-16: LAntonino_p07_16.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_17.png](../../assets/images/LAntonino_p07_17.png)
-*Figure P07-17: LAntonino_p07_17.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-17: LAntonino_p07_17.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_18.png](../../assets/images/LAntonino_p07_18.png)
-*Figure P07-18: LAntonino_p07_18.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-18: LAntonino_p07_18.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_19.png](../../assets/images/LAntonino_p07_19.png)
-*Figure P07-19: LAntonino_p07_19.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-19: LAntonino_p07_19.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_20.png](../../assets/images/LAntonino_p07_20.png)
-*Figure P07-20: LAntonino_p07_20.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-20: LAntonino_p07_20.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_21.png](../../assets/images/LAntonino_p07_21.png)
-*Figure P07-21: LAntonino_p07_21.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-21: LAntonino_p07_21.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_22.png](../../assets/images/LAntonino_p07_22.png)
-*Figure P07-22: LAntonino_p07_22.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-22: LAntonino_p07_22.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_23.png](../../assets/images/LAntonino_p07_23.png)
-*Figure P07-23: LAntonino_p07_23.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-23: LAntonino_p07_23.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_24.png](../../assets/images/LAntonino_p07_24.png)
-*Figure P07-24: LAntonino_p07_24.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-24: LAntonino_p07_24.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![LAntonino_p07_25.png](../../assets/images/LAntonino_p07_25.png)
-*Figure P07-25: LAntonino_p07_25.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-25: LAntonino_p07_25.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![Lecture07_p15-15.png](../../assets/images/Lecture07_p15-15.png)
-*Figure P07-26: Lecture07_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-26: Lecture07_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![Lecture07_p25-25.png](../../assets/images/Lecture07_p25-25.png)
-*Figure P07-27: Lecture07_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-27: Lecture07_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![Lecture07_p35-35.png](../../assets/images/Lecture07_p35-35.png)
-*Figure P07-28: Lecture07_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-28: Lecture07_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 ![Lecture07_p5-05.png](../../assets/images/Lecture07_p5-05.png)
-*Figure P07-29: Lecture07_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 07 — Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
+*Figure P07-29: Lecture07_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 07 - Stellar Spectroscopy I: Atmospheres & Radiative Transfer.*
 
 
 

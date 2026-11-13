@@ -36,7 +36,7 @@ $$\boxed{\,\lambda_J = \frac{2\pi}{k_J/a} = c_s\sqrt{\frac{\pi}{G\bar\rho}}\,}$$
 equivalently, a **Jeans mass**:
 $$M_J = \frac{4\pi}{3}\bar\rho \left(\frac{\lambda_J}{2}\right)^3$$
 
-masses larger than $M_J$ collapse; smaller masses oscillate.
+masses larger than $M_J$ collapse. smaller masses oscillate.
 
 ---
 
@@ -44,7 +44,7 @@ masses larger than $M_J$ collapse; smaller masses oscillate.
 
 ### baryons before recombination
 
-before recombination, baryons + photons form a tightly coupled fluid with sound speed $c_s \sim c/\sqrt 3$. the Jeans length is huge — much larger than the Hubble radius. so **no baryon perturbation can grow before recombination**: they all oscillate as acoustic waves. this is the origin of the CMB peak structure and BAO. → see [[Matter power spectrum and BAO]] and [[Photon decoupling and CMB]].
+before recombination, baryons + photons form a tightly coupled fluid with sound speed $c_s \sim c/\sqrt 3$. the Jeans length is huge, much larger than the Hubble radius. so **no baryon perturbation can grow before recombination**: they all oscillate as acoustic waves. this is the origin of the CMB peak structure and BAO. → see [[Matter power spectrum and BAO]] and [[Photon decoupling and CMB]].
 
 ### baryons after recombination
 
@@ -55,7 +55,7 @@ so baryon perturbations on essentially all galactic scales can grow. they fall i
 
 ### dark matter is always Jeans-unstable
 
-cold dark matter has $c_s \approx 0$ (or extremely small velocity dispersion), so $\lambda_J \approx 0$. **all CDM scales are above the Jeans length** at all times — CDM can grow on all scales as soon as it dominates the energy density (after matter-radiation equality at $z_{\rm eq} \sim 3300$). this is exactly what enables structure formation.
+cold dark matter has $c_s \approx 0$ (or extremely small velocity dispersion), so $\lambda_J \approx 0$. **all CDM scales are above the Jeans length** at all times, CDM can grow on all scales as soon as it dominates the energy density (after matter-radiation equality at $z_{\rm eq} \sim 3300$). this is exactly what enables structure formation.
 
 → this is also why dark matter must be cold: hot dark matter has a large Jeans length, washing out small-scale structure (free-streaming). see [[Hot vs cold dark matter]].
 
@@ -63,7 +63,7 @@ cold dark matter has $c_s \approx 0$ (or extremely small velocity dispersion), s
 
 ## the cosmological Jeans is *modified* by Hubble friction
 
-include the $2H\dot\delta$ term. the Jeans criterion becomes more nuanced — gravitational growth still happens above $\lambda_J$, but at a *power-law* rate ($\delta \propto a$), not exponential. Hubble friction slows growth by orders of magnitude relative to the static case, but does not eliminate it.
+include the $2H\dot\delta$ term. the Jeans criterion becomes more complex, gravitational growth still happens above $\lambda_J$, but at a *power-law* rate ($\delta \propto a$), not exponential. Hubble friction slows growth by orders of magnitude relative to the static case, but does not eliminate it.
 
 so the practical rule:
 - **above $\lambda_J$**: $\delta \propto a$ (or $\log a$ in radiation era, or constant in Λ era), see [[Growth factor D(z)]]
@@ -83,6 +83,11 @@ $$M_J \sim \left(\frac{k_BT}{Gm_p}\right)^{3/2} \rho^{-1/2}$$
 so the Jeans analysis is also the foundation of star formation theory: clouds with $M > M_J$ collapse and form stars (see [[Jeans theory and protostellar formation]]).
 
 ---
+
+## where it goes wrong
+
+- the expansion turns exponential growth into power-law growth.
+- the baryon Jeans mass drops by about $10^{10}$ at recombination.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

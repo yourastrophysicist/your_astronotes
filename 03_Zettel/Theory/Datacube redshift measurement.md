@@ -20,7 +20,7 @@ $$v(x, y) = c \left( \frac{z(x, y) - z_{\rm sys}}{1 + z_{\rm sys}} \right)$$
    - For star-forming and AGN spaxels.
    - Simultaneous non-linear least-squares fitting of multiple Gaussian or Gauss-Hermite profiles to prominent lines:
      $$[\text{O II}] \lambda 3727, \text{H}\beta \lambda 4861, [\text{O III}] \lambda\lambda 4959, 5007, \text{H}\alpha \lambda 6563, [\text{N II}] \lambda\lambda 6548, 6584, [\text{S II}] \lambda\lambda 6717, 6731$$
-   - Physical constraints: identical velocity and velocity dispersion for doublet components; fixed theoretical doublet ratios (e.g., $[\text{O III}]\lambda 5007 / [\text{O III}]\lambda 4959 = 2.98$).
+   - Physical constraints: identical velocity and velocity dispersion for doublet components. Fixed theoretical doublet ratios (e.g., $[\text{O III}]\lambda 5007 / [\text{O III}]\lambda 4959 = 2.98$).
 
 2. **stellar absorption lines (stellar redshift)**:
    - For passive galaxies and early-type bulges.

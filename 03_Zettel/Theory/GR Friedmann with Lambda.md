@@ -62,6 +62,11 @@ the Newtonian derivation ([[Newtonian Friedmann derivation]]) gives the same Fri
 
 so GR is **necessary** for cosmology that includes radiation + dark energy + light propagation.
 
+## where it goes wrong
+
+- the sign of $\Lambda$ in the field equations changes with the metric signature.
+- the Einstein tensor components depend on the coordinates. I check the trace before trusting a result.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

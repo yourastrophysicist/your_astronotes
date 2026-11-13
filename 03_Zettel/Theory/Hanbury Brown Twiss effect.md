@@ -10,7 +10,7 @@ the discovery that started intensity interferometry. **photons from a thermal so
 
 Robert Hanbury Brown and Richard Twiss (1956): two photomultipliers separated by a baseline, looking at the bright star Sirius. the photocurrents were band-pass filtered (at $\sim 30$ Hz) and multiplied. the resulting signal showed a non-zero correlation at zero time delay.
 
-at baselines smaller than the source coherence area, the correlation was strong. at larger baselines, it dropped. the drop-off measured Sirius's angular diameter — about 6 mas.
+at baselines smaller than the source coherence area, the correlation was strong. at larger baselines, it dropped. the drop-off measured Sirius's angular diameter, about 6 mas.
 
 the **first measurement** of a stellar diameter via *photon counting statistics* rather than wave interference.
 
@@ -25,13 +25,13 @@ $$g^{(2)}(\tau, \mathbf B) = \frac{\langle I(t, \mathbf r_1) I(t + \tau, \mathbf
 at zero time delay and baseline $\mathbf B$:
 $$g^{(2)}(0, \mathbf B) = 1 + \lvert \gamma^{(1)}(\mathbf B)\rvert^2$$
 
-where $\gamma^{(1)}(\mathbf B)$ is the **first-order** spatial coherence — exactly the same quantity that amplitude interferometry measures via fringe visibility.
+where $\gamma^{(1)}(\mathbf B)$ is the **first-order** spatial coherence, exactly the same quantity that amplitude interferometry measures via fringe visibility.
 
 so:
 - at baselines where $\gamma^{(1)}$ is large (unresolved source): $g^{(2)} = 2$ (bunching!)
 - at baselines where $\gamma^{(1)}$ is small (resolved source): $g^{(2)} = 1$ (no excess correlation)
 
-measuring how $g^{(2)}$ falls from 2 to 1 with baseline gives $\lvert \gamma^{(1)}\rvert^2$ — the same observable as amplitude visibility, just squared.
+measuring how $g^{(2)}$ falls from 2 to 1 with baseline gives $\lvert \gamma^{(1)}\rvert^2$, the same observable as amplitude visibility, just squared.
 
 ## the classical wave interpretation
 
@@ -44,13 +44,13 @@ so the intensity has rms fluctuations equal to its mean. these fluctuations have
 the cross-correlation between $I_1$ and $I_2$ at separation $\mathbf B$:
 $$\langle \Delta I_1 \Delta I_2 \rangle = \vert\gamma^{(1)}(\mathbf B)\vert ^2 \cdot \langle I \rangle^2$$
 
-this is the HBT signal. the squared spatial coherence drops as the baseline approaches the inverse angular size of the source — exactly as for amplitude visibility, except squared.
+this is the HBT signal. the squared spatial coherence drops as the baseline approaches the inverse angular size of the source, exactly as for amplitude visibility, except squared.
 
 ## the quantum interpretation
 
 quantum mechanically, photons of a thermal source obey Bose-Einstein statistics. the probability of detecting a second photon within $\tau_c$ of a first one is *enhanced* compared to a Poisson process: this is **photon bunching**.
 
-formally, $g^{(2)}(0) = 2$ for thermal light — twice the Poisson value. for *coherent* (laser) light: $g^{(2)}(0) = 1$ (no bunching, perfectly Poisson). for *single-photon* light (anti-bunched): $g^{(2)}(0) = 0$ (never pairs).
+formally, $g^{(2)}(0) = 2$ for thermal light, twice the Poisson value. for *coherent* (laser) light: $g^{(2)}(0) = 1$ (no bunching, perfectly Poisson). for *single-photon* light (anti-bunched): $g^{(2)}(0) = 0$ (never pairs).
 
 so HBT *measures* the photon-statistics class of the source. for stars (thermal), it measures angular size via the spatial-coherence drop-off.
 

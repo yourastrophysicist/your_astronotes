@@ -12,27 +12,27 @@ It is a function of photon energy (or wavelength) and describes the **fundamenta
 ## Absorption length in silicon
 
 The key physical parameter is the **absorption length** $\ell_{abs}(E)$:
-	the depth at which a fraction $1 - e^{-1} \approx 63\%$ of incident photons have been absorbed
+- the depth at which a fraction $1 - e^{-1} \approx 63\%$ of incident photons have been absorbed
 
 For silicon, $\ell_{abs}$ depends strongly on energy:
-	at $E \sim 0.1~\text{keV}$: $\ell_{abs} \sim 10$ nm — photons absorbed in the surface dead layers
-	at $E \sim 1~\text{keV}$: $\ell_{abs} \sim 1~\mu$m — absorbed in the active region
-	at $E \sim 10~\text{keV}$: $\ell_{abs} \sim 100~\mu$m — may pass through the depletion region without being absorbed
+- at $E \sim 0.1~\text{keV}$: $\ell_{abs} \sim 10$ nm, photons absorbed in the surface dead layers
+- at $E \sim 1~\text{keV}$: $\ell_{abs} \sim 1~\mu$m, absorbed in the active region
+- at $E \sim 10~\text{keV}$: $\ell_{abs} \sim 100~\mu$m, may pass through the depletion region without being absorbed
 
 ![Screenshot 2026-04-07 at 01.51.24.png](../../assets/images/Screenshot%202026-04-07%20at%2001.51.24.png)
-<font color="#bfbfbf">Absorption length in silicon as a function of X-ray photon energy. At very low energies photons are absorbed in the dead layer; at high energies they may penetrate through the active depletion region.</font>
+<font color="#bfbfbf">Absorption length in silicon as a function of X-ray photon energy. At very low energies photons are absorbed in the dead layer. at high energies they may penetrate through the active depletion region.</font>
 
 ---
 
-## X-ray QE: two competing effects
+## X-ray QE - two competing effects
 
 The QE in X-rays is determined by two competing effects that work in opposite directions:
 
 ### Transmission through dead layers
 Before reaching the active depletion region, X-ray photons must pass through:
-	the optical blocking filter (Al or plastic)
-	gate structures (SiO$_2$, polysilicon)
-	field-free silicon layers
+- the optical blocking filter (Al or plastic)
+- gate structures (SiO$_2$, polysilicon)
+- field-free silicon layers
 
 The transmission through all dead layers (combined thickness $t$):
 $$T(E) = \prod_i e^{-\mu_i(E) t_i}$$
@@ -46,8 +46,8 @@ At **high energies**: dead layers become transparent → $T \to 1$
 Once past the dead layers, photons must be absorbed in the **active depletion region** of depth $d$:
 $$A(E) = 1 - e^{-\mu_{Si}(E) \cdot d}$$
 
-At **low energies**: $\mu_{Si}$ is large → $A \approx 1$ → most photons are absorbed — good QE
-At **high energies**: $\mu_{Si}$ decreases → $A \to 0$ → photons pass through without being absorbed — QE drops
+At **low energies**: $\mu_{Si}$ is large → $A \approx 1$ → most photons are absorbed, good QE
+At **high energies**: $\mu_{Si}$ decreases → $A \to 0$ → photons pass through without being absorbed, QE drops
 
 ---
 
@@ -57,52 +57,41 @@ Combining transmission and absorption:
 $$QE(E) = T(E) \cdot A(E) = \left(\prod_i e^{-\mu_i t_i}\right) \cdot \left(1 - e^{-\mu_{Si} d}\right)$$
 
 This gives a peaked curve with:
-	a **low-energy edge** (set by dead layers and filter)
-	a **peak** at intermediate energies ($\sim 0.5$–$5$ keV)
-	a **high-energy roll-off** (set by depletion depth)
+- a **low-energy edge** (set by dead layers and filter)
+- a **peak** at intermediate energies ($\sim 0.5$ to $5$ keV)
+- a **high-energy roll-off** (set by depletion depth)
 
-**Absorption edges**: the cross section $\sigma_{ph}(E)$ has discontinuities at atomic edge energies
-	these show up as sharp features in the QE curve (e.g. Si K-edge at $1.84~\text{keV}$, O K-edge at $0.54~\text{keV}$)
+**Absorption edges**: the cross section $\sigma_{ph}(E)$ has discontinuities at atomic edge energies, these show up as sharp features in the QE curve (e.g. Si K-edge at $1.84~\text{keV}$, O K-edge at $0.54~\text{keV}$)
 
 ![Screenshot 2026-04-07 at 01.53.12.png](../../assets/images/Screenshot%202026-04-07%20at%2001.53.12.png)
-<font color="#bfbfbf">QE curve of an X-ray CCD. The low-energy cutoff is set by absorption in the optical blocking filter; the high-energy rolloff by finite depletion depth. Absorption edges of Si and O are visible.</font>
+<font color="#bfbfbf">QE curve of an X-ray CCD. The low-energy cutoff is set by absorption in the optical blocking filter. the high-energy rolloff by finite depletion depth. Absorption edges of Si and O are visible.</font>
 
 ---
 
 ## CCD types and their QE
 
 ### Front-side illuminated (FSI) / thick CCD
-~300 $\mu$m thick, photons enter from the **gate side**
-	gates and oxide layers absorb soft photons before they reach the depletion region
-		result: poor QE at low energies ($< 0.5~\text{keV}$), peak QE $\approx 40$–$50\%$
-	benefit: simple fabrication, robust
+~300 $\mu$m thick, photons enter from the **gate side**, gates and oxide layers absorb soft photons before they reach the depletion region, result: poor QE at low energies ($< 0.5~\text{keV}$), peak QE $\approx 40$ to $50\%$. benefit: simple fabrication, robust
 
 ### Back-side illuminated (BSI) / thinned CCD
-~15–20 $\mu$m thick, photons enter from the **back** (no gates in the way)
-	with an anti-reflection coating: QE up to $90$–$95\%$ in the soft band
-	thinning reduces dead layer absorption dramatically
-	drawback: thin silicon means poor absorption at high energies ($> 5~\text{keV}$)
-	also susceptible to **fringing** in the red/near-IR (interference within the thin silicon layer)
+~15-20 $\mu$m thick, photons enter from the **back** (no gates in the way), with an anti-reflection coating: QE up to $90$ to $95\%$ in the soft band. thinning reduces dead layer absorption dramatically. drawback: thin silicon means poor absorption at high energies ($> 5~\text{keV}$). also susceptible to **fringing** in the red/near-IR (interference within the thin silicon layer)
 
 ### Deep-depleted CCD
-Back-side illuminated but with depletion depth $d \sim 50$–$100~\mu$m
-	better high-energy response and reduced fringing
+Back-side illuminated but with depletion depth $d \sim 50$ to $100~\mu$m, better high-energy response and reduced fringing
 
 ---
 
 ## Optical blocking filter
 
-CCDs are sensitive to optical and UV photons ($\sim 2$–$4~\text{eV}$)
-	but X-ray observatories are not pointing at UV-bright sources
-		the detector must be protected from **stray optical light** which would fill the depletion wells
+CCDs are sensitive to optical and UV photons ($\sim 2$ to $4~\text{eV}$), but X-ray observatories are not pointing at UV-bright sources, the detector must be protected from **stray optical light** which would fill the depletion wells
 
 **Optical blocking filters** consist of:
-	a thin Al layer ($\sim 40$–$80$ nm)
-	sometimes a polyimide (plastic) substrate
+- a thin Al layer ($\sim 40$ to $80$ nm)
+- sometimes a polyimide (plastic) substrate
 
 Effect on X-ray QE:
-	negligible at $E > 1~\text{keV}$ (the filter is thin and transparent)
-	reduces QE by $> 50\%$ at $E < 0.3~\text{keV}$ (Al K-edge at $1.56~\text{keV}$ creates a dip)
+- negligible at $E > 1~\text{keV}$ (the filter is thin and transparent)
+- reduces QE by $> 50\%$ at $E < 0.3~\text{keV}$ (Al K-edge at $1.56~\text{keV}$ creates a dip)
 
 ---
 
@@ -114,7 +103,7 @@ Effect on X-ray QE:
 | Depletion absorption | $A(E) \to 1$ (good QE) | $A(E) \to 0$ (QE drops) |
 | Optical filter | Strong absorption | Transparent |
 | Net QE | Low | Low |
-| **Peak QE**: intermediate energies $\sim 0.5$–$5$ keV
+| **Peak QE**: intermediate energies $\sim 0.5$ to $5$ keV
 
 ---
 

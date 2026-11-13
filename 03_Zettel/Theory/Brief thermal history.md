@@ -18,14 +18,14 @@ a single image, the thermal history of the universe from the quantum gravity wal
 | **earliest visible galaxies** | meV | $z \sim 10$ | 700 Myr | reionization (see [[Reionization]]) |
 | **recombination** | $T \sim 0.25$ eV | $z_{\rm rec} \sim 1100$ | $\sim 4 \times 10^5$ yr | atoms form, CMB decouples |
 | **matter domination** | $T \sim 0.7$ eV | $z_{\rm eq} \sim 3300$ | $\sim 5000$ yr | $\rho_m = \rho_\gamma$, gravitational collapse begins on small scales |
-| **nucleosynthesis** | $T \sim 0.1\text{–}1$ MeV | — | 3 minutes | light elements created (see [[BBN_overview]]) |
-| **quark-hadron transition** | $T \sim 1$ GeV | — | 1 μs | protons and neutrons form |
-| **electroweak transition** | $T \sim 100$ GeV | — | 0.01 ns | EM and weak forces differentiate, supersymmetry breaking?, dark matter production? |
-| **grand unification transition** | $T \sim 10^{16}$ GeV | — | $10^{-35}$ s | EM-weak and strong differentiate, baryogenesis? |
-| **inflation** | $T \gtrsim 10^{16}$ GeV | — | $10^{-35}$ s | exponential expansion, quantum fluctuations stretched |
-| **quantum gravity wall** | $T \sim 10^{19}$ GeV | — | $10^{-43}$ s | spacetime description breaks down |
+| **nucleosynthesis** | $T \sim 0.1\text{-}1$ MeV | - | 3 minutes | light elements created (see [[BBN_overview]]) |
+| **quark-hadron transition** | $T \sim 1$ GeV | - | 1 μs | protons and neutrons form |
+| **electroweak transition** | $T \sim 100$ GeV | - | 0.01 ns | EM and weak forces differentiate, supersymmetry breaking?, dark matter production? |
+| **grand unification transition** | $T \sim 10^{16}$ GeV | - | $10^{-35}$ s | EM-weak and strong differentiate, baryogenesis? |
+| **inflation** | $T \gtrsim 10^{16}$ GeV | - | $10^{-35}$ s | exponential expansion, quantum fluctuations stretched |
+| **quantum gravity wall** | $T \sim 10^{19}$ GeV | - | $10^{-43}$ s | spacetime description breaks down |
 
-at $T > 10^{19}$ GeV (Planck energy) we cannot describe spacetime classically. above that lies the realm of quantum gravity, beyond the reach of any current theory.
+at $T > 10^{19}$ GeV (Planck energy) we cannot describe spacetime classically. above that lies the regime of quantum gravity, beyond the reach of any current theory.
 
 ---
 
@@ -45,11 +45,11 @@ the matter-radiation equality scale is what determines the turnover of the matte
 
 three observational windows pierce this timeline:
 
-1. **CMB** ($z \sim 1100$, recombination/decoupling) — see [[Cosmic_inventory_photons]]
-2. **BBN** ($T \sim 0.1\text{–}1$ MeV, three minutes) — see [[BBN_overview]]
-3. **galaxy surveys** ($z \lesssim 10$) — see [[Observational_Cosmology_MOC]]
+1. **CMB** ($z \sim 1100$, recombination/decoupling) - see [[Cosmic_inventory_photons]]
+2. **BBN** ($T \sim 0.1\text{-}1$ MeV, three minutes) - see [[BBN_overview]]
+3. **galaxy surveys** ($z \lesssim 10$) - see [[Observational_Cosmology_MOC]]
 
-between BBN and the CMB there is a "blind" epoch I cannot probe directly with photons — the universe is opaque before recombination. but I can read it indirectly through CMB anisotropies, BBN abundances, and the structure of the matter power spectrum at late times.
+between BBN and the CMB there is a "blind" epoch I cannot probe directly with photons, because the universe is opaque before recombination. but I can read it indirectly through CMB anisotropies, BBN abundances, and the structure of the matter power spectrum at late times.
 
 ---
 
@@ -58,9 +58,22 @@ between BBN and the CMB there is a "blind" epoch I cannot probe directly with ph
 the slide says it well:
 > we seek information about very early times and very high energies, $E$ up to $10^{16}$ GeV.
 
-at energies above what any accelerator can reach, the early universe is the only laboratory we have. observational cosmology is high-energy physics on a different scale — we measure $\Omega_b h^2$ at the per-mille level from CMB peaks, then read it back into nuclear cross sections at $T \sim 0.1$ MeV. the universe is a precision instrument.
+at energies above what any accelerator can reach, the early universe is the only laboratory we have. observational cosmology is high-energy physics on a different scale. we measure $\Omega_b h^2$ at the per-mille level from CMB peaks, then read it back into nuclear cross sections at $T \sim 0.1$ MeV. the universe is a precision instrument.
 
 ---
+
+## worked example
+
+$t \simeq 1\ \text{s}\,(T/1\ \text{MeV})^{-2}$ in the radiation era, with $g_* \approx 10$:
+
+- $T = 1$ MeV: 1 s, neutrinos decouple
+- $T = 0.1$ MeV: 100 s, nuclei form
+- $T = 0.3$ eV: the formula fails, the universe is matter dominated, and the true age is 380 000 yr
+
+## where it goes wrong
+
+- the temperature of photons falls as $1/a$, except when a species annihilates and heats them.
+- the times of events are model dependent above about 1 GeV, where no laboratory reaches.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -77,7 +90,7 @@ at energies above what any accelerator can reach, the early universe is the only
 - [[BBN_overview]]
 - [[Saha equation and recombination]]
 - [[Inflation overview]]
-- [[Baumann_reference]] — chapter 3.1.3 walks through this same picture rigorously
+- [[Baumann_reference]] - chapter 3.1.3 walks through this same picture rigorously
 
 ---
 

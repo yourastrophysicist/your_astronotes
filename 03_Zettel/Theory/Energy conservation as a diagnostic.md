@@ -38,7 +38,7 @@ after an integration of $N_{\rm orb}$ orbits:
 
 > Calculate and plot the relative energy variation $[E(t+h) - E(t)]/E(t)$ of the system between two timesteps and plot it as a function of time.
 
-note this is the *step-by-step* variation, not the cumulative $E(t)/E_0 - 1$. for a non-symplectic integrator, the step-by-step variation will look like noise oscillating around a small bias; the cumulative drift only becomes obvious when you sum many steps. **plot both** if there is room — they answer different questions.
+note this is the *step-by-step* variation, not the cumulative $E(t)/E_0 - 1$. for a non-symplectic integrator, the step-by-step variation will look like noise oscillating around a small bias. the cumulative drift only becomes obvious when you sum many steps. **plot both** if there is room. they answer different questions.
 
 ## a pseudocode skeleton
 
@@ -68,7 +68,7 @@ plt.yscale('log')
 plt.xlabel('t'); plt.ylabel('|ΔE/E|')
 ```
 
-## angular momentum: the second diagnostic
+## angular momentum - the second diagnostic
 
 after energy, angular momentum $\mathbf{L} = \sum m_i \mathbf{r}_i \times \mathbf{v}_i$ is the next conserved quantity. for any spherically symmetric problem (a single planet around a fixed sun, an isolated cluster) it should be constant.
 
@@ -78,9 +78,9 @@ leapfrog conserves $\mathbf{L}$ to *machine precision* (a stronger property than
 
 three signatures of a bad-or-too-large-timestep integration:
 
-1. **steady drift** in $\Delta E/E$ — non-symplectic integrator at moderate $h$ → use a smaller $h$ or switch to leapfrog
-2. **explosive growth** in $\Delta E/E$ — unstable, e.g. Euler at any $h$ on a Kepler orbit → switch to a higher-order method
-3. **sudden jumps** in $\Delta E/E$ at specific times — close encounter that the timestep cannot resolve → use adaptive timestepping (see [[Adaptive step size control]])
+1. **steady drift** in $\Delta E/E$ - non-symplectic integrator at moderate $h$ → use a smaller $h$ or switch to leapfrog
+2. **explosive growth** in $\Delta E/E$ - unstable, e.g. Euler at any $h$ on a Kepler orbit → switch to a higher-order method
+3. **sudden jumps** in $\Delta E/E$ at specific times - close encounter that the timestep cannot resolve → use adaptive timestepping (see [[Adaptive step size control]])
 
 case 3 is the most common cause of mysterious-looking energy plots in N-body work. the fix is timestep refinement, not algorithm change.
 

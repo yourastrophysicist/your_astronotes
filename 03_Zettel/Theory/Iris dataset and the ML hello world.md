@@ -25,8 +25,8 @@ so the input is $X \in \mathbb{R}^{150 \times 4}$, output $y \in \{0, 1, 2\}^{15
 
 1. **small**: trains in milliseconds, fits in memory
 2. **clean**: no missing values, no weird types, all numerical
-3. **separable**: setosa is linearly separable from the others; versicolor and virginica overlap slightly. so simple models work well but there is room for improvement
-4. **well-known**: every textbook uses it; my code is comparable to everyone else's
+3. **separable**: setosa is linearly separable from the others. versicolor and virginica overlap slightly. so simple models work well but there is room for improvement
+4. **well-known**: every textbook uses it. my code is comparable to everyone else's
 
 ## loading
 
@@ -62,7 +62,7 @@ for i in range(4):
 what I should see:
 - **petal length** and **petal width** separate the three species cleanly
 - **sepal width** alone is not a great discriminator
-- setosa is a tight cluster; the others overlap
+- setosa is a tight cluster. the others overlap
 
 so a model should give heavy weight to petal features.
 
@@ -109,7 +109,7 @@ for name, model in models.items():
     print(f"{name:25s}: {score:.3f}")
 ```
 
-all of them get >95% on iris. iris is *too easy* — a typical real-world dataset would show wider differences.
+all of them get >95% on iris. iris is *too easy*, a typical real-world dataset would show wider differences.
 
 ## what iris does *not* teach
 

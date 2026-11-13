@@ -28,7 +28,7 @@ the age of the Galactic bulge directly constrains how the Milky Way formed and e
 - **structure-evolution connection**: helps disentangle classical bulge vs bar-driven (pseudo-bulge) components.
 - **calibration of stellar populations**: a key laboratory for testing stellar evolution models at high metallicity and for interpreting [[Resolved vs unresolved stellar populations\|unresolved stellar populations]] in external galaxies.
 
-## the CMD of the bulge: observational challenges
+## the CMD of the bulge - observational challenges
 
 reading the CMD of the bulge is hard. two challenges dominate:
 
@@ -54,7 +54,7 @@ two complementary approaches handle the field contamination problem:
 
 ![L19_p09_PM_Clarkson-09.png](../../assets/images/L19_p09_PM_Clarkson-09.png)
 
-## the Clarkson et al. 2008 result: an old bulge
+## the Clarkson et al. 2008 result - an old bulge
 
 using HST proper-motion-cleaned CMDs of $\sim 15{,}000$ bulge stars in the SWEEPS field (with $\mu_l < -2.0$ mas/yr selection), Clarkson et al. 2008 fit isochrones of varying age + metallicity to the bulge MS turn-off. the conclusion: the bulge is largely composed of **old stellar populations** ($\geq 10$ Gyr), and stars younger than $\sim 5$ Gyr, if present, constitute $< 5\%$ of the total bulge stellar content.
 
@@ -63,7 +63,7 @@ using HST proper-motion-cleaned CMDs of $\sim 15{,}000$ bulge stars in the SWEEP
 this is the single strongest piece of CMD evidence that the bulge formed rapidly + early.
 
 ![L19_p11_bulge_old-11.png](../../assets/images/L19_p11_bulge_old-11.png)
-*Clarkson et al. 2008: bulge MS turn-off compared with isochrones at varying age + [Fe/H]; bulk old, $< 5\%$ younger than 5 Gyr.*
+*Clarkson et al. 2008: bulge MS turn-off compared with isochrones at varying age + [Fe/H]. Bulk old, $< 5\%$ younger than 5 Gyr.*
 
 ## the Lagioia et al. 2014 NGC 6528 + Baade Window study
 
@@ -77,7 +77,7 @@ Lagioia et al. 2014 used the globular cluster NGC 6528 (which sits in the Baade 
 
 the result: after PM selection + DR correction, isochrone fits to NGC 6528 + bulge stars in the same field both give ages $\sim 10$-$12$ Gyr at $[{\rm Fe/H}] = +0.20$, $[\alpha/{\rm Fe}] = 0$, supporting rapid star formation in the bulge.
 
-## chemical evidence: the alpha-enhanced bulge
+## chemical evidence - the alpha-enhanced bulge
 
 bulge stars are **$\alpha$-enhanced** ($[\alpha/{\rm Fe}] > 0$), consistent with rapid star formation and enrichment primarily from Type II supernovae. studies: Alves-Brito et al. 2010, Gonzalez et al. 2011, Ness et al. 2013, Johnson et al. 2013.
 
@@ -85,22 +85,22 @@ within the common $[{\rm Fe/H}]$ interval, bulge and thick-disk populations disp
 
 ### why $[\alpha/{\rm Fe}] > 0$ implies fast star formation
 
-- **Type II SNe** (core-collapse): originate from massive stars ($\geq 8 M_\odot$); short lifetimes ($\sim$ few to $30$ Myr); yields lots of $\alpha$-elements (O, Mg, Si, Ca) plus some Fe.
-- **Type Ia SNe**: from white dwarfs in binaries; long delay time ($\sim 100$ Myr to several Gyr); large iron yields, fewer $\alpha$-elements.
+- **Type II SNe** (core-collapse): originate from massive stars ($\geq 8 M_\odot$). Short lifetimes ($\sim$ few to $30$ Myr). Yields lots of $\alpha$-elements (O, Mg, Si, Ca) plus some Fe.
+- **Type Ia SNe**: from white dwarfs in binaries. Long delay time ($\sim 100$ Myr to several Gyr). Large iron yields, fewer $\alpha$-elements.
 
 right after a star-formation burst, only Type II SNe have fired. the gas pool gets $\alpha$-enriched faster than Fe. stars forming from this gas have high $[\alpha/{\rm Fe}]$. only later does Type Ia Fe enrichment lower $[\alpha/{\rm Fe}]$. high $[\alpha/{\rm Fe}] > 0$ thus signals **rapid + early** star formation.
 
-## the conflict: HST photometry vs microlensing spectroscopy
+## the conflict - HST photometry vs microlensing spectroscopy
 
 the bulge age picture has been debated for over a decade. two opposite results.
 
-### CMD evidence (old bulge): Zoccali et al. 2003, Clarkson et al. 2008, Renzini et al. 2018
+### CMD evidence (old bulge) - Zoccali et al. 2003, Clarkson et al. 2008, Renzini et al. 2018
 
 the bulge is as old as Galactic globular clusters ($\geq 10$ Gyr), with no trace of any young stellar population.
 
-Renzini et al. 2018 used five-band HST photometry in five bulge fields (SWEEPS, Baade, Stanek, OGLE-29) plus reddening-free pseudo-colour diagrams ([m] vs [t]) to compare bulge stars to GC fiducials (NGC 6791, 6528, 0104, 5927, 6752, 6341 at varying $[{\rm Fe/H}]$). conclusion: the bulk of bulge stars are $\sim 10$ Gyr old; only $\sim 3\%$ are younger than $\sim 5$ Gyr.
+Renzini et al. 2018 used five-band HST photometry in five bulge fields (SWEEPS, Baade, Stanek, OGLE-29) plus reddening-free pseudo-colour diagrams ([m] vs [t]) to compare bulge stars to GC fiducials (NGC 6791, 6528, 0104, 5927, 6752, 6341 at varying $[{\rm Fe/H}]$). conclusion: the bulk of bulge stars are $\sim 10$ Gyr old. Only $\sim 3\%$ are younger than $\sim 5$ Gyr.
 
-### microlensing evidence (extended SF history): Bensby et al. 2013, 2017
+### microlensing evidence (extended SF history) - Bensby et al. 2013, 2017
 
 during a microlensing event, a faint bulge MS star can brighten by several magnitudes for hours to days. Bensby et al. exploited this to obtain high-resolution spectra of $\sim 90$ bulge dwarfs at the MS turn-off. from each spectrum: $\log g$, $T_{\rm eff}$, and $[{\rm Fe/H}]$. ages from isochrone fitting in the $\log g$-$\log T_{\rm eff}$ plane.
 
@@ -110,8 +110,8 @@ this suggests a **two-component bulge**: an old metal-poor component plus an int
 
 ### why the discrepancy
 
-- spectroscopy of individual MS turn-off stars probes the age of each star directly; CMD fits are integrated over the population.
-- the photometry is more sensitive to the dominant old population; spectroscopy uniquely identifies the small young metal-rich tail.
+- spectroscopy of individual MS turn-off stars probes the age of each star directly. CMD fits are integrated over the population.
+- the photometry is more sensitive to the dominant old population. spectroscopy uniquely identifies the small young metal-rich tail.
 - a real two-component bulge (classical old + bar-driven young) would naturally produce both signals.
 
 so the unresolved question: is the bulge a single old population with a tiny young contaminant, or is it genuinely composite?
@@ -121,7 +121,7 @@ so the unresolved question: is the bulge a single old population with a tiny you
 connections to the rest of the course:
 - the bulge GCs (NGC 6528, NGC 6553, Liller 1, Terzan 5) are the metal-rich tail of the [[Age-metallicity relation of Galactic GCs]].
 - Terzan 5 is famous for hosting **two metal populations** (Ferraro et al. 2009, Massari et al. 2014: $[{\rm Fe/H}] \sim -0.2$ + $\sim +0.3$, with an outlier $\sim -0.8$). it may be a **fossil bulge fragment**, not a true GC. see [[Multiple populations in GCs discovery]].
-- the bulge bar links to dynamical bulge formation (boxy/peanut shape from bar buckling); see [[Astrophysics_of_Galaxies_MOC]].
+- the bulge bar links to dynamical bulge formation (boxy/peanut shape from bar buckling). see [[Astrophysics_of_Galaxies_MOC]].
 - chemical evolution models (Matteucci & Romano 1999) predict the bulge formed at the same time or even faster than the Galactic halo, consistent with its $\alpha$-enhancement.
 
 <!-- sources:wiki-arxiv -->
@@ -150,113 +150,113 @@ connections to the rest of the course:
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 19 — The Galactic Bulge & Milky Way Structure)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 19 - The Galactic Bulge & Milky Way Structure)
 
 > **Context**: *Boxy/peanut bulge, X-shaped bar, ancient ~10 Gyr stellar populations, proper motion cleaning of foreground disk stars, and metallicity distribution functions.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![L19_p01_title-01.png](../../assets/images/L19_p01_title-01.png)
-*Figure P19-01: L19_p01_title-01.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-01: L19_p01_title-01.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![L19_p05-05.png](../../assets/images/L19_p05-05.png)
-*Figure P19-02: L19_p05-05.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-02: L19_p05-05.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![L19_p17_alpha_Fe-17.png](../../assets/images/L19_p17_alpha_Fe-17.png)
-*Figure P19-03: L19_p17_alpha_Fe-17.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-03: L19_p17_alpha_Fe-17.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![L19_p19_old_bulge_Zoccali-19.png](../../assets/images/L19_p19_old_bulge_Zoccali-19.png)
-*Figure P19-04: L19_p19_old_bulge_Zoccali-19.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-04: L19_p19_old_bulge_Zoccali-19.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![L19_p22_Terzan5_Ferraro-22.png](../../assets/images/L19_p22_Terzan5_Ferraro-22.png)
-*Figure P19-05: L19_p22_Terzan5_Ferraro-22.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-05: L19_p22_Terzan5_Ferraro-22.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_01.png](../../assets/images/LAntonino_p19_01.png)
-*Figure P19-06: LAntonino_p19_01.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-06: LAntonino_p19_01.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_02.png](../../assets/images/LAntonino_p19_02.png)
-*Figure P19-07: LAntonino_p19_02.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-07: LAntonino_p19_02.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_03.png](../../assets/images/LAntonino_p19_03.png)
-*Figure P19-08: LAntonino_p19_03.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-08: LAntonino_p19_03.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_04.png](../../assets/images/LAntonino_p19_04.png)
-*Figure P19-09: LAntonino_p19_04.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-09: LAntonino_p19_04.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_05.png](../../assets/images/LAntonino_p19_05.png)
-*Figure P19-10: LAntonino_p19_05.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-10: LAntonino_p19_05.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_06.png](../../assets/images/LAntonino_p19_06.png)
-*Figure P19-11: LAntonino_p19_06.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-11: LAntonino_p19_06.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_07.png](../../assets/images/LAntonino_p19_07.png)
-*Figure P19-12: LAntonino_p19_07.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-12: LAntonino_p19_07.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_08.png](../../assets/images/LAntonino_p19_08.png)
-*Figure P19-13: LAntonino_p19_08.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-13: LAntonino_p19_08.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_09.png](../../assets/images/LAntonino_p19_09.png)
-*Figure P19-14: LAntonino_p19_09.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-14: LAntonino_p19_09.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_10.png](../../assets/images/LAntonino_p19_10.png)
-*Figure P19-15: LAntonino_p19_10.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-15: LAntonino_p19_10.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_11.png](../../assets/images/LAntonino_p19_11.png)
-*Figure P19-16: LAntonino_p19_11.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-16: LAntonino_p19_11.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_12.png](../../assets/images/LAntonino_p19_12.png)
-*Figure P19-17: LAntonino_p19_12.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-17: LAntonino_p19_12.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_13.png](../../assets/images/LAntonino_p19_13.png)
-*Figure P19-18: LAntonino_p19_13.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-18: LAntonino_p19_13.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_14.png](../../assets/images/LAntonino_p19_14.png)
-*Figure P19-19: LAntonino_p19_14.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-19: LAntonino_p19_14.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_15.png](../../assets/images/LAntonino_p19_15.png)
-*Figure P19-20: LAntonino_p19_15.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-20: LAntonino_p19_15.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_16.png](../../assets/images/LAntonino_p19_16.png)
-*Figure P19-21: LAntonino_p19_16.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-21: LAntonino_p19_16.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_17.png](../../assets/images/LAntonino_p19_17.png)
-*Figure P19-22: LAntonino_p19_17.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-22: LAntonino_p19_17.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_18.png](../../assets/images/LAntonino_p19_18.png)
-*Figure P19-23: LAntonino_p19_18.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-23: LAntonino_p19_18.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_19.png](../../assets/images/LAntonino_p19_19.png)
-*Figure P19-24: LAntonino_p19_19.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-24: LAntonino_p19_19.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_20.png](../../assets/images/LAntonino_p19_20.png)
-*Figure P19-25: LAntonino_p19_20.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-25: LAntonino_p19_20.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_21.png](../../assets/images/LAntonino_p19_21.png)
-*Figure P19-26: LAntonino_p19_21.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-26: LAntonino_p19_21.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_22.png](../../assets/images/LAntonino_p19_22.png)
-*Figure P19-27: LAntonino_p19_22.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-27: LAntonino_p19_22.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_23.png](../../assets/images/LAntonino_p19_23.png)
-*Figure P19-28: LAntonino_p19_23.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-28: LAntonino_p19_23.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_24.png](../../assets/images/LAntonino_p19_24.png)
-*Figure P19-29: LAntonino_p19_24.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-29: LAntonino_p19_24.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![LAntonino_p19_25.png](../../assets/images/LAntonino_p19_25.png)
-*Figure P19-30: LAntonino_p19_25.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-30: LAntonino_p19_25.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![Lecture19_p15-15.png](../../assets/images/Lecture19_p15-15.png)
-*Figure P19-31: Lecture19_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-31: Lecture19_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![Lecture19_p25-25.png](../../assets/images/Lecture19_p25-25.png)
-*Figure P19-32: Lecture19_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-32: Lecture19_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![Lecture19_p35-35.png](../../assets/images/Lecture19_p35-35.png)
-*Figure P19-33: Lecture19_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-33: Lecture19_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 ![Lecture19_p5-05.png](../../assets/images/Lecture19_p5-05.png)
-*Figure P19-34: Lecture19_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 19 — The Galactic Bulge & Milky Way Structure.*
+*Figure P19-34: Lecture19_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 19 - The Galactic Bulge & Milky Way Structure.*
 
 
 

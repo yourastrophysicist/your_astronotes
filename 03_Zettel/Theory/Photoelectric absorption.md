@@ -27,7 +27,7 @@ $$E_{ph} \geq E_{bind}$$
 
 The photoelectric absorption cross-section depends strongly on photon energy and atomic number:
 $$\sigma_{ph} \propto \frac{Z^n}{E^3}$$
-with $n \approx 4$–$5$.
+with $n \approx 4$ to $5$.
 
 Key implications:
 - **Low energy** → absorption is very strong (high $\sigma$)
@@ -40,7 +40,7 @@ This is why **soft X-rays** ($\lesssim 1$ keV) are almost completely absorbed by
 
 ## Absorption Edges
 
-The cross-section is **not smooth** — it shows sharp discontinuities called **absorption edges** at energies corresponding to the binding energies of each electron shell.
+The cross-section is **not smooth**. It shows sharp discontinuities called **absorption edges** at energies corresponding to the binding energies of each electron shell.
 
 - Just **below** the edge: photon energy is insufficient to eject the electron → low absorption
 - Just **above** the edge: photoionization becomes possible → cross-section jumps up

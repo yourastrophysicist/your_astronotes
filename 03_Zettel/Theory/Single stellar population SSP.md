@@ -54,7 +54,7 @@ as an SSP ages, the turn-off moves toward lower masses, causing the integrated l
 |---|---|---|---|---|
 | $1\text{--}5$ Myr | $\sim 40\text{--}60\,M_\odot$ | O and early B dwarfs / supergiants | Intense Lyman continuum ($h\nu \ge 13.6$ eV), P-Cygni UV lines ($\mathrm{C\,IV}$, $\mathrm{Si\,IV}$), flat UV continuum | Young H II regions, intense starbursts |
 | $10\text{--}50$ Myr | $\sim 8\text{--}15\,M_\odot$ | Late B and early A stars, red supergiants (RSG) | Vanishing ionizing flux, optical metal lines emerge, RSG NIR molecular bands | Young open clusters, post-starburst regions |
-| $100\text{--}800$ Myr | $\sim 2\text{--}5\,M_\odot$ | A-type main-sequence stars | **Balmer break** at $3646$ Å reaches maximum strength; deep Balmer absorption lines ($\mathrm{H}\delta, \mathrm{H}\gamma$) | "E+A" / post-starburst galaxies |
+| $100\text{--}800$ Myr | $\sim 2\text{--}5\,M_\odot$ | A-type main-sequence stars | **Balmer break** at $3646$ Å reaches maximum strength, deep Balmer absorption lines ($\mathrm{H}\delta, \mathrm{H}\gamma$) | "E+A" / post-starburst galaxies |
 | $1\text{--}2$ Gyr | $\sim 1.5\text{--}2\,M_\odot$ | Intermediate-mass AGB / **TP-AGB** | Strong NIR continuum peak ($1.6\,\mu\mathrm{m}$ $H$-band bump), carbon-star molecular features | Intermediate-age Magellanic Cloud clusters |
 | $> 3$ Gyr | $\le 1.1\,M_\odot$ | Red giant branch (RGB), Horizontal branch, G/K dwarfs | **$4000$ Å break** ($D_n4000 \gtrsim 1.7$), deep metal absorption ($\mathrm{Ca\,II\ H+K}$, $\mathrm{Mg}_b$, $\mathrm{Fe5270}$) | Globular clusters, giant elliptical galaxies |
 
@@ -78,6 +78,20 @@ real galaxies undergo extended star formation histories $\psi(t)$ and progressiv
 $$L_\lambda^{\rm CSP}(t) = \int_0^t \psi(t - \tau)\,L_\lambda^{\rm SSP}(\tau, Z(\tau))\,d\tau$$
 
 ---
+
+## worked example
+
+the turnoff mass tells me which stars dominate the light, with $M_{\rm TO} = (t/10\ \text{Gyr})^{-0.4}\,M_\odot$:
+
+- 10 Myr: $16\,M_\odot$, O and B stars, $B - V \approx -0.2$
+- 1 Gyr: $2.5\,M_\odot$, A stars, strong Balmer lines
+- 10 Gyr: $1.0\,M_\odot$, light from red giants, $B - V \approx 0.95$
+
+## where it goes wrong
+
+- a single population is an idealization. even globular clusters contain more than one generation.
+- the spectra are normalized per unit mass formed, not per unit mass alive today.
+- the same colour can come from different ages when the metallicity is different.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

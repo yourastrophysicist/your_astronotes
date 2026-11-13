@@ -59,11 +59,11 @@ $$A = 2 \lvert X_m\rvert / N$$
 
 ## the Nyquist frequency and aliasing
 
-$f_{\rm Nyq} = 1/(2\Delta t)$. frequencies *above* Nyquist cannot be represented on the grid; they "fold back" into visible frequencies:
+$f_{\rm Nyq} = 1/(2\Delta t)$. frequencies *above* Nyquist cannot be represented on the grid. they "fold back" into visible frequencies:
 
 $$f_{\rm visible} = f_{\rm true} - 2 f_{\rm Nyq} \cdot \text{round}(f_{\rm true}/(2 f_{\rm Nyq}))$$
 
-example: a 110 Hz signal sampled at 200 Hz ($f_{\rm Nyq} = 100$ Hz) appears as a $-90$ Hz signal — it folds down. for a real signal, $-90$ Hz looks like $90$ Hz in the magnitude spectrum. the original 110 Hz is *not recoverable*.
+example: a 110 Hz signal sampled at 200 Hz ($f_{\rm Nyq} = 100$ Hz) appears as a $-90$ Hz signal. it folds down. for a real signal, $-90$ Hz looks like $90$ Hz in the magnitude spectrum. the original 110 Hz is *not recoverable*.
 
 prevention: **anti-aliasing filter** before sampling that removes content above $f_{\rm Nyq}$.
 
@@ -96,7 +96,7 @@ power is what is conserved by Parseval and what the eye usually wants in a log-l
 ## astrophysics use cases
 
 - **pulsar timing**: search for periodicities in photon arrival times via FFT, peak amplitude at the rotation frequency
-- **gravitational-wave detection**: matched filtering done entirely in the frequency domain; signal-to-noise = $\langle h \vert s \rangle$ via FFT
+- **gravitational-wave detection**: matched filtering done entirely in the frequency domain. signal-to-noise = $\langle h \vert s \rangle$ via FFT
 - **stellar oscillations / asteroseismology**: oscillation modes appear as discrete peaks in the time-series FFT
 - **CMB temperature analysis**: spherical-harmonic transform = sphere's Fourier transform, peaks at acoustic scales
 - **active-galactic-nuclei variability**: power spectrum of X-ray light curves probes accretion physics

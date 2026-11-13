@@ -27,21 +27,21 @@ $$\frac{\dot\phi^2}{\dot t^2} = \frac{GM}{r^3}$$
 
 so $\Omega^2 = GM/r^3$ in coordinate time.
 
-## ISCO: innermost stable circular orbit
+## ISCO - innermost stable circular orbit
 
 at $r < 6GM$, circular orbits become **unstable** (perturbations grow exponentially). the innermost **stable** circular orbit:
 $$\boxed{\, r_{\rm ISCO} = 6 GM \,}$$
 
 at ISCO:
 - $L = \sqrt{12}\,GM$.
-- $E = 2\sqrt{2}/3$ (in $c = 1$ units; binding energy $1 - E = 1 - 2\sqrt{2}/3 \approx 0.057$, so $\sim 5.7\%$ of rest-mass energy is released as a particle spirals from infinity to ISCO).
+- $E = 2\sqrt{2}/3$ (in $c = 1$ units, binding energy $1 - E = 1 - 2\sqrt{2}/3 \approx 0.057$, so $\sim 5.7\%$ of rest-mass energy is released as a particle spirals from infinity to ISCO).
 - $\Omega^2 = GM/(6GM)^3 = 1/(216 G^2 M^2)$.
 
 the binding energy at ISCO is the **maximum efficiency** of accretion onto a non-rotating BH. for Kerr (rotating), the ISCO can be much closer to the horizon and the efficiency reaches up to $\sim 42\%$ for maximal spin.
 
 ## the inner unstable orbit
 
-between $r = 3GM$ (photon sphere) and $r = 6GM$ (ISCO), circular **unstable** orbits exist. perturbations either fall in or escape to infinity. these are not realisable as long-lived orbits; useful as separatrix solutions in dynamical-systems analysis.
+between $r = 3GM$ (photon sphere) and $r = 6GM$ (ISCO), circular **unstable** orbits exist. perturbations either fall in or escape to infinity. these are not realisable as long-lived orbits. useful as separatrix solutions in dynamical-systems analysis.
 
 ## astrophysical relevance
 

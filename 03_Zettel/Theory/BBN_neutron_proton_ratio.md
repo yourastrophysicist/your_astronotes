@@ -67,7 +67,7 @@ this is one of the most important examples in cosmology of a process that goes o
 
 ---
 
-## decay during the wait: $1/6 \to 1/7$
+## decay during the wait - $1/6 \to 1/7$
 
 the universe is **not done yet** at $T_F$. between $T = 0.8$ MeV and $T = 0.1$ MeV (where $^4$He synthesis actually occurs), about 250 seconds elapse. during this time, free neutrons can $\beta$-decay:
 $$n \to p + e^- + \bar\nu_e, \quad \tau_n \approx 880\,\text{s}$$
@@ -109,6 +109,19 @@ increasing $g_*$ (e.g. extra neutrino species, primordial gravitational waves) w
 → this is how BBN constrains physics beyond the standard model. see [[BBN_predictions]].
 
 ---
+
+## worked example
+
+at freeze-out $T_F = 0.8$ MeV:
+
+$$n/p = e^{-1.293/0.8} = e^{-1.62} = 0.20 \approx 1/5$$
+
+over the next three minutes free decay ($\tau_n = 879$ s) reduces it to $0.20 \times e^{-180/879} \approx 0.16$, close to $1/7$ after including the remaining weak reactions.
+
+## where it goes wrong
+
+- the freeze-out temperature depends on $g_*$, so extra relativistic species raise $n/p$ and $Y_p$.
+- the neutron lifetime enters directly. its experimental value is still debated at the level of 10 s.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

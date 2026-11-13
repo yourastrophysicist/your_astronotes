@@ -12,7 +12,7 @@ in spherical comoving coordinates $(t, r, \theta, \phi)$:
 
 $$\boxed{\,ds^2 = dt^2 - a^2(t)\left[\frac{dr^2}{1 - k r^2} + r^2(d\theta^2 + \sin^2\theta\, d\phi^2)\right]\,}$$
 
-(with $c = 1$. signs depend on convention; this is mostly-minus, $(+ - - -)$, as in Baumann.)
+(with $c = 1$. signs depend on convention, this is mostly-minus, $(+ - - -)$, as in Baumann.)
 
 three structural elements:
 - $a(t)$: the **scale factor**, a single function of cosmic time encoding the entire dynamics
@@ -45,7 +45,7 @@ $$ds^2 = dt^2 - a^2(t) \gamma_{ij}\, dx^i dx^j$$
 a comoving coordinate $r$ stays fixed for an observer following the Hubble flow. the **physical distance** to that observer is
 $$d_{\rm phys}(t) = a(t) \cdot r$$
 
-so as the universe expands, physical distances grow even though comoving distances stay fixed. this is the famous "raisin bread" picture: galaxies are like raisins; the dough is the comoving grid; the dough expanding is $a(t)$ growing.
+so as the universe expands, physical distances grow even though comoving distances stay fixed. this is the famous "raisin bread" picture: galaxies are like raisins. the dough is the comoving grid. the dough expanding is $a(t)$ growing.
 
 physical velocity:
 $$v^i_{\rm phys} = \frac{d x^i_{\rm phys}}{dt} = a(t)\dot x^i + \dot a x^i = v^i_{\rm pec} + H x^i_{\rm phys}$$
@@ -114,7 +114,7 @@ three equivalent ways to write the FRW metric, useful in different contexts:
 - [[Hubble constant and deceleration parameter]]
 - [[Newtonian Friedmann derivation]]
 - Friedmann equations with Λ
-- [[Baumann_reference]] — chapter 1.1 has the full derivation with all the box-by-box detail
+- [[Baumann_reference]] - chapter 1.1 has the full derivation with all the box-by-box detail
 
 
 

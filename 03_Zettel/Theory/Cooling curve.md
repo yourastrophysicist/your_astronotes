@@ -40,7 +40,7 @@ at $T \gtrsim 10^7$ K, free-free dominates and $\Lambda$ becomes nearly metallic
 
 the **cooling timescale** is:
 $$t_{\rm cool} = \frac{3 k_B T}{2 n \Lambda(T)}$$
-(approximately; full formula has factors).
+(approximately, full formula has factors).
 
 at $T = 10^4$ K, $n = 100$ cm$^{-3}$, $\Lambda = 10^{-22}$ erg cm$^3$ s$^{-1}$ (solar metallicity):
 $t_{\rm cool} \sim 3 \times 10^4$ yr.

@@ -4,7 +4,7 @@ title: "Coma cluster"
 ---
 # Coma cluster
 
-The Coma Cluster (Abell 1656) is the archetype of rich, regular, virialized galaxy clusters in the nearby universe. Located at a redshift of $z = 0.0231$ (corresponding to a Hubble distance of $d \approx 100$ Mpc for $H_0 = 70 \text{ km s}^{-1} \text{ Mpc}^{-1}$), it contains more than 1000 cataloged galaxies concentrated within a virial radius of $R_{\rm vir} \approx 2 - 3$ Mpc, dominated in its center by two giant cD ellipticals (NGC 4874 and NGC 4889). Coma holds a historic position in physical cosmology - in 1933, Fritz Zwicky applied the Virial Theorem to the radial velocity dispersion of its member galaxies, obtaining an astronomical mass-to-light ratio of $(M/L)_B \sim 300 - 400 M_\odot / L_\odot$ and delivering the first empirical discovery of non-luminous dark matter ("dunkle Materie"). Modern multi-wavelength investigations through space-based X-ray observatories (ROSAT, XMM-Newton, Chandra) and gravitational lensing establish that the total mass of Coma is $M_{200} \approx (1.4 - 1.8) \times 10^{15} M_\odot$. Crucially, the cluster baryon budget reveals that hot, diffuse, X-ray emitting plasma ($T \sim 10^8$ K) out-masses all stars in all galaxies by a factor of six, while non-baryonic dark matter accounts for $\sim 85\%$ of the total cluster mass.
+The Coma Cluster (Abell 1656) is the archetype of rich, regular, virialized galaxy clusters in the nearby universe. Located at a redshift of $z = 0.0231$ (corresponding to a Hubble distance of $d \approx 100$ Mpc for $H_0 = 70 \text{ km s}^{-1} \text{ Mpc}^{-1}$), it contains more than 1000 cataloged galaxies concentrated within a virial radius of $R_{\rm vir} \approx 2 - 3$ Mpc, dominated in its center by two giant cD ellipticals (NGC 4874 and NGC 4889). Coma holds a historic position in physical cosmology - in 1933, Fritz Zwicky applied the Virial Theorem to the radial velocity dispersion of its member galaxies, obtaining an astronomical mass-to-light ratio of $(M/L)_B \sim 300 - 400 M_\odot / L_\odot$ and delivering the first empirical discovery of non-luminous dark matter ("dunkle Materie"). Modern multi-wavelength investigations through space-based X-ray observatories (ROSAT, XMM-Newton, Chandra) and gravitational lensing establish that the total mass of Coma is $M_{200} \approx (1.4 - 1.8) \times 10^{15} M_\odot$. The cluster baryon budget reveals that hot, diffuse, X-ray emitting plasma ($T \sim 10^8$ K) out-masses all stars in all galaxies by a factor of six, while non-baryonic dark matter accounts for $\sim 85\%$ of the total cluster mass.
 
 ---
 
@@ -14,7 +14,7 @@ The Coma Cluster (Abell 1656) is the archetype of rich, regular, virialized gala
 The Coma cluster exhibits the classic characteristics of an evolved, dynamically relaxed regular cluster
 - Redshift and Distance - Redshift $z = 0.0231$, line-of-sight recession velocity $c z \approx 6925 \text{ km s}^{-1}$, physical distance $d \approx 99$ Mpc ($1' \approx 28.8$ kpc).
 - Morphology and Galaxy Population - Strongly centrally concentrated with spherical symmetry. Galaxies in the core ($r < 1$ Mpc) are almost exclusively early-type spheroids (ellipticals E and lenticulars S0), reflecting the morphology-density relation (Dressler 1980). Spiral galaxies are restricted to the outer virial periphery ($r > 1.5$ Mpc).
-- The Binary cD Nucleus - The cluster center features two dominant giant supergiant galaxies - NGC 4874 and NGC 4889, both with absolute magnitudes $M_V \approx -23.5$, surrounded by a vast, diffuse halo of intracluster light (ICL) stripped from disrupted satellite galaxies.
+- The Binary cD Nucleus - The cluster center features two dominant giant supergiant galaxies - NGC 4874 and NGC 4889, both with absolute magnitudes $M_V \approx -23.5$, surrounded by a large, diffuse halo of intracluster light (ICL) stripped from disrupted satellite galaxies.
 - Velocity Dispersion - The line-of-sight velocity dispersion of member galaxies is $\sigma_r \approx 1008 \pm 35 \text{ km s}^{-1}$, corresponding to a 3D velocity dispersion of $\langle v^2 \rangle^{1/2} = \sqrt{3} \sigma_r \approx 1750 \text{ km s}^{-1}$.
 
 ---
@@ -71,7 +71,7 @@ $$L_B \approx 5.0 \times 10^{12} L_\odot$$
 The resulting dynamical mass-to-light ratio is
 $$\left(\frac{M}{L}\right)_B = \frac{1.39 \times 10^{15} M_\odot}{5.0 \times 10^{12} L_\odot} \approx 280 - 400 M_\odot / L_\odot$$
 Individual stars in the solar neighborhood have mass-to-light ratios of $(M/L)_B \sim 1 - 3$. Normal stellar populations in elliptical galaxies have $(M/L)_B \sim 6 - 10$.
-Zwicky concluded that the visible galaxies account for less than $2\%$ of the total mass required to hold the cluster together. If the cluster were composed solely of the mass of its luminous stars, the galaxies would disperse into intergalactic space in less than a crossing time ($t_{\rm cross} \sim R / \sigma_r \sim 2$ Gyr). This demanded the existence of vast quantities of unseen dark matter.
+Zwicky concluded that the visible galaxies account for less than $2\%$ of the total mass required to hold the cluster together. If the cluster were composed solely of the mass of its luminous stars, the galaxies would disperse into intergalactic space in less than a crossing time ($t_{\rm cross} \sim R / \sigma_r \sim 2$ Gyr). This demanded the existence of large quantities of unseen dark matter.
 
 ---
 
@@ -120,7 +120,7 @@ This proves that the gravitational mass continues to increase linearly with radi
 
 ## 4. Complete Cluster Mass and Baryon Inventory
 
-Within the virial boundary of the Coma cluster ($R_{200} \approx 2.2$ Mpc, where the mean enclosed density is 200 times the critical cosmic density $\rho_{\rm crit}$), modern multi-wavelength data establish the following comprehensive mass breakdown
+Within the virial boundary of the Coma cluster ($R_{200} \approx 2.2$ Mpc, where the mean enclosed density is 200 times the critical cosmic density $\rho_{\rm crit}$), modern multi-wavelength data establish the following full mass breakdown
 
 ```
 +========================================================================================+

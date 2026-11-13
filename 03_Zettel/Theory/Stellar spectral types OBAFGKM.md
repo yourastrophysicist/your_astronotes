@@ -4,7 +4,7 @@ title: "Stellar spectral types OBAFGKM"
 ---
 # stellar spectral types obafgkm
 
-the OBAFGKM sequence is a one-parameter classification of stellar spectra that turned out to be ordered almost entirely by **effective temperature** (see [[Spectroscopic determination of Teff]]). it is the cornerstone of empirical stellar astrophysics. the order is hot to cool: O is hottest ($T_{\rm eff} > 30{,}000$ K), M is coolest ($T_{\rm eff} \lesssim 3500$ K). the standard mnemonic, "Oh Be A Fine Girl/Guy Kiss Me," helps fix the order.
+the OBAFGKM sequence is a one-parameter classification of stellar spectra that turned out to be ordered almost entirely by **effective temperature** (see [[Spectroscopic determination of Teff]]). it is the basis of empirical stellar astrophysics. the order is hot to cool: O is hottest ($T_{\rm eff} > 30{,}000$ K), M is coolest ($T_{\rm eff} \lesssim 3500$ K). the standard mnemonic, "Oh Be A Fine Girl/Guy Kiss Me," helps fix the order.
 
 each class is subdivided 0-9 (e.g. G2, the sun). additional letters L, T, Y extend the sequence to brown dwarfs.
 
@@ -22,7 +22,7 @@ the spectrum is dominated by which atoms and ions are populated and how. the [[S
 | K | 3700-5200 | strong neutral metals, weak Ca II, hints of TiO | orange | Arcturus, Aldebaran |
 | M | $\leq 3700$ | TiO bands dominant, VO, neutral metals, Ca I | red | Betelgeuse, Proxima Cen |
 
-the dominant-features curve as a function of class peaks for each species at a particular $T_{\rm eff}$: H Balmer peaks at A0 ($\sim 9500$ K), He II is only seen in O stars, Ca II H&K becomes dominant in F-G stars, TiO appears in late K and grows through M. the canonical "line strength vs spectral type" plot organises this beautifully.
+the dominant-features curve as a function of class peaks for each species at a particular $T_{\rm eff}$: H Balmer peaks at A0 ($\sim 9500$ K), He II is only seen in O stars, Ca II H&K becomes dominant in F-G stars, TiO appears in late K and grows through M. the canonical "line strength vs spectral type" plot organises this cleanly.
 
 ## hydrogen Balmer paradox
 

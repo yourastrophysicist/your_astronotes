@@ -22,7 +22,7 @@ the convolution of the Maxwell-Boltzmann energy distribution with the quantum tu
 
 ---
 
-## 1. hydrogen burning: the Proton-Proton (p-p) chain
+## 1. hydrogen burning - the Proton-Proton (p-p) chain
 
 dominant in low-mass and solar-type stars ($M \lesssim 1.5 M_\odot$, $T_c \lesssim 1.8 \times 10^7$ K).
 energy generation rate: $\epsilon_{pp} \propto \rho X_H^2 T^4$.
@@ -56,7 +56,7 @@ total energy released: $Q = 26.73$ MeV (about $0.7\%$ of the rest mass converted
 
 ---
 
-## 2. hydrogen burning: the CNO catalytic cycle
+## 2. hydrogen burning - the CNO catalytic cycle
 
 discovered independently by Carl Friedrich von Weizsäcker (1938) and Hans Bethe (1939). dominant in massive stars ($M \gtrsim 1.5 M_\odot$, $T_c > 2 \times 10^7$ K).
 
@@ -77,7 +77,7 @@ a slight increase in core temperature causes an enormous surge in energy output,
 
 ---
 
-## 3. helium burning: the triple-alpha process
+## 3. helium burning - the triple-alpha process
 
 when core hydrogen is exhausted, the core contracts until $T_c \sim 10^8$ K and $\rho_c \sim 10^4$ g/cm$^3$. at this point, Coulomb repulsion between alpha particles ($Z=2$) is overcome.
 
@@ -103,12 +103,29 @@ in stars with $M \ge 8 M_\odot$, the carbon-oxygen core contracts to trigger suc
 - **Oxygen burning ($T \sim 2 \times 10^9$ K)**: ${}^{16}\text{O} + {}^{16}\text{O} \to {}^{28}\text{Si} + \alpha, \; {}^{31}\text{P} + p, \; {}^{31}\text{S} + n$.
 - **Silicon burning ($T \sim 3-4 \times 10^9$ K)**: nuclear statistical equilibrium (photodisintegration rearrangement) building elements up to the iron peak (${}^{56}\text{Ni} \to {}^{56}\text{Co} \to {}^{56}\text{Fe}$).
 
-### the iron endpoint:
+### the iron endpoint
 ${}^{56}\text{Fe}$ has the maximum binding energy per nucleon ($\approx 8.8$ MeV/nucleon). nuclear fusion beyond iron is **endothermic** (absorbs energy rather than releasing it). when an iron core forms, the star runs out of nuclear fuel, precipitating catastrophic gravitational collapse.
 
 ![stellar-31.png](../../assets/images/stellar-31.png)
 
 ---
+
+## worked example
+
+four protons weigh $4 \times 1.007825 = 4.03130$ u, a helium nucleus $4.002603$ u. the difference is $0.0287$ u, or $0.71\%$ of the mass, which is $26.7$ MeV per helium nucleus.
+
+the Sun radiates $3.83 \times 10^{26}$ W, so it converts
+
+$$\frac{3.83 \times 10^{26}}{0.0071 \times 9 \times 10^{16}} = 6.0 \times 10^{11}\ \text{kg/s}$$
+
+of hydrogen into helium, and loses $4.3 \times 10^9$ kg/s of mass as energy.
+
+## where it goes wrong
+
+- the rates depend very steeply on temperature. roughly $T^4$ for the pp chain, $T^{17}$ for the CNO cycle and $T^{40}$ for the triple alpha.
+- the CNO cycle dominates above about $1.3\,M_\odot$, and that is why those stars have convective cores.
+- fusion releases energy only up to the iron peak. heavier elements come from neutron capture, the s and r processes.
+- classically the protons in the Sun could not overcome the Coulomb barrier. fusion works by quantum tunnelling.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

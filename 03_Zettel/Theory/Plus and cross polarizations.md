@@ -45,7 +45,7 @@ for typical sources:
 - binary BH merger: $h \sim 10^{-21}$.
 - LIGO arm length $L = 4$ km. so $\Delta L \sim 4 \times 10^{-18}$ m. measured by laser interferometry.
 
-## comparison: EM photon polarisations
+## comparison - EM photon polarisations
 
 similar pattern in electromagnetism:
 - photon: spin-1, two helicities $\pm 1$, equivalent to $E_x, E_y$ linear polarisations (transverse to propagation).

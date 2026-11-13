@@ -21,7 +21,7 @@ for example:
 - **neutrinos** decouple from the plasma at $T \sim 1$ MeV: weak rates $G_F^2 T^5$ fall below $H \propto T^2$
 - **WIMPs** of mass $\sim 100$ GeV decouple at $T \sim m/20$, after they've gone non-relativistic
 
-after decoupling, the species' number density evolves only by dilution: $n \propto a^{-3}$. this is why we still see a CMB today — those photons last scattered at $z \sim 1100$ and have been free-streaming ever since.
+after decoupling, the species' number density evolves only by dilution: $n \propto a^{-3}$. this is why we still see a CMB today. those photons last scattered at $z \sim 1100$ and have been free-streaming ever since.
 
 ---
 
@@ -33,8 +33,8 @@ depending on whether the species is **relativistic or non-relativistic** at deco
 - **cold relics**: $T_d < m$. already non-relativistic at decoupling. abundance set by Boltzmann suppression $e^{-m/T_d}$ followed by freeze-out.
 
 example:
-- **neutrinos** in the standard model are hot relics: they decoupled at $T_d \sim 1$ MeV $\gg m_\nu \sim 0.1$ eV. today $\Omega_\nu \lesssim 10^{-3}$.
-- **WIMPs** are cold relics: $T_d \sim m/20$, so they're already non-relativistic at decoupling. natural abundance $\Omega_{dm} h^2 \sim 0.1$ for weak-scale cross-sections — the **WIMP miracle**.
+- **neutrinos** in the standard model are hot relics. they decoupled at $T_d \sim 1$ MeV $\gg m_\nu \sim 0.1$ eV. today $\Omega_\nu \lesssim 10^{-3}$.
+- **WIMPs** are cold relics: $T_d \sim m/20$, so they're already non-relativistic at decoupling. natural abundance $\Omega_{dm} h^2 \sim 0.1$ for weak-scale cross-sections, the **WIMP miracle**.
 
 ---
 
@@ -43,9 +43,9 @@ example:
 for a thermal relic that decouples while non-relativistic, the present abundance is
 $$\Omega_{dm} h^2 \approx \frac{3 \times 10^{-27}\,\text{cm}^3/\text{s}}{\langle\sigma v\rangle}$$
 
-remarkably, weak-scale annihilation cross-sections $\langle\sigma v\rangle \sim 10^{-26}$ cm$^3$/s give exactly $\Omega_{dm} h^2 \sim 0.1$ — the observed value. this is the **WIMP miracle**: dark matter at the electroweak scale "naturally" gets the right abundance.
+weak-scale annihilation cross-sections $\langle\sigma v\rangle \sim 10^{-26}$ cm$^3$/s give exactly $\Omega_{dm} h^2 \sim 0.1$, the observed value. this is the **WIMP miracle**: dark matter at the electroweak scale "naturally" gets the right abundance.
 
-→ see Dark matter relics — WIMP miracle.
+→ see Dark matter relics - WIMP miracle.
 
 ---
 
@@ -65,9 +65,14 @@ this frozen ratio determines the primordial $^4$He abundance (about 25%).
 
 ## decoupling is not freezing-out for everyone
 
-note: photons "decouple" at recombination, but they do not "freeze out" in the WIMP sense — there are huge numbers of them, and they continue to redshift in the standard $\rho \propto a^{-4}$ way. so "decoupling" is the more general term: a species stops interacting with the rest. "freeze-out" specifically refers to the moment when a species' comoving abundance becomes constant — typical for cold relics.
+note: photons "decouple" at recombination, but they do not "freeze out" in the WIMP sense, there are huge numbers of them, and they continue to redshift in the standard $\rho \propto a^{-4}$ way. so "decoupling" is the more general term: a species stops interacting with the rest. "freeze-out" specifically refers to the moment when a species' comoving abundance becomes constant, typical for cold relics.
 
 ---
+
+## where it goes wrong
+
+- $\Gamma = H$ gives the temperature of decoupling only to within a factor of a few. the full Boltzmann equation is needed for precision.
+- freeze-out of number is not the same as kinetic decoupling.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -85,10 +90,10 @@ note: photons "decouple" at recombination, but they do not "freeze out" in the W
 - [[Conservation of entropy in a comoving volume]]
 - [[BBN_overview]]
 - [[BBN_neutron_proton_ratio]]
-- Dark matter relics — WIMP miracle
+- Dark matter relics - WIMP miracle
 - [[Hot vs cold dark matter]]
 - [[Boltzmann equation in cosmology]]
-- [[Baumann_reference]] — chapter 3.1.2 covers decoupling and freeze-out in detail
+- [[Baumann_reference]] - chapter 3.1.2 covers decoupling and freeze-out in detail
 
 
 

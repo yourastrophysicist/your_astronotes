@@ -35,7 +35,7 @@ instead, choose any affine parameter $\lambda$ such that the geodesic equation h
 ## why affine parameter matters
 
 several conveniences:
-1. the **inner product** $g_{\mu\nu}\dot x^\mu \dot x^\nu$ is constant along the geodesic: $\frac{d}{d\lambda}(g\dot x \dot x) = 2g_{\mu\nu}\dot x^\mu (\dot x^\nu \nabla \dot x^\nu) = 0$ if $\nabla\dot x = 0$. so timelike $\to$ stays timelike; null $\to$ stays null.
+1. the **inner product** $g_{\mu\nu}\dot x^\mu \dot x^\nu$ is constant along the geodesic: $\frac{d}{d\lambda}(g\dot x \dot x) = 2g_{\mu\nu}\dot x^\mu (\dot x^\nu \nabla \dot x^\nu) = 0$ if $\nabla\dot x = 0$. so timelike $\to$ stays timelike. null $\to$ stays null.
 2. the geodesic equation is the simplest form $\ddot x + \Gamma\dot x\dot x = 0$.
 3. **conservation laws** from Killing vectors give $\xi_\mu\dot x^\mu = $ const. this constant has clean physical meaning (energy, angular momentum) only with affine $\lambda$.
 4. the **affine parameter is unique** up to $\lambda \to a\lambda + b$, so up to physical scaling.
@@ -44,7 +44,7 @@ several conveniences:
 
 sometimes useful to use a different parameter. for example, in computing photon paths, you might use the radial coordinate $r$ as the parameter, getting $r(\phi)$ rather than $r(\lambda)$. this gives a non-affine parametrization, and the geodesic equation has extra terms.
 
-practical: convert to an affine parameter when doing physics; convert back when comparing to coordinate-based observation.
+practical: convert to an affine parameter when doing physics. convert back when comparing to coordinate-based observation.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

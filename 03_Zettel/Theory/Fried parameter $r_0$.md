@@ -14,7 +14,7 @@ $$D_\phi(r) = 6.88 \, (r/r_0)^{5/3}$$
 
 so $r_0$ is the separation at which $D_\phi = 6.88$ rad$^2$. equivalently: at $r = r_0$, the rms phase difference is $\sim 2.6$ rad.
 
-a more physical definition: $r_0$ is the size of an aperture for which the wavefront variance is $\sim 1$ rad$^2$. apertures smaller than $r_0$ are nearly diffraction-limited; larger ones are seeing-limited.
+a more physical definition: $r_0$ is the size of an aperture for which the wavefront variance is $\sim 1$ rad$^2$. apertures smaller than $r_0$ are nearly diffraction-limited. larger ones are seeing-limited.
 
 ## the formula
 
@@ -79,7 +79,7 @@ three:
 
 ### 1. sub-aperture size
 
-each interferometer telescope's effective collecting area is set by **min**$(D, r_0)$. for $D > r_0$, only the central $r_0$ patch contributes coherently. so interferometers might as well have telescopes of diameter $\sim r_0$ — anything larger is wasted *unless* AO is in use.
+each interferometer telescope's effective collecting area is set by **min**$(D, r_0)$. for $D > r_0$, only the central $r_0$ patch contributes coherently. so interferometers might as well have telescopes of diameter $\sim r_0$, anything larger is wasted *unless* AO is in use.
 
 VLTI's 8m UTs all have AO (NAOS, MACAO). without AO, they would only contribute as effective $\sim 60$ cm telescopes at K-band.
 
@@ -89,7 +89,7 @@ the relative phase between two sub-apertures (the *piston*) varies on timescales
 
 ### 3. baselines
 
-the maximum useful interferometer baseline (without AO) is $\sim r_0$. baselines larger than $r_0$ have wavefronts decorrelated at the two ends — fringes form but with rapidly varying phase.
+the maximum useful interferometer baseline (without AO) is $\sim r_0$. baselines larger than $r_0$ have wavefronts decorrelated at the two ends, fringes form but with rapidly varying phase.
 
 with AO, this limit is removed: AO restores coherent wavefronts at each telescope, making arbitrary baselines work.
 
@@ -101,7 +101,7 @@ modern observatories run DIMMs continuously. nightly $r_0$ values are logged, an
 
 ## historical note
 
-David Fried introduced the parameter in his 1965 paper "Statistics of a Geometric Representation of Wavefront Distortion." the original formula was for *short-exposure* images; later extensions cover long exposures, AO performance, and beyond.
+David Fried introduced the parameter in his 1965 paper "Statistics of a Geometric Representation of Wavefront Distortion." the original formula was for *short-exposure* images. Later extensions cover long exposures, AO performance, and beyond.
 
 the parameter is now everywhere in optical astronomy and adaptive-optics literature. when someone says "the seeing is 0.6 arcsecond" they implicitly mean $r_0 \approx 17$ cm at 500 nm.
 

@@ -18,7 +18,7 @@ $$M_{\text{BH}}(t) = M_0 \exp\left( \frac{t}{\tau_{\text{Salpeter}}} \right), \q
 
 all radio-quiet AGNs share an identical physical engine, with observed observational differences arising primarily from the viewing angle $\theta$ relative to an obscuring, dusty molecular torus:
 - **Type 1 AGN (Seyfert 1, Quasars)**: viewed along pole (face-on, $\theta < \theta_{\text{torus}}$). direct line of sight to the central engine reveals both the high-velocity Broad-Line Region (BLR: FWHM $> 2000\text{ km s}^{-1}$) and the extended Narrow-Line Region (NLR: FWHM $\sim 500\text{ km s}^{-1}$).
-- **Type 2 AGN (Seyfert 2)**: viewed edge-on through the obscuring dusty torus ($\theta > \theta_{\text{torus}}$). the central continuum and BLR are obscured; only narrow forbidden lines from the extended NLR are visible in direct light (broad lines appear only in polarized scattered light).
+- **Type 2 AGN (Seyfert 2)**: viewed edge-on through the obscuring dusty torus ($\theta > \theta_{\text{torus}}$). the central continuum and BLR are obscured. Only narrow forbidden lines from the extended NLR are visible in direct light (broad lines appear only in polarized scattered light).
 
 ## smbh-host coevolution and feedback
 
@@ -32,6 +32,10 @@ because the energy released by black hole growth ($E_{\text{BH}} = \eta M_{\text
    at high accretion rates near the peak of cosmic star formation ($z \sim 2$), radiation pressure drives multi-phase galactic winds with mass outflow rates $\dot{M}_{\text{out}} \sim 100 - 1000 M_\odot\text{ yr}^{-1}$, expelling cold molecular gas and terminating star formation.
 2. **Radio mode (kinetic / jet mode)**:
    at low accretion rates in massive halos, relativistic radio jets inject mechanical energy into the intra-cluster medium (ICM), creating X-ray cavities and preventing cooling flows, keeping massive ellipticals "red and dead".
+
+## where it goes wrong
+
+- the unified model explains orientation effects, but it does not explain differences in accretion rate.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -38,7 +38,7 @@ a useful complement is to fit the cluster LF jointly with [[Color-magnitude diag
 
 **uncertainties**
 
-- M-L relation uncertainties (especially at low mass; differences between models reach $\sim 0.05\,M_\odot$),
+- M-L relation uncertainties (especially at low mass, differences between models reach $\sim 0.05\,M_\odot$),
 - [[Cluster binary fraction methods\|unresolved binaries]] inflate the LF at $\sim 0.75$ mag above the single-star ridge and bias the inferred $\xi(M)$,
 - Differential reddening smears the LF,
 - crowding-induced incompleteness at the faint end (corrected with artificial-star tests).

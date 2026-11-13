@@ -52,7 +52,7 @@ JWST + KCWI + MUSE provide IFU spectra of large fields. simultaneously identify 
 ## the protocluster reviews
 
 key papers:
-- **Overzier 2016** (A&A Rev): comprehensive review of protocluster detection + properties.
+- **Overzier 2016** (A&A Rev): full review of protocluster detection + properties.
 - **Chiang et al. 2013, 2017**: simulations + theoretical mass estimates for protoclusters.
 
 ## the link to today's clusters
@@ -73,7 +73,12 @@ protoclusters reveal:
 - **BCG progenitors**: how today's brightest cluster galaxies formed.
 - **mass assembly history**: progenitor-descendant matching with simulations.
 
-JWST is currently revolutionising this field with **spectroscopically confirmed protoclusters at $z = 7$ to $10$**.
+JWST is currently changing this field with **spectroscopically confirmed protoclusters at $z = 7$ to $10$**.
+
+## where it goes wrong
+
+- an overdensity in projection is not a bound structure. spectroscopic redshifts are needed.
+- protoclusters are not virialized, so no X-ray emission is expected.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

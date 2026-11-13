@@ -21,7 +21,7 @@ at step $k$ (for $k = 1, 2, \ldots, N-1$), use row $k$ to eliminate $A_{ik}$ for
 
 $$\text{for } i = k+1, \ldots, N: \quad m = A_{ik}/A_{kk}, \quad \text{row}_i \leftarrow \text{row}_i - m \cdot \text{row}_k$$
 
-after $N-1$ such steps the matrix is upper triangular. the entry $A_{kk}$ at step $k$ is the **pivot**. if it is zero, the algorithm fails — fix this with [[Partial pivoting]].
+after $N-1$ such steps the matrix is upper triangular. the entry $A_{kk}$ at step $k$ is the **pivot**. if it is zero, the algorithm fails, fix this with [[Partial pivoting]].
 
 ## the algorithm (back substitution)
 
@@ -57,7 +57,7 @@ def gauss_elim(A, b):
     return x
 ```
 
-worth implementing once from scratch to understand every line. for production, use `np.linalg.solve(A, b)` — it does Gauss elimination with partial pivoting under the hood.
+worth implementing once from scratch to understand every line. for production, use `np.linalg.solve(A, b)`. it does Gauss elimination with partial pivoting under the hood.
 
 ## complexity
 
@@ -83,7 +83,7 @@ after forward elimination, $A$ is upper triangular and:
 
 $$\det A = \prod_{k=1}^N A_{kk}$$
 
-(times $(-1)^{\text{number of row swaps}}$ if pivoting). this is in fact how `np.linalg.det` computes determinants for general $N$ — the cofactor expansion is $O(N!)$ and infeasible.
+(times $(-1)^{\text{number of row swaps}}$ if pivoting). this is in fact how `np.linalg.det` computes determinants for general $N$, the cofactor expansion is $O(N!)$ and infeasible.
 
 ## what to do with multiple right-hand sides
 
@@ -102,9 +102,9 @@ if I need to solve $A\mathbf{x}_i = \mathbf{b}_i$ for many $\mathbf{b}_i$, **do 
 
 ## see also
 
-- [[Partial pivoting]] — the fix for zero/tiny pivots
-- [[LU decomposition]] — factor once, reuse for many RHS
-- [[Gauss-Seidel iteration]] — iterative alternative
+- [[Partial pivoting]] - the fix for zero/tiny pivots
+- [[LU decomposition]] - factor once, reuse for many RHS
+- [[Gauss-Seidel iteration]] - iterative alternative
 - [[Pros and cons of linear solvers]]
 - [[Mathematical_Numerical_Methods_MOC]]
 

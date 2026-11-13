@@ -6,7 +6,7 @@ title: "Madau plot"
 
 ## 1. Physical Significance of the Cosmic Star Formation History
 
-The **Madau plot** (or Madau-Dickinson plot; Madau et al. 1996; Lilly et al. 1996; Madau & Dickinson 2014) maps the cosmic star formation rate density $\rho_{\rm SFR}(z)$, defined as the total mass of stars formed per unit comoving volume per unit time (in units of $M_\odot\,\mathrm{yr}^{-1}\,\mathrm{Mpc}^{-3}$), as a function of redshift $z$ and lookback time.
+The **Madau plot** (or Madau-Dickinson plot, Madau et al. 1996, Lilly et al. 1996, Madau & Dickinson 2014) maps the cosmic star formation rate density $\rho_{\rm SFR}(z)$, defined as the total mass of stars formed per unit comoving volume per unit time (in units of $M_\odot\,\mathrm{yr}^{-1}\,\mathrm{Mpc}^{-3}$), as a function of redshift $z$ and lookback time.
 
 It is the fundamental empirical benchmark for all galaxy formation and cosmological evolution theories, demonstrating that.
 1. Star formation in the universe was far more active in the past than it is today.
@@ -122,7 +122,7 @@ When sketching the Madau plot on the blackboard.
 - **Vertical Axis** - Comoving star formation rate density $\log_{10} \rho_{\rm SFR}$ in units of $M_\odot\,\mathrm{yr}^{-1}\,\mathrm{Mpc}^{-3}$ from $-2.5$ to $-0.5$
 - **Total Curve (Dust Corrected)** - Solid line starting at $-1.8$ at $z=0$, rising steeply by $\sim 1\,\mathrm{dex}$ to peak at $-0.9$ at $z \approx 1.9$, then declining gradually toward higher $z$
 - **Uncorrected UV Curve** - Dashed line showing the severe dust gap at $z \sim 1 - 3$, where the uncorrected UV is lower by a factor of $3$ to $5$
-- **Annotate Turnover Physics** - Write "Cold gas accretion & halo collapse" on the high-$z$ rise; write "Halo shock heating & AGN feedback" on the low-$z$ decline
+- **Annotate Turnover Physics** - Write "Cold gas accretion & halo collapse" on the high-$z$ rise. Write "Halo shock heating & AGN feedback" on the low-$z$ decline
 
 ---
 

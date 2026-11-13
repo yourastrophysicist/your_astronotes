@@ -20,7 +20,7 @@ three things make VLTI special:
 
 ### 1. AO at every telescope
 
-each UT has an AO system (NAOS-CONICA for UT4, MACAO for the others). this corrects atmospheric phase distortion *at each telescope*, allowing the full 8m aperture to contribute coherently — instead of the effective $r_0 \sim 60$ cm patch.
+each UT has an AO system (NAOS-CONICA for UT4, MACAO for the others). this corrects atmospheric phase distortion *at each telescope*, allowing the full 8m aperture to contribute coherently, instead of the effective $r_0 \sim 60$ cm patch.
 
 without AO, VLTI would be impossibly faint-limited. with AO, it reaches K = 12 routinely.
 
@@ -82,9 +82,9 @@ end-to-end throughput of VLTI/GRAVITY: ~5-10% of source photons reach the detect
 - fiber coupling: ~30%
 - detector QE: ~70% (HAWAII-2RG)
 
-so a $K = 12$ source gives $\sim 10^4$ photons/s reaching the detector — enough for fringe tracking with ms integrations.
+so a $K = 12$ source gives $\sim 10^4$ photons/s reaching the detector, enough for fringe tracking with ms integrations.
 
-## the future: GRAVITY+
+## the future - GRAVITY+
 
 upgraded GRAVITY (2024+) brings:
 
@@ -109,7 +109,7 @@ extends VLTI's reach: targets like AGN nuclei at $z = 0.3$ become accessible.
 | (u, v) coverage | very good with rotation | excellent (6 telescopes) |
 | flagship science | Galactic Center, AGN | stellar surfaces |
 
-VLTI dominates faint-target science (sensitivity from the UTs); CHARA dominates resolved-stellar-surface imaging (longer baselines, more telescopes).
+VLTI dominates faint-target science (sensitivity from the UTs). CHARA dominates resolved-stellar-surface imaging (longer baselines, more telescopes).
 
 ## scientific figure
 

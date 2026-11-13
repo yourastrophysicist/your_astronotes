@@ -35,7 +35,7 @@ $$t_{\rm eq} \approx 50\,000\,\text{years}$$
 
 very early in cosmic history.
 
-## why it matters: structure formation
+## why it matters - structure formation
 
 before equality (radiation era):
 - linear matter perturbations $\delta_m$ are **driven** by the photon-baryon fluid's pressure. matter perturbations grow only logarithmically.
@@ -45,7 +45,7 @@ after equality (matter era):
 - matter perturbations grow as $\delta_m \propto a$.
 - this is the regime in which all structures (galaxies, clusters) form.
 
-so $a_{\rm eq}$ sets the **transfer function** for cosmological perturbations: scales that entered the horizon during radiation domination are suppressed; scales that entered during matter domination grow normally. the transition gives the **break in the matter power spectrum** at the equality scale.
+so $a_{\rm eq}$ sets the **transfer function** for cosmological perturbations: scales that entered the horizon during radiation domination are suppressed. scales that entered during matter domination grow normally. the transition gives the **break in the matter power spectrum** at the equality scale.
 
 equality scale (comoving):
 $$k_{\rm eq} = a_{\rm eq} H_{\rm eq}/c \approx 0.01\,h\,\text{Mpc}^{-1}$$

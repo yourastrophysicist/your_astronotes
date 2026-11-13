@@ -20,7 +20,7 @@ what isochrone fitting actually solves. given a cluster CMD with measured magnit
 $$ \theta = (t, [\mathrm{Fe}/\mathrm{H}], (m-M)_0, E(B-V)) $$
 by minimising a likelihood that compares the data to a *shifted, reddened isochrone*:
 $$ M_V = m_V - (m-M)_0 - A_V, \quad (B-V)_0 = (B-V) - E(B-V) $$
-with $A_V \approx 3.1 \, E(B-V)$. priors come from independent constraints: $[\mathrm{Fe}/\mathrm{H}]$ from spectroscopy of cluster members; $(m-M)_0$ from gaia parallaxes for nearby clusters or RR Lyrae for GCs; $E(B-V)$ from dust maps (schlegel, schlafly, planck). degeneracies are real: the [[Age-metallicity degeneracy]] couples $t$ and $[\mathrm{Fe}/\mathrm{H}]$, and a *reddening-distance degeneracy* couples $E(B-V)$ and $(m-M)_0$ along the reddening vector in the CMD.
+with $A_V \approx 3.1 \, E(B-V)$. priors come from independent constraints: $[\mathrm{Fe}/\mathrm{H}]$ from spectroscopy of cluster members. $(m-M)_0$ from gaia parallaxes for nearby clusters or RR Lyrae for GCs. $E(B-V)$ from dust maps (schlegel, schlafly, planck). degeneracies are real: the [[Age-metallicity degeneracy]] couples $t$ and $[\mathrm{Fe}/\mathrm{H}]$, and a *reddening-distance degeneracy* couples $E(B-V)$ and $(m-M)_0$ along the reddening vector in the CMD.
 
 three philosophies of fit:
 

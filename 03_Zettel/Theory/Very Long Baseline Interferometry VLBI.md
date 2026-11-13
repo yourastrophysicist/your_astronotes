@@ -4,7 +4,7 @@ title: "Very Long Baseline Interferometry VLBI"
 ---
 # Very Long Baseline Interferometry (VLBI)
 
-radio interferometry with antennas spread across continents (or even between Earth and space). achieves the highest angular resolutions in astronomy — μarcseconds at mm wavelengths. signals are recorded at each station with atomic-clock timing and correlated post-hoc.
+radio interferometry with antennas spread across continents (or even between Earth and space). achieves the highest angular resolutions in astronomy, μarcseconds at mm wavelengths. signals are recorded at each station with atomic-clock timing and correlated post-hoc.
 
 ## the architecture
 
@@ -16,7 +16,7 @@ radio interferometry with antennas spread across continents (or even between Ear
 
 baseline limit: only the diameter of the Earth (or the size of an Earth-spacecraft system). EVN baselines: ~10000 km. EHT: ~10000 km (similar).
 
-## the central insight: independent timing
+## the central insight - independent timing
 
 unlike CEIs where a common LO synchronizes all antennas, VLBI stations operate *independently*. each station's recording carries its own timestamp from its own H-maser.
 
@@ -41,7 +41,7 @@ flagship: **EHT 2019 image** of M87's central black hole shadow at 1.3 mm. earli
 
 OH, water, methanol masers in star-forming regions. their high brightness temperatures ($T_b \sim 10^{14}$ K) make them ideal VLBI targets. resolved maser images map molecular cloud kinematics.
 
-flagship: NGC 4258's 22 GHz water masers. the masers' Keplerian motion mapped a SMBH mass via VLBI; the geometric distance (from Doppler-tracking the maser positions) anchored the local distance scale.
+flagship: NGC 4258's 22 GHz water masers. the masers' Keplerian motion mapped a SMBH mass via VLBI. the geometric distance (from Doppler-tracking the maser positions) anchored the local distance scale.
 
 ### pulsars
 
@@ -49,7 +49,7 @@ precise pulsar positions and proper motions via VLBI. pulsar **timing arrays** (
 
 ### geodesy
 
-VLBI to extragalactic point sources defines the **International Celestial Reference Frame (ICRF)** — the most accurate angular reference frame in astronomy. pinned to SMBHs that don't move on observable timescales.
+VLBI to extragalactic point sources defines the **International Celestial Reference Frame (ICRF)**, the most accurate angular reference frame in astronomy. pinned to SMBHs that don't move on observable timescales.
 
 ### spacecraft tracking
 
@@ -89,7 +89,7 @@ JPL uses VLBI to track interplanetary spacecraft (Voyager, New Horizons) for nav
 VLBI is data-intensive. typical 24-hour observation:
 - 16 stations × 8 GHz bandwidth × 16 bits/sample × 3600s × 24 → $\sim 10^{14}$ bytes raw
 
-= 100 TB per session per array. originally shipped on hard drives ("sneakernet"); now mostly transferred via dedicated fiber links to central correlators (e.g. JIVE in the Netherlands, Bonn in Germany, Haystack in the US).
+= 100 TB per session per array. originally shipped on hard drives ("sneakernet"). now mostly transferred via dedicated fiber links to central correlators (e.g. JIVE in the Netherlands, Bonn in Germany, Haystack in the US).
 
 ## the calibration
 

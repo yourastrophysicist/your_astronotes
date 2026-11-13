@@ -30,7 +30,7 @@ the **contracted Bianchi identity** ensures that two of the three equations are 
 - **Friedmann + acceleration** $\to$ derive continuity.
 - **acceleration + continuity** $\to$ derive Friedmann (up to a constant of integration, fixed by current conditions).
 
-this redundancy is a feature, not a bug; it's what makes the system over-determined at the global level + uniquely solvable.
+this redundancy is a useful property. it's what makes the system over-determined at the global level + uniquely solvable.
 
 ## the derivation
 
@@ -124,7 +124,7 @@ each species's contribution scales with $z$ according to its equation of state. 
 - [[Time-redshift relation]]
 - [[Transition epochs]]
 - [[Various models of the universe]]
-- [[Cosmology_of_the_Early_Universe_MOC]]
+- Cosmology_of_the_Early_Universe_MOC
 - [[General_Relativity_MOC]]
 
 

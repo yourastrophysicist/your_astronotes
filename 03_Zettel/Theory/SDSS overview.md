@@ -5,7 +5,7 @@ tags: ""
 ---
 # Sloan Digital Sky Survey (SDSS) Overview
 
-The Sloan Digital Sky Survey (SDSS) represents the foundational wide-field astronomical survey that established precision statistical galaxy science. Operating primarily from the dedicated 2.5-meter telescope at Apache Point Observatory (APO), New Mexico, SDSS mapped over one-third of the celestial sphere in five optical passbands ($u, g, r, i, z$) and accumulated millions of optical spectra. The resulting datasets established the benchmark empirical foundations for the local galaxy luminosity function, color bimodality, large-scale cosmological clustering, and morphological classifications.
+The Sloan Digital Sky Survey (SDSS) represents the wide-field astronomical survey that established precision statistical galaxy science. Operating primarily from the dedicated 2.5-meter telescope at Apache Point Observatory (APO), New Mexico, SDSS mapped over one-third of the celestial sphere in five optical passbands ($u, g, r, i, z$) and accumulated millions of optical spectra. The resulting datasets established the benchmark empirical foundations for the local galaxy luminosity function, color bimodality, large-scale cosmological clustering, and morphological classifications.
 
 ---
 

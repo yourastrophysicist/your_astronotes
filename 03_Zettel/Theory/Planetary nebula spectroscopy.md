@@ -14,7 +14,7 @@ a **planetary nebula (PN)** is the ejected envelope of an intermediate-mass star
 - **[OI] $\lambda 6300, 6364$**: from the neutral envelope around the inner ionised gas.
 - **[OII], [NII], [SII], [SIII]**: standard nebular forbidden lines.
 
-### example: M57 (Ring Nebula)
+### example - M57 (Ring Nebula)
 the canonical bright optical PN. spectrum (in `intro_spec.pdf`) shows:
 - $[OIII]\,\lambda 5007$ towering above other features.
 - bright Balmer (mostly H$\alpha$, H$\beta$).

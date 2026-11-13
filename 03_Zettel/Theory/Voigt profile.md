@@ -54,7 +54,7 @@ so the line core is mostly Gaussian, but the wings (a few hundred mÅ from line 
 
 at very high column density, the line core saturates (zero flux) and the optical depth is $\sim \Gamma/(\nu-\nu_0)^2$ in the wings. so the **wing optical depth is $\propto N$ at fixed offset**, hence the wing equivalent width $\propto \sqrt{N\Gamma}$. this is the "damping wing" regime of the curve of growth, where lines continue to grow despite saturated cores.
 
-DLA systems in QSO sight lines have $N \sim 10^{20}$ to $10^{22}$ cm$^{-2}$ of HI; their Lyman alpha line shows extreme damping wings extending many Å. the wing width directly gives $N$.
+DLA systems in QSO sight lines have $N \sim 10^{20}$ to $10^{22}$ cm$^{-2}$ of HI. Their Lyman alpha line shows extreme damping wings extending many Å. the wing width directly gives $N$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

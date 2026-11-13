@@ -28,7 +28,7 @@ np.finfo(float).tiny     # 2.2250738585072014e-308
 ## what this means in practice
 
 - **numbers below $10^{-308}$ underflow to 0**. above $10^{308}$ overflow to `inf`. there are also **subnormal** numbers near zero with reduced precision
-- **two numbers that differ by less than $\epsilon \cdot \max(\lvert a\rvert, \lvert b\rvert)$ are *the same* float**. this is why `0.1 + 0.2 == 0.3` returns `False` — `0.1` and `0.2` cannot both be exactly represented in binary, and their sum disagrees with `0.3` (also inexact) at the 17th digit
+- **two numbers that differ by less than $\epsilon \cdot \max(\lvert a\rvert, \lvert b\rvert)$ are *the same* float**. this is why `0.1 + 0.2 == 0.3` returns `False` - `0.1` and `0.2` cannot both be exactly represented in binary, and their sum disagrees with `0.3` (also inexact) at the 17th digit
 
 ```python
 >>> 0.1 + 0.2 == 0.3
@@ -43,7 +43,7 @@ False
 
 ### 1. catastrophic cancellation
 
-subtracting two nearly-equal numbers leaves only the digits where they disagree. if both have 16 digits and they agree to 13, the result has only 3 reliable digits. this is the most dangerous error because the loss is invisible — the answer looks fine.
+subtracting two nearly-equal numbers leaves only the digits where they disagree. if both have 16 digits and they agree to 13, the result has only 3 reliable digits. this is the most dangerous error because the loss is invisible, the answer looks fine.
 
 example: forward finite difference $f'(x) \approx [f(x+h) - f(x)]/h$ for tiny $h$. the numerator is the cancellation of two nearly-equal values, divided by tiny $h$. result: noise.
 
@@ -58,7 +58,7 @@ summing $N$ floats, each with error $\sim \epsilon \lvert x_i\rvert$, gives fina
 
 mitigation:
 - **Kahan summation** keeps a running compensation term, error reduced to $O(\epsilon)$ independent of $N$
-- numpy's `np.sum` uses pairwise summation, error $O(\epsilon \log N)$ — better than naive but worse than Kahan
+- numpy's `np.sum` uses pairwise summation, error $O(\epsilon \log N)$, better than naive but worse than Kahan
 - when in doubt, sum smallest-to-largest
 
 ### 3. order of operations matters
@@ -93,7 +93,7 @@ def isclose(a, b, rtol=1e-12, atol=1e-15):
 
 ## what overflow and underflow look like in physics code
 
-- **boltzmann factors** $e^{-E/kT}$ at large $E/kT$ underflow to 0 — fine, often correct
+- **boltzmann factors** $e^{-E/kT}$ at large $E/kT$ underflow to 0 - fine, often correct
 - **partition functions** $\sum_i e^{-E_i/kT}$ where one $E_i$ is much smaller than the rest: subtract the minimum first, $\sum_i e^{-(E_i - E_{\min})/kT}$, to avoid both overflow and underflow
 - **likelihood functions**: work in log space, $\log P = \sum \log p_i$, never $P = \prod p_i$
 - **N-body force computations**: $r^{-3}$ blows up if $r \to 0$, so use a softening $r \to \sqrt{r^2 + \epsilon^2}$
@@ -108,8 +108,8 @@ def isclose(a, b, rtol=1e-12, atol=1e-15):
 
 ## see also
 
-- [[Truncation error and order of accuracy]] — the *other* error type
-- [[Roundoff vs truncation balance]] — the U-curve, optimal step size
+- [[Truncation error and order of accuracy]] - the *other* error type
+- [[Roundoff vs truncation balance]] - the U-curve, optimal step size
 - [[Computational complexity and speed]]
 - [[Mathematical_Numerical_Methods_MOC]]
 

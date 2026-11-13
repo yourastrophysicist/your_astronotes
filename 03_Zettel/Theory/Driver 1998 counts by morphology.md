@@ -22,7 +22,7 @@ three different counts, three different slopes:
 
 ## why this matters cosmologically
 
-the faint blue galaxy excess is the signature of a population of *small, blue, irregular* galaxies that were much more abundant at $z \sim 0.3$–$1$ than today. there are two ways to produce it:
+the faint blue galaxy excess is the signature of a population of *small, blue, irregular* galaxies that were much more abundant at $z \sim 0.3$ to $1$ than today. there are two ways to produce it:
 
 1. they merged into present-day larger galaxies (hierarchical buildup),
 2. they faded into present-day low-surface-brightness dwarfs (luminosity evolution).
@@ -32,6 +32,10 @@ probably both. either way, the morphological split tells you that the *total* co
 ## what driver 1998 used the counts for
 
 he overplotted three cosmological models, $\Omega_M = 1, 0.3, 0.05$, on the morphology-segregated counts. the E/S0 counts (least evolving) preferred $\Omega_M = 0.3$, providing pre-supernova evidence for a low-density universe. supernova cosmology two years later confirmed it more cleanly with $\Omega_\Lambda$.
+
+## where it goes wrong
+
+- the morphology of faint galaxies changes with the rest-frame band, so the classes are not the same at all magnitudes.
 
 ## connections
 

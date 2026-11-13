@@ -11,7 +11,7 @@ $$I_\nu = \frac{dE}{dA\, dt\, d\Omega\, d\nu}$$
 
 units: erg s$^{-1}$ cm$^{-2}$ sr$^{-1}$ Hz$^{-1}$.
 
-the most fundamental: it specifies the radiation field at a point in a direction at a frequency. crucially, **$I_\nu$ is conserved along a ray** in vacuum:
+the most fundamental: it specifies the radiation field at a point in a direction at a frequency. and **$I_\nu$ is conserved along a ray** in vacuum:
 $$\frac{dI_\nu}{ds} = 0\quad\text{in free space}$$
 this is why surface brightness of a resolved object is *independent of distance* in Euclidean space (in cosmology, redshift breaks this: $I_\nu^{\rm obs} = I_\nu^{\rm rest}/(1+z)^4$, see [[Surface brightness dimming]]).
 
@@ -66,6 +66,12 @@ $$F = \frac{L}{4\pi d^2} = \left(\frac{R}{d}\right)^2 \sigma_{SB} T^4$$
 | luminosity | $L$ | erg/s | no, intrinsic |
 | radiation density | $u_\nu$ | erg/cm$^3$/Hz | depends |
 
+## where it goes wrong
+
+- intensity is conserved along a ray only in empty space. absorption and emission change it.
+- surface brightness does not depend on distance in Euclidean space, but in cosmology it falls as $(1+z)^{-4}$.
+- the flux through a surface needs the factor $\cos\theta$. forgetting it gives a factor of $\pi$ or 4 wrong.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -79,7 +85,7 @@ $$F = \frac{L}{4\pi d^2} = \left(\frac{R}{d}\right)^2 \sigma_{SB} T^4$$
 - [[Blackbody radiation and Stefan-Boltzmann]]
 - [[Magnitudes and photometric systems]]
 - [[Distance modulus]]
-- [[Luminosity distance]] — the cosmological generalisation
+- [[Luminosity distance]] - the cosmological generalisation
 - [[Surface brightness dimming]]
 - [[Electromagnetic radiation basics]]
 - [[Luminosity and Flux for -Instrumentations]]

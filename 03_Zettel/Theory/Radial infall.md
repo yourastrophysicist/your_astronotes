@@ -49,7 +49,7 @@ $$t \to \infty\quad\text{as } r \to 2GM$$
 
 so in coordinate time (the "infinity observer's" clock), the infall takes **infinite time** to reach the horizon. the object appears to **freeze** at the horizon, infinitely redshifted.
 
-## the contrast: proper vs coordinate
+## the contrast - proper vs coordinate
 
 | frame | time to horizon | what they see |
 |---|---|---|

@@ -2,7 +2,7 @@
 layout: "default"
 title: "Lyman-alpha forest"
 ---
-the **Lyman-α forest** is a forest of narrow Lyman-α absorption lines in the spectra of high-$z$ quasars, produced by neutral H clouds + IGM along the line of sight. one of the most powerful probes of the IGM + LSS at $z = 2$ to $5$.
+the **Lyman-α forest** is a forest of narrow Lyman-α absorption lines in the spectra of high-$z$ quasars, produced by neutral H clouds + IGM along the line of sight. one of the most useful probes of the IGM + LSS at $z = 2$ to $5$.
 
 ## the basic picture
 
@@ -57,6 +57,14 @@ besides Ly-α, the IGM clouds have metal absorption lines (C IV, Mg II, O VI). t
 - track **chemical enrichment** of the IGM by galactic outflows.
 - provide ionisation diagnostics (different ions in different temperature regimes).
 - map circumgalactic medium (CGM) around foreground galaxies.
+
+## worked example
+
+$\tau_{\rm GP} \simeq 4.9 \times 10^5\,x_{\rm HI}\,[(1+z)/7]^{3/2}$. a neutral fraction of $10^{-4}$ at $z = 6$ already gives $\tau \approx 50$, complete absorption.
+
+## where it goes wrong
+
+- the forest absorbers are not galaxies. most are fluctuations in the IGM.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -6,7 +6,7 @@ title: "Fast Fourier transform algorithm"
 
 the algorithm that computes the [[Discrete Fourier transform]] in $O(N \log N)$ instead of the naive $O(N^2)$. one of the most consequential algorithms ever invented, transforming entire fields of science and engineering.
 
-## the idea: divide and conquer
+## the idea - divide and conquer
 
 the DFT formula
 $$X_k = \sum_{n=0}^{N-1} x_n \, e^{-2\pi i k n/N}$$
@@ -42,11 +42,11 @@ $$X_{k+N/2} = E_k - e^{-2\pi i k/N} O_k$$
 
 (the second equation uses $e^{-2\pi i (k+N/2)/N} = -e^{-2\pi i k/N}$).
 
-graphically: two inputs cross like the wings of a butterfly, with one being multiplied by a "twiddle factor" $e^{-2\pi i k/N}$. drawing all the butterflies for $N = 8$ gives a beautiful trellis-like flowgraph.
+graphically: two inputs cross like the wings of a butterfly, with one being multiplied by a "twiddle factor" $e^{-2\pi i k/N}$. drawing all the butterflies for $N = 8$ gives a trellis-like flowgraph.
 
 ## bit reversal
 
-at the recursive base, the inputs are in **bit-reversed order** $0, 4, 2, 6, 1, 5, 3, 7$ for $N = 8$ (binary: $000, 100, 010, 110, 001, 101, 011, 111$ — read right-to-left). a real implementation either does the bit-reversal as a preprocessing pass (Cooley-Tukey, "decimation in time") or as a postprocessing pass (Sande-Tukey, "decimation in frequency").
+at the recursive base, the inputs are in **bit-reversed order** $0, 4, 2, 6, 1, 5, 3, 7$ for $N = 8$ (binary: $000, 100, 010, 110, 001, 101, 011, 111$, read right-to-left). a real implementation either does the bit-reversal as a preprocessing pass (Cooley-Tukey, "decimation in time") or as a postprocessing pass (Sande-Tukey, "decimation in frequency").
 
 ## constraints
 
@@ -65,15 +65,15 @@ import scipy.fft
 X = scipy.fft.fft(x)           # scipy version, often slightly faster than numpy
 ```
 
-`scipy.fft` is generally preferred for large transforms — it has better backends and parallel support.
+`scipy.fft` is generally preferred for large transforms. it has better backends and parallel support.
 
 ## practical tips
 
-- **pad to power of 2** when possible — fastest and most accurate
+- **pad to power of 2** when possible - fastest and most accurate
 - **always remove the mean** before FFT-ing a real signal, unless I want a giant DC spike that dominates the plot
-- **store the frequency axis** explicitly with `np.fft.fftfreq(N, d=dt)` — it is too easy to forget which bin corresponds to which frequency
+- **store the frequency axis** explicitly with `np.fft.fftfreq(N, d=dt)` - it is too easy to forget which bin corresponds to which frequency
 - **plot the magnitude** $\lvert X_k\rvert$ on log scale, the phase $\arg X_k$ separately if needed
-- **use `rfft` for real signals** — half the memory, half the time
+- **use `rfft` for real signals** - half the memory, half the time
 
 ## why this changed the world
 

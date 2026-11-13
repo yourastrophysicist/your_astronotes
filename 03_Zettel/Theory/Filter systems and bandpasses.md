@@ -9,7 +9,7 @@ photometry is always done **through a filter**: a bandpass $T(\lambda)$ that sel
 the integrated flux measured through filter $T(\lambda)$ from a source with flux density $F_\lambda$:
 $$F_T = \frac{\int F_\lambda T(\lambda)\, d\lambda}{\int T(\lambda)\, d\lambda}$$
 
-(or with photon-weighting in the AB system; see below). the magnitude is
+(or with photon-weighting in the AB system, see below). the magnitude is
 $$m_T = -2.5 \log_{10}(F_T) + Z_T$$
 with $Z_T$ a system-dependent zeropoint.
 
@@ -30,7 +30,7 @@ filter shape matters because two filters with the same $\lambda_c$ can integrate
 - defined in the 1950s with photoelectric photometers.
 - U (365 nm), B (445 nm), V (551 nm), R (658 nm), I (806 nm).
 - effective widths $\sim 50$ to $150$ nm.
-- the historical reference system. UBV is Johnson; RI was added by Cousins.
+- the historical reference system. UBV is Johnson. RI was added by Cousins.
 
 ### SDSS *ugriz*
 
@@ -50,11 +50,11 @@ filter shape matters because two filters with the same $\lambda_c$ can integrate
 
 - WFC3/UVIS: F275W, F336W, F438W, F555W, F814W, etc. ("F" then central wavelength).
 - ACS, WFC3-IR: continues into NIR.
-- ground-based filter shapes are not exactly reproduced; HST defines its own system.
+- ground-based filter shapes are not exactly reproduced. HST defines its own system.
 
 ### JWST
 
-- NIRCam: F070W, F090W, F115W, F150W, F200W, F277W, F356W, F444W (broad bands W); plus medium and narrow.
+- NIRCam: F070W, F090W, F115W, F150W, F200W, F277W, F356W, F444W (broad bands W), plus medium and narrow.
 - MIRI: F560W, F770W, F1000W, F1130W, F1280W, F1500W, F1800W, F2100W, F2550W.
 - AB-magnitude defined.
 
@@ -69,7 +69,7 @@ three magnitude conventions:
 ### Vega magnitudes
 - the historical UBV system: $m_{\rm Vega}(\text{Vega}) \equiv 0$ in every band by definition.
 - physically: each band's zeropoint is the flux of Vega in that band.
-- annoying because Vega is not a featureless source; its SED has Balmer absorption.
+- annoying because Vega is not a featureless source. its SED has Balmer absorption.
 
 ### AB magnitudes
 - defined so that $m_{AB} = -2.5 \log_{10}(F_\nu / 3631\,\text{Jy})$.
@@ -87,6 +87,20 @@ three magnitude conventions:
 magnitudes in two filter systems do not differ by a constant offset. they differ by a **color term** that depends on the source SED:
 $$m_1 \approx m_2 + a + b(c_1 - c_2)$$
 where $(c_1 - c_2)$ is a color in either system. this is `obs6.pdf`'s key point: a 6000 K star and a 3000 K star feel a different shift between SDSS-i and Cousins-I, because they have different SED shapes through the (slightly different) i and I bandpasses. see [[Photometric system conversion and color terms]].
+
+## worked example
+
+a star of $V = 0$ gives about $1000$ photons s$^{-1}$ cm$^{-2}$ Å$^{-1}$ at the top of the atmosphere. for a star of $V = 20$ ($10^{-8}$ times fainter), a 1 m$^2$ collecting area and the 880 Å width of the V filter:
+
+$$1000 \times 10^{-8} \times 880 \times 10^4 = 88\ \text{photons/s}$$
+
+before any loss in the atmosphere, the optics or the detector.
+
+## where it goes wrong
+
+- the effective wavelength of a filter depends on the spectrum of the source. it is not one fixed number.
+- names repeat between systems. Johnson R, Cousins R and SDSS r are three different bands.
+- the bandpass that matters is the product of filter, optics, detector and atmosphere, not the filter alone.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

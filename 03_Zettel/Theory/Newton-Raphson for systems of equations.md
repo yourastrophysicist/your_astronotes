@@ -19,7 +19,7 @@ so
 
 $$\mathbf{x}_{k+1} = \mathbf{x}_k - J(\mathbf{x}_k)^{-1} \mathbf{f}(\mathbf{x}_k)$$
 
-in practice **never invert $J$ explicitly** — solve the linear system $J\Delta\mathbf{x} = -\mathbf{f}$ for $\Delta\mathbf{x}$ at each iteration and update $\mathbf{x}_{k+1} = \mathbf{x}_k + \Delta\mathbf{x}$.
+in practice **never invert $J$ explicitly**, solve the linear system $J\Delta\mathbf{x} = -\mathbf{f}$ for $\Delta\mathbf{x}$ at each iteration and update $\mathbf{x}_{k+1} = \mathbf{x}_k + \Delta\mathbf{x}$.
 
 ## python implementation
 
@@ -73,8 +73,8 @@ when $\mathbf{f}$ comes from discretizing a PDE, the Jacobian inherits structure
 
 - **multi-zone stellar structure** (Henyey method): the discretized stellar structure equations are a coupled non-linear system, solved by relaxation = Newton-Raphson with a banded Jacobian
 - **chemical equilibrium**: many species, many reactions, find the equilibrium concentrations
-- **multi-body problems**: find equilibrium points (Lagrangian points $L_1$–$L_5$) of a 3-body gravitational system
-- **MCMC step**: HMC requires the gradient of the log-posterior; finding modes uses Newton on the gradient
+- **multi-body problems**: find equilibrium points (Lagrangian points $L_1$ to $L_5$) of a 3-body gravitational system
+- **MCMC step**: HMC requires the gradient of the log-posterior. Finding modes uses Newton on the gradient
 - **radiative transfer**: ALI iteration is essentially block-Newton-Raphson on the source function
 
 <!-- sources:wiki-arxiv -->
@@ -90,10 +90,10 @@ when $\mathbf{f}$ comes from discretizing a PDE, the Jacobian inherits structure
 
 ## see also
 
-- [[Newton-Raphson method]] — 1D version
-- [[Bisection method]] — slower but bulletproof alternative
+- [[Newton-Raphson method]] - 1D version
+- [[Bisection method]] - slower but bulletproof alternative
 - [[Choosing a root finder]]
-- [[Linear least squares]] — minimization is equivalent to root-finding on the gradient
+- [[Linear least squares]] - minimization is equivalent to root-finding on the gradient
 - [[Mathematical_Numerical_Methods_MOC]]
 
 

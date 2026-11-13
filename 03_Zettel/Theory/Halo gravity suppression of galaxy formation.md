@@ -12,7 +12,7 @@ why does the [[Halo mass function vs galaxy mass function]] gap exist? why is ga
 
 the answer is two different feedback channels operating at the two ends of the halo mass function, both regulated by the depth of the halo gravitational potential.
 
-## low-mass end: SN feedback
+## low-mass end - SN feedback
 
 a halo's escape velocity from its center is
 
@@ -24,7 +24,7 @@ quantitatively, for a starburst producing $N_{SN}$ supernovae each delivering $E
 
 result: low-mass halos lose gas, never form many stars, and the SMF is *flatter* at low mass than the HMF.
 
-## high-mass end: AGN feedback + virial shocks
+## high-mass end - AGN feedback + virial shocks
 
 at $M_h \gtrsim 10^{12}\,M_\odot$ a different physics takes over. infalling gas reaches the virial temperature
 
@@ -49,6 +49,10 @@ so galaxy formation is *most efficient* here. this is what the [[Stellar-to-halo
 ## what i remember
 
 the SMF is *not* the result of differing baryon budgets, it is the result of *feedback throttling* a fundamentally simple gravitational structure. the HMF is the input, feedback is the operator, the SMF is the output.
+
+## where it goes wrong
+
+- the suppression is at both ends. supernovae at low mass, AGN at high mass.
 
 ## connections
 

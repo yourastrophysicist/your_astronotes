@@ -10,9 +10,9 @@ the move that turned interferometry from a "few baselines" technique into a full
 
 a baseline is a vector between two telescopes, fixed in Earth-frame coordinates. but the source moves across the sky as the Earth rotates. so the projection of the baseline onto the plane perpendicular to the line of sight to the source *changes continuously*.
 
-a fixed baseline, observed for several hours, samples not one (u, v) point but a *track* — an arc through the (u, v) plane. doing this for every pair of antennas in an array fills the (u, v) plane *quickly* with a small number of physical antennas.
+a fixed baseline, observed for several hours, samples not one (u, v) point but a *track*, an arc through the (u, v) plane. doing this for every pair of antennas in an array fills the (u, v) plane *quickly* with a small number of physical antennas.
 
-without Earth-rotation synthesis, an N-element array gives only N(N-1)/2 (u, v) points. with full Earth-rotation synthesis, the same array gives effectively continuous tracks — orders of magnitude more samples.
+without Earth-rotation synthesis, an N-element array gives only N(N-1)/2 (u, v) points. with full Earth-rotation synthesis, the same array gives effectively continuous tracks, orders of magnitude more samples.
 
 ## the elliptical tracks
 
@@ -28,7 +28,7 @@ as $H$ varies over a night, $(u, v)$ traces an *ellipse* with:
 
 so:
 - at the **celestial pole** ($\delta = 90°$): $\sin\delta = 1$, ellipse → **circle**. perfect 2D coverage
-- at the **celestial equator** ($\delta = 0$): $\sin\delta = 0$, ellipse → **line** along $u$ axis. only 1D coverage. cannot image well — orientation information is lost in the v direction
+- at the **celestial equator** ($\delta = 0$): $\sin\delta = 0$, ellipse → **line** along $u$ axis. only 1D coverage. cannot image well, orientation information is lost in the v direction
 
 most interferometers are mid-latitude (VLA $+34°$, ALMA $-23°$, EVN northern Europe). high-declination sources give better (u, v) coverage and cleaner images.
 
@@ -74,15 +74,15 @@ a wide range of physical baselines is needed to cover both large structures (sho
 
 ### 2. number of antennas
 
-more antennas → more baselines → denser (u, v) coverage from a snapshot. ALMA's 50+ antennas vs VLA's 27 vs CHARA's 6 vs VLTI's 4. the VLTI is "snapshot poor" — it relies heavily on Earth rotation (and observer patience) to fill (u, v).
+more antennas → more baselines → denser (u, v) coverage from a snapshot. ALMA's 50+ antennas vs VLA's 27 vs CHARA's 6 vs VLTI's 4. the VLTI is "snapshot poor". it relies heavily on Earth rotation (and observer patience) to fill (u, v).
 
 ### 3. configuration
 
-linear, Y, T, and circular configurations distribute baselines differently. the optimal depends on the science target. wide-field continuum imaging prefers uniform (u, v) density; deep imaging of compact sources prefers more long baselines.
+linear, Y, T, and circular configurations distribute baselines differently. the optimal depends on the science target. wide-field continuum imaging prefers uniform (u, v) density. deep imaging of compact sources prefers more long baselines.
 
 ## the historical context
 
-before Ryle's invention, interferometers used **fixed-element configurations** (Ryle 1956), explicitly sampling one (u, v) point per baseline. each baseline was a separate "observation" — moving telescopes between observations was tedious.
+before Ryle's invention, interferometers used **fixed-element configurations** (Ryle 1956), explicitly sampling one (u, v) point per baseline. each baseline was a separate "observation", moving telescopes between observations was tedious.
 
 Ryle realized that you could just *let the Earth rotate*. for stable mounted antennas, this gave automatic (u, v) coverage at no extra cost. the **One-Mile Telescope** at Cambridge (1964) was the first instrument designed around this principle.
 

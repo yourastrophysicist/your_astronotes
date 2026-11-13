@@ -36,7 +36,7 @@ in cool stars, millions of metal lines absorb optical-UV photons and re-emit at 
 ### H$^-$ ion
 in cool stars, the dominant continuum opacity. H$^-$ has a very broad bound-free continuum peaking near $1\,\mu$m, with a smooth wavelength dependence. modulates the optical-NIR slope.
 
-## consequence: stellar continua are NOT simple blackbodies
+## consequence - stellar continua are NOT simple blackbodies
 
 | star type | dominant deviation from Planck |
 |---|---|

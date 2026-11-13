@@ -65,7 +65,7 @@ at each step solve $A\mathbf{v}_{k+1} = \mathbf{v}_k$ instead of computing $A^{-
 
 apply inverse power iteration to $A - \sigma I$ for some shift $\sigma$. the eigenvalues are $1/(\lambda_i - \sigma)$, so the *largest* corresponds to the eigenvalue $\lambda_i$ *closest to $\sigma$*. by varying $\sigma$, can target any specific eigenvalue.
 
-this is the basis of the **Rayleigh quotient iteration**: at each step, set $\sigma$ to the current Rayleigh quotient. converges *cubically* near a simple eigenvalue — three correct digits become nine, become twenty-seven, become beyond machine precision in three steps. one of the most beautiful algorithms in numerical analysis.
+this is the basis of the **Rayleigh quotient iteration**: at each step, set $\sigma$ to the current Rayleigh quotient. converges *cubically* near a simple eigenvalue, three correct digits become nine, become twenty-seven, become beyond machine precision in three steps. one of the nicest algorithms in numerical analysis.
 
 ### subspace iteration
 
@@ -82,7 +82,7 @@ run power iteration on $K > 1$ orthogonal vectors simultaneously, with re-orthog
 - **Markov chain stationary distribution**: the dominant eigenvector of the transition matrix gives the equilibrium probabilities
 - **PageRank**-style algorithms for citation networks
 - **stability analysis**: dominant eigenvalue of the Jacobian determines whether a fixed point is stable
-- **principal component analysis**: each PC is the dominant eigenvector of the residual covariance matrix; find them sequentially via power iteration with deflation
+- **principal component analysis**: each PC is the dominant eigenvector of the residual covariance matrix. find them sequentially via power iteration with deflation
 - **largest mode in linear stability**: of self-gravitating disks, plasmas, etc.
 
 ## production code
@@ -98,7 +98,7 @@ from scipy.sparse.linalg import eigs
 vals, vecs = eigs(A_sparse, k=5, which='LM')        # largest magnitude
 ```
 
-`scipy.sparse.linalg.eigs` uses Arnoldi iteration (a sophisticated cousin of power iteration) and handles sparse matrices efficiently — often the right tool when only a few eigenvalues are needed.
+`scipy.sparse.linalg.eigs` uses Arnoldi iteration (a sophisticated cousin of power iteration) and handles sparse matrices efficiently, often the right tool when only a few eigenvalues are needed.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

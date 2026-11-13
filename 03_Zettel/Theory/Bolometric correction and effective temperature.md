@@ -2,7 +2,7 @@
 layout: "default"
 title: "Bolometric correction and effective temperature"
 ---
-a single filter only catches part of a star's light; the rest of the SED is invisible to that band. the **bolometric correction** is the offset to convert a filter magnitude to a bolometric magnitude. the **effective temperature** is the temperature of the equivalent blackbody that would produce the star's total luminosity at its actual radius.
+a single filter only catches part of a star's light. the rest of the SED is invisible to that band. the **bolometric correction** is the offset to convert a filter magnitude to a bolometric magnitude. the **effective temperature** is the temperature of the equivalent blackbody that would produce the star's total luminosity at its actual radius.
 
 ## bolometric magnitude
 
@@ -17,7 +17,7 @@ bolometric magnitudes are **directly comparable to total power**, unlike single-
 definition:
 $$\boxed{\, BC_X \equiv M_{\rm bol} - M_X \,}$$
 
-so $BC_V$ converts $M_V$ to $M_{\rm bol}$. by convention, $BC$ is **negative** for stars whose energy output peaks outside the V-band (e.g. very hot stars peak in UV, very cold stars in IR; in both cases $M_{\rm bol}$ is *more negative* than $M_V$, hence $BC < 0$).
+so $BC_V$ converts $M_V$ to $M_{\rm bol}$. by convention, $BC$ is **negative** for stars whose energy output peaks outside the V-band (e.g. very hot stars peak in UV, very cold stars in IR. in both cases $M_{\rm bol}$ is *more negative* than $M_V$, hence $BC < 0$).
 
 values for V-band:
 - O5 V: $BC_V \approx -4.1$ (peak is in UV).
@@ -29,14 +29,14 @@ values for V-band:
 
 so the Sun is a special case where V is very close to bolometric. for very hot or very cold stars, V misses most of the light.
 
-bolometric corrections are tabulated as a function of $T_{\rm eff}$ and surface gravity; standard refs are Bessell, Castelli, Plez 1998.
+bolometric corrections are tabulated as a function of $T_{\rm eff}$ and surface gravity. standard refs are Bessell, Castelli, Plez 1998.
 
 ## effective temperature
 
 defined by the Stefan-Boltzmann formula:
 $$\boxed{\, L = 4\pi R^2 \sigma_{SB}\, T_{\rm eff}^4 \,}$$
 
-so $T_{\rm eff}$ is the temperature of a blackbody that would produce the **same bolometric flux per unit surface area** as the actual star. it is **not** the surface temperature in any literal thermodynamic sense; the photosphere has a $T(\tau)$ profile and $T_{\rm eff}$ is just the integral.
+so $T_{\rm eff}$ is the temperature of a blackbody that would produce the **same bolometric flux per unit surface area** as the actual star. it is **not** the surface temperature in any literal thermodynamic sense. the photosphere has a $T(\tau)$ profile and $T_{\rm eff}$ is just the integral.
 
 for the Sun: $T_{\rm eff} = 5772$ K, but the visible-light photosphere temperature ranges from $4400$ to $6600$ K depending on optical depth.
 
@@ -48,16 +48,32 @@ three observables and three unknowns:
 - if you know $T_{\rm eff}$ and $R$, you get $L$.
 
 practical chain:
-1. **spectral type** $\to$ $T_{\rm eff}$ via empirical calibrations (e.g. de Jager-Nieuwenhuijzen 1987 for OB; Casagrande 2010 for FGK).
+1. **spectral type** $\to$ $T_{\rm eff}$ via empirical calibrations (e.g. de Jager-Nieuwenhuijzen 1987 for OB, Casagrande 2010 for FGK).
 2. **distance** + **apparent magnitude** $\to$ $M_X$.
 3. **$BC_X(T_{\rm eff})$** $\to$ $M_{\rm bol}$ $\to$ $L$.
 4. $L$ + $T_{\rm eff}$ $\to$ $R$ via Stefan-Boltzmann.
 
 this is the standard way to populate the [[HR diagram]] with both luminosity and radius.
 
-## modern alternative: SED fitting
+## modern alternative - SED fitting
 
 instead of using $BC$, fit a model spectrum (Kurucz, PHOENIX, BT-Settl) to multi-band photometry directly. recovers $T_{\rm eff}$, $\log g$, $[Fe/H]$, and integrated $L$ in one Bayesian step. requires good filter throughput knowledge and reliable model atmospheres.
+
+## worked example
+
+the Sun has $M_V = 4.83$ and $BC_V = -0.09$, so $M_{\rm bol} = 4.74$.
+
+a B star with $M_V = 0.0$ and $BC_V = -2.0$ has $M_{\rm bol} = -2.0$, and
+
+$$\frac{L}{L_\odot} = 10^{0.4\,(4.74 + 2.0)} = 10^{2.70} \approx 500$$
+
+without the correction I would have said 85.
+
+## where it goes wrong
+
+- the correction is close to zero for F and G stars and strongly negative for both very hot and very cool stars.
+- the sign convention. here $M_{\rm bol} = M_V + BC_V$ with $BC_V \le 0$.
+- $T_{\rm eff}$ is not the temperature of a particular layer. it is the temperature of the blackbody with the same $L$ and $R$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

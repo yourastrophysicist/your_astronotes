@@ -16,7 +16,7 @@ at cm wavelengths, atmospheric phase varies on minute-to-hour timescales (vs ms 
 
 ### 2. atmospheric stability over hours
 
-while atmospheric phase varies, it is calibrated out by phase-referencing to nearby calibrators. the *systematic* bias is removed; the *random* bias is small enough to integrate over hours. so 8-12 hour tracks accumulate clean (u, v) samples without phase blowup.
+while atmospheric phase varies, it is calibrated out by phase-referencing to nearby calibrators. the *systematic* bias is removed. the *random* bias is small enough to integrate over hours. so 8-12 hour tracks accumulate clean (u, v) samples without phase blowup.
 
 ### 3. electronic correlation
 
@@ -76,11 +76,11 @@ at radio, $\lambda$ is large so $(u, v)$ values are small in absolute terms. but
 
 ## the wide-bandwidth bonus
 
-modern radio correlators handle wide bandwidths (1-8 GHz). different frequency channels see *different* spatial frequencies for the same baseline (since $u = B/\lambda$ scales with $\lambda$). so a single observation can fill (u, v) at *many spatial frequencies* simultaneously — multi-frequency synthesis.
+modern radio correlators handle wide bandwidths (1-8 GHz). different frequency channels see *different* spatial frequencies for the same baseline (since $u = B/\lambda$ scales with $\lambda$). so a single observation can fill (u, v) at *many spatial frequencies* simultaneously, multi-frequency synthesis.
 
 this gives even denser effective (u, v) coverage at the cost of slightly more complex source-spectrum modeling.
 
-## the issue: zero-spacing flux
+## the issue - zero-spacing flux
 
 even with great (u, v) coverage, the *zero-spacing* (single-dish flux) is *never* sampled by an interferometer. so extended emission with characteristic scales larger than the longest baseline is "resolved out."
 

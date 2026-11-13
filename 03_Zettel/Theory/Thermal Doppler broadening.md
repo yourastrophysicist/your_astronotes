@@ -29,7 +29,7 @@ $$\Delta\lambda_D = 5000 \cdot (1300)/(3\times 10^{10}) \approx 0.022\,\text{Å}
 
 so an Fe line is naturally $\sim 0.02$ Å wide from thermal Doppler. an H line at the same $T$ is $\sqrt{56}\approx 7.5$× broader because $m_H \ll m_{\rm Fe}$, $\Delta\lambda_D \approx 0.16$ Å.
 
-## consequence: lighter atoms have broader thermal cores
+## consequence - lighter atoms have broader thermal cores
 
 | species | $\Delta\lambda_D$ at $T = 6000$ K, $\lambda = 5000$ Å |
 |---|---|

@@ -4,7 +4,7 @@ title: "Radiation mechanisms in astronomy and interferometers"
 ---
 # Radiation mechanisms in astronomy and interferometers
 
-BookAI ends by connecting interferometric images back to physical emission mechanisms. an interferometer gives structure; radiation physics says what produced the structure.
+BookAI ends by connecting interferometric images back to physical emission mechanisms. an interferometer gives structure. Radiation physics says what produced the structure.
 
 ## thermal blackbody radiation
 
@@ -69,7 +69,7 @@ atomic and molecular transitions produce spectral lines. interferometers map:
 - turbulence
 - chemistry
 
-ALMA is especially powerful for molecular lines in disks and star-forming regions.
+ALMA is especially useful for molecular lines in disks and star-forming regions.
 
 ## maser emission
 
@@ -99,7 +99,7 @@ radiation can be absorbed, scattered, and re-emitted by dust or plasma. interfer
 
 ## exam sentence
 
-radiation mechanisms explain what emitted the light; interferometry explains where it was emitted and under what physical conditions.
+radiation mechanisms explain what emitted the light. interferometry explains where it was emitted and under what physical conditions.
 
 ## scientific figure
 

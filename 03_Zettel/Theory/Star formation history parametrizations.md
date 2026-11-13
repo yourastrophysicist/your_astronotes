@@ -28,7 +28,7 @@ Pablo lists the forms that appear in Tantalo 2002, Lower 2020, Jain 2023:
 
 ## the fundamental problem
 
-photometry in the optical/NIR is integrated over stellar lifetimes, so there is an **age–metallicity degeneracy**: an old, metal-poor population can look like a young, metal-rich one. the SFH fit is sensitive to this.
+photometry in the optical/NIR is integrated over stellar lifetimes, so there is an **age-metallicity degeneracy**: an old, metal-poor population can look like a young, metal-rich one. the SFH fit is sensitive to this.
 
 additional degeneracies:
 - dust vs age (both redden the SED)
@@ -46,7 +46,11 @@ typical outputs of a code like BAGPIPES, Prospector, CIGALE, MAGPHYS, Rainbow (P
 - $\tau$ or its equivalent
 - $Z$, $A_V$, redshift, stellar mass
 
-typical uncertainties on $M_*$ are $\sim 0.1$–$0.2$ dex, on SFR $\sim 0.3$ dex, on SFH shape much worse.
+typical uncertainties on $M_*$ are $\sim 0.1$ to $0.2$ dex, on SFR $\sim 0.3$ dex, on SFH shape much worse.
+
+## where it goes wrong
+
+- parametric forms impose a shape. non-parametric bins remove the bias but need a prior on smoothness.
 
 ## connections
 

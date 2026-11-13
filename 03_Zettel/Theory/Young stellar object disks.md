@@ -103,7 +103,7 @@ result: a model-fit description of the inner disk geometry plus uncertainty boun
 
 ## the interplay with ALMA
 
-ALMA images the *outer* disk (10-100 AU); GRAVITY/VLTI images the *inner* disk (0.1-10 AU). together they give a complete picture.
+ALMA images the *outer* disk (10-100 AU). GRAVITY/VLTI images the *inner* disk (0.1-10 AU). together they give a complete picture.
 
 YSO surveys often combine both: ALMA for outer-disk gas/dust, VLTI/CHARA for inner-disk structure. modern science papers routinely fuse these data.
 

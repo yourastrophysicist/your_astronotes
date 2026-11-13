@@ -11,7 +11,7 @@ let me solve in different limits.
 
 ---
 
-## Milne (empty) universe: $\rho = 0$, $\Lambda = 0$, $k = -1$
+## Milne (empty) universe - $\rho = 0$, $\Lambda = 0$, $k = -1$
 
 the simplest case: no matter, no Λ, only curvature drives the dynamics:
 $$\dot a^2 = c^2 \quad \Rightarrow \quad a(t) \propto t$$
@@ -20,18 +20,18 @@ linear expansion. used as a reference baseline. only an open ($k = -1$) Milne un
 
 ---
 
-## Einstein-de Sitter (EdS): matter only, flat
+## Einstein-de Sitter (EdS) - matter only, flat
 
 $\rho = \rho_m \propto a^{-3}$, $\Lambda = 0$, $k = 0$:
 $$\dot a^2 = \frac{8\pi G \rho_0}{3 a}$$
 
 → $a \propto t^{2/3}$. age of the universe: $t_0 = 2/(3 H_0)$.
 
-with the measured $H_0 = 67.4$ km/s/Mpc, EdS gives $t_0 \approx 9.6$ Gyr — *too young* compared to the observed 13.8 Gyr (see the age problem at [[Cosmic_inventory_dark_energy]]).
+with the measured $H_0 = 67.4$ km/s/Mpc, EdS gives $t_0 \approx 9.6$ Gyr, *too young* compared to the observed 13.8 Gyr (see the age problem at [[Cosmic_inventory_dark_energy]]).
 
 ---
 
-## radiation-dominated: $\rho \propto a^{-4}$, flat
+## radiation-dominated - $\rho \propto a^{-4}$, flat
 
 $$\dot a^2 = \frac{8\pi G \rho_{\gamma 0}}{3 a^2}$$
 
@@ -41,7 +41,7 @@ valid in the early universe ($z \gtrsim z_{\rm eq} \sim 3300$).
 
 ---
 
-## Λ-dominated (de Sitter): $\rho = \rho_V = $ const, flat
+## Λ-dominated (de Sitter) - $\rho = \rho_V = $ const, flat
 
 $\Lambda$ alone:
 $$H^2 = \frac{\Lambda c^2}{3} = $ const
@@ -87,7 +87,7 @@ three regimes in $a(t)$:
 
 the various models converge at small $t$ (early universe is matter+radiation dominated, regardless of $\Lambda$) but diverge dramatically at large $t$.
 
-age of the universe in ΛCDM: $\sim 13.8$ Gyr — Λ contributing those crucial extra few Gyr that EdS cannot.
+age of the universe in ΛCDM: $\sim 13.8$ Gyr, Λ contributing those extra few Gyr that EdS cannot.
 
 ---
 
@@ -99,9 +99,25 @@ $$-\frac{4\pi G}{3}\rho + \frac{\Lambda c^2}{3} = 0 \quad (\text{for } w = 0 \te
 
 this gives a unique static solution, but it is **unstable**: perturb it, and it either expands or collapses. when Hubble showed the universe expanding, Einstein called Λ his "biggest blunder."
 
-ironic postscript: $\Lambda$ came back in 1998 — not for static universe, but for **acceleration**.
+ironic postscript: $\Lambda$ came back in 1998, not for static universe, but for **acceleration**.
 
 ---
+
+## worked example
+
+the age of each model, with $H_0 = 70$ km/s/Mpc ($1/H_0 = 14.0$ Gyr):
+
+- empty (Milne): $t_0 = 1/H_0 = 14.0$ Gyr
+- Einstein-de Sitter: $t_0 = 2/(3H_0) = 9.3$ Gyr
+- radiation only: $t_0 = 1/(2H_0) = 7.0$ Gyr
+- $\Lambda$CDM ($\Omega_m = 0.3$): $t_0 = 0.964/H_0 = 13.5$ Gyr
+
+the oldest globular clusters, 12 to 13 Gyr, rule out Einstein-de Sitter.
+
+## where it goes wrong
+
+- the fate depends on $\Lambda$ as well as on $k$.
+- the de Sitter model has no Big Bang. it has always expanded exponentially.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

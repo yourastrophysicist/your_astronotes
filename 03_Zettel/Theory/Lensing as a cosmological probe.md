@@ -32,7 +32,7 @@ modern: **TDCOSMO** consortium uses 6+ lensed quasars, gives $H_0 = 73 \pm 2$ km
 ### CMB lensing
 the CMB itself is gravitationally lensed by the intervening LSS! observable as **B-mode polarisation** + spectral distortions. Planck + ACT + SPT measure this. constrains $\sigma_8$ + $\sum m_\nu$.
 
-## strong-lens cosmology: the time-delay $H_0$
+## strong-lens cosmology - the time-delay $H_0$
 
 procedure:
 1. measure time delay $\Delta t$ between multiple images.
@@ -55,8 +55,12 @@ major surveys: DES, KiDS, HSC. soon: Euclid, LSST, Roman.
 
 - **dark-matter mapping**: lensing reveals where dark matter is, how it's distributed, whether it's clumpy or smooth.
 - **dark-energy constraints**: lensing tomography sensitive to $w(z)$.
-- **modified gravity**: lensing is sensitive to the deflection of null geodesics; comparison with growth-of-structure tests $\sim$ scalar / tensor modifications.
+- **modified gravity**: lensing is sensitive to the deflection of null geodesics. comparison with growth-of-structure tests $\sim$ scalar / tensor modifications.
 - **galaxy formation**: lensing of high-$z$ galaxies by foreground clusters magnifies and reveals otherwise-invisible early galaxies (Hubble Frontier Fields, JWST).
+
+## where it goes wrong
+
+- intrinsic alignments of galaxies mimic the lensing shear.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -72,7 +76,7 @@ major surveys: DES, KiDS, HSC. soon: Euclid, LSST, Roman.
 
 ## see also
 
-- Gravitational lensing — intro
+- Gravitational lensing, intro
 - [[Strong vs weak lensing]]
 - [[Light deflection]]
 - [[Cosmic_inventory_dark_matter]]

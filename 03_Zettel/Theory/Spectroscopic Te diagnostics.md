@@ -8,9 +8,9 @@ a **temperature diagnostic** in nebular spectroscopy is a line ratio sensitive t
 
 ### $[OIII]\,\lambda 4363/(\lambda 4959 + \lambda 5007)$
 
-the workhorse. $\lambda 4363$ from $^1S_0 \to ^1D_2$ ($\sim 5.4$ eV upper); $\lambda 4959, 5007$ from $^1D_2 \to ^3P_{1, 2}$ ($\sim 2.5$ eV upper). ratio $\propto e^{-2.9/k_BT_e}$ in the low-density limit.
+the workhorse. $\lambda 4363$ from $^1S_0 \to ^1D_2$ ($\sim 5.4$ eV upper). $\lambda 4959, 5007$ from $^1D_2 \to ^3P_{1, 2}$ ($\sim 2.5$ eV upper). ratio $\propto e^{-2.9/k_BT_e}$ in the low-density limit.
 
-practical: at $T_e = 8000$ K, ratio $\sim 0.005$; at $T_e = 12\,000$ K, $\sim 0.025$; at $T_e = 20\,000$ K, $\sim 0.06$.
+practical: at $T_e = 8000$ K, ratio $\sim 0.005$. at $T_e = 12\,000$ K, $\sim 0.025$. at $T_e = 20\,000$ K, $\sim 0.06$.
 
 caveat: $\lambda 4363$ has high $n_c \sim 3 \times 10^7$ cm$^{-3}$. at $n_e > 10^5$, density correction needed.
 

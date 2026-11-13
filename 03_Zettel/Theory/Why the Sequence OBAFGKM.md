@@ -29,7 +29,7 @@ Cecilia Payne (1925) showed by applying **Saha equation** + **Boltzmann equation
 | He I | $T \sim 22\,000$ K (B2) | excitation $E \sim 20$ eV needs hot environment, no He II yet |
 | H I (Balmer) | $T \sim 9500$ K (A0) | need $n = 2$ population, but H not yet ionised |
 | Ca II | $T \sim 5000$ K (G2-K) | most Ca singly ionised, ground state populated |
-| Fe I, Na I | $T \sim 4000$ K (K) | most Fe, Na neutral; ionisation suppressed |
+| Fe I, Na I | $T \sim 4000$ K (K) | most Fe, Na neutral, ionisation suppressed |
 | TiO bands | $T \lesssim 3500$ K (M) | molecules survive only at low $T$ |
 
 each peak is explained by the same pair of equations, evaluated at different $T$:
@@ -48,7 +48,7 @@ the user has plot files at `~/Documents/2/spectroscopy/Plots-20260501/` showing 
 - `HeI_HeII_pop_T.png`: He I and He II vs $T$, peak at $20\,000$ and $40\,000$ K.
 - `MgI_pop_T.png`, `NaI_pop_T.png`, `CaKH_pop_T.png`: each species in turn.
 
-## consequence: $T$ from spectrum
+## consequence - $T$ from spectrum
 
 reading a stellar spectrum gives $T_{\rm eff}$ to $\sim 100$ K precision via line-strength patterns, even at low resolution. specific diagnostics:
 - He II $\lambda 4686$ / He I $\lambda 4471$: the He ionisation balance, sets $T$ in O stars.

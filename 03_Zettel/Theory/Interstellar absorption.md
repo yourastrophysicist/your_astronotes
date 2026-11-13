@@ -2,13 +2,13 @@
 layout: "default"
 title: "Interstellar absorption"
 ---
-space between the stars is not empty: it is filled with gas and **interstellar dust grains**. dust particles absorb and scatter stellar photons, causing starlight to appear dimmer (**interstellar extinction**) and redder (**interstellar reddening**). if extinction is not properly accounted for, distances calculated from standard candles will be vastly overestimated.
+space between the stars is not empty. it is filled with gas and **interstellar dust grains**. dust particles absorb and scatter stellar photons, causing starlight to appear dimmer (**interstellar extinction**) and redder (**interstellar reddening**). if extinction is not properly accounted for, distances calculated from standard candles will be vastly overestimated.
 
 ![radiative-57.png](../../assets/images/radiative-57.png)
 
 ---
 
-## interstellar dust grains: composition and physics
+## interstellar dust grains - composition and physics
 
 interstellar dust constitutes only $\sim 1\%$ of the interstellar medium mass (the remaining $99\%$ is gas), but it dominates optical and ultraviolet opacity.
 - **grain size**: typical radii $a \sim 0.01 - 0.25\,\mu$m, comparable to the wavelength of ultraviolet and optical light.
@@ -29,7 +29,7 @@ where $A_\lambda \ge 0$ is the **extinction in magnitudes** at wavelength $\lamb
 
 ![radiative-59.png](../../assets/images/radiative-59.png)
 
-### the extinction-corrected distance modulus:
+### the extinction-corrected distance modulus
 including extinction in the distance equation:
 $$m_\lambda = M_\lambda + 5 \log_{10} d - 5 + A_\lambda$$
 $$\boxed{\, \mu_{\text{true}} = m_\lambda - M_\lambda - A_\lambda = 5\log_{10} d - 5 \,}$$
@@ -63,19 +63,19 @@ the wavelength dependence of extinction is characterized by the **normalized ext
 
 ![radiative-63.png](../../assets/images/radiative-63.png)
 
-### key features of the extinction curve:
+### key features of the extinction curve
 1. **steep UV rise**: extinction climbs steeply in the ultraviolet, making UV astronomy exceedingly sensitive to dust.
 2. **the $2175$ Å bump**: a prominent absorption feature at $\lambda \approx 2175$ Å ($x = 1/\lambda \approx 4.6\,\mu\text{m}^{-1}$), universally attributed to $\pi \to \pi^*$ electronic transitions in aromatic carbon rings (PAHs and graphite grains).
 
 ![radiative-64.png](../../assets/images/radiative-64.png)
 
-### the total-to-selective extinction ratio $R_V$:
+### the total-to-selective extinction ratio $R_V$
 astronomers relate the visual extinction $A_V$ to the color excess $E(B-V)$ by the ratio $R_V$:
 $$\boxed{\, R_V \equiv \frac{A_V}{E(B-V)} = \frac{A_V}{A_B - A_V} \,}$$
 
 for the diffuse, average interstellar medium of the Milky Way:
 $$\boxed{\, R_V \approx 3.1 \,}$$
-(in dense, cold molecular clouds where dust grains coagulate and grow larger mantles, $R_V$ increases to $4-5.5$; in low-density sightlines it drops to $\approx 2.5$).
+(in dense, cold molecular clouds where dust grains coagulate and grow larger mantles, $R_V$ increases to $4-5.5$, and in low-density sightlines it drops to $\approx 2.5$).
 
 consequence: measuring the color excess $E(B-V)$ immediately gives the visual extinction:
 $$A_V = 3.1 \times E(B-V)$$
@@ -106,6 +106,18 @@ because the main sequence has a distinctive non-linear curve on the $(U-B)$ vs $
 ![radiative-68.png](../../assets/images/radiative-68.png)
 
 ---
+
+## worked example
+
+a star with $E(B-V) = 0.5$. the extinction is $A_V = 3.1 \times 0.5 = 1.55$ mag, so I receive $10^{-0.4 \times 1.55} = 24\%$ of the light. if I ignore the dust, the distance comes out too large by a factor $10^{A_V/5} = 2.0$.
+
+toward the Galactic Centre, $A_V \approx 30$ mag, a factor $10^{-12}$. in the K band $A_K \approx 0.11\,A_V \approx 3.3$ mag, only a factor 20. this is why the centre of the Galaxy is studied in the infrared.
+
+## where it goes wrong
+
+- reddening is the difference of extinction between two bands. extinction is the loss in one band.
+- $R_V = 3.1$ is an average. it goes from 2.5 in diffuse gas to above 5 in dense clouds.
+- extinction is for a point source behind a screen. for a galaxy, where stars and dust are mixed, the right word is attenuation and the curve is different.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

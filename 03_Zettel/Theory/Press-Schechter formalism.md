@@ -45,6 +45,10 @@ $$\boxed{\, \frac{dn}{dM} = \sqrt{\frac{2}{\pi}} \frac{\bar{\rho}}{M} \frac{\del
 - **Sheth-Tormen (2002)**: incorporates ellipsoidal collapse (tidal shear delays collapse, moving the barrier to $\delta_c(M)$).
 - **Tinker et al. (2008)**: universal fitting functions calibrated to high-resolution cosmological $N$-body simulations.
 
+## where it goes wrong
+
+- the formalism needs a choice of filter, and the results depend on it.
+
 ## connections
 
 - linear collapse: [[Spherical collapse]]

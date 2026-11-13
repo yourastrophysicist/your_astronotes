@@ -18,10 +18,10 @@ four exercises, each with sub-points labeled A, B, C, D. expected output for eac
 
 across the past papers I have on file (`exam_2021_01_25_groupA.pdf`, `exam_2021_06_24.pdf`, `exam_2021_08_30.pdf`, `EXAM_solution_25-01-2024.ipynb`, `Solution_14Feb2025.ipynb`, `Solution_24June2025.ipynb`) the four exercises are:
 
-1. **read & plot a dataset** — load an ASCII or FITS table, scatter, 2D histogram, basic statistics. the file may be a binary-black-hole population, a stellar catalog, a spectroscopic dataset
-2. **random number sampling** — draw $N$ samples from a non-trivial distribution $P(x)$ given analytically. usually inverse transform if the CDF is invertible, rejection otherwise. the comparison plot of histogram vs analytic $P(x)$ is required
-3. **integration of a function** — Monte Carlo (mean value method) of a given $f(x)$, or trapezoid, or both with comparison. usually asked to plot integral value vs $N$ to show $1/\sqrt{N}$ convergence
-4. **N-body problem** — three or four point masses, gravitational interaction with $G = 1$, integrate over time with a specified scheme (midpoint, leapfrog, RK4) and timestep. plot orbits, plot relative energy variation $\Delta E/E$ vs time as a diagnostic
+1. **read & plot a dataset** - load an ASCII or FITS table, scatter, 2D histogram, basic statistics. the file may be a binary-black-hole population, a stellar catalog, a spectroscopic dataset
+2. **random number sampling** - draw $N$ samples from a non-trivial distribution $P(x)$ given analytically. usually inverse transform if the CDF is invertible, rejection otherwise. the comparison plot of histogram vs analytic $P(x)$ is required
+3. **integration of a function** - Monte Carlo (mean value method) of a given $f(x)$, or trapezoid, or both with comparison. usually asked to plot integral value vs $N$ to show $1/\sqrt{N}$ convergence
+4. **N-body problem** - three or four point masses, gravitational interaction with $G = 1$, integrate over time with a specified scheme (midpoint, leapfrog, RK4) and timestep. plot orbits, plot relative energy variation $\Delta E/E$ vs time as a diagnostic
 
 the exam template I have:
 - exercise 1: BBH population, scatter and 2D histogram, mean and std
@@ -31,7 +31,7 @@ the exam template I have:
 
 ## what to bring (mentally) to the exam
 
-- the **problem-class taxonomy** in [[Mathematical_Numerical_Methods_MOC]] — recognise which of the seven boxes the exercise lives in, on the first read
+- the **problem-class taxonomy** in [[Mathematical_Numerical_Methods_MOC]], recognise which of the seven boxes the exercise lives in, on the first read
 - the **code snippet patterns** I have memorized for each box (loadtxt + plot, inverse sampling one-liner, MC integral one-liner, midpoint + plot energy)
 - a clear sense of **what to plot**: every numerical result needs a verification plot. histogram with overplotted analytic. integral vs N. orbits in xy plus $\Delta E/E$ vs t
 
@@ -40,13 +40,13 @@ the exam template I have:
 - **scipy and numpy**: every built-in is fair game (`scipy.integrate.quad`, `scipy.optimize.curve_fit`, `np.random.uniform`, `np.histogram`)
 - **astropy and matplotlib**: for units and plots
 - **the lecture notes**: my own notes on my computer, the official PDF, anything I have written down
-- **the internet**: in practice yes, since the exam is on a connected machine, but Mapelli expects me to know what I am doing — googling boilerplate is fine, googling the algorithm definition mid-exam is bad sign
+- **the internet**: in practice yes, since the exam is on a connected machine, but Mapelli expects me to know what I am doing, googling boilerplate is fine, googling the algorithm definition mid-exam is bad sign
 
 ## what is not allowed
 
 - **collaboration with other students** during the exam
-- **uploading after the deadline** — strict
-- **submitting code that does not run** — even partial credit requires a runnable script
+- **uploading after the deadline** - strict
+- **submitting code that does not run** - even partial credit requires a runnable script
 
 ## rubric (my best read)
 
@@ -55,21 +55,21 @@ every exam I have seen is roughly evenly weighted, ~25% per exercise. within an 
 - plot quality and readability (~25%)
 - numerical correctness of the printed values (~25%)
 
-so a bad-looking but correct plot loses points; a beautiful plot from wrong code loses more.
+so a bad-looking but correct plot loses points. a plot from wrong code loses more.
 
 ## practical tips
 
-- **set the random seed** for reproducibility (`np.random.seed(42)`); the grader can re-run and check
-- **comment generously** — even a one-line `# inverse transform sampling` saves a grader 30 seconds and earns goodwill
-- **save plots to files** with descriptive names (`exercise_2_inverse_sampling_histogram.pdf`); never trust the GUI to be open at upload time
+- **set the random seed** for reproducibility (`np.random.seed(42)`). the grader can re-run and check
+- **comment generously** - even a one-line `# inverse transform sampling` saves a grader 30 seconds and earns goodwill
+- **save plots to files** with descriptive names (`exercise_2_inverse_sampling_histogram.pdf`). never trust the GUI to be open at upload time
 - **print the final numerical answer** at the end of each exercise with a clear label: `print(f"integral = {I:.4f} ± {dI:.4f}")`
-- **time-budget**: 4 exercises × ~45 min each leaves 30 minutes margin. do not get stuck on exercise 1; if exercise 4 looks scarier, skim all four first and start with the easiest
+- **time-budget**: 4 exercises × ~45 min each leaves 30 minutes margin. do not get stuck on exercise 1. if exercise 4 looks scarier, skim all four first and start with the easiest
 
 ## see also
 
 - [[Math Numerical Methods course intro]]
-- [[Mathematical_Numerical_Methods_MOC]] — full topic map
-- [[Numerical problem solving workflow]] — the meta-recipe inside one exercise
+- [[Mathematical_Numerical_Methods_MOC]] - full topic map
+- [[Numerical problem solving workflow]] - the meta-recipe inside one exercise
 
 
 

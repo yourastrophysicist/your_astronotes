@@ -25,7 +25,7 @@ trade-off:
 
 for a Gaussian PSF on a flat sky background, the SNR-optimising radius is
 $$r_{\rm opt} \approx 1.4 \cdot \mathrm{FWHM}$$
-about $93\%$ enclosed flux. for sharper-cored PSFs (Moffat with low $\beta$), the optimum is slightly smaller; for broader PSFs, slightly larger.
+about $93\%$ enclosed flux. for sharper-cored PSFs (Moffat with low $\beta$), the optimum is slightly smaller, and for broader PSFs, slightly larger.
 
 a common default: $r_{\rm ap} =$ FWHM (about $76\%$ enclosed flux for Gaussian) for SNR-balanced photometry, and **aperture corrections** to recover the rest.n 
 
@@ -49,7 +49,7 @@ assumption: the PSF is uniform across the image. fails for spatially varying PSF
 
 ### weaknesses
 - **bad in crowded fields**: nearby sources contaminate the aperture and the sky annulus.
-- **suboptimal SNR**: pixel weighting is uniform inside the aperture; PSF photometry weights pixels by the PSF and gets better SNR.
+- **suboptimal SNR**: pixel weighting is uniform inside the aperture. PSF photometry weights pixels by the PSF and gets better SNR.
 - **sensitive to aperture choice and centring**: a few-pixel offset can change the magnitude.
 
 for crowded fields (globular clusters, nuclear regions), use [[PSF photometry]] instead.
@@ -66,6 +66,21 @@ most provide circular, elliptical, and Kron-style apertures, plus background est
 ## elliptical / Kron apertures
 
 for galaxies and extended sources, circular apertures truncate flux. Kron radii (defined as the first moment of the brightness profile) and elliptical apertures aligned with the source's intrinsic shape recover more flux. Petrosian apertures define the radius from a profile-shape criterion ($\eta(r) = 0.2$ in SDSS).
+
+## worked example
+
+an aperture of radius 5 pixels (78.5 pixels) contains $12\,500$ e$^-$ in a 60 s exposure. the median sky is 20 e$^-$ per pixel:
+
+$$N_* = 12\,500 - 78.5 \times 20 = 10\,930\ \text{e}^-$$
+
+the rate is $182$ e$^-$/s, so $m_{\rm inst} = -2.5\log_{10}182 = -5.65$, and with a zero point of $25.00$ the magnitude is $19.35$ before the aperture correction.
+
+## where it goes wrong
+
+- a small aperture loses a fraction of the light that changes with the seeing. the aperture correction, measured on bright isolated stars, fixes it.
+- a large aperture collects more sky noise than signal.
+- the sky annulus often contains faint stars. the median or the mode is safer than the mean.
+- in crowded fields the apertures overlap and the method fails.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

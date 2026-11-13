@@ -33,7 +33,7 @@ automated flagging (CASA's `flagdata`, AOFlagger) handles most cases. manual fla
 
 ## bandpass calibration
 
-each antenna's frequency response is not flat — different gain at different frequencies. measure with a **bandpass calibrator**: a strong, spectrally-flat source (often a known quasar like 3C 286 or 3C 48). divide each antenna's spectrum by this measured shape.
+each antenna's frequency response is not flat, different gain at different frequencies. measure with a **bandpass calibrator**: a strong, spectrally-flat source (often a known quasar like 3C 286 or 3C 48). divide each antenna's spectrum by this measured shape.
 
 result: each antenna now has a flat (instrumental) response across frequency.
 
@@ -48,9 +48,9 @@ the comparison between observed and known flux gives the absolute gain factor th
 
 ## phase calibration
 
-the atmospheric phase is changing, and instrumental phases drift slowly. observe a **phase calibrator** every few minutes — a compact source within ~5° of the target whose true position is known. apply the measured calibrator-to-target phase difference to correct the target visibilities.
+the atmospheric phase is changing, and instrumental phases drift slowly. observe a **phase calibrator** every few minutes, a compact source within ~5° of the target whose true position is known. apply the measured calibrator-to-target phase difference to correct the target visibilities.
 
-frequency: every 5-10 minutes for high-frequency observations (more atmospheric stability needed); every 15-30 minutes for lower frequencies.
+frequency: every 5-10 minutes for high-frequency observations (more atmospheric stability needed). every 15-30 minutes for lower frequencies.
 
 ## polarization calibration
 
@@ -77,7 +77,7 @@ before correlation, geometric delays are subtracted (in the correlator). after c
 - determine the slope of phase vs frequency for each antenna pair
 - subtract this slope from the science visibilities
 
-frequent for VLBI; rare for connected-element interferometers (where the LO is locked).
+frequent for VLBI. rare for connected-element interferometers (where the LO is locked).
 
 ## the calibration in CASA
 
@@ -141,7 +141,7 @@ BookAI's practical point: a final image is already determined by choices made be
 
 ![07_Images/Interferometry/radio_observing_workflow.svg](../../assets/images/radio_observing_workflow.svg)
 
-reading cue: calibration is the middle of the observing story. the raw visibility is not yet astrophysics; gains, bandpass, flux scale, and phase behavior must be solved before imaging.
+reading cue: calibration is the middle of the observing story. the raw visibility is not yet astrophysics. gains, bandpass, flux scale, and phase behavior must be solved before imaging.
 
 source: local workflow diagram generated from the standard radio-reduction sequence.
 

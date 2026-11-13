@@ -16,7 +16,7 @@ If the mass of the galaxy were concentrated exclusively in the visible stellar d
 
 $$v_{\rm circ}(r) \propto r^{-1/2}$$
 
-However, pioneering optical emission-line spectroscopy of HII regions (Rubin & Ford 1970; Rubin et al. 1978, 1980) and 21 cm neutral hydrogen line interferometry (Bosma 1981; van Albada et al. 1985; Begeman 1989) revealed that the rotation curves of spiral galaxies remain approximately **flat** ($v_{\rm circ} \approx \mathrm{constant}$) out to the outermost observed radii (often $5$ to $10$ disk scale lengths).
+However, pioneering optical emission-line spectroscopy of HII regions (Rubin & Ford 1970, Rubin et al. 1978, 1980) and 21 cm neutral hydrogen line interferometry (Bosma 1981, van Albada et al. 1985, Begeman 1989) revealed that the rotation curves of spiral galaxies remain approximately **flat** ($v_{\rm circ} \approx \mathrm{constant}$) out to the outermost observed radii (often $5$ to $10$ disk scale lengths).
 
 A flat rotation curve requires.
 
@@ -125,11 +125,11 @@ The maximum disk hypothesis maximizes $(M/L)_*$ subject only to the constraint t
 
 $$v_{\rm disk}(2.2 R_d) \approx (0.85 \pm 0.10) \, v_{\rm circ}(2.2 R_d)$$
 
-In bright high-surface-brightness spirals, maximum disk fits reproduce inner bumps and wiggles, indicating that baryonic matter dominates the inner gravitational potential. In low-surface-brightness (LSB) and dwarf galaxies, the maximum disk hypothesis fails; dark matter completely dominates at all radii.
+In bright high-surface-brightness spirals, maximum disk fits reproduce inner bumps and wiggles, indicating that baryonic matter dominates the inner gravitational potential. In low-surface-brightness (LSB) and dwarf galaxies, the maximum disk hypothesis fails. Dark matter completely dominates at all radii.
 
 ### The Cusp-Core Problem
 $\Lambda$CDM collisionless simulations universally predict cuspy NFW halos with $\rho \propto r^{-1}$ at the center.
-In contrast, high-resolution 21 cm and $H\alpha$ observations of gas-dominated dwarf and LSB galaxies (such as the THINGS survey; de Blok et al. 2008) consistently reveal.
+In contrast, high-resolution 21 cm and $H\alpha$ observations of gas-dominated dwarf and LSB galaxies (such as the THINGS survey, de Blok et al. 2008) consistently reveal.
 - Linear inner velocity curves ($v \propto r$)
 - Flat, constant-density central cores ($\rho \propto r^0$)
 

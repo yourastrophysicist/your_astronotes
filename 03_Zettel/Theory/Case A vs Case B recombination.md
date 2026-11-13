@@ -4,7 +4,7 @@ title: "Case A vs Case B recombination"
 ---
 two limiting cases for hydrogen recombination cascades, distinguished by what happens to **Lyman series photons** in the gas. **Case B** is the standard for real HII regions.
 
-## Case A: fully transparent
+## Case A - fully transparent
 
 all photons (including Lyman lines and the Lyman continuum) escape freely. each recombination cascades through some path of allowed transitions, emitting one photon at each step until reaching the ground state.
 
@@ -13,7 +13,7 @@ $$\alpha_A(T_e) \approx 4.2 \times 10^{-13}\,\text{cm}^3\,\text{s}^{-1}\,\text{a
 
 valid in **very thin gas**: e.g. very dilute intergalactic medium, ISM through which Lyman alpha can escape over $\sim$ kpc paths.
 
-## Case B: thick to Lyman, thin to higher series
+## Case B - thick to Lyman, thin to higher series
 
 in real HII regions, the gas is **optically thick to Lyman lines** (because $n$=2 holds a lot of population, absorbing $\sim 1216$ Å Ly$\alpha$ photons). but optically thin to Balmer and higher series (because $n=2$ is much less populated).
 
@@ -58,7 +58,7 @@ note Ly$\alpha$/H$\beta$ differs significantly. in Case B, half of the Ly$\alpha
 
 in special situations:
 - **Case C**: optically thick to all Lyman lines AND a fraction of Balmer Ly photon paths. used for very dense, extended nebulae like AGN broad-line regions.
-- **resonance scattering** of Ly$\alpha$ has a large effective optical depth even in modest H column densities; full radiative transfer is needed to predict its profile.
+- **resonance scattering** of Ly$\alpha$ has a large effective optical depth even in modest H column densities. full radiative transfer is needed to predict its profile.
 
 modern photoionisation codes (Cloudy, MAPPINGS) handle Cases A, B, C, and intermediate self-consistently.
 
@@ -79,7 +79,7 @@ modern photoionisation codes (Cloudy, MAPPINGS) handle Cases A, B, C, and interm
 - [[H-alpha SFR tracer]]
 - [[Photoionisation balance]]
 - Strömgren sphere
-- [[Photon decoupling and CMB]] — analogous Case-B-like problem in the cosmological recombination
+- [[Photon decoupling and CMB]] - analogous Case-B-like problem in the cosmological recombination
 
 
 

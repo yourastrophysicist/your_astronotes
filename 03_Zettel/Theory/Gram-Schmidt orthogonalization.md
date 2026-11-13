@@ -23,7 +23,7 @@ $$\mathbf{u}_i = \mathbf{a}_i - \sum_{k=0}^{i-1}(\mathbf{q}_k \cdot \mathbf{a}_i
 
 each new $\mathbf{u}_i$ is the orthogonal complement of $\mathbf{a}_i$ relative to the span of the previous $\mathbf{q}$'s, then we normalize.
 
-if at any step $\mathbf{u}_i = 0$, the input vectors were linearly dependent — $\mathbf{a}_i$ already lay in the span of $\mathbf{a}_0, \ldots, \mathbf{a}_{i-1}$.
+if at any step $\mathbf{u}_i = 0$, the input vectors were linearly dependent, $\mathbf{a}_i$ already lay in the span of $\mathbf{a}_0, \ldots, \mathbf{a}_{i-1}$.
 
 ## python implementation
 
@@ -65,9 +65,9 @@ def modified_gram_schmidt(A):
     return Q, R
 ```
 
-mathematically the two are identical; numerically the modified version preserves orthogonality far better. if I am going to write Gram-Schmidt by hand, write the modified version.
+mathematically the two are identical. numerically the modified version preserves orthogonality far better. if I am going to write Gram-Schmidt by hand, write the modified version.
 
-## the matrix-level statement: $A = QR$
+## the matrix-level statement - $A = QR$
 
 writing the recursion for $\mathbf{a}_i$ in terms of the $\mathbf{q}_k$:
 
@@ -77,13 +77,13 @@ stack as columns:
 
 $$A = QR$$
 
-with $Q$ orthogonal ($Q^T Q = I$) and $R$ upper triangular with diagonal $\\lvert \mathbf{u}_i\\rvert$ and off-diagonal $(\mathbf{q}_k \cdot \mathbf{a}_i)$. this is [[QR decomposition]] — Gram-Schmidt is *one* way to compute it.
+with $Q$ orthogonal ($Q^T Q = I$) and $R$ upper triangular with diagonal $\\lvert \mathbf{u}_i\\rvert$ and off-diagonal $(\mathbf{q}_k \cdot \mathbf{a}_i)$. this is [[QR decomposition]], Gram-Schmidt is *one* way to compute it.
 
 ## why it matters in physics
 
 - **eigenvector matrices**: for a symmetric matrix, the eigenvectors are orthogonal but not yet orthonormal. Gram-Schmidt (or just normalization, since they are already orthogonal) finishes the job
 - **basis functions**: building an orthonormal basis on a function space (Legendre polynomials, Hermite polynomials, spherical harmonics) is Gram-Schmidt applied to a sequence of monomials with respect to a chosen inner product
-- **wavefunction orthonormalization**: in quantum mechanics, the eigenstates of a Hamiltonian are orthogonal *if* the eigenvalues are distinct; if degenerate, Gram-Schmidt within the degenerate subspace
+- **wavefunction orthonormalization**: in quantum mechanics, the eigenstates of a Hamiltonian are orthogonal *if* the eigenvalues are distinct. if degenerate, Gram-Schmidt within the degenerate subspace
 - **the QR eigenvalue algorithm**: iterate QR factorizations to converge to the eigenvalues
 
 ## complexity

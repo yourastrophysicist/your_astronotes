@@ -92,86 +92,86 @@ the helium constraint, combined with the mass budget, is the single hardest test
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 16 - Multiple Stellar Populations - Helium Enrichment & Polluters)
 
 > **Context**: *Helium enhancement (Delta Y up to 0.15), MS bluing, hot Horizontal Branch morphology, and candidate polluters (massive AGBs, FRMS, supermassive stars).*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![LAntonino_p16_01.png](../../assets/images/LAntonino_p16_01.png)
-*Figure P16-01: LAntonino_p16_01.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-01: LAntonino_p16_01.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_02.png](../../assets/images/LAntonino_p16_02.png)
-*Figure P16-02: LAntonino_p16_02.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-02: LAntonino_p16_02.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_03.png](../../assets/images/LAntonino_p16_03.png)
-*Figure P16-03: LAntonino_p16_03.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-03: LAntonino_p16_03.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_04.png](../../assets/images/LAntonino_p16_04.png)
-*Figure P16-04: LAntonino_p16_04.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-04: LAntonino_p16_04.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_05.png](../../assets/images/LAntonino_p16_05.png)
-*Figure P16-05: LAntonino_p16_05.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-05: LAntonino_p16_05.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_06.png](../../assets/images/LAntonino_p16_06.png)
-*Figure P16-06: LAntonino_p16_06.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-06: LAntonino_p16_06.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_07.png](../../assets/images/LAntonino_p16_07.png)
-*Figure P16-07: LAntonino_p16_07.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-07: LAntonino_p16_07.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_08.png](../../assets/images/LAntonino_p16_08.png)
-*Figure P16-08: LAntonino_p16_08.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-08: LAntonino_p16_08.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_09.png](../../assets/images/LAntonino_p16_09.png)
-*Figure P16-09: LAntonino_p16_09.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-09: LAntonino_p16_09.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_10.png](../../assets/images/LAntonino_p16_10.png)
-*Figure P16-10: LAntonino_p16_10.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-10: LAntonino_p16_10.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_11.png](../../assets/images/LAntonino_p16_11.png)
-*Figure P16-11: LAntonino_p16_11.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-11: LAntonino_p16_11.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_12.png](../../assets/images/LAntonino_p16_12.png)
-*Figure P16-12: LAntonino_p16_12.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-12: LAntonino_p16_12.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_13.png](../../assets/images/LAntonino_p16_13.png)
-*Figure P16-13: LAntonino_p16_13.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-13: LAntonino_p16_13.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_14.png](../../assets/images/LAntonino_p16_14.png)
-*Figure P16-14: LAntonino_p16_14.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-14: LAntonino_p16_14.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_15.png](../../assets/images/LAntonino_p16_15.png)
-*Figure P16-15: LAntonino_p16_15.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-15: LAntonino_p16_15.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_16.png](../../assets/images/LAntonino_p16_16.png)
-*Figure P16-16: LAntonino_p16_16.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-16: LAntonino_p16_16.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_17.png](../../assets/images/LAntonino_p16_17.png)
-*Figure P16-17: LAntonino_p16_17.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-17: LAntonino_p16_17.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_18.png](../../assets/images/LAntonino_p16_18.png)
-*Figure P16-18: LAntonino_p16_18.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-18: LAntonino_p16_18.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_19.png](../../assets/images/LAntonino_p16_19.png)
-*Figure P16-19: LAntonino_p16_19.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-19: LAntonino_p16_19.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_20.png](../../assets/images/LAntonino_p16_20.png)
-*Figure P16-20: LAntonino_p16_20.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-20: LAntonino_p16_20.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_21.png](../../assets/images/LAntonino_p16_21.png)
-*Figure P16-21: LAntonino_p16_21.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-21: LAntonino_p16_21.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_22.png](../../assets/images/LAntonino_p16_22.png)
-*Figure P16-22: LAntonino_p16_22.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-22: LAntonino_p16_22.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_23.png](../../assets/images/LAntonino_p16_23.png)
-*Figure P16-23: LAntonino_p16_23.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-23: LAntonino_p16_23.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_24.png](../../assets/images/LAntonino_p16_24.png)
-*Figure P16-24: LAntonino_p16_24.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-24: LAntonino_p16_24.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 ![LAntonino_p16_25.png](../../assets/images/LAntonino_p16_25.png)
-*Figure P16-25: LAntonino_p16_25.png — Observational data, CMD morphology, and diagnostics from Lecture 16 — Multiple Stellar Populations: Helium Enrichment & Polluters.*
+*Figure P16-25: LAntonino_p16_25.png - Observational data, CMD morphology, and diagnostics from Lecture 16 - Multiple Stellar Populations: Helium Enrichment & Polluters.*
 
 
 

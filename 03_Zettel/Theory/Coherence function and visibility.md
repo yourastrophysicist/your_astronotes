@@ -4,7 +4,7 @@ title: "Coherence function and visibility"
 ---
 # Coherence function and visibility
 
-the formal mathematical link between *coherence* (a statistical property of the wave) and *visibility* (the observable). they are the same quantity viewed from two angles. understanding this equivalence is crucial: the rest of the formalism — Van Cittert-Zernike, fringe contrast, calibration — is just consequences.
+the formal mathematical link between *coherence* (a statistical property of the wave) and *visibility* (the observable). they are the same quantity viewed from two angles. understanding this equivalence is essential: the rest of the formalism, Van Cittert-Zernike, fringe contrast, calibration, is just consequences.
 
 ## the mutual coherence function
 
@@ -101,7 +101,7 @@ so visibility $\mathcal V(\mathbf u) = $ FT of source brightness, where $\mathbf
 
 ## the role of polarization
 
-the formalism above is *scalar* — it ignores polarization. for polarized sources:
+the formalism above is *scalar*. it ignores polarization. for polarized sources:
 
 - the field $\mathbf E$ is a vector
 - the coherence "function" becomes a 2x2 matrix (the **coherency matrix**)
@@ -112,7 +112,7 @@ most of the course is scalar. polarization-aware interferometry shows up in [[Po
 
 ## the role of bandwidth (again)
 
-a wide-bandwidth signal has $\Gamma_{11}$ with rapidly oscillating exponentials at different $\nu$. the spatial part $\gamma_{12}(0)$ is the same (for a uniform source over the band), but the *interferometer integrating over bandwidth* sees a fringe envelope. this is **bandwidth smearing** — fringes wash out at delays $> \ell_c$.
+a wide-bandwidth signal has $\Gamma_{11}$ with rapidly oscillating exponentials at different $\nu$. the spatial part $\gamma_{12}(0)$ is the same (for a uniform source over the band), but the *interferometer integrating over bandwidth* sees a fringe envelope. this is **bandwidth smearing**, fringes wash out at delays $> \ell_c$.
 
 ## scientific figure
 

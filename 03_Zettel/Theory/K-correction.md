@@ -29,7 +29,7 @@ $$K_X(z) = -2.5 \log_{10}\!\left[\frac{(1+z)\int F(\lambda) T_X(\lambda)\, d\lam
 - **the filter**: which part of the SED is being sampled changes with $z$, and the relevant SED feature evolves.
 - **the redshift**: through $\lambda_{\rm em} = \lambda_{\rm obs}/(1+z)$.
 
-so $K(z)$ is **not a single function**; it must be computed per-source per-filter, ideally from a fit to the multi-band SED.
+so $K(z)$ is **not a single function**. it must be computed per-source per-filter, ideally from a fit to the multi-band SED.
 
 ## sign and behaviour
 
@@ -52,6 +52,23 @@ three approaches:
 3. **photometric-redshift codes**: BPZ, EAZY, Le Phare. they fit redshift and galaxy type simultaneously, returning a per-source $K$.
 
 the python package `kcorrect` (Blanton) is the standard tool for SDSS-derived K-corrections.
+
+## worked example
+
+for a power-law spectrum $f_\nu \propto \nu^{\alpha}$ the correction is analytic:
+
+$$K(z) = -2.5\,(1 + \alpha)\log_{10}(1 + z)$$
+
+- $\alpha = -1$: $K = 0$ at every redshift
+- a red spectrum, $\alpha = -2$, at $z = 1$: $K = +0.75$ mag, the galaxy looks fainter
+- a flat spectrum, $\alpha = 0$, at $z = 1$: $K = -0.75$ mag
+
+## where it goes wrong
+
+- the term $-2.5\log_{10}(1+z)$ from the narrowing of the bandpass is always there, even for a flat spectrum.
+- the correction depends on the type of galaxy, so it needs a template or a fit to the SED.
+- the sign convention changes between authors. I check it with a case I know.
+- the best way to keep it small is to observe in the filter that matches the rest-frame band.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

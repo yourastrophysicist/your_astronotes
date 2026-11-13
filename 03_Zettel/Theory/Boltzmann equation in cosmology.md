@@ -8,7 +8,7 @@ $$\frac{df}{dt} = C[f]$$
 with $f(p, t)$ the phase-space distribution function and $C[f]$ the **collision operator** that accounts for all the relevant interactions.
 
 in cosmology this is what governs:
-- dark matter freeze-out (see Dark matter relics — WIMP miracle)
+- dark matter freeze-out (see Dark matter relics - WIMP miracle)
 - neutrino decoupling
 - recombination (see [[Saha equation and recombination]])
 - BBN (see [[BBN_overview]])
@@ -27,7 +27,7 @@ $$\frac{\partial f}{\partial t} - H\, p\, \frac{\partial f}{\partial p} = C[f]$$
 
 ## reducing to a number-density equation
 
-usually we do not need the full phase-space distribution; just the number density $n(t) = \int f(p, t) g\, d^3p/(2\pi)^3$. integrating the Boltzmann equation over momentum and dividing by the volume:
+usually we do not need the full phase-space distribution, just the number density $n(t) = \int f(p, t) g\, d^3p/(2\pi)^3$. integrating the Boltzmann equation over momentum and dividing by the volume:
 
 $$\boxed{\,\frac{dn}{dt} + 3 H n = \int C[f]\, g\, \frac{d^3p}{(2\pi)^3}\,}$$
 
@@ -48,7 +48,7 @@ out of equilibrium ($\Gamma \lesssim H$), the bracketed term is nonzero, and $n$
 
 ---
 
-## application 1: dark matter freeze-out
+## application 1 - dark matter freeze-out
 
 for a thermal relic $\chi$ that annihilates into SM particles, $\chi\bar\chi \leftrightarrow X\bar X$:
 $$\frac{dn_\chi}{dt} + 3 H n_\chi = -\langle\sigma v\rangle [n_\chi^2 - n_{\chi,{\rm EQ}}^2]$$
@@ -58,11 +58,11 @@ at high $T$ ($\Gamma \gg H$), $n_\chi \approx n_{\chi,{\rm EQ}}$ which decreases
 solving gives:
 $$\Omega_\chi h^2 \approx \frac{3 \times 10^{-27}\,\text{cm}^3/\text{s}}{\langle\sigma v\rangle}$$
 
-→ the **WIMP miracle**. see Dark matter relics — WIMP miracle.
+→ the **WIMP miracle**. see Dark matter relics - WIMP miracle.
 
 ---
 
-## application 2: BBN
+## application 2 - BBN
 
 for primordial nucleosynthesis, we need the Boltzmann equation for *each* nuclear species, with collision terms for all the nuclear reactions among them. this gives a coupled system of ODEs:
 $$\frac{d n_A}{dt} + 3 H n_A = \sum_{\rm reactions}\dots$$
@@ -71,7 +71,7 @@ solved numerically by codes like PArthENoPE, PRIMAT, AlterBBN. the abundances of
 
 ---
 
-## application 3: recombination
+## application 3 - recombination
 
 for the ionization fraction $X_e = n_e/n_b$:
 $$\frac{dX_e}{dt} = ...$$
@@ -80,7 +80,7 @@ $$\frac{dX_e}{dt} = ...$$
 
 ---
 
-## why this framework is so powerful
+## why this framework works so well
 
 the Boltzmann equation gives us a **single unified language** for all out-of-equilibrium processes in cosmology:
 - a species in thermal equilibrium: $C[f] \approx 0$, $f = f_{\rm EQ}$
@@ -90,6 +90,11 @@ the Boltzmann equation gives us a **single unified language** for all out-of-equ
 so once you have the cross-sections and masses, you can in principle compute the abundance of any thermal species at any time. this is the engine that generates all the predictions of standard cosmology beyond the equilibrium era.
 
 ---
+
+## where it goes wrong
+
+- the collision term is where the physics is. the left side only carries the dilution.
+- the equation is written for $na^3$ to remove the trivial dilution.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -109,9 +114,9 @@ so once you have the cross-sections and masses, you can in principle compute the
 - [[Thermal equilibrium in the early universe]]
 - [[Saha equation and recombination]]
 - [[BBN_overview]]
-- Dark matter relics — WIMP miracle
+- Dark matter relics - WIMP miracle
 - [[Hot vs cold dark matter]]
-- [[Baumann_reference]] — chapter 3.3.1 has the rigorous derivation
+- [[Baumann_reference]] - chapter 3.3.1 has the rigorous derivation
 
 
 

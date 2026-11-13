@@ -66,7 +66,7 @@ for analytic $f$, computing the imaginary part of $f$ evaluated at a complex per
 
 $$\text{Im}[f(x + ih)]/h = f'(x) + O(h^2)$$
 
-since the numerator is one number's imaginary part, no subtraction. so $h$ can be tiny — even $10^{-200}$ — without roundoff blowup. accuracy reaches machine precision.
+since the numerator is one number's imaginary part, no subtraction. so $h$ can be tiny, even $10^{-200}$, without roundoff blowup. accuracy reaches machine precision.
 
 generalize to partials by perturbing one component at a time complexly:
 
@@ -82,7 +82,7 @@ def complex_step_jacobian(f, x, h=1e-30):
     return J
 ```
 
-caveat: $f$ must accept complex inputs. fine for analytic functions; not always for functions with conditionals (`np.where`, `np.abs`, `np.maximum`).
+caveat: $f$ must accept complex inputs. fine for analytic functions. not always for functions with conditionals (`np.where`, `np.abs`, `np.maximum`).
 
 ## automatic differentiation, the right answer
 
@@ -100,7 +100,7 @@ J = jacfwd(f)
 H = jacfwd(grad(f))
 ```
 
-cost: forward-mode AD costs $\sim n$ evaluations for an $n$-input gradient (similar to finite differences). reverse-mode AD costs *one* evaluation regardless of $n$ — the workhorse of deep learning.
+cost: forward-mode AD costs $\sim n$ evaluations for an $n$-input gradient (similar to finite differences). reverse-mode AD costs *one* evaluation regardless of $n$, the workhorse of deep learning.
 
 for moderate $n$, AD is usually a 10× speedup over finite differences and machine-precision accurate. **prefer AD whenever it is available**.
 
@@ -108,7 +108,7 @@ for moderate $n$, AD is usually a 10× speedup over finite differences and machi
 
 - **Newton-Raphson on a system of equations**: Jacobian needed each step
 - **maximum-likelihood fitting**: gradient of the log-likelihood for parameter estimation
-- **Hessian for parameter uncertainties**: Fisher matrix is the expected Hessian of the log-likelihood; its inverse gives parameter covariances
+- **Hessian for parameter uncertainties**: Fisher matrix is the expected Hessian of the log-likelihood. Its inverse gives parameter covariances
 - **shooting methods for stellar structure**: sensitivities $\partial(\text{boundary residual})/\partial(\text{initial guess})$
 - **gravity-wave parameter estimation**: gradient of the matched-filter likelihood
 

@@ -11,15 +11,15 @@ the **Hubble parameter** $H(t)$ measures the rate of expansion at any cosmic tim
 definition:
 $$\boxed{\,H \equiv \frac{\dot a}{a}\,}$$
 
-units: inverse time. equivalently, velocity per distance — km/s per Mpc.
+units: inverse time. equivalently, velocity per distance, km/s per Mpc.
 
 $H$ is positive if the universe is expanding, negative if contracting. observationally $H > 0$, and at the present epoch
 $$\boxed{\,H_0 = 67.4 \pm 0.5~\text{km/s/Mpc} \quad \text{(Planck 2018, CMB-anchored)}\,}$$
 $$\boxed{\,H_0 = 73.04 \pm 1.04~\text{km/s/Mpc} \quad \text{(Riess et al. 2022, SN Ia local)}\,}$$
 
-these two values disagree at the $\sim 5\sigma$ level — the **Hubble tension**, one of the great open problems of 2025/2026.
+these two values disagree at the $\sim 5\sigma$ level, the **Hubble tension**, one of the great open problems of 2025/2026.
 
-a useful conversion: $H_0^{-1} = 9.7776\,h^{-1} \times 10^9$ years, where $h \equiv H_0/(100~\text{km/s/Mpc})$. so for $h = 0.674$, $H_0^{-1} \approx 14.5$ Gyr — close to but slightly larger than the age of the universe.
+a useful conversion: $H_0^{-1} = 9.7776\,h^{-1} \times 10^9$ years, where $h \equiv H_0/(100~\text{km/s/Mpc})$. so for $h = 0.674$, $H_0^{-1} \approx 14.5$ Gyr, close to but slightly larger than the age of the universe.
 
 ---
 
@@ -60,10 +60,10 @@ the luminosity distance, expanded around small $z$:
 $$d_L(z) = \frac{c}{H_0}\left[z + \tfrac12 (1 - q_0) z^2 + O(z^3)\right]$$
 
 so:
-- **lowest order**: $d_L = (c/H_0) z$ — measures $H_0$
-- **next order**: $\propto (1 - q_0) z^2$ — measures $q_0$
+- **lowest order**: $d_L = (c/H_0) z$, measures $H_0$
+- **next order**: $\propto (1 - q_0) z^2$, measures $q_0$
 
-it is exactly this $z^2$ correction that the SN Ia Hubble diagram resolved in 1998. data with $z \sim 0.5$–$1$ break the degeneracy between $H_0$ and $q_0$, and the result was $q_0 < 0$. this was the discovery of dark energy.
+it is exactly this $z^2$ correction that the SN Ia Hubble diagram resolved in 1998. data with $z \sim 0.5$ to $1$ break the degeneracy between $H_0$ and $q_0$, and the result was $q_0 < 0$. this was the discovery of dark energy.
 
 ![intro-34.png](../../assets/images/intro-34.png)
 
@@ -77,6 +77,12 @@ $$w < -\frac{1}{3}$$
 a cosmological constant has $w = -1$ exactly. observed $w \approx -1$ to $\sim 1\%$ precision so far.
 
 ---
+
+## where it goes wrong
+
+- $H_0$ and $q_0$ are kinematic. they are defined by the Taylor series, not by the Friedmann equation.
+- $q_0 < 0$ means acceleration. the sign convention dates from when everyone expected deceleration.
+- the low-$z$ series breaks down above $z \approx 0.5$. the full integral is needed.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

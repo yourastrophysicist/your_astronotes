@@ -2,17 +2,12 @@
 layout: "default"
 title: "Cosmic_inventory_overview"
 ---
-cosmology is the study of the universe at large scales,
-	and "large" here means $l \gtrsim 1$ Mpc:
-		stars in a galaxy are separated by parsecs ($1\,\text{pc} \approx 3.086\times10^{13}$ km),
-			bright galaxies by megaparsecs.
-above $\sim 100$ Mpc the universe looks **homogeneous and isotropic**:
-	this is the **cosmological principle**,
-		the zero-th order picture of a comoving observer.
+cosmology is the study of the universe at large scales, and "large" here means $l \gtrsim 1$ Mpc: stars in a galaxy are separated by parsecs ($1\,\text{pc} \approx 3.086\times10^{13}$ km), bright galaxies by megaparsecs.
+above $\sim 100$ Mpc the universe looks **homogeneous and isotropic**: this is the **cosmological principle**, the zero-th order picture of a comoving observer.
 
 ![intro-04.png](../../assets/images/intro-04.png)
 
-modern cosmology surveys reach about a Gpc; this is the redshift cone we live inside.
+modern cosmology surveys reach about a Gpc. this is the redshift cone we live inside.
 
 ---
 
@@ -20,11 +15,11 @@ modern cosmology surveys reach about a Gpc; this is the redshift cone we live in
 
 since the 1960s the *standard hot Big Bang model* has rested on three observational pillars:
 
-1. **the Hubble diagram** — the universe is expanding (and right now accelerating)
-2. **Big-Bang nucleosynthesis** — the relative abundances of light elements forged in the first three minutes (see [[BBN_overview]])
-3. **the cosmic microwave background** — a near-perfect blackbody at $T_0 = 2.725$ K filling the sky
+1. **the Hubble diagram** - the universe is expanding (and right now accelerating)
+2. **Big-Bang nucleosynthesis** - the relative abundances of light elements forged in the first three minutes (see [[BBN_overview]])
+3. **the cosmic microwave background** - a near-perfect blackbody at $T_0 = 2.725$ K filling the sky
 
-what the late 20th century added on top of this is the **Standard Model of Cosmology** — ΛCDM. it adds:
+what the late 20th century added on top of this is the **Standard Model of Cosmology**, ΛCDM. it adds:
 - **dark matter** and **dark energy**
 - **deviations from homogeneity and isotropy**: galaxies, clusters, CMB anisotropies (these are first-order corrections to the zeroth-order homogeneity)
 - **inflation** as the generator of those primordial perturbations
@@ -34,7 +29,7 @@ what the late 20th century added on top of this is the **Standard Model of Cosmo
 the present-day pie chart, from a Kolb arXiv preprint:
 $$\Omega_\Lambda \simeq 68.5\%, \quad \Omega_{dm} \simeq 26\%, \quad \Omega_{H,He\,gas} \simeq 4\%, \quad \Omega_\nu \simeq 0.26\%, \quad \Omega_\star \simeq 0.5\%, \quad \Omega_{\rm chem} \simeq 0.025\%, \quad \Omega_\gamma \simeq 0.005\%$$
 
-basically: 95% of the universe is something we cannot see directly. 5% is "stuff that emits photons." within that 5%, only a tenth is stars and chemical elements; the rest is just hot diffuse hydrogen and helium gas.
+basically: 95% of the universe is something we cannot see directly. 5% is "stuff that emits photons." within that 5%, only a tenth is stars and chemical elements. the rest is just hot diffuse hydrogen and helium gas.
 
 ---
 
@@ -68,7 +63,7 @@ every band of the electromagnetic spectrum contributes a *background* of photons
 - **CMB** = cosmic microwave background (the dominant one, by far)
 - **CRB** = cosmic radio background
 
-the **CMB dominates** the photon inventory — it carries something like 99% of all photons in the universe.
+the **CMB dominates** the photon inventory. it carries something like 99% of all photons in the universe.
 
 ### the CMB blackbody spectrum
 
@@ -78,7 +73,7 @@ best-fit temperature from FIRAS on COBE: $T_0 = 2.725 \pm 0.002$ K (95% CL). no 
 
 ![intro-09.png](../../assets/images/intro-09.png)
 
-the spectrum was measured beautifully by FIRAS (COBE), DMR (COBE), LBL ground+balloon, Princeton ground+balloon, UBC sounding rocket, and cyanogen optical. all of them lie on a 2.726 K Planck curve. it is the best blackbody we have ever measured.
+the spectrum was measured cleanly by FIRAS (COBE), DMR (COBE), LBL ground+balloon, Princeton ground+balloon, UBC sounding rocket, and cyanogen optical. all of them lie on a 2.726 K Planck curve. it is the best blackbody we have ever measured.
 
 ### CMB photon densities and $\Omega_{0\gamma}$
 
@@ -119,7 +114,7 @@ zoom in on the same spectrum spatially, and it is *not* perfectly smooth. Planck
 
 ![intro-12.png](../../assets/images/intro-12.png)
 
-at the level of micro-Kelvins, $\Delta T/\bar T \sim 10^{-5}$ — the universe is **almost** smooth. the COBE-DMR map from 1994 was the first detection of this:
+at the level of micro-Kelvins, $\Delta T/\bar T \sim 10^{-5}$, the universe is **almost** smooth. the COBE-DMR map from 1994 was the first detection of this:
 
 ![intro-13.png](../../assets/images/intro-13.png)
 
@@ -134,11 +129,11 @@ these tiny anisotropies are the seeds of every galaxy and cluster I will ever ob
 how do we *weigh* the baryons in the universe? four independent ways:
 
 1. **observe baryons in stars and galaxies** via optical and X-ray emission
-2. **quasar absorption spectra** — light absorbed by intervening hydrogen along the line of sight
-3. **primordial nucleosynthesis** — the abundances of light nuclei depend strongly on the baryon density (see [[BBN_overview]])
-4. **CMB anisotropies** — the height of the acoustic peaks depends on $\Omega_b h^2$
+2. **quasar absorption spectra** - light absorbed by intervening hydrogen along the line of sight
+3. **primordial nucleosynthesis** - the abundances of light nuclei depend strongly on the baryon density (see [[BBN_overview]])
+4. **CMB anisotropies** - the height of the acoustic peaks depends on $\Omega_b h^2$
 
-methods 3 and 4 are in *excellent* agreement. methods 1 used to give a smaller number, leading to the **missing baryon problem** — about half the baryons were unaccounted for. recent work has shown most of the missing ones live in the **WHIM**, the warm-hot intergalactic medium in filaments connecting galaxies, too cold to emit X-rays brightly.
+methods 3 and 4 are in *excellent* agreement. methods 1 used to give a smaller number, leading to the **missing baryon problem**. about half the baryons were unaccounted for. recent work has shown most of the missing ones live in the **WHIM**, the warm-hot intergalactic medium in filaments connecting galaxies, too cold to emit X-rays brightly.
 
 ![intro-14.png](../../assets/images/intro-14.png)
 
@@ -165,13 +160,13 @@ what these methods have shown is that the total matter density is several times 
 
 ### mass-to-light ratio across scales
 
-a direct check is to plot $M/L_B$ (mass over blue-band luminosity) against scale. luminous matter tracks $L$; total mass tracks $M$. if $M/L$ stays constant with scale, all matter is luminous. it does *not*.
+a direct check is to plot $M/L_B$ (mass over blue-band luminosity) against scale. luminous matter tracks $L$. total mass tracks $M$. if $M/L$ stays constant with scale, all matter is luminous. it does *not*.
 
 ![intro-17.png](../../assets/images/intro-17.png)
 
-at galactic scales (spirals, ellipticals) $M/L \sim 10$ in solar units. at cluster scales (rich clusters, superclusters) $M/L \sim 200$–$300$, consistent with $\Omega_m \approx 0.3$. the rise tells you the fraction of dark matter increases on larger scales.
+at galactic scales (spirals, ellipticals) $M/L \sim 10$ in solar units. at cluster scales (rich clusters, superclusters) $M/L \sim 200$ to $300$, consistent with $\Omega_m \approx 0.3$. the rise tells you the fraction of dark matter increases on larger scales.
 
-### dark matter on galactic scales — rotation curves
+### dark matter on galactic scales - rotation curves
 
 the textbook argument. for a circular orbit at radius $r$ inside a spherical mass distribution $M(r)$:
 $$V^2(r) = \frac{GM(r)}{r}$$
@@ -181,7 +176,7 @@ $$V(r) \propto \frac{1}{r^{1/2}} \qquad (\text{Keplerian fall-off})$$
 
 ![intro-18.png](../../assets/images/intro-18.png)
 
-what we *observe* is completely different. neutral hydrogen 21-cm observations probe rotation way past the optical disk, and the curves stay flat — which means $M(r) \propto r$, i.e. there is mass distributed at large radii that does not emit light.
+what we *observe* is completely different. neutral hydrogen 21-cm observations probe rotation way past the optical disk, and the curves stay flat, which means $M(r) \propto r$, i.e. there is mass distributed at large radii that does not emit light.
 
 ### the actual rotation curves
 
@@ -202,7 +197,7 @@ the modern way is to fit the observed $V(r)$ as the sum of three components:
 
 ![intro-21.png](../../assets/images/intro-21.png)
 
-stellar disk + gas + dark matter halo. the stellar disk peaks and falls; the gas rises slowly; the dark matter halo dominates at large radius. without a halo the high-$r$ flat curve cannot be explained. (Corbelli & Salucci 2000 for M33.)
+stellar disk + gas + dark matter halo. the stellar disk peaks and falls, the gas rises slowly, the dark matter halo dominates at large radius. without a halo the high-$r$ flat curve cannot be explained. (Corbelli & Salucci 2000 for M33.)
 
 ### dark matter on cosmological scales
 
@@ -211,7 +206,7 @@ galactic rotation curves only give you a galaxy-scale measurement. the more comp
 1. **distribution of galaxies on large scales** (depends strongly on $\Omega_m h$)
 2. **cosmic velocity fields** (peculiar motions trace the gravitational potential)
 3. **measurements that depend on $\Omega_b/\Omega_m$**, like:
-   - X-ray and Sunyaev-Zel'dovich measurements of clusters (most baryons in clusters are hot ICM gas; the ratio $\Omega_b/\Omega_m$ for clusters is taken as representative because they are huge enough to sample the universe fairly)
+   - X-ray and Sunyaev-Zel'dovich measurements of clusters (most baryons in clusters are hot ICM gas. the ratio $\Omega_b/\Omega_m$ for clusters is taken as representative because they are huge enough to sample the universe fairly)
    - **baryon acoustic oscillations** (BAO): if baryons are only a small fraction of the matter, the BAO wiggles in $P_m(k)$ are proportionally small, and they have been measured robustly at the predicted amplitude
 4. **CMB temperature anisotropies and polarization** (the heights of the higher peaks fix $\Omega_m h^2$)
 
@@ -241,19 +236,19 @@ modern measurements stitch together Planck CMB, DES cosmic shear, SDSS LRG galax
 
 ![intro-27.png](../../assets/images/intro-27.png)
 
-the **turnover** of the spectrum sits at the equality scale (the size of the horizon at matter-radiation equality), so it is sensitive to $\Omega_m h^2$. modes that entered the horizon during radiation domination got suppressed; modes that entered later did not.
+the **turnover** of the spectrum sits at the equality scale (the size of the horizon at matter-radiation equality), so it is sensitive to $\Omega_m h^2$. modes that entered the horizon during radiation domination got suppressed. modes that entered later did not.
 
 zooming in on $k \sim 0.1\,h\,\text{Mpc}^{-1}$, the spectrum has small wiggles superimposed on the smooth power-law: the **baryon acoustic oscillations**. a universe of pure baryons would have a hugely oscillating $P_m(k)$ (dashed curve). a universe of mostly dark matter has small wiggles on top of a smooth curve (solid). the data show the wiggles at exactly the predicted amplitude. **this is dark matter being detected through the absence of pure-baryon oscillations.**
 
 ![intro-28.png](../../assets/images/intro-28.png)
 
-right panel: BAO measured directly in SDSS LRGs and BOSS CMASS by computing $\log_{10}P(k)/P(k)_{\rm smooth}$ — those characteristic wiggles in galaxy clustering at $k \sim 0.05$–$0.2\, h\,\text{Mpc}^{-1}$.
+right panel: BAO measured directly in SDSS LRGs and BOSS CMASS by computing $\log_{10}P(k)/P(k)_{\rm smooth}$, those characteristic wiggles in galaxy clustering at $k \sim 0.05$ to $0.2\, h\,\text{Mpc}^{-1}$.
 
 ---
 
 ## the cosmic neutrino inventory
 
-cosmic neutrinos — a thermal background of relic neutrinos — have not been directly observed yet (the CνB). but solar and atmospheric neutrinos have been observed, revealing that **neutrinos have nonzero masses**, with at least two of the three species being non-relativistic today.
+cosmic neutrinos, a thermal background of relic neutrinos, have not been directly observed yet (the CνB). but solar and atmospheric neutrinos have been observed, revealing that **neutrinos have nonzero masses**, with at least two of the three species being non-relativistic today.
 
 cosmic neutrinos:
 - are **fermions**, weakly interacting
@@ -280,7 +275,7 @@ $$v = H_0 d, \qquad z \simeq v/c$$
 
 ![intro-30.png](../../assets/images/intro-30.png)
 
-(Hubble's original 1929 plot. velocities should be in km/s, distances in Mpc; the solid line is the fit to the corrected points.)
+(Hubble's original 1929 plot. velocities should be in km/s, distances in Mpc. the solid line is the fit to the corrected points.)
 
 local SN Ia measurements give $H_0 = 73.04 \pm 1.04$ km/s/Mpc (Riess et al. 2022), while CMB-anchored measurements give $H_0 = 67.4 \pm 0.5$ km/s/Mpc. the **Hubble tension** remains an open problem in 2025/2026.
 
@@ -290,7 +285,7 @@ at high z the simple Doppler $z = v/c$ breaks down. you need the full luminosity
 $$d_L(z) \,\, \text{depends on}\,\, \Omega_m, \Omega_\Lambda, \Omega_k$$
 and the relation $m - M = 5\log d_{L,\rm Mpc} + 25 + K(z)$.
 
-what we want at high redshift are **standard candles** — objects whose intrinsic brightness is known. then from the apparent brightness we get distance, and from the distance + redshift we get a fit to $\Omega_m, \Omega_\Lambda$.
+what we want at high redshift are **standard candles**, objects whose intrinsic brightness is known. then from the apparent brightness we get distance, and from the distance + redshift we get a fit to $\Omega_m, \Omega_\Lambda$.
 
 ### the cosmic distance ladder
 
@@ -298,7 +293,7 @@ what we want at high redshift are **standard candles** — objects whose intrins
 
 ![intro-32.png](../../assets/images/intro-32.png)
 
-Cepheid variables have a period-luminosity relation calibrated to thousands of stars within $\sim 20$ Mpc by HST. they anchor the distance to galaxies that host SN Ia. SN Ia in turn extend out to $z \sim 1$ and beyond. of all the candles in the figure (I-band Tully-Fisher, fundamental plane, surface brightness fluctuations, SN II, SN Ia), **SN Ia have the smallest dispersion and reach the highest redshifts**. the bottom panel shows that beyond $\sim 100$ Mpc, $H_0 \approx 72$ flattens out — confirming the linear Hubble flow at low z.
+Cepheid variables have a period-luminosity relation calibrated to thousands of stars within $\sim 20$ Mpc by HST. they anchor the distance to galaxies that host SN Ia. SN Ia in turn extend out to $z \sim 1$ and beyond. of all the candles in the figure (I-band Tully-Fisher, fundamental plane, surface brightness fluctuations, SN II, SN Ia), **SN Ia have the smallest dispersion and reach the highest redshifts**. the bottom panel shows that beyond $\sim 100$ Mpc, $H_0 \approx 72$ flattens out, confirming the linear Hubble flow at low z.
 
 ### high-z SN Ia and the discovery of Λ
 
@@ -309,7 +304,7 @@ at high z the SN Ia turn out to be **fainter** than they should be in any matter
 the small-z form of the luminosity distance, expanded:
 $$d_L = \frac{c}{H_0}\left[z + \tfrac12(1 - q_0)z^2 + \cdots\right], \qquad q_0 = -\frac{\ddot a(t_0) a_0}{\dot a(t_0)^2}$$
 
-a positive $q_0$ means deceleration; a negative $q_0$ (acceleration) requires $\Omega_\Lambda > \Omega_m/2$.
+a positive $q_0$ means deceleration. a negative $q_0$ (acceleration) requires $\Omega_\Lambda > \Omega_m/2$.
 
 ![intro-34.png](../../assets/images/intro-34.png)
 
@@ -326,7 +321,7 @@ $$\Omega_K = 1 - \Omega_0 = 0.001 \pm 0.002 \quad (68\%\,\text{CL})$$
 i.e. **the universe is flat to a fraction of a percent**. this is also what generic inflation models predict.
 
 but the matter + radiation + neutrinos add up to only about $1/3$ of the critical density. so we *need* an additional component, and from negative-pressure considerations (we will see why), it must:
-- be very weakly interacting and very weakly clustering (essentially smooth) — otherwise we would have detected it directly
+- be very weakly interacting and very weakly clustering (essentially smooth), otherwise we would have detected it directly
 - have **negative pressure**, $p < -\rho/3$, in order to drive accelerated expansion today
 
 a *cosmological constant* is the limit $p = -\rho$ exactly, an energy density that does not dilute with expansion. a more general **dark energy** has $p < -\rho/3$ but can evolve in time and weakly in space.
@@ -337,7 +332,7 @@ at present, a $\Lambda$ term is the form of dark energy that fits the most data.
 
 ### age of the universe
 
-a final, crucial historical piece of evidence. for a *matter-dominated* universe the age would be
+a final historical piece of evidence. for a *matter-dominated* universe the age would be
 $$t_0 = \frac{2}{3 H_0}$$
 
 with the measured $H_0 = 67.4$ km/s/Mpc, $H_0^{-1} = 9.7776\,h^{-1} \times 10^9$ yr, so $t_0 \approx 9.6 \times 10^9$ yr in EdS.
@@ -368,7 +363,7 @@ reading top to bottom (today to early times):
 - **electroweak transition** at $T \sim 100$ GeV (dark matter production?)
 - **grand unification** at $T \sim 10^{16}$ GeV (baryogenesis?)
 - **inflation** at $T \gtrsim 10^{16}$ GeV
-- **quantum gravity wall** at $T \sim 10^{19}$ GeV — spacetime breaks down
+- **quantum gravity wall** at $T \sim 10^{19}$ GeV - spacetime breaks down
 
 this is the chain my entire degree is unpacking, one block at a time.
 
@@ -380,17 +375,17 @@ a useful summary of how the four main ΛCDM parameters move the CMB peaks:
 
 ![intro-41.png](../../assets/images/intro-41.png)
 
-(top-left: baseline / vary $\Omega_b h^2$. top-right: vary $\Omega_K, \Omega_\Lambda$. bottom-left: low $\Omega_b h^2$. bottom-right: vary $\Omega_m h^2$.) the position of the first peak fixes the geometry; the relative heights of the second, third, fourth peaks fix the baryon and matter densities; the damping tail at high $\ell$ fixes diffusion physics.
+(top-left: baseline / vary $\Omega_b h^2$. top-right: vary $\Omega_K, \Omega_\Lambda$. bottom-left: low $\Omega_b h^2$. bottom-right: vary $\Omega_m h^2$.) the position of the first peak fixes the geometry. the relative heights of the second, third, fourth peaks fix the baryon and matter densities. the damping tail at high $\ell$ fixes diffusion physics.
 
 ---
 
 ## the missing baryon problem (sidebar)
 
-direct observations (method 1: counting baryons in stars, galaxies, hot gas) historically yielded only $\sim 2\%$ of the total budget — about half of what BBN (method 3) and the CMB (method 4) demand. these were the **missing baryons**. recent work has located most of them in **dark baryons** in the WHIM (warm-hot intergalactic medium) in filaments connecting galaxies, too cold to emit detectable X-rays. read more at [Half the universe's missing matter has just been finally found](https://www.newscientist.com/article/2149742-half-the-universes-missing-matter-has-just-been-finally-found/).
+direct observations (method 1: counting baryons in stars, galaxies, hot gas) historically yielded only $\sim 2\%$ of the total budget, about half of what BBN (method 3) and the CMB (method 4) demand. these were the **missing baryons**. recent work has located most of them in **dark baryons** in the WHIM (warm-hot intergalactic medium) in filaments connecting galaxies, too cold to emit detectable X-rays. read more at [Half the universe's missing matter has just been finally found](https://www.newscientist.com/article/2149742-half-the-universes-missing-matter-has-just-been-finally-found/).
 
 ---
 
-## takeaway
+## in short
 
 the universe today is:
 
@@ -402,7 +397,7 @@ the universe today is:
 | photons + neutrinos | $\sim 10^{-4}$ |
 | total | $\approx 1.000$ (flat) |
 
-we have *six* main numbers: $H_0$, $\Omega_b h^2$, $\Omega_{dm} h^2$, $\Omega_\Lambda$, $\sum m_\nu$, and the spectral parameters $A_s, n_s$ from inflation. these are pinned down by independent measurements that all tell the same story to remarkable precision. ΛCDM works.
+we have *six* main numbers: $H_0$, $\Omega_b h^2$, $\Omega_{dm} h^2$, $\Omega_\Lambda$, $\sum m_\nu$, and the spectral parameters $A_s, n_s$ from inflation. these are pinned down by independent measurements that all tell the same story to high precision. ΛCDM works.
 
 what we don't know:
 - *what is dark matter?* (a particle? primordial black holes?)
@@ -429,6 +424,20 @@ what we don't know:
 
 ---
 
+## worked example
+
+the critical density in familiar units, with $h = 0.674$:
+
+$$\rho_c = 1.878 \times 10^{-29}\,h^2\ \text{g/cm}^3 = 8.5 \times 10^{-27}\ \text{kg/m}^3$$
+
+that is about 5 hydrogen atoms per cubic metre. the baryons ($\Omega_b = 0.049$) are about 0.25 atoms per cubic metre.
+
+## where it goes wrong
+
+- $\Omega$ values change with time. the numbers in the pie chart are for today only.
+- "matter" in cosmology includes dark matter and baryons, everything with $p \approx 0$.
+- stars hold only about 7% of the baryons. most are in hot diffuse gas.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -440,8 +449,8 @@ what we don't know:
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
-- [[Observational_Cosmology_MOC]] — the natural follow-on
-- [[Baumann_reference]] — chapter 3 (Thermal History) is the rigorous treatment
+- [[Observational_Cosmology_MOC]] - the natural follow-on
+- [[Baumann_reference]] - chapter 3 (Thermal History) is the rigorous treatment
 
 
 

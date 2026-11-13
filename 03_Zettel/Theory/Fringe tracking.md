@@ -8,11 +8,11 @@ a real-time control system that locks the interferometer onto a fringe despite a
 
 ## the problem
 
-the atmosphere randomizes the differential piston between two telescopes on $\sim$ ms timescales. without correction, fringe phase wanders by $\gtrsim 2\pi$ within an integration. fringes wash out — visibility goes to zero on long integrations.
+the atmosphere randomizes the differential piston between two telescopes on $\sim$ ms timescales. without correction, fringe phase wanders by $\gtrsim 2\pi$ within an integration. fringes wash out, visibility goes to zero on long integrations.
 
 without fringe tracking, integrations must be shorter than $\tau_0 \sim 5$ ms. only the brightest sources produce enough photons in 5 ms for SNR > 1.
 
-with fringe tracking: long integrations possible. the SNR scales as $\sqrt{\tau}$ — orders of magnitude improvement.
+with fringe tracking: long integrations possible. the SNR scales as $\sqrt{\tau}$, orders of magnitude improvement.
 
 ## the principle
 
@@ -38,13 +38,13 @@ correction commands sent to the delay-line piezo (for fast atmospheric jitter) o
 ## VLTI's fringe trackers
 
 - **FINITO** (replaced ~2010s): the original VLTI fringe tracker
-- **GRAVITY-FT** (current): part of the GRAVITY instrument; can also serve other instruments
+- **GRAVITY-FT** (current): part of the GRAVITY instrument. Can also serve other instruments
 
 operates on a *brighter* off-axis star (called the "fringe star") within the isoplanatic angle, providing fringe lock for a fainter science target. requires:
 - fringe star brighter than $K = 11$ approximately
 - within ~20" (isoplanatic angle in K-band) of the target
 
-with fringe tracking, VLTI can do astrometry on $K = 16$ science targets (e.g. the S-stars near Sgr A*) — orders of magnitude beyond what is possible with snapshot integrations.
+with fringe tracking, VLTI can do astrometry on $K = 16$ science targets (e.g. the S-stars near Sgr A*), orders of magnitude beyond what is possible with snapshot integrations.
 
 ## CHARA's fringe tracking
 

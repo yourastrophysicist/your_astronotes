@@ -4,7 +4,7 @@ title: "H II region spectroscopy"
 ---
 # H II region spectroscopy
 
-H II regions are photoionized nebulae of warm ($T_e \sim 8000 - 15000$ K), low-density ($n_e \sim 10 - 10^4 \text{ cm}^{-3}$) gas surrounding young, massive stars of spectral types O and early B ($M \ge 10 - 20 M_\odot$, $T_{\rm eff} \ge 30000$ K). Their optical spectra are characterized by intense hydrogen and helium recombination lines flanked by prominent collisionally excited forbidden lines of heavier elements (primarily $[\text{O III}]$, $[\text{N II}]$, $[\text{S II}]$, and $[\text{O II}]$) superposed on a faint nebular continuum. Spectroscopic analysis of H II regions serves as a foundational astrophysical tool for mapping chemical abundance gradients across galactic disks, quantifying instantaneous star formation rates, correcting for dust attenuation via the Balmer decrement, and distinguishing stellar photoionization from active galactic nuclei (AGN) excitation using Baldwin-Phillips-Terlevich (BPT) diagnostic diagrams.
+H II regions are photoionized nebulae of warm ($T_e \sim 8000 - 15000$ K), low-density ($n_e \sim 10 - 10^4 \text{ cm}^{-3}$) gas surrounding young, massive stars of spectral types O and early B ($M \ge 10 - 20 M_\odot$, $T_{\rm eff} \ge 30000$ K). Their optical spectra are characterized by intense hydrogen and helium recombination lines flanked by prominent collisionally excited forbidden lines of heavier elements (primarily $[\text{O III}]$, $[\text{N II}]$, $[\text{S II}]$, and $[\text{O II}]$) superposed on a faint nebular continuum. Spectroscopic analysis of H II regions serves as an astrophysical tool for mapping chemical abundance gradients across galactic disks, quantifying instantaneous star formation rates, correcting for dust attenuation via the Balmer decrement, and distinguishing stellar photoionization from active galactic nuclei (AGN) excitation using Baldwin-Phillips-Terlevich (BPT) diagnostic diagrams.
 
 ---
 
@@ -12,7 +12,7 @@ H II regions are photoionized nebulae of warm ($T_e \sim 8000 - 15000$ K), low-d
 
 ### Formation of Photoionized Nebulae
 Massive OB stars emit copious fluxes of Lyman continuum ultraviolet photons with energies exceeding the ionization potential of neutral hydrogen ($h\nu \ge h\nu_0 = 13.6$ eV, or wavelengths $\lambda \le 912$ \AA). When these extreme ultraviolet (EUV) photons propagate into the surrounding neutral interstellar medium, they photoionize neutral hydrogen atoms ($H^0 + h\nu \to H^+ + e^-$). The photoelectrons are ejected with excess kinetic energy $E_{\rm kin} = h\nu - 13.6 \text{ eV}$ and rapidly thermalize with ambient electrons through Coulomb collisions on timescales of days, establishing a Maxwell-Boltzmann velocity distribution characterized by electron temperature $T_e \sim 10^4$ K.
-Because the mean free path of a Lyman continuum photon in neutral hydrogen is exceptionally short (typically $\lambda_{\rm mfp} = 1 / (n_H \sigma_0) \sim 0.05$ pc for $n_H \sim 10 \text{ cm}^{-3}$ and threshold photoionization cross section $\sigma_0 \approx 6.30 \times 10^{-18} \text{ cm}^2$), the transition zone between the fully ionized nebula ($H^+$) and the surrounding neutral gas ($H^0$) is remarkably thin ($\Delta r / R_S \sim 0.01$). This sharp ionization front encloses a well-defined ionization bubble known as a Strömgren sphere.
+Because the mean free path of a Lyman continuum photon in neutral hydrogen is exceptionally short (typically $\lambda_{\rm mfp} = 1 / (n_H \sigma_0) \sim 0.05$ pc for $n_H \sim 10 \text{ cm}^{-3}$ and threshold photoionization cross section $\sigma_0 \approx 6.30 \times 10^{-18} \text{ cm}^2$), the transition zone between the fully ionized nebula ($H^+$) and the surrounding neutral gas ($H^0$) is very thin ($\Delta r / R_S \sim 0.01$). This sharp ionization front encloses a well-defined ionization bubble known as a Strömgren sphere.
 
 ---
 
@@ -136,7 +136,7 @@ The standard optical BPT diagram plots
 - Horizontal axis $x = \log_{10}([\text{N II}]\,\lambda 6584 / H\alpha)$
 - Vertical axis $y = \log_{10}([\text{O III}]\,\lambda 5007 / H\beta)$
 
-These specific line pairs are chosen because each pair consists of two lines with very small wavelength separation ($[\text{N II}]$ and $H\alpha$ at $\sim 6570$ \AA; $[\text{O III}]$ and $H\beta$ at $\sim 4950$ \AA). Consequently, the ratios are virtually insensitive to dust reddening and absolute spectrophotometric calibration errors.
+These specific line pairs are chosen because each pair consists of two lines with very small wavelength separation ($[\text{N II}]$ and $H\alpha$ at $\sim 6570$ \AA, $[\text{O III}]$ and $H\beta$ at $\sim 4950$ \AA). Consequently, the ratios are virtually insensitive to dust reddening and absolute spectrophotometric calibration errors.
 
 Two fundamental demarcation curves divide the BPT plane
 1. Theoretical Maximum Starburst Line (Kewley et al. 2001)

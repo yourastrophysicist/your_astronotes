@@ -68,7 +68,7 @@ so a 2D plot of $R_{23}$ vs $[OIII]/[OII]$ separates metallicity and ionisation 
 dimensionless $U$ relates to the dimensional **photoionisation rate per H atom**:
 $$\Gamma_{\rm per\,atom} = c\,n_\gamma\,\bar\sigma \approx c\,(U \cdot n_H)\,\bar\sigma$$
 
-so $U$ is essentially the dimensionless control parameter; $c$ and atomic constants enter only as overall normalisation.
+so $U$ is essentially the dimensionless control parameter. $c$ and atomic constants enter only as overall normalisation.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

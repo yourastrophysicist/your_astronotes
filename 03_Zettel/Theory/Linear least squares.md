@@ -18,7 +18,7 @@ $$A^T A \boldsymbol\theta = A^T \mathbf{y}$$
 
 solve for $\boldsymbol\theta$. this is a square $M \times M$ linear system, solvable in $O(M^3)$ via Gauss elimination.
 
-## the textbook example: linear fit $y = mx + b$
+## the textbook example - linear fit $y = mx + b$
 
 design matrix has two columns:
 $$A = \begin{pmatrix} 1 & x_1 \\ 1 & x_2 \\ \vdots & \vdots \\ 1 & x_N \end{pmatrix}, \quad \boldsymbol\theta = \begin{pmatrix} b \\ m \end{pmatrix}$$
@@ -32,7 +32,7 @@ Cramer's rule gives the closed-form $m$, $b$ that every undergraduate stats cour
 
 the model $y = \theta_1 e^x + \theta_2 \sin x$ is *linear* in $\theta_1, \theta_2$ even though the functions of $x$ are wildly non-linear. linear least squares applies.
 
-the model $y = A e^{-kx}$ is *non-linear* in $k$, so requires non-linear least squares (Levenberg-Marquardt, `scipy.optimize.curve_fit`). but if I take logs, $\log y = \log A - kx$ is linear in $\log A$ and $k$ — this is a common reformulation trick.
+the model $y = A e^{-kx}$ is *non-linear* in $k$, so requires non-linear least squares (Levenberg-Marquardt, `scipy.optimize.curve_fit`). but if I take logs, $\log y = \log A - kx$ is linear in $\log A$ and $k$. this is a common reformulation trick.
 
 ## python implementation (educational)
 
@@ -46,7 +46,7 @@ theta = linear_lstsq(A, y)
 b, m = theta
 ```
 
-## production: never form $A^T A$
+## production - never form $A^T A$
 
 forming $A^T A$ explicitly **squares the condition number** of the problem. small numerical errors in $A$ become large errors in the solution. instead, use QR decomposition:
 
@@ -97,13 +97,13 @@ $$A_{ik} \to A_{ik}/\sigma_i, \quad y_i \to y_i/\sigma_i$$
 
 then solve as usual. see [[Weighted least squares]].
 
-## diagnostic: plot residuals
+## diagnostic - plot residuals
 
 after the fit, plot $y_i - f(x_i)$ vs $x_i$. expectations:
 - **scattered around zero**: model is good
 - **systematic trend** (residuals curve, oscillate, or have a bias): model is missing something
 - **funnel shape** (residuals scale with $\lvert y\rvert$): heteroscedastic noise, need weighted fit
-- **outliers**: a few points at >3σ — investigate, decide whether to clip
+- **outliers**: a few points at >3σ, investigate, decide whether to clip
 
 never trust a fit without looking at the residuals.
 

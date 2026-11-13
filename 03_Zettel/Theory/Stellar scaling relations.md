@@ -13,7 +13,7 @@ a star is a self-gravitating sphere of hot plasma held in long-term structural e
 ## fundamental stellar parameters
 
 four fundamental macroscopic parameters completely characterize a non-rotating, single star:
-1. **Mass** $M$: the master parameter governing stellar structure, luminosity, core conditions, and ultimate evolutionary fate.
+1. **Mass** $M$: the master parameter governing stellar structure, luminosity, core conditions, and final evolutionary fate.
 2. **Radius** $R$: physical size, varying from $R \sim 0.01 R_\odot$ (white dwarfs) to $R \sim 1 R_\odot$ (Sun) to $R > 1000 R_\odot$ (red supergiants like Betelgeuse).
 3. **Luminosity** $L$: total energy radiated into space per unit time ($L_\odot \approx 3.828 \times 10^{26}$ W).
 4. **Effective Temperature** $T_{\text{eff}}$: surface temperature defined by the Stefan-Boltzmann law.
@@ -22,7 +22,7 @@ four fundamental macroscopic parameters completely characterize a non-rotating, 
 
 ---
 
-## the Stefan-Boltzmann connection: $L = 4\pi R^2 \sigma T_{\text{eff}}^4$
+## the Stefan-Boltzmann connection - $L = 4\pi R^2 \sigma T_{\text{eff}}^4$
 
 relating the four parameters:
 $$\boxed{\, L = 4\pi R^2 \sigma T_{\text{eff}}^4 \,}$$
@@ -53,13 +53,28 @@ where the exponent $\alpha$ depends on the stellar mass range:
 
 ![stellar-07.png](../../assets/images/stellar-07.png)
 
-### profound consequences of the steep mass-luminosity relation:
+### deep consequences of the steep mass-luminosity relation
 1. **extreme brightness contrast**: a $10 M_\odot$ B-star has $L \approx 10^{3.5} L_\odot \approx 3160 L_\odot$. a $50 M_\odot$ O-star has $L > 10^5 L_\odot$. conversely, an $0.1 M_\odot$ M-dwarf has $L \approx 10^{-3.5} L_\odot \approx 3 \times 10^{-4} L_\odot$.
 2. **stellar lifetimes**: because the nuclear fuel available is proportional to mass $M$, the main sequence lifetime scales as:
    $$t_{\text{MS}} \propto \frac{\text{Fuel}}{\text{Consumption Rate}} = \frac{M}{L} \propto \frac{M}{M^{3.5}} = M^{-2.5}$$
    massive stars burn through their hydrogen reserves at a prodigal rate and die in millions of years, while low-mass stars live for trillions of years!
 
 ---
+
+## worked example
+
+a main-sequence star of $2\,M_\odot$:
+
+- luminosity: $L = 2^{3.5} = 11.3\,L_\odot$
+- radius, with $R \propto M^{0.8}$: $R = 1.74\,R_\odot$
+- temperature: $T_{\rm eff} = 5772\,(L/R^2)^{1/4} = 5772 \times 3.73^{1/4} = 8000$ K, an A star
+- lifetime: $10\ \text{Gyr} \times 2^{-2.5} = 1.8$ Gyr
+
+## where it goes wrong
+
+- the exponent of the mass-luminosity relation is not constant. it is near 2.3 below $0.4\,M_\odot$, near 4 around the Sun, and tends to 1 for the most massive stars.
+- these relations hold on the main sequence only. a giant of $1\,M_\odot$ is hundreds of times brighter than the Sun.
+- metallicity shifts the relations. a metal-poor star is hotter and brighter at the same mass.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

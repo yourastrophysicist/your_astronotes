@@ -36,7 +36,7 @@ Schwarzschild has more than one horizon when extended through the coordinate sin
 the maximally-extended Schwarzschild spacetime, covered by Kruskal coordinates $(T, X, \theta, \phi)$:
 $$T = \sqrt{r/2GM - 1}\,e^{r/4GM}\sinh(t/4GM)$$
 $$X = \sqrt{r/2GM - 1}\,e^{r/4GM}\cosh(t/4GM)$$
-(for $r > 2GM$; analytic continuation handles $r < 2GM$).
+(for $r > 2GM$, analytic continuation handles $r < 2GM$).
 
 metric in Kruskal:
 $$ds^2 = \frac{32 G^3 M^3}{r}e^{-r/2GM}(-dT^2 + dX^2) + r^2 d\Omega^2$$
@@ -50,7 +50,7 @@ properties:
   - **III**: another asymptotically-flat universe ("parallel universe").
   - **IV**: white hole (past).
 ![Pasted image 20260620132508.png](../../assets/images/Pasted%20image%2020260620132508.png)
-regions III and IV are **mathematical artefacts** of the maximal extension; they don't exist in physical BHs (which form from gravitational collapse and never have a past horizon).
+regions III and IV are **mathematical artefacts** of the maximal extension. they don't exist in physical BHs (which form from gravitational collapse and never have a past horizon).
 
 ## Penrose diagrams
 ![Pasted image 20260620134402.png](../../assets/images/Pasted%20image%2020260620134402.png)

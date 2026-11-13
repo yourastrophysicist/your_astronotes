@@ -46,19 +46,25 @@ useful checks:
 - $dm = 0.01$ corresponds to $\lvert dF/F\rvert \approx 0.92\%$.
 - $dm = 0.001$ (mmag) corresponds to $\sim 0.092\%$ ($\sim 1$ part in 1000).
 
-this is why mmag photometry is the gold standard for transit detection and asteroseismology: $dm = 1$ mmag is a $\sim 1$/$1000$ flux change, comparable to a Jupiter transit across a Sun-like star.
+this is why mmag photometry is the standard for transit detection and asteroseismology: $dm = 1$ mmag is a $\sim 1$/$1000$ flux change, comparable to a Jupiter transit across a Sun-like star.
 
 ## absolute vs apparent magnitude
 
-- **apparent magnitude** $m$: what an observer measures; depends on distance.
-- **absolute magnitude** $M$: what would be measured at $d = 10$ pc; intrinsic.
+- **apparent magnitude** $m$: what an observer measures. depends on distance.
+- **absolute magnitude** $M$: what would be measured at $d = 10$ pc. intrinsic.
 - **distance modulus** $\mu = m - M = 5\log_{10}(d/10\,\text{pc})$. see [[Distance modulus]].
 
 for the Sun: $m_V \approx -26.74$ (very bright apparent), $M_V = +4.83$ (modest absolute). the $\mu = -31.57$ tells you the Sun is **very close**.
 
 ## why the strange $-2.5$ factor
 
-historical accident; people used logs and chose a coefficient that made Hipparchus's $1$st through $6$th magnitude scale work out to exactly $100\times$ in flux. there is nothing physically magical about $2.5$; it is just $5/2$. the entire system is a pre-instrument hack from when magnitudes were eyeball estimates.
+historical accident. people used logs and chose a coefficient that made Hipparchus's $1$st through $6$th magnitude scale work out to exactly $100\times$ in flux. there is nothing physically magical about $2.5$. it is just $5/2$. the entire system is a pre-instrument hack from when magnitudes were eyeball estimates.
+
+## where it goes wrong
+
+- the coefficient is exactly $2.5$. the number $2.512$ is the flux ratio for one magnitude, $100^{1/5}$.
+- the sign. the brighter object has the smaller magnitude.
+- an error in magnitudes is a relative error in flux, $\sigma_m \simeq 1.086\,\sigma_F/F$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -26,9 +26,9 @@ no two electrons in the same atom can have the same set $(n, \ell, m_\ell, s)$. 
 
 write down the occupied shells, e.g. for Na ($Z = 11$):
 $$1s^2\,2s^2\,2p^6\,3s^1$$
-the **core** ($1s^2 2s^2 2p^6$) has all closed shells; the **valence electron** ($3s^1$) controls the spectrum.
+the **core** ($1s^2 2s^2 2p^6$) has all closed shells. the **valence electron** ($3s^1$) controls the spectrum.
 
-## multi-electron coupling: LS vs jj
+## multi-electron coupling - LS vs jj
 
 once you have multiple valence electrons, their angular momenta can couple in two extreme regimes:
 
@@ -40,9 +40,9 @@ appropriate for **light atoms** ($Z \lesssim 30$). this is what 99% of stellar s
 ### jj coupling
 spin-orbit dominates: $\vec j_i = \vec\ell_i + \vec s_i$ for each electron, then $\vec J = \sum_i \vec j_i$. appropriate for heavy atoms ($Z \gtrsim 80$).
 
-most astronomical spectra use LS notation; jj is reserved for the heaviest elements (Pb, Bi, etc.).
+most astronomical spectra use LS notation. jj is reserved for the heaviest elements (Pb, Bi, etc.).
 
-## the result: term states and term symbols
+## the result - term states and term symbols
 
 in LS coupling, the state of an atom with multiple electrons is fully described by $L, S, J$. each $(L, S)$ pair is called a **term**, and is split into $J$-sublevels by spin-orbit coupling. notation:
 $$n^{(2S+1)}L_J^{p}$$

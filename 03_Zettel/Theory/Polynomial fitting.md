@@ -68,7 +68,7 @@ run with $M = 1, 2, 3, \ldots$ and plot $\chi^2$ or RMSE vs $M$. expect a knee w
 
 ### cross-validation
 
-leave-one-out: fit on $N - 1$ points, predict the left-out one, compute the prediction error. average over all $N$ choices. plot vs $M$; pick $M$ at the minimum. catches overfitting because the model is evaluated on data it did not see during fitting.
+leave-one-out: fit on $N - 1$ points, predict the left-out one, compute the prediction error. average over all $N$ choices. plot vs $M$. pick $M$ at the minimum. catches overfitting because the model is evaluated on data it did not see during fitting.
 
 ```python
 from sklearn.model_selection import cross_val_score

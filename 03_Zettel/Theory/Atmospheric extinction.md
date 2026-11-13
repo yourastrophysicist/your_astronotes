@@ -4,13 +4,13 @@ title: "Atmospheric extinction"
 ---
 at all transparent wavelengths the atmosphere still **dims** the light in a wavelength-dependent way. the dimming follows Beer-Lambert and grows with the path length through the atmosphere. it is the thing every photometric measurement must correct for.
 
-## the geometry: airmass
+## the geometry - airmass
 
 the "amount of atmosphere" along a line of sight at zenith distance $z$ is parameterised by the **airmass** $X$:
 $$X(z) \approx \sec z = 1/\cos z$$
 for $z \lesssim 60°$. at zenith, $X = 1$ (one airmass by definition). at $z = 60°$, $X = 2$. at $z = 75°$, $X \approx 3.9$.
 
-at $z > 60°$ a curved-Earth + density-profile correction matters; one common form is the Hardie formula
+at $z > 60°$ a curved-Earth + density-profile correction matters. one common form is the Hardie formula
 $$X(z) = \sec z - 0.0018167(\sec z - 1) - 0.002875(\sec z - 1)^2 - 0.0008083(\sec z - 1)^3$$
 or Young 1994. for percent-level photometry above $z = 60°$, use one of these.
 
@@ -55,7 +55,7 @@ this fit, $m_{\rm obs}$ vs $X$, is the **Bouguer line**, named after Pierre Boug
 ## non-photometric nights
 
 cloud, varying aerosol, or jet stream cause $k$ to vary on minute timescales. these are **non-photometric** conditions, and the standard-star approach fails. workarounds:
-- **differential photometry**: measure target relative to a comparison star at the same airmass; both are extinguished by the same factor.
+- **differential photometry**: measure target relative to a comparison star at the same airmass. both are extinguished by the same factor.
 - **all-sky pipelines** that cross-calibrate against many standards.
 - **Sloan-style** ubercalibration, post-processing many overlapping fields.
 
@@ -74,4 +74,4 @@ cloud, varying aerosol, or jet stream cause $k$ to vary on minute timescales. th
 - [[Magnitudes and photometric systems]]
 - [[Photometric standard stars]]
 - [[Distance modulus]]
-- [[Interstellar absorption]] — the analogous problem for ISM dust
+- [[Interstellar absorption]] - the analogous problem for ISM dust

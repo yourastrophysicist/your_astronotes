@@ -37,7 +37,7 @@ $$\boxed{\, \ddot\delta + 2H\dot\delta + (c_s^2 k^2/a^2 - 4\pi G\bar\rho)\delta 
 
 ## the three terms
 
-1. **$2H\dot\delta$**: Hubble friction; expansion drags growth.
+1. **$2H\dot\delta$**: Hubble friction. expansion drags growth.
 2. **$c_s^2 k^2/a^2\,\delta$**: pressure restoring force.
 3. **$-4\pi G\bar\rho\,\delta$**: gravitational driving.
 
@@ -100,6 +100,10 @@ today ($z = 0$):
 - fully non-linear.
 
 so the universe transitions from linear to non-linear over cosmic history.
+
+## where it goes wrong
+
+- outside the horizon, perturbations are gauge dependent.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

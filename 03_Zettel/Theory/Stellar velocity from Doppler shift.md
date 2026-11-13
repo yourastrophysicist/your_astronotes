@@ -9,7 +9,7 @@ a star's **radial velocity** $v_r$ (line-of-sight velocity) shifts every spectra
 at non-relativistic speeds:
 $$\frac{\Delta\lambda}{\lambda_{\rm rest}} = \frac{v_r}{c}$$
 
-so a star moving away (positive $v_r$) shifts lines redward; toward (negative $v_r$) blueward.
+so a star moving away (positive $v_r$) shifts lines redward. toward (negative $v_r$) blueward.
 
 at $v_r/c \gtrsim 0.01$, full relativistic Doppler:
 $$\frac{\lambda_{\rm obs}}{\lambda_{\rm rest}} = \sqrt{\frac{1 + v_r/c}{1 - v_r/c}}$$
@@ -21,7 +21,7 @@ stars rarely have $\lvert v_r\rvert > 1000$ km/s (relative to Sun), so non-relat
 procedure:
 1. **identify** several spectral lines (absorption in stars).
 2. **fit centroids** of each line.
-3. **compute** $v_r$ from each line individually; average for precision.
+3. **compute** $v_r$ from each line individually. average for precision.
 4. **correct** for Earth's motion (barycentric correction).
 
 precision varies by spectrograph:

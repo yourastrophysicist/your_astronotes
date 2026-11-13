@@ -5,9 +5,9 @@ title: "Baryogenesis"
 why is the universe made of matter and not antimatter? observationally, baryon-to-photon ratio
 $$\eta_B \equiv \frac{n_B - n_{\bar B}}{n_\gamma} \approx 6 \times 10^{-10}$$
 
-i.e. one extra baryon per billion photons; antimatter is essentially absent (no detectable antimatter galaxies, antimatter cosmic rays are at the level expected from secondary production in cosmic ray collisions).
+i.e. one extra baryon per billion photons. antimatter is essentially absent (no detectable antimatter galaxies, antimatter cosmic rays are at the level expected from secondary production in cosmic ray collisions).
 
-inflation dilutes any pre-inflation baryon asymmetry by $e^{3N} \sim e^{180}$. so the asymmetry must be *generated dynamically* after inflation — this is **baryogenesis**.
+inflation dilutes any pre-inflation baryon asymmetry by $e^{3N} \sim e^{180}$. so the asymmetry must be *generated dynamically* after inflation. this is **baryogenesis**.
 
 ---
 
@@ -51,8 +51,8 @@ the baryon and dark matter asymmetries are linked: produced together by a common
 we know:
 - $\eta_B \approx 6 \times 10^{-10}$ from BBN and CMB independently (see [[BBN_baryon_to_photon_ratio]] and [[BBN_concordance_with_CMB]])
 - the SM cannot produce this on its own
-- proton decay has not been observed: $\tau_p > 10^{34}$ yr — constrains GUT couplings
-- electroweak phase transition is *crossover* in the SM — no first-order transition
+- proton decay has not been observed: $\tau_p > 10^{34}$ yr, which constrains GUT couplings
+- electroweak phase transition is *crossover* in the SM, with no first-order transition
 
 so we know:
 - the baryon asymmetry is real and consistent across two epochs (BBN at $T \sim 1$ MeV, CMB at $T \sim 0.3$ eV)
@@ -62,6 +62,11 @@ so we know:
 but **we do not know** which mechanism. determining this is one of the major goals of particle physics + cosmology in the next decades.
 
 ---
+
+## where it goes wrong
+
+- all three Sakharov conditions are needed. the Standard Model has all three, but too weakly.
+- the asymmetry is one part in a billion. almost all matter and antimatter annihilated.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -52,7 +52,7 @@ the **Lyman limit** at $912$ Å is the wavelength of an ionising photon for grou
 ## what controls the strength
 
 each series line has strength proportional to (number of atoms in the lower level) × (oscillator strength). the lower-level population follows Boltzmann + Saha:
-- in cool stars ($T < 4000$ K): hydrogen is mostly neutral but in $n = 1$. Lyman lines invisible (in UV); Balmer faint.
+- in cool stars ($T < 4000$ K): hydrogen is mostly neutral but in $n = 1$. Lyman lines invisible (in UV). Balmer faint.
 - in solar-temperature stars ($T \sim 5000$ to $7000$ K): some $n = 2$ population. Balmer lines moderate.
 - in A0 stars ($T \sim 10\,000$ K): peak of $n = 2$ excitation. Balmer lines very strong, broad.
 - in O stars ($T > 25\,000$ K): hydrogen mostly ionised. Balmer lines weak again.

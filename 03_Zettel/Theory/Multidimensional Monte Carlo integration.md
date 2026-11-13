@@ -4,7 +4,7 @@ title: "Multidimensional Monte Carlo integration"
 ---
 # Multidimensional Monte Carlo integration
 
-the formula for [[Monte Carlo integration mean value method\|mean-value MC]] generalizes from 1D to any number of dimensions with no change of structure. and crucially, **the convergence rate stays $1/\sqrt{N}$ regardless of dimension**, which is what makes Monte Carlo dominate over deterministic quadrature in high dimensions.
+the formula for [[Monte Carlo integration mean value method\|mean-value MC]] generalizes from 1D to any number of dimensions with no change of structure. and **the convergence rate stays $1/\sqrt{N}$ regardless of dimension**, which is what makes Monte Carlo dominate over deterministic quadrature in high dimensions.
 
 ## the formula
 
@@ -20,8 +20,8 @@ deterministic quadrature with $N$ samples has error scaling as $N^{-p/d}$ for a 
 
 - 1D trapezoid ($p = 2$): error $\sim N^{-2}$
 - 1D Simpson ($p = 4$): error $\sim N^{-4}$
-- 4D trapezoid: error $\sim N^{-1/2}$ — same as MC
-- 10D trapezoid: error $\sim N^{-1/5}$ — way worse than MC
+- 4D trapezoid: error $\sim N^{-1/2}$, same as MC
+- 10D trapezoid: error $\sim N^{-1/5}$, way worse than MC
 
 so **for $d \geq 4$, Monte Carlo wins** (assuming the integrand has finite variance).
 
@@ -55,7 +55,7 @@ $$\int_V f \, d\mathbf{x} = \int_{\text{box}} f(\mathbf{x}) \mathbb{1}_{V}(\math
 
 then MC samples over the box and zeros out the points outside $V$. equivalent: rejection-sample uniform points from $V$, then average $f$.
 
-efficiency drops by the volume ratio $V / V_{\rm box}$. for a sphere in a 10D box, the volume ratio is tiny (~$10^{-4}$), wasting most samples — switch to importance sampling.
+efficiency drops by the volume ratio $V / V_{\rm box}$. for a sphere in a 10D box, the volume ratio is tiny (~$10^{-4}$), wasting most samples, switch to importance sampling.
 
 ## the curse of dimensionality, finally
 
@@ -78,7 +78,7 @@ most useful when $f$ is much smoother within each sub-region than across them.
 
 ## quasi-Monte Carlo
 
-instead of *random* uniform samples, use a low-discrepancy sequence (Sobol, Halton, Faure). these are deterministic but cover the volume more uniformly than random samples. error scaling: $O(N^{-1} \log^d N)$ — strictly better than MC for moderate $d$.
+instead of *random* uniform samples, use a low-discrepancy sequence (Sobol, Halton, Faure). these are deterministic but cover the volume more uniformly than random samples. error scaling: $O(N^{-1} \log^d N)$, strictly better than MC for moderate $d$.
 
 scipy has `scipy.stats.qmc` for low-discrepancy sampling.
 

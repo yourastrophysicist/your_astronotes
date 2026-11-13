@@ -1,9 +1,7 @@
 ---
 layout: "default"
 title: "Gravitational waves in General Relativity"
-name: "Gravitational waves in General Relativity"
 ---
-{% raw %}
 # Gravitational waves in General Relativity
 
 ---
@@ -20,6 +18,9 @@ name: "Gravitational waves in General Relativity"
 
 ![baumann_fig08_p140.jpeg](../../assets/images/baumann_fig08_p140.jpeg)
 *Cambridge Lecture Diagram: Gravitational wave quadrupolar distortion of test mass rings for plus (+) and cross (x) polarization states.*
+
+
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -29,11 +30,8 @@ name: "Gravitational waves in General Relativity"
 > Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
 <!-- /sources:wiki-arxiv -->
 
-{% endraw %}
+## Linked References
 
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>
+- [[General_Relativity_MOC]]
+
+

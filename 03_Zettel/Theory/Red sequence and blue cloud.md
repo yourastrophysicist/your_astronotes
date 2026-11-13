@@ -5,7 +5,7 @@ tags: ""
 ---
 # Red Sequence and Blue Cloud
 
-In the optical color-magnitude diagram (CMD) and color-stellar mass plane, the extragalactic population segregates into two distinct, fundamentally different regimes - the Red Sequence and the Blue Cloud. This color bimodality, discovered conclusively in wide-field digital surveys such as the Sloan Digital Sky Survey (SDSS; Strateva et al. 2001, Baldry et al. 2004) and the Two-Degree Field Galaxy Redshift Survey (2dFGRS), demonstrates that galaxies do not occupy a continuous spectrum of star-forming states. Instead, galaxies naturally partition into passively evolving early-type systems (red sequence) and actively star-forming late-type disks (blue cloud), separated by an underdense transition zone known as the Green Valley.
+In the optical color-magnitude diagram (CMD) and color-stellar mass plane, the extragalactic population segregates into two distinct, fundamentally different regimes - the Red Sequence and the Blue Cloud. This color bimodality, discovered conclusively in wide-field digital surveys such as the Sloan Digital Sky Survey (SDSS, Strateva et al. 2001, Baldry et al. 2004) and the Two-Degree Field Galaxy Redshift Survey (2dFGRS), demonstrates that galaxies do not occupy a continuous spectrum of star-forming states. Instead, galaxies naturally partition into passively evolving early-type systems (red sequence) and actively star-forming late-type disks (blue cloud), separated by an underdense transition zone known as the Green Valley.
 
 ---
 
@@ -32,7 +32,7 @@ The Red Sequence forms a narrow, linear locus in the CMD extending across bright
 ### Key Characteristics
 1. **Passively Evolving Stellar Populations** - Composed of old stars ($\tau_{\mathrm{age}} \gtrsim 8 - 12$ Gyr) with negligible current star formation ($\text{sSFR} \lesssim 10^{-12} \text{ yr}^{-1}$). Spectra feature strong metal absorption lines (Ca II H and K, Mg b, Fe 5270) and prominent 4000 \AA\ breaks ($D_n 4000 > 1.8$), with no detectable Balmer emission lines.
 2. **Morphological Uniformity** - Spheroidal, bulge-dominated galaxies (E and S0) characterized by high Sersic indices ($n \gtrsim 3 - 4$) and high concentration indices ($C \equiv r_{90}/r_{50} > 2.6$).
-3. **The Color-Magnitude Slope and Mass-Metallicity Relation** - The red sequence is not horizontal; it exhibits a systematic negative slope -
+3. **The Color-Magnitude Slope and Mass-Metallicity Relation** - The red sequence is not horizontal. It exhibits a systematic negative slope -
    $$\frac{d(u - r)}{dM_r} \approx -0.08 \text{ mag mag}^{-1}$$
    More luminous (more massive) early-type galaxies are systematically redder. This trend is driven almost entirely by metallicity rather than stellar age. Massive galaxies have deeper gravitational potential wells that efficiently retain supernova ejecta against galactic winds, achieving higher stellar metallicities ($[Z/H] > 0$) that induce strong line blanketing in the blue and ultraviolet.
 
@@ -133,6 +133,10 @@ When asked by Prof. Pizzella - *"Describe the color bimodality of galaxies, the 
 - [[Faber-Jackson relation]] - Dynamical scaling relation for red sequence early-type galaxies.
 
 
+
+## where it goes wrong
+
+- the red sequence has a slope because more massive galaxies are more metal-rich, not older.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -8,7 +8,7 @@ after Narrabri shut down in 1972, intensity interferometry was dormant for ~40 y
 
 ## the original sensitivity ceiling
 
-Narrabri could measure stars to roughly $V = 2$-$3$ in reasonable observing time (hours per star). below that, photon noise dominated. detector technology in the 1960s — photomultipliers — limited photon-count rates and SNR.
+Narrabri could measure stars to roughly $V = 2$-$3$ in reasonable observing time (hours per star). below that, photon noise dominated. detector technology in the 1960s, photomultipliers, limited photon-count rates and SNR.
 
 for stars below $V = 6$, integration times became prohibitive (days). this set the original sensitivity ceiling at $\sim 30$ stars accessible total.
 
@@ -49,7 +49,7 @@ current and planned arrays:
 | **MAGIC** | 2 × 17 m | 85 m | tested |
 | **CTA** | 100+ telescopes | up to 5 km | planned (2030s) |
 
-CTA's baselines reach 5 km! at 500 nm, that's $\theta \sim \lambda/B = 20$ μas — comparable to EHT's resolution at radio. for bright stars, CTA-IACT-intensity interferometry could be the highest-resolution stellar imaging ever achieved.
+CTA's baselines reach 5 km! at 500 nm, that's $\theta \sim \lambda/B = 20$ μas, comparable to EHT's resolution at radio. for bright stars, CTA-IACT-intensity interferometry could be the highest-resolution stellar imaging ever achieved.
 
 ## what modern intensity interferometry can do
 
@@ -92,8 +92,8 @@ other modern intensity-interferometry concepts:
 
 three lessons from the modern revival:
 
-1. **dormant techniques can be reborn** when supporting technology catches up. HBT's idea was sound; it just needed faster electronics
-2. **synergies matter**: IACT arrays primarily for gamma rays, secondary use for II — both communities benefit
+1. **dormant techniques can be reborn** when supporting technology catches up. HBT's idea was sound. it just needed faster electronics
+2. **synergies matter**: IACT arrays primarily for gamma rays, secondary use for II, both communities benefit
 3. **bright-star science is still rich**: even 50 years after Narrabri, we don't have detailed surface images of most bright stars. CTA-II will fill that gap
 
 ## see also

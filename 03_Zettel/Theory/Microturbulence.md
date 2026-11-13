@@ -40,11 +40,11 @@ so $v_{\rm turb}$ tends to grow with luminosity (at fixed $T$) because lower-den
 
 ## physical origin
 
-probably **convective overshoot** + small-scale wave motions. in cool stars, granulation drives convective updrafts and downdrafts; the turbulent kinetic energy spectrum has a small-scale tail that broadens spectral lines.
+probably **convective overshoot** + small-scale wave motions. in cool stars, granulation drives convective updrafts and downdrafts. the turbulent kinetic energy spectrum has a small-scale tail that broadens spectral lines.
 
 3D radiative-MHD simulations (CO5BOLD, Stagger) reproduce observed $v_{\rm turb}$ from first principles in simple cases (the Sun), validating the picture.
 
-## consequence: $W$ at saturation depends on $v_{\rm turb}$
+## consequence - $W$ at saturation depends on $v_{\rm turb}$
 
 in the saturation regime of the curve of growth ([[Curve of growth]]), $W$ growth depends on $\Delta\lambda_D$, hence on $v_{\rm turb}$. so abundance estimates from saturated lines have built-in $v_{\rm turb}$ uncertainty.
 

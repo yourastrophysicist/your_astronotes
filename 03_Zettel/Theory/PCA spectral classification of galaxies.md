@@ -6,7 +6,7 @@ title: "PCA spectral classification of galaxies"
 
 ## 1. Mathematical Principles of Spectral PCA
 
-**Principal Component Analysis (PCA)** is an objective, model-independent mathematical technique that reduces the high dimensionality of galaxy spectra ($M \sim 10^3$ to $10^4$ wavelength channels) to a small set of orthogonal basis vectors called **eigenspectra** (Connolly et al. 1995; Folkes et al. 1999; Madgwick et al. 2002).
+**Principal Component Analysis (PCA)** is an objective, model-independent mathematical technique that reduces the high dimensionality of galaxy spectra ($M \sim 10^3$ to $10^4$ wavelength channels) to a small set of orthogonal basis vectors called **eigenspectra** (Connolly et al. 1995, Folkes et al. 1999, Madgwick et al. 2002).
 
 ### Step 1 - Normalization and Matrix Formulation
 Consider a flux-calibrated spectroscopic sample of $N$ galaxies, each observed at $M$ rest-frame wavelength bins $\lambda_j$ ($j = 1, \dots, M$). Each galaxy spectrum is represented by a vector $\mathbf{f}_i \in \mathbb{R}^M$.
@@ -60,7 +60,7 @@ In optical surveys (SDSS and 2dFGRS across $3700\,$\AA\ to $7000\,$\AA), the fir
 - Accounts for approximately $60\%$ to $70\%$ of the total population variance
 - Characterized by the overall continuum slope and the $4000\,$\AA\ break ($D_n 4000$)
 - Shows prominent stellar absorption lines including Ca II H&K ($\lambda\lambda 3934, 3968$), the G-band ($\lambda 4304$), and Mg b ($\lambda 5175$)
-- Positive $a_1$ corresponds to an old, metal-rich, passive stellar population (elliptical galaxies); negative $a_1$ corresponds to a young, blue stellar continuum (late-type spiral disks)
+- Positive $a_1$ corresponds to an old, metal-rich, passive stellar population (elliptical galaxies). Negative $a_1$ corresponds to a young, blue stellar continuum (late-type spiral disks)
 
 ### Eigenspectrum 2 (PC2 - Instantaneous Star Formation and Gas Ionization)
 - Accounts for approximately $15\%$ to $20\%$ of the total population variance
@@ -125,7 +125,7 @@ When sketching the PCA spectral classification plane on the blackboard.
 - **Vertical Axis** - Amplitude $a_2$ (PC2), increasing toward higher emission-line equivalent widths
 - **Data Sequence** - Continuous diagonal distribution running from bottom-left (Type 1 passive) to top-right (Type 4 starburst)
 - **Rotated Coordinate $\eta$** - Draw the tilted axis passing through the centroid at angle $\theta = -20^\circ$
-- **Spectral Inset Sketches** - Draw PC1 showing a steep drop at the $4000\,$\AA\ break; draw PC2 showing emission spikes at $[O\,II]\,\lambda 3727$ and $H\alpha\,\lambda 6563$
+- **Spectral Inset Sketches** - Draw PC1 showing a steep drop at the $4000\,$\AA\ break. Draw PC2 showing emission spikes at $[O\,II]\,\lambda 3727$ and $H\alpha\,\lambda 6563$
 
 ---
 

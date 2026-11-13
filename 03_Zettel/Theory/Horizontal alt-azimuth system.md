@@ -10,9 +10,9 @@ the most natural coordinate system for someone standing on the Earth: take the l
 
 - **zenith** $Z$: the point on the celestial sphere directly overhead
 - **nadir**: the point on the celestial sphere directly underfoot, antipode of the zenith
-- **horizon**: where the local horizontal plane meets the celestial sphere — a great circle
+- **horizon**: where the local horizontal plane meets the celestial sphere, a great circle
 - **vertical circle**: any great circle through the zenith and nadir
-- **meridian**: the vertical circle that also passes through the celestial pole; it crosses the horizon at the cardinal points N and S
+- **meridian**: the vertical circle that also passes through the celestial pole. it crosses the horizon at the cardinal points N and S
 
 reference plane: the plane tangent to the Earth that passes through the observer (the local horizontal plane).
 
@@ -22,7 +22,7 @@ reference plane: the plane tangent to the Earth that passes through the observer
 
 ## the two coordinates
 
-**azimuth** $A$: the angle along the horizon, measured **clockwise from the south cardinal point** to the foot of the body's vertical circle. (some textbooks measure from N instead — convention matters!)
+**azimuth** $A$: the angle along the horizon, measured **clockwise from the south cardinal point** to the foot of the body's vertical circle. (some textbooks measure from N instead, so convention matters!)
 - $A \in [0°, 360°]$
 
 **altitude** (height) $a$: the angle between the horizon and the body, measured along the body's vertical circle.
@@ -34,7 +34,7 @@ reference plane: the plane tangent to the Earth that passes through the observer
 
 ---
 
-## the catch: alt-azimuth is *not* universal
+## the catch - alt-azimuth is *not* universal
 
 this system is tied to the local horizon and the local vertical, both of which depend on:
 - **observer location** (different latitude → different zenith → different horizon)
@@ -46,7 +46,7 @@ three stars A, B, C rising in the east, culminating in the meridian, and setting
 
 ![sphereastro-20.png](../../assets/images/sphereastro-20.png)
 
-at $\phi = 45°$ N (Padova) the picture is one thing; at $\phi = 10°$ N it's another. and within a single night, the same star moves continuously through different $(A, a)$ values.
+at $\phi = 45°$ N (Padova) the picture is one thing. at $\phi = 10°$ N it's another. and within a single night, the same star moves continuously through different $(A, a)$ values.
 
 ---
 
@@ -60,6 +60,20 @@ at $\phi = 45°$ N (Padova) the picture is one thing; at $\phi = 10°$ N it's an
 for **catalog work** I switch to the equatorial system (see [[Equatorial system]]), which is observer-independent.
 
 ---
+
+## worked example
+
+from Padova, $\phi = 45.4^\circ$:
+
+- the altitude of the celestial pole equals the latitude, so Polaris stands at $a \approx 45.4^\circ$.
+- the Sun at upper culmination has $a = 90^\circ - \phi + \delta_\odot$. at the summer solstice $a = 44.6^\circ + 23.4^\circ = 68.0^\circ$, at the winter solstice $a = 21.2^\circ$.
+
+## where it goes wrong
+
+- the zero point of azimuth. some books count from north, some from south. I state mine before any number.
+- these coordinates depend on the place and on the time, so they never go into a catalog.
+- the airmass uses the zenith distance $z = 90^\circ - a$, not the altitude.
+- refraction raises every object, so the observed altitude is larger than the geometric one.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

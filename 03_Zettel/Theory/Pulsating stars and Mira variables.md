@@ -15,7 +15,7 @@ Mira-type stars: cool, asymptotic-giant-branch (AGB) stars with periods of 100-1
 
 interferometry directly measures the *photospheric diameter* and the *surrounding dust/molecular shell* at multiple wavelengths and phases.
 
-### example: omicron Cet (Mira itself)
+### example - omicron Cet (Mira itself)
 
 VLTI/MIDI and AMBER observations:
 - photosphere diameter: 30 mas (at 8 μm)

@@ -48,7 +48,7 @@ the factor of $2$ in the numerator is the spin degeneracy of the free electron. 
 generalisation that includes all populated levels at temperature $T$:
 $$Z(T) = \sum_i g_i\,e^{-E_i/k_BT}$$
 
-at low $T$, $Z \approx g_{\rm ground}$ (only ground populated). at high $T$, more excited levels contribute. used in Saha when many levels are populated; tabulated in atomic-data libraries (NIST ASD, VALD).
+at low $T$, $Z \approx g_{\rm ground}$ (only ground populated). at high $T$, more excited levels contribute. used in Saha when many levels are populated. tabulated in atomic-data libraries (NIST ASD, VALD).
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

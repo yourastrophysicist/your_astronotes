@@ -4,7 +4,7 @@ title: "Bulirsch-Stoer extrapolation"
 ---
 # Bulirsch-Stoer extrapolation
 
-a high-accuracy ODE integrator that uses [[Modified midpoint method]] at multiple step sizes, then Richardson-extrapolates to $h = 0$. for *very smooth* integrands and high precision targets, it can outperform RK4 by orders of magnitude — ten or more digits of accuracy with a few dozen function evaluations.
+a high-accuracy ODE integrator that uses [[Modified midpoint method]] at multiple step sizes, then Richardson-extrapolates to $h = 0$. for *very smooth* integrands and high precision targets, it can outperform RK4 by orders of magnitude, ten or more digits of accuracy with a few dozen function evaluations.
 
 ## the idea
 
@@ -29,7 +29,7 @@ $$T_{k,j} = T_{k,j-1} + \frac{T_{k,j-1} - T_{k-1,j-1}}{(h_{k-j}/h_k)^2 - 1}$$
 
 the algorithm uses adaptivity at the macrostep level (not the substep level): if the table converges quickly with small $k$, increase $H$ for the next macrostep. if it requires many rows or fails to converge, decrease $H$.
 
-this is what makes it efficient: smooth regions get large $H$ with few rows of the table; rough regions get small $H$.
+this is what makes it efficient: smooth regions get large $H$ with few rows of the table. rough regions get small $H$.
 
 ## python (sketch)
 
@@ -55,16 +55,16 @@ real implementations (`scipy.integrate.solve_ivp` with method `'BS'` if availabl
 
 ## strengths
 
-- **highest accuracy per function evaluation** for smooth problems; routinely produces 10-15 digit answers
+- **highest accuracy per function evaluation** for smooth problems. routinely produces 10-15 digit answers
 - **adaptive**: efficiently handles regions where the solution is smooth at large $H$, shrinks $H$ where needed
-- **Richardson extrapolation** is mathematically elegant and clean
+- **Richardson extrapolation** is mathematically and clean
 
 ## weaknesses
 
 - **only works for smooth integrands**: if there is a discontinuity, kink, or sharp feature in the interval, the polynomial extrapolation fails and the table doesn't converge
 - **expensive per macrostep** if many rows are needed
 - **not symplectic**: for long-time Hamiltonian integration, leapfrog still wins on energy conservation
-- **complex to implement correctly**: the failure-recovery logic is intricate
+- **complex to implement correctly**: the failure-recovery logic is complicated
 
 ## when to use Bulirsch-Stoer
 

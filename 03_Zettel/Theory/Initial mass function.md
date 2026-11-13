@@ -2,7 +2,7 @@
 layout: "default"
 title: "Initial mass function"
 ---
-the **initial mass function (IMF)**, denoted $\xi(M)$, is the empirical or theoretical probability distribution of stellar birth masses in a single coeval star-formation event. it is the single most consequential foundational prior in observational astrophysics and galaxy evolution: it dictates the ratio of luminous to dark mass, the production rate of ionizing UV photons, the core-collapse supernova rate, and the chemical enrichment yields of the universe.
+the **initial mass function (IMF)**, denoted $\xi(M)$, is the empirical or theoretical probability distribution of stellar birth masses in a single coeval star-formation event. it is the single most consequential prior in observational astrophysics and galaxy evolution. it dictates the ratio of luminous to dark mass, the production rate of ionizing UV photons, the core-collapse supernova rate, and the chemical enrichment yields of the universe.
 
 ## formal mathematical definition
 
@@ -19,7 +19,7 @@ a single power-law $\xi(M) \propto M^{-\alpha}$ corresponds to $\xi_L(\log_{10} 
 ## canonical analytical forms
 
 ### 1. Salpeter (1955) single power-law
-the foundational empirical benchmark, derived from local solar-neighborhood field stars ($0.4 \le M/M_\odot \le 10$):
+the empirical benchmark, derived from local solar-neighborhood field stars ($0.4 \le M/M_\odot \le 10$):
 $$\xi(M) = A\,M^{-\alpha} \quad \text{with} \quad \alpha = 2.35 \quad (\Gamma = 1.35)$$
 - **limitation**: extrapolating $\alpha = 2.35$ down to $0.08\,M_\odot$ severely overpredicts the count of low-mass M-dwarfs, inflating the mass-to-light ratio $\Upsilon$ by roughly a factor of two relative to modern constraints.
 
@@ -40,7 +40,7 @@ a critical conceptual boundary in stellar populations:
 
 for a stellar system of age $t$:
 1. **nuclear death**: all stars with $M > M_{\rm TO}(t)$ have evolved off the MS into white dwarfs, neutron stars, or black holes, truncating the MS PDMF at $M_{\rm TO}$.
-2. **dynamical evaporation**: in star clusters, two-body relaxation drives energy equipartition; low-mass stars acquire high velocities and escape via tidal stripping, making the cluster PDMF flatter (bottom-light) than the birth IMF (see [[Initial vs present-day mass function]]).
+2. **dynamical evaporation**: in star clusters, two-body relaxation drives energy equipartition. low-mass stars acquire high velocities and escape via tidal stripping, making the cluster PDMF flatter (bottom-light) than the birth IMF (see [[Initial vs present-day mass function]]).
 
 ## why the IMF choice governs observational astrophysics
 
@@ -59,11 +59,26 @@ for a stellar system of age $t$:
 
 ## universality vs environmental variation
 
-while the IMF appears remarkably universal across the solar neighborhood, young clusters, and field stars, systematic variations are active frontiers:
-- **massive early-type galaxies**: gravitational lensing (Treu et al. 2010) and gravity-sensitive wing absorption features (Na I doublet, Wing-Ford FeH band; van Dokkum & Conroy 2010) indicate a **bottom-heavy** IMF ($\alpha \approx 2.8\text{--}3.0$) in the dense cores of massive ellipticals.
+while the IMF appears nearly universal across the solar neighborhood, young clusters, and field stars, systematic variations are active frontiers:
+- **massive early-type galaxies**: gravitational lensing (Treu et al. 2010) and gravity-sensitive wing absorption features (Na I doublet, Wing-Ford FeH band, van Dokkum & Conroy 2010) indicate a **bottom-heavy** IMF ($\alpha \approx 2.8\text{--}3.0$) in the dense cores of massive ellipticals.
 - **extreme starbursts & high-$z$**: intense radiation fields and high cosmic-microwave-background temperatures ($T_{\rm CMB} \propto 1+z$) raise the Jeans mass, favoring a **top-heavy** IMF.
 - **Population III**: pristine zero-metallicity gas lacking metal-line cooling predicts characteristic masses $M_{\rm char} \sim 10\text{--}100\,M_\odot$.
-- **open cluster segmentation**: Gaia DR3 analysis of 78 open clusters reveals a segmented IMF ($dN/dM \propto M^{-2.5}$ for $M > 1\,M_\odot$ and $M^{-1.5}$ for $M < 1\,M_\odot$; Cordoni et al. 2023).
+- **open cluster segmentation**: Gaia DR3 analysis of 78 open clusters reveals a segmented IMF ($dN/dM \propto M^{-2.5}$ for $M > 1\,M_\odot$ and $M^{-1.5}$ for $M < 1\,M_\odot$, Cordoni et al. 2023).
+
+## worked example
+
+for a Salpeter function between $0.1$ and $100\,M_\odot$, the stars above $8\,M_\odot$ are:
+
+- by number: $\dfrac{8^{-1.35} - 100^{-1.35}}{0.1^{-1.35} - 100^{-1.35}} = \dfrac{0.058}{22.4} = 0.26\%$
+- by mass: $\dfrac{8^{-0.35} - 100^{-0.35}}{0.1^{-0.35} - 100^{-0.35}} = \dfrac{0.283}{2.04} = 14\%$
+
+the mean stellar mass is $0.35\,M_\odot$, and there is one future supernova for every $135\,M_\odot$ of stars formed.
+
+## where it goes wrong
+
+- what I observe is the present-day mass function. the massive stars of old populations are already dead.
+- Salpeter rises without limit toward low masses. the real function flattens below $0.5\,M_\odot$, so Salpeter overestimates the total mass by about 1.7.
+- the universality of the function is an assumption, and it is tested rather than proven.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -14,7 +14,7 @@ In the optical B-band (Hamabe & Kormendy 1987).
 
 $$\langle \mu \rangle_e(B) = (2.94 \pm 0.10) \log_{10}\left(\frac{R_e}{\mathrm{kpc}}\right) + 19.48$$
 
-In the V-band (for Coma cluster ellipticals; Jorgensen et al. 1996).
+In the V-band (for Coma cluster ellipticals, Jorgensen et al. 1996).
 
 $$\langle \mu \rangle_e(V) \approx 3.02 \log_{10}\left(\frac{R_e}{\mathrm{kpc}}\right) + 19.72$$
 
@@ -75,7 +75,7 @@ This proves that giant, luminous elliptical galaxies are substantially **more di
 
 ## 3. The Kormendy Relation as a Projection of the Fundamental Plane
 
-The Fundamental Plane of elliptical galaxies (Djorgovski & Davis 1987; Dressler et al. 1987) is a tight two-dimensional manifold in the three-dimensional space of $(\log_{10} R_e, \log_{10} \sigma, \langle \mu \rangle_e)$.
+The Fundamental Plane of elliptical galaxies (Djorgovski & Davis 1987, Dressler et al. 1987) is a tight two-dimensional manifold in the three-dimensional space of $(\log_{10} R_e, \log_{10} \sigma, \langle \mu \rangle_e)$.
 
 $$\log_{10} R_e = \alpha \log_{10} \sigma + \beta \langle \mu \rangle_e + \gamma$$
 
@@ -103,7 +103,7 @@ The Kormendy relation serves as an observational test for galaxy assembly histor
 
 ## 5. The Dichotomy - Giant Ellipticals Versus Dwarf Spheroidals
 
-A critical discovery in galaxy photometry (Kormendy 1985; Kormendy et al. 2009) is that dwarf spheroidal galaxies (dSph) and dwarf ellipticals (dE) do **not** follow the Kormendy relation of giant ellipticals.
+A critical discovery in galaxy photometry (Kormendy 1985, Kormendy et al. 2009) is that dwarf spheroidal galaxies (dSph) and dwarf ellipticals (dE) do **not** follow the Kormendy relation of giant ellipticals.
 
 ```text
        Mean Surface Brightness <mu>_e [mag/arcsec^2]

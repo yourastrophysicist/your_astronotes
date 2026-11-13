@@ -4,11 +4,11 @@ title: "Linux for the astrophysicist"
 ---
 # Linux for the astrophysicist
 
-every astrophysics computing environment runs on Linux (or macOS, which is unix-like). production telescopes, supercomputer clusters, my laptop's terminal — same shell, same command set. fluency in bash is non-negotiable for research, and it underwrites Mapelli's chapter 1 of the course notes.
+every astrophysics computing environment runs on Linux (or macOS, which is unix-like). production telescopes, supercomputer clusters, my laptop's terminal, same shell, same command set. fluency in bash is non-negotiable for research, and it underwrites Mapelli's chapter 1 of the course notes.
 
 ## the shell is bash
 
-when I open a terminal, I am talking to a **shell** (almost always `bash` or `zsh`). it interprets my commands and runs programs. the shell is itself a programming language, but I almost never write big shell scripts — I write python that *calls* shell tools when needed.
+when I open a terminal, I am talking to a **shell** (almost always `bash` or `zsh`). it interprets my commands and runs programs. the shell is itself a programming language, but I almost never write big shell scripts. I write python that *calls* shell tools when needed.
 
 ## the file system
 

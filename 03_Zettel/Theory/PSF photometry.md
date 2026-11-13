@@ -32,7 +32,7 @@ usually built empirically:
 3. average and subtract a smooth functional model (analytic Moffat or Gaussian + residuals).
 4. allow spatial variation across the chip if necessary.
 
-*HST* has a precomputed library of PSFs; ground-based images usually need per-image fitting.
+*HST* has a precomputed library of PSFs. Ground-based images usually need per-image fitting.
 
 ### a clean detection list
 
@@ -43,12 +43,12 @@ you need to know where the sources are before fitting. typical workflow:
 
 ## SNR advantage
 
-with a well-constrained PSF, the SNR per source improves over aperture photometry by a factor depending on PSF shape and noise regime; typically $20$ to $40\%$ in sky-limited photometry. roughly: PSF photometry weights each pixel by its information content, which in a Gaussian PSF goes like the square of the PSF amplitude.
+with a well-constrained PSF, the SNR per source improves over aperture photometry by a factor depending on PSF shape and noise regime. typically $20$ to $40\%$ in sky-limited photometry. roughly: PSF photometry weights each pixel by its information content, which in a Gaussian PSF goes like the square of the PSF amplitude.
 
 ## limitations
 
 - **PSF model accuracy**: errors in the PSF cause systematic photometry errors. PSF stability is critical (atmosphere, focus, telescope tracking).
-- **highly variable PSF**: spatially or temporally; need sub-image PSFs.
+- **highly variable PSF**: spatially or temporally. need sub-image PSFs.
 - **galaxies**: not point sources, PSF photometry inappropriate. use surface-brightness fitting (galfit, profit) instead.
 
 ## standard packages
@@ -57,6 +57,15 @@ with a well-constrained PSF, the SNR per source improves over aperture photometr
 - **DAOPHOT II** (Stetson, IRAF era, fortran).
 - **DOLPHOT** for HST + JWST imaging.
 - **SExtractor + PSFEx** combo for survey pipelines.
+
+## worked example
+
+for a Gaussian profile, $\mathrm{FWHM} = 2.355\,\sigma$, and the fraction of light inside radius $r$ is $1 - e^{-r^2/2\sigma^2}$:
+
+- $r = \mathrm{FWHM}/2$: 50%
+- $r = \mathrm{FWHM}$: 94%
+
+the number of pixels that effectively carry the noise in a fit is $n_{\rm eff} = 4\pi\sigma^2$. for a FWHM of 3 pixels that is 20 pixels, fewer than any aperture that would contain the same light.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

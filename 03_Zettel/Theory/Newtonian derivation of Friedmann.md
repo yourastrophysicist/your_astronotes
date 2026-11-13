@@ -56,6 +56,14 @@ the Friedmann equation is **Newtonian energy conservation in disguise**. the spa
 
 historically: Friedmann (1922) derived these equations from GR. McCrea + Milne (1934) showed the Newtonian shortcut. modern cosmology textbooks usually start with the Newtonian version + then upgrade to GR for pressure + lensing.
 
+## worked example
+
+the escape condition for a shell of radius $R$ is $\dot R^2 = 2GM/R$. with $M = \frac{4\pi}{3}\rho R^3$ and $\dot R = HR$:
+
+$$H^2 = \frac{8\pi G}{3}\rho \quad\Longrightarrow\quad \rho_c = \frac{3H^2}{8\pi G}$$
+
+the critical density is the density at which the shell has exactly the escape velocity.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

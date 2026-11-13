@@ -101,7 +101,7 @@ $$\boxed{L \propto \sigma_0^4}$$
 ## 3. Why the Relation Has Scatter - The Fundamental Plane Projection
 
 In real galaxies, the three assumptions break down.
-1. **Surface Brightness is Not Constant** - Giant ellipticals are systematically less dense than intermediate ellipticals ($\langle I_e \rangle \propto R_e^{-0.83}$; the Kormendy relation).
+1. **Surface Brightness is Not Constant** - Giant ellipticals are systematically less dense than intermediate ellipticals ($\langle I_e \rangle \propto R_e^{-0.83}$, the Kormendy relation).
 2. **Mass-to-Light Ratio is Not Constant** - $\Upsilon \propto M^{0.2} \propto L^{0.25}$ due to increasing dark matter fractions and higher stellar metallicities in more massive galaxies (the "tilt" of the Fundamental Plane).
 3. **Non-Homology** - The Sersic index $n$ varies continuously from $n \approx 2$ in dwarf ellipticals to $n \approx 6$ in giant cD galaxies.
 
@@ -166,7 +166,7 @@ When sketching the Faber-Jackson relation on the blackboard.
   - Section 7.1 "Scaling Relations of Elliptical Galaxies", pages 30-33.
 - **Mo, van den Bosch & White (2010), *Galaxy Formation and Evolution***
   - File - `Houjun Mo, Frank van den Bosch, Simon White - Galaxy Formation and Evolution (2010, Cambridge University Press) - libgen.li.pdf`
-  - Chapter 2, Section 2.3.4 "Elliptical Galaxies", pages 76-83; Chapter 13, Section 13.3 "The Fundamental Plane", pages 624-628.
+  - Chapter 2, Section 2.3.4 "Elliptical Galaxies", pages 76-83. Chapter 13, Section 13.3 "The Fundamental Plane", pages 624-628.
 - **Binney & Merrifield (1998), *Galactic Astronomy***
   - File - `Binney J., Merrifield M. - Galactic Astronomy (1998, Princeton).pdf`
   - Chapter 4, Section 4.3.4 "Scaling Relations", pages 204-210.

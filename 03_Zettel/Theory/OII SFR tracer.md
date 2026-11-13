@@ -14,7 +14,7 @@ it is not a recombination line like Hα, so its luminosity does not come directl
 
 ## why we use it anyway
 
-Hα shifts out of the optical at $z > 0.4$ in the B band and out of the H band at $z > 2.5$. [OII], at 3727 Å, stays accessible from the optical all the way to $z \sim 1.6$. before JWST, [OII] was the standard SFR probe in the "redshift desert" ($z \sim 1$–$2$), especially for SDSS-era optical spectra.
+Hα shifts out of the optical at $z > 0.4$ in the B band and out of the H band at $z > 2.5$. [OII], at 3727 Å, stays accessible from the optical all the way to $z \sim 1.6$. before JWST, [OII] was the standard SFR probe in the "redshift desert" ($z \sim 1$ to $2$), especially for SDSS-era optical spectra.
 
 ## Kennicutt 1998 calibration
 
@@ -30,9 +30,13 @@ valid for solar metallicity, Salpeter IMF. the scatter is $\sim 0.3$ dex around 
 
 ## modern replacements
 
-- $\text{H}\beta$ is now often used as the primary Balmer tracer at $z \sim 1$–$2$ with NIR spectrographs
+- $\text{H}\beta$ is now often used as the primary Balmer tracer at $z \sim 1$ to $2$ with NIR spectrographs
 - JWST NIRSpec + Hα has largely displaced [OII] for $z > 2$ work
 - still used in SDSS / DEEP2 / zCOSMOS archival analyses
+
+## where it goes wrong
+
+- [OII] depends on metallicity and ionization, so it is calibrated against H$\alpha$ with a large scatter.
 
 ## connections
 

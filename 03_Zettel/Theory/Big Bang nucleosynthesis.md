@@ -66,6 +66,10 @@ $$N_{\rm eff} = 2.99 \pm 0.34$$
 
 consistent with the standard 3 light neutrinos. rules out extra relativistic species at the $\sim 1$ unit level.
 
+## where it goes wrong
+
+- BBN makes no carbon or heavier elements, because there are no stable nuclei with mass 5 or 8.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

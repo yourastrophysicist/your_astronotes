@@ -22,9 +22,9 @@ the typical scales:
 - separation of bright galaxies: $\sim 1$ Mpc
 - the cosmological regime: $l \gtrsim 1$ Mpc
 
-at scales above $\sim 100$ Mpc, the galaxy distribution looks statistically homogeneous and isotropic: that is the regime in which the cosmological principle holds.
+at scales above $\sim 100$ Mpc, the galaxy distribution looks statistically homogeneous and isotropic. that is the regime in which the cosmological principle holds.
 
-below that scale the universe is *clumpy* — galaxies, clusters, walls, voids, the cosmic web (see [[Matter power spectrum and BAO]]).
+below that scale the universe is *clumpy*, with galaxies, clusters, walls, voids and the cosmic web (see [[Matter power spectrum and BAO]]).
 
 ---
 
@@ -42,15 +42,15 @@ three reasons, in increasing order of weight:
 
 3. **theoretical simplicity**: the Copernican principle generalized. there is no privileged observer or direction in the universe. picking any other condition would require fine-tuning.
 
-> *despite what your mom might have told you, we shouldn't assume that we are the centre of the universe.* — Baumann
+> *despite what your mom might have told you, we shouldn't assume that we are the centre of the universe.* - Baumann
 
 ---
 
 ## the comoving observer
 
-within an isotropic and homogeneous universe, there is a privileged class of observers: those who see the universe as isotropic *around them*. these are called **comoving observers** or "fundamental observers." they are not unique — every point of space supports one.
+within an isotropic and homogeneous universe, there is a privileged class of observers: those who see the universe as isotropic *around them*. these are called **comoving observers** or "fundamental observers." they are not unique. every point of space supports one.
 
-a comoving observer is one who follows the **Hubble flow** of expansion, with no peculiar velocity superimposed. our observed local-group peculiar velocity ($\sim 600$ km/s) shows up as the **CMB dipole** — once we subtract that, the rest-frame CMB is isotropic to $\Delta T/T \sim 10^{-5}$.
+a comoving observer is one who follows the **Hubble flow** of expansion, with no peculiar velocity superimposed. our observed local-group peculiar velocity ($\sim 600$ km/s) shows up as the **CMB dipole**. once we subtract that, the rest-frame CMB is isotropic to $\Delta T/T \sim 10^{-5}$.
 
 so the CMB itself is the operational realization of the comoving frame.
 
@@ -67,6 +67,12 @@ so the cosmological principle reduces all of cosmology to *one ODE for one funct
 
 ---
 
+## where it goes wrong
+
+- homogeneity cannot be tested from one point by isotropy alone. it needs the Copernican assumption that we are not special.
+- the principle holds on scales above about 100 Mpc. below that the universe is clumpy.
+- isotropy is relative to the CMB frame. we move at 370 km/s in it.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -81,7 +87,7 @@ so the cosmological principle reduces all of cosmology to *one ODE for one funct
 - [[Cosmic_inventory_overview]]
 - 03_Zettel/Theory/Robertson-Walker metric
 - Friedmann equations with Λ
-- [[Cosmic_inventory_photons]] — the CMB as the realization of the comoving frame
+- [[Cosmic_inventory_photons]] - the CMB as the realization of the comoving frame
 
 
 

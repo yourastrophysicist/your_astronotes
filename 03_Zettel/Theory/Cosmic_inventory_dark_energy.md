@@ -2,7 +2,7 @@
 layout: "default"
 title: "Cosmic_inventory_dark_energy"
 ---
-about 68.5% of the energy budget of the universe today is something we cannot detect except through its effect on the expansion rate: it dominates today, has negative pressure, and drives the accelerated expansion. we call it **dark energy**.
+about 68.5% of the energy budget of the universe today is something we cannot detect except through its effect on the expansion rate. it dominates today, has negative pressure, and drives the accelerated expansion. we call it **dark energy**.
 
 a *cosmological constant* $\Lambda$ is the simplest model: an energy density that does not dilute with expansion ($p = -\rho$ exactly). more generally, dark energy can have $p < -\rho/3$ and evolve in time/space.
 
@@ -17,7 +17,7 @@ $$v = H_0 d, \qquad z \simeq v/c$$
 
 ![intro-30.png](../../assets/images/intro-30.png)
 
-(Hubble's original 1929 plot. velocities should be in km/s, distances in Mpc; the solid line is the fit to corrected points.)
+(Hubble's original 1929 plot. velocities should be in km/s, distances in Mpc. the solid line is the fit to corrected points.)
 
 local measurements: $H_0 = 73.04 \pm 1.04$ km/s/Mpc (Riess et al. 2022, SN Ia).
 CMB-anchored measurements: $H_0 = 67.4 \pm 0.5$ km/s/Mpc.
@@ -58,7 +58,7 @@ at high z the SN Ia turn out to be **fainter** than they should be in any matter
 small-z expansion of the luminosity distance:
 $$d_L = \frac{c}{H_0}\left[z + \tfrac12(1 - q_0) z^2 + \cdots\right], \qquad q_0 = -\frac{\ddot a(t_0) a_0}{\dot a(t_0)^2}$$
 
-a positive $q_0$ means deceleration; **a negative $q_0$ (acceleration) requires $\Omega_\Lambda > \Omega_m/2$**.
+a positive $q_0$ means deceleration. **a negative $q_0$ (acceleration) requires $\Omega_\Lambda > \Omega_m/2$**.
 
 best fit (Choudhury & Padmanabhan A&A 429, 807, 2005, with later updates):
 $$\boxed{\,\Omega_\Lambda = 0.6847 \pm 0.0073\,}$$
@@ -69,15 +69,15 @@ cosmological constant. consistent across SN Ia, BAO, and CMB.
 
 ---
 
-## independent evidence: the deficit budget
+## independent evidence - the deficit budget
 
 from CMB temperature anisotropies, the total density today is
 $$\Omega_K = 1 - \Omega_0 = 0.001 \pm 0.002 \quad (68\%\,\text{CL})$$
 
-so the universe is **flat to a fraction of a percent** — also generic prediction of inflation.
+so the universe is **flat to a fraction of a percent**, also a generic prediction of inflation.
 
 but matter + radiation + neutrinos add up to only about $1/3$ of the critical density. so we *need* an additional component, with two key features:
-- very weakly interacting and very weakly clustering (smooth) — otherwise we would have detected it directly
+- very weakly interacting and very weakly clustering (smooth), otherwise we would have detected it directly
 - **negative pressure**, $p < -\rho/3$, in order to drive accelerated expansion
 
 a cosmological constant is the limit $p = -\rho$ exactly. dark energy refers to a more general component with $p < -\rho/3$ that can evolve in time/space.
@@ -96,7 +96,7 @@ $$t_0 = \frac{2}{3 H_0}$$
 with $H_0 = 67.4$ km/s/Mpc, $H_0^{-1} = 9.7776\,h^{-1} \times 10^9$ yr, so $t_0 \approx 9.6 \times 10^9$ yr in EdS.
 
 this is **clearly at odds** with independent age measurements:
-- oldest globular clusters: $\sim 12$–$13$ Gyr
+- oldest globular clusters: $\sim 12$ to $13$ Gyr
 - white dwarf cooling ages: $\sim 10$ Gyr
 - nucleo-cosmochronometry: $\sim 13$ Gyr
 
@@ -117,6 +117,16 @@ possibilities, in increasing order of weirdness:
 experimentally, $w$ is being measured to $\sim 1\%$ precision by SN Ia + BAO + CMB. so far, $w = -1$ is consistent with all data.
 
 ---
+
+## worked example
+
+the vacuum energy density today is $\rho_\Lambda = \Omega_\Lambda\rho_c = 0.685 \times 8.5 \times 10^{-27} = 5.8 \times 10^{-27}$ kg/m$^3$, or about $(2.3\ \text{meV})^4$ in natural units. the naive quantum estimate with a Planck cutoff is larger by about $10^{120}$.
+
+## where it goes wrong
+
+- $\Lambda$ and dark energy are not the same thing. $\Lambda$ is the case $w = -1$ exactly.
+- dark energy is measured through geometry and growth, never directly.
+- it has a negative pressure, but it has positive energy density.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

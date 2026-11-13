@@ -74,7 +74,7 @@ an antenna's effective area sets how much signal it collects, while its gain/dir
 
 ![07_Images/Interferometry/antenna_effective_area_gain.svg](../../assets/images/antenna_effective_area_gain.svg)
 
-reading cue: effective area controls sensitivity, while gain/directivity controls angular response. baseline length gives resolution; collecting area determines whether the resolved signal is detectable.
+reading cue: effective area controls sensitivity, while gain/directivity controls angular response. baseline length gives resolution. collecting area determines whether the resolved signal is detectable.
 
 source: local study diagram generated from standard antenna relations.
 

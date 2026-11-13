@@ -9,10 +9,10 @@ a U.S. Navy / USNO interferometer at Anderson Mesa, Arizona. designed for **astr
 ## the architecture
 
 - **6 + 4 telescopes** (mixed: 6 imaging dishes 0.5 m, plus astrometric stations)
-- baselines: ~40 m to 79 m (current); planned upgrades to 437 m
+- baselines: ~40 m to 79 m (current). planned upgrades to 437 m
 - wavelength: visible (R, V bands)
 - delay lines: ~50 m vacuum tunnels
-- beam combiner: pairwise; recently upgraded to multi-beam
+- beam combiner: pairwise. recently upgraded to multi-beam
 
 ## the dual mission
 
@@ -38,14 +38,14 @@ secondary mission: imaging bright stars (binaries, surfaces). less competitive w
 
 ## the niche
 
-NPOI's niche is *operational consistency* — running for decades, accumulating observation logs that are useful for:
+NPOI's niche is *operational consistency*, running for decades, accumulating observation logs that are useful for:
 - proper motion studies
 - long-baseline binary orbit characterization
 - variability monitoring of bright stars
 
 it is not the highest-resolution or highest-sensitivity instrument, but it has been operating *continuously* longer than CHARA or modern VLTI, building a long time-baseline of consistent measurements.
 
-## the future: NPOI extensions
+## the future - NPOI extensions
 
 planned upgrades:
 - baselines to 437 m (longer than CHARA)

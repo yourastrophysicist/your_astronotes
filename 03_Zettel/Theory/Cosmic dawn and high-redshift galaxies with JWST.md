@@ -6,7 +6,7 @@ the launch of the James Webb Space Telescope (JWST) in December 2021 transformed
 
 ## infrared sensitivity and spectral coverage
 
-JWST's 6.5-meter beryllium primary mirror and instruments (NIRCam, NIRSpec, MIRI) provide unprecedented sensitivity from $0.6\text{ }\mu\text{m}$ to $28\text{ }\mu\text{m}$, observing optical and UV rest-frame emission shifted into the infrared by cosmic expansion ($1+z$):
+JWST's 6.5-meter beryllium primary mirror and instruments (NIRCam, NIRSpec, MIRI) provide very large sensitivity from $0.6\text{ }\mu\text{m}$ to $28\text{ }\mu\text{m}$, observing optical and UV rest-frame emission shifted into the infrared by cosmic expansion ($1+z$):
 
 $$\lambda_{\text{obs}} = \lambda_{\text{rest}} (1+z)$$
 
@@ -31,6 +31,10 @@ under standard $\Lambda$CDM structure formation with standard star formation eff
 JWST discovered a pervasive population of extremely compact, highly reddened objects at $z \sim 4 - 9$ termed "Little Red Dots":
 - optical rest-frame emission is steep and red (indicating heavy dust attenuation or old stars).
 - NIRSpec shows broad H$\alpha$ emission lines (FWHM $> 2000 - 4000\text{ km s}^{-1}$), indicating supermassive black holes accreting at or above the Eddington limit in low-mass hosts ($M_{\text{BH}} / M_\star \sim 1 - 10\%$ vs $0.1\%$ locally), challenging standard SMBH seed formation models.
+
+## where it goes wrong
+
+- early stellar masses are uncertain by up to an order of magnitude, because of the IMF and nebular emission.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

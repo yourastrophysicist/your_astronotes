@@ -43,14 +43,14 @@ def gauss_seidel(A, b, tol=1e-10, max_iter=10000):
     raise RuntimeError("Gauss-Seidel did not converge")
 ```
 
-note I do *not* need to make a copy of $x$ during the sweep — Gauss-Seidel naturally uses the in-place updated values. the copy is only for the convergence check.
+note I do *not* need to make a copy of $x$ during the sweep, Gauss-Seidel naturally uses the in-place updated values. the copy is only for the convergence check.
 
 ## convergence
 
 Gauss-Seidel converges if and only if the spectral radius of the iteration matrix $G = -(D + L)^{-1}U$ is less than 1 (where $A = D + L + U$ is the diagonal-plus-strictly-lower-plus-strictly-upper splitting). practical sufficient conditions:
 
-- **diagonally dominant** $A$: $\lvert A_{ii}\rvert > \sum_{j \neq i} \lvert A_{ij}\rvert$ for all $i$ — converges
-- **symmetric positive-definite** $A$ — converges
+- **diagonally dominant** $A$: $\lvert A_{ii}\rvert > \sum_{j \neq i} \lvert A_{ij}\rvert$ for all $i$, converges
+- **symmetric positive-definite** $A$ - converges
 - general $A$: may diverge
 
 if the matrix is not diagonally dominant or SPD, Gauss-Seidel can diverge spectacularly. always check convergence empirically.

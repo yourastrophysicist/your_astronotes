@@ -25,7 +25,7 @@ after dipole removal, $\Delta T/T \sim 10^{-5}$ on all scales. encoded in the **
 
 each feature constrains specific physics. see [[CMB power spectrum]].
 
-## physical origin: the seeds
+## physical origin - the seeds
 
 the anisotropies are imprints of **density perturbations at recombination**, magnified into temperature variations via:
 - **adiabatic perturbations**: density variations imprint temperature variations $\Delta T/T = (1/3)\Delta\rho/\rho$ at recombination.
@@ -58,6 +58,11 @@ the CMB is also polarised at the $\sim 10\%$ level of temperature anisotropies. 
 
 see [[Polarization E and B modes]].
 
+## where it goes wrong
+
+- the dipole is our motion, not cosmology. it is removed before any analysis.
+- the anisotropies are $10^{-5}$ in temperature, much smaller than the dipole at $10^{-3}$.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -72,7 +77,7 @@ see [[Polarization E and B modes]].
 
 ## see also
 
-- CMB — discovery and blackbody spectrum
+- CMB, discovery and blackbody spectrum
 - [[CMB power spectrum]]
 - [[Polarization E and B modes]]
 - [[Photon decoupling and CMB]]

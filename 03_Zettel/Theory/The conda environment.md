@@ -4,7 +4,7 @@ title: "The conda environment"
 ---
 # The conda environment
 
-conda is python's environment manager. it lets me have one isolated python installation per project, each with its own version of numpy, scipy, etc. the alternative is the chaos of "everything in the system python" — works for a week, breaks the moment two projects need different package versions.
+conda is python's environment manager. it lets me have one isolated python installation per project, each with its own version of numpy, scipy, etc. the alternative is the chaos of "everything in the system python", works for a week, breaks the moment two projects need different package versions.
 
 ## the problem it solves
 
@@ -17,7 +17,7 @@ without environments, installing the wrong version for one breaks the other two.
 
 ## installation
 
-I install **miniconda** (or miniforge), not full Anaconda. miniconda gives me the package manager only; I install what I need per environment.
+I install **miniconda** (or miniforge), not full Anaconda. miniconda gives me the package manager only. I install what I need per environment.
 
 ```bash
 # macOS (apple silicon, miniforge recommended)
@@ -87,9 +87,9 @@ now in jupyter lab, "Kernel → Change kernel" lets me pick which env runs the n
 
 ## the trap to avoid
 
-never `conda install` in `(base)`. base should stay minimal — only `conda` itself and a system python. mixing project packages into base poisons the well.
+never `conda install` in `(base)`. base should stay minimal, only `conda` itself and a system python. mixing project packages into base poisons the well.
 
-similarly: don't run `pip install` system-wide outside of an environment. on macOS this is more or less blocked by default; on Linux it can hose the system python.
+similarly: don't run `pip install` system-wide outside of an environment. on macOS this is more or less blocked by default. on Linux it can hose the system python.
 
 ## the modern alternatives
 

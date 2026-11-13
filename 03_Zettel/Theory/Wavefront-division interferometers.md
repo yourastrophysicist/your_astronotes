@@ -4,7 +4,7 @@ title: "Wavefront-division interferometers"
 ---
 # Wavefront-division interferometers
 
-a class of interferometers where the original wavefront is **spatially divided** — different *parts* of the same wavefront are sent along different optical paths, then recombined. all four classical examples — Young, Fresnel double mirror, Fresnel biprism, Lloyd mirror — produce two virtual coherent sources from a single primary source.
+a class of interferometers where the original wavefront is **spatially divided**, different *parts* of the same wavefront are sent along different optical paths, then recombined. all four classical examples, Young, Fresnel double mirror, Fresnel biprism, Lloyd mirror, produce two virtual coherent sources from a single primary source.
 
 contrast with [[Amplitude-division interferometers]], where the same wavefront is *partially reflected and transmitted*, creating two beams of reduced amplitude that travel different paths.
 
@@ -41,7 +41,7 @@ see [[Fresnel biprism]].
 
 the simplest of all. a single grazing-incidence mirror near a point source. light reflected off the mirror appears to come from a **mirror-image virtual source** below the mirror's plane. the original source and its mirror image act as two coherent sources.
 
-unique feature: the reflection introduces a $\pi$ phase shift (because reflection at a denser medium flips the phase). this means the *bright* and *dark* fringes are **swapped** compared to the geometric expectation. at zero OPD (the mirror's plane), there is a *dark* fringe rather than a bright one — a classic indicator of phase reflection.
+unique feature: the reflection introduces a $\pi$ phase shift (because reflection at a denser medium flips the phase). this means the *bright* and *dark* fringes are **swapped** compared to the geometric expectation. at zero OPD (the mirror's plane), there is a *dark* fringe rather than a bright one, a classic indicator of phase reflection.
 
 see [[Lloyd mirror]].
 
@@ -55,7 +55,7 @@ each device takes a single physical source and creates two coherent secondary so
 
 ### 2. coherence guaranteed
 
-because both secondary sources come from the *same* original light, they are automatically coherent — same wave, same phase relationship. *temporal* coherence depends on the source bandwidth, but *spatial* coherence between the two virtual sources is absolute.
+because both secondary sources come from the *same* original light, they are automatically coherent, same wave, same phase relationship. *temporal* coherence depends on the source bandwidth, but *spatial* coherence between the two virtual sources is absolute.
 
 ### 3. fringes are hyperboloids
 

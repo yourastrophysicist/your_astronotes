@@ -121,10 +121,10 @@ $$[\alpha/\text{Fe}] \approx 0.32 \log_{10}(0.7) + 0.18 \approx 0.32(-0.155) + 0
 ### Physical Meaning. The Phenomenon of Downsizing
 
 This correlation establishes the astrophysical concept of downsizing, first highlighted by Cowie et al. (1996) and confirmed in fossil stellar populations by Thomas et al. (2005) and Nelan et al. (2005)
-- Massive elliptical galaxies ($\sigma \ge 250 \text{ km s}^{-1}$, stellar masses $M_* \gtrsim 10^{11} M_\odot$) formed their stars in an intense, rapid starburst lasting $\Delta t_{\text{SF}} < 0.5 - 0.8 \text{ Gyr}$ at high redshift ($z \gtrsim 2 - 3$). Star formation was terminated abruptly, likely by energetic feedback from supermassive black holes (AGN feedback) or powerful galactic winds, before Type Ia supernovae could pollute the ISM.
+- Massive elliptical galaxies ($\sigma \ge 250 \text{ km s}^{-1}$, stellar masses $M_* \gtrsim 10^{11} M_\odot$) formed their stars in an intense, rapid starburst lasting $\Delta t_{\text{SF}} < 0.5 - 0.8 \text{ Gyr}$ at high redshift ($z \gtrsim 2 - 3$). Star formation was terminated abruptly, likely by energetic feedback from supermassive black holes (AGN feedback) or useful galactic winds, before Type Ia supernovae could pollute the ISM.
 - Lower-mass galaxies formed their stars over extended periods ($\Delta t_{\text{SF}} \sim 2 - 5 \text{ Gyr}$), allowing continuous Type Ia iron enrichment to dilute the initial alpha-element enhancement down toward the solar ratio.
 
-This result stands as a crucial test for galaxy formation models. In naive hierarchical clustering without feedback, small objects form first and large objects form last. The chemical clock demonstrates that while dark matter halos assemble hierarchically, the star formation in massive spheroids occurred earlier and faster than in small galaxies.
+This result stands as a key test for galaxy formation models. In naive hierarchical clustering without feedback, small objects form first and large objects form last. The chemical clock demonstrates that while dark matter halos assemble hierarchically, the star formation in massive spheroids occurred earlier and faster than in small galaxies.
 
 ## 5. Blackboard Observational Graphs and Sketches
 
@@ -173,10 +173,10 @@ Physical annotations for oral exam presentation
        (40)   (63)  (100)  (158)  (250)  (316)  (400)   [sigma in km/s]
 ```
 
-Key quantitative takeaways for the blackboard
+Key quantitative points for the blackboard
 - Slope - $d[\alpha/\text{Fe}] / d\log_{10}\sigma \approx 0.32$.
 - Zero-point - At $\sigma = 100 \text{ km s}^{-1}$, $[\alpha/\text{Fe}] \approx +0.18$.
-- Physical interpretation - Dynamic mass regulates star formation efficiency and duration. Higher gravitational potential wells enable intense initial gas collapse and trigger powerful AGN feedback that rapidly extinguishes star formation.
+- Physical interpretation - Dynamic mass regulates star formation efficiency and duration. Higher gravitational potential wells enable intense initial gas collapse and trigger useful AGN feedback that rapidly extinguishes star formation.
 
 ## 6. Exact Course Citations and Literature Provenance
 

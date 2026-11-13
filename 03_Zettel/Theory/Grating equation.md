@@ -44,7 +44,7 @@ solutions:
 the wavelength range in a single order before it overlaps with the next:
 $$\Delta\lambda_{FSR} = \lambda/m$$
 
-at high $m$ (echelle), the FSR is small and orders pile up densely; needs a cross-disperser. at $m = 1$, FSR $= \lambda$, simpler instrument.
+at high $m$ (echelle), the FSR is small and orders pile up densely. needs a cross-disperser. at $m = 1$, FSR $= \lambda$, simpler instrument.
 
 ## blaze
 

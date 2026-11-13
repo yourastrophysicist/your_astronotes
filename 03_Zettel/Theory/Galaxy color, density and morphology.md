@@ -20,7 +20,7 @@ The observational couplings establish two major rules
 
 ## 2. The Dressler (1980, 1997) Morphology-Density Relation
 
-The cornerstone observational demonstration of environmental dependence is the morphology-density relation discovered by Alan Dressler (1980).
+The main observational demonstration of environmental dependence is the morphology-density relation discovered by Alan Dressler (1980).
 
 ### Definition of Projected Local Galaxy Density
 
@@ -174,7 +174,7 @@ Blackboard presentation notes
      0.0             0.5             1.0             1.5             2.0  R / R_200
 ```
 
-Key quantitative takeaways for the blackboard
+Key quantitative points for the blackboard
 - Inside $R / R_{200} \le 0.5$ - Virialized trumpet, ancient residents, 100% processed.
 - At $R / R_{200} \approx 1 - 2$, high $|\Delta v| / \sigma$ - Infalling field galaxies entering the ICM shock front.
 - At $R / R_{200} \approx 1 - 1.5$, low $|\Delta v| / \sigma$ - Backsplash galaxies, quenched in the core and flung outward.
@@ -210,6 +210,10 @@ Key quantitative takeaways for the blackboard
     - gal_morph-40.png to gal_morph-47.png - Lecture slides on environmental effects.
 
 ---
+
+## where it goes wrong
+
+- morphology and colour correlate with density, but at fixed stellar mass most of the trend is in colour, not shape.
 
 ## Connections
 

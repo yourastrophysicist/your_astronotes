@@ -12,12 +12,12 @@ at any wavelength, the line opacity of a transition $i \to j$ is
 $$\kappa_\ell \propto N_i\,f_{ij},$$
 where $f_{ij}$ is the oscillator strength. the population $N_i$ depends on the **abundance** $A$ (the total number density of the element relative to hydrogen), the [[Saha ionisation equation]] balance between ionisation stages, and the Boltzmann distribution within a stage. once these are known, the line opacity gives a synthetic line profile (or [[Equivalent width]]) for each candidate abundance, and one picks the abundance that matches the observation.
 
-## method 1: equivalent widths
+## method 1 - equivalent widths
 
 for unblended lines, measure $W_\lambda$ from the spectrum. interpret it via the [[Curve of growth]] for that line, given $T_{\rm eff}$, $\log g$, $\xi_t$:
 
 - weak lines: $W \propto A$ (linear regime, cleanest abundance probe).
-- saturated lines: $W \propto \sqrt{\log A}$ (avoid; very weak abundance dependence).
+- saturated lines: $W \propto \sqrt{\log A}$ (avoid, very weak abundance dependence).
 - damped lines: $W \propto \sqrt{A}$ (sensitive to $\log g$ and damping, useful for Na, Ca, Mg D-lines).
 
 best practice: use only **weak, unsaturated lines** in the linear regime, and average the abundance from many lines of the same species. Fe is the standard because of the dense Fe I and Fe II line forest.
@@ -25,7 +25,7 @@ best practice: use only **weak, unsaturated lines** in the linear regime, and av
 abundance is then expressed on the "[X/H]" or "12-scale":
 $$\log\varepsilon(X) = \log_{10}(N_X/N_H) + 12,\qquad [\text{X/H}] = \log\varepsilon_*(X) - \log\varepsilon_\odot(X).$$
 
-## method 2: spectral synthesis
+## method 2 - spectral synthesis
 
 fit a synthetic spectrum to the observed one, varying [X/H] for each line or species. essential when:
 
@@ -46,7 +46,7 @@ because [Fe/H] couples to both $T_{\rm eff}$ (excitation balance) and $\log g$ (
 5. demand [Fe I/H] = [Fe II/H] (sets $\log g$, see [[Spectroscopic determination of log g]]).
 6. iterate until self-consistent.
 
-## high-precision relative abundances: solar twins and planet formation
+## high-precision relative abundances - solar twins and planet formation
 
 when comparing stars with very similar atmospheric parameters (e.g. solar twins, which have $T_{\rm eff}$, $\log g$, and $[{\rm Fe/H}]$ nearly identical to the Sun), systematic errors from model atmospheres, transition probabilities, and non-LTE effects cancel out. relative precision in spectroscopic abundances can reach **better than 0.01 dex** (Melendez et al. 2009).
 
@@ -61,7 +61,7 @@ similar high-precision differential spectroscopy is critical for:
 
 ## non-LTE and 3D corrections
 
-[[Local thermodynamic equilibrium LTE]] is an approximation. for metal-poor giants, Fe I lines suffer from over-ionisation and yield abundances $\sim 0.1\text{-}0.3$ dex too low; Fe II is more robust. 3D hydrodynamic atmospheres modify the inferred [Fe/H] of the sun by $\sim 0.05$ dex (the Asplund 2009 revision). for high-precision work these corrections are now standard.
+[[Local thermodynamic equilibrium LTE]] is an approximation. for metal-poor giants, Fe I lines suffer from over-ionisation and yield abundances $\sim 0.1\text{-}0.3$ dex too low. Fe II is more robust. 3D hydrodynamic atmospheres modify the inferred [Fe/H] of the sun by $\sim 0.05$ dex (the Asplund 2009 revision). for high-precision work these corrections are now standard.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -24,7 +24,7 @@ a few subtleties:
 
 - differential reddening: across the face of a cluster, $E(B-V)$ can vary spatially, smearing the CMD perpendicular to the reddening vector. correcting this star-by-star (using nearby reference stars or extinction maps) sharpens the CMD and recovers narrow sub-giant branches.
 - the reddening vector direction depends on the photometric system. in $(V, B-V)$ the slope is $R_V \approx 3.1$, but in $(V, V-I)$ the slope changes because $A_V/E(V-I) \approx 2.45$ for the same dust law.
-- reddening is not the same as extinction alone. extinction is the total flux loss; reddening is the differential effect across wavelengths. you can have heavy extinction with little reddening if the dust law is grey, but in the standard ISM both go together.
+- reddening is not the same as extinction alone. extinction is the total flux loss. reddening is the differential effect across wavelengths. you can have heavy extinction with little reddening if the dust law is grey, but in the standard ISM both go together.
 
 reddening is a key systematic in distance and age determinations. the [[Distance modulus]] becomes the apparent distance modulus $(m-M)_V = (m-M)_0 + A_V$, and getting $A_V$ wrong propagates directly into the inferred distance and any age inferred from main-sequence-turnoff fitting (see [[Single stellar population SSP]]). for galactic globular clusters in the bulge, where reddening can be $E(B-V) \gtrsim 1$ and highly variable, this is one of the dominant error sources.
 
@@ -32,107 +32,107 @@ see also [[Interstellar absorption]], [[Extinction law and Rv]], [[HR diagram]],
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 04 — Interstellar Reddening & Galactic Assembly)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 04 - Interstellar Reddening & Galactic Assembly)
 
 > **Context**: *Extinction laws, Cardelli Rv=3.1, reddening vectors in CMDs, Dotter et al. (2011) age-metallicity relation, and accreted dwarf galaxies (Gaia-Enceladus, Sagittarius).*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![L04I_p05_reddening-05.png](../../assets/images/L04I_p05_reddening-05.png)
-*Figure P04-01: L04I_p05_reddening-05.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-01: L04I_p05_reddening-05.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_01.png](../../assets/images/LAntonino_p04_01.png)
-*Figure P04-02: LAntonino_p04_01.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-02: LAntonino_p04_01.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_02.png](../../assets/images/LAntonino_p04_02.png)
-*Figure P04-03: LAntonino_p04_02.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-03: LAntonino_p04_02.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_03.png](../../assets/images/LAntonino_p04_03.png)
-*Figure P04-04: LAntonino_p04_03.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-04: LAntonino_p04_03.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_04.png](../../assets/images/LAntonino_p04_04.png)
-*Figure P04-05: LAntonino_p04_04.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-05: LAntonino_p04_04.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_05.png](../../assets/images/LAntonino_p04_05.png)
-*Figure P04-06: LAntonino_p04_05.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-06: LAntonino_p04_05.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_06.png](../../assets/images/LAntonino_p04_06.png)
-*Figure P04-07: LAntonino_p04_06.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-07: LAntonino_p04_06.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_07.png](../../assets/images/LAntonino_p04_07.png)
-*Figure P04-08: LAntonino_p04_07.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-08: LAntonino_p04_07.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_08.png](../../assets/images/LAntonino_p04_08.png)
-*Figure P04-09: LAntonino_p04_08.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-09: LAntonino_p04_08.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_09.png](../../assets/images/LAntonino_p04_09.png)
-*Figure P04-10: LAntonino_p04_09.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-10: LAntonino_p04_09.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_10.png](../../assets/images/LAntonino_p04_10.png)
-*Figure P04-11: LAntonino_p04_10.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-11: LAntonino_p04_10.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_11.png](../../assets/images/LAntonino_p04_11.png)
-*Figure P04-12: LAntonino_p04_11.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-12: LAntonino_p04_11.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_12.png](../../assets/images/LAntonino_p04_12.png)
-*Figure P04-13: LAntonino_p04_12.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-13: LAntonino_p04_12.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_13.png](../../assets/images/LAntonino_p04_13.png)
-*Figure P04-14: LAntonino_p04_13.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-14: LAntonino_p04_13.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_14.png](../../assets/images/LAntonino_p04_14.png)
-*Figure P04-15: LAntonino_p04_14.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-15: LAntonino_p04_14.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_15.png](../../assets/images/LAntonino_p04_15.png)
-*Figure P04-16: LAntonino_p04_15.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-16: LAntonino_p04_15.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_16.png](../../assets/images/LAntonino_p04_16.png)
-*Figure P04-17: LAntonino_p04_16.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-17: LAntonino_p04_16.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_17.png](../../assets/images/LAntonino_p04_17.png)
-*Figure P04-18: LAntonino_p04_17.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-18: LAntonino_p04_17.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_18.png](../../assets/images/LAntonino_p04_18.png)
-*Figure P04-19: LAntonino_p04_18.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-19: LAntonino_p04_18.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_19.png](../../assets/images/LAntonino_p04_19.png)
-*Figure P04-20: LAntonino_p04_19.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-20: LAntonino_p04_19.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_20.png](../../assets/images/LAntonino_p04_20.png)
-*Figure P04-21: LAntonino_p04_20.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-21: LAntonino_p04_20.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_21.png](../../assets/images/LAntonino_p04_21.png)
-*Figure P04-22: LAntonino_p04_21.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-22: LAntonino_p04_21.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_22.png](../../assets/images/LAntonino_p04_22.png)
-*Figure P04-23: LAntonino_p04_22.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-23: LAntonino_p04_22.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_23.png](../../assets/images/LAntonino_p04_23.png)
-*Figure P04-24: LAntonino_p04_23.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-24: LAntonino_p04_23.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_24.png](../../assets/images/LAntonino_p04_24.png)
-*Figure P04-25: LAntonino_p04_24.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-25: LAntonino_p04_24.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![LAntonino_p04_25.png](../../assets/images/LAntonino_p04_25.png)
-*Figure P04-26: LAntonino_p04_25.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-26: LAntonino_p04_25.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![Lecture04pII_p15-15.png](../../assets/images/Lecture04pII_p15-15.png)
-*Figure P04-27: Lecture04pII_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-27: Lecture04pII_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![Lecture04pII_p25-25.png](../../assets/images/Lecture04pII_p25-25.png)
-*Figure P04-28: Lecture04pII_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-28: Lecture04pII_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![Lecture04pII_p35-35.png](../../assets/images/Lecture04pII_p35-35.png)
-*Figure P04-29: Lecture04pII_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-29: Lecture04pII_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![Lecture04pII_p5-05.png](../../assets/images/Lecture04pII_p5-05.png)
-*Figure P04-30: Lecture04pII_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-30: Lecture04pII_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![Lecture04pI_p15-15.png](../../assets/images/Lecture04pI_p15-15.png)
-*Figure P04-31: Lecture04pI_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-31: Lecture04pI_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 ![Lecture04pI_p5-05.png](../../assets/images/Lecture04pI_p5-05.png)
-*Figure P04-32: Lecture04pI_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 04 — Interstellar Reddening & Galactic Assembly.*
+*Figure P04-32: Lecture04pI_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 04 - Interstellar Reddening & Galactic Assembly.*
 
 
 
@@ -155,7 +155,7 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 - [[Effects of differential reddening on CMD analysis]]
 - [[Extinction law and Rv]]
 - Trumpler discovery of interstellar extinction
-- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- Astrophysics_of_the_Interstellar_Medium_MOC
 - [[Stellar_Astrophysics_MOC]]
 
 

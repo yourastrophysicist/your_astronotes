@@ -35,7 +35,7 @@ The Local Group serves as our primary observational anchor for galactic astrophy
 
 ## 2. The Kahn-Woltjer (1959) Timing Argument - Complete Mathematical Derivation
 
-The Kahn-Woltjer timing argument remains one of the most elegant analytical derivations in physical cosmology.
+The Kahn-Woltjer timing argument remains one of the most analytical derivations in physical cosmology.
 
 ### Physical Model Assumptions
 1. The Milky Way and Andromeda were created at the Big Bang ($t = 0$) at zero physical separation ($r = 0$).
@@ -91,7 +91,7 @@ $$v(\eta) = \frac{dr/d\eta}{dt/d\eta} = \frac{a \sin\eta}{\sqrt{\frac{a^3}{G M_{
 ### The Dimensionless Timing Equation
 Combining the expressions for separation $r(\eta)$, velocity $v(\eta)$, and cosmic time $t(\eta)$
 $$\frac{v t}{r} = \frac{\left[\sqrt{\frac{G M_{\rm tot}}{a}} \frac{\sin\eta}{1 - \cos\eta}\right] \times \left[\sqrt{\frac{a^3}{G M_{\rm tot}}} (\eta - \sin\eta)\right]}{a (1 - \cos\eta)} = \frac{\sin\eta (\eta - \sin\eta)}{(1 - \cos\eta)^2}$$
-Notice that this remarkable dimensionless ratio depends purely on the development angle $\eta$, independent of $a$, $G$, or $M_{\rm tot}$!
+Notice that this dimensionless ratio depends purely on the development angle $\eta$, independent of $a$, $G$, or $M_{\rm tot}$!
 
 ### Observational Input Parameters
 From modern space astrometry and radial velocity spectroscopy (van der Marel et al. 2012, 2019)

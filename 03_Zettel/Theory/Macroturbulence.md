@@ -6,9 +6,9 @@ title: "Macroturbulence"
 
 ## difference from microturbulence
 
-[[Microturbulence]] acts on scales **smaller** than the line-forming layer; it enters the line-forming process and adds to the Doppler width as if it were extra thermal speed.
+[[Microturbulence]] acts on scales **smaller** than the line-forming layer. it enters the line-forming process and adds to the Doppler width as if it were extra thermal speed.
 
-macroturbulence acts on scales **larger** than the line-forming layer; different patches of the surface have different bulk velocities, but each patch's local line is essentially the same Voigt profile. summing across patches just **convolves** the disk-integrated line with a velocity distribution.
+macroturbulence acts on scales **larger** than the line-forming layer. different patches of the surface have different bulk velocities, but each patch's local line is essentially the same Voigt profile. summing across patches just **convolves** the disk-integrated line with a velocity distribution.
 
 ## the convolution
 

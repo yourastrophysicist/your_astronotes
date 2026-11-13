@@ -13,7 +13,7 @@ three conclusions packaged:
 - **staticness**: there's a Killing vector $\partial_t$, even though we didn't assume one.
 - **uniqueness**: only one mass parameter $M$.
 
-## the consequence: no spherical GW
+## the consequence - no spherical GW
 
 a pulsating, oscillating, or even exploding **spherically symmetric** mass distribution produces **no gravitational radiation outside itself**. its exterior remains Schwarzschild at all times.
 
@@ -39,7 +39,7 @@ $$ds^2 = -A(t, r)\,dt^2 + B(t, r)\,dr^2 + r^2 d\Omega^2$$
 
 vacuum: $R_{\mu\nu} = 0$.
 
-compute $R_{\mu\nu}$ explicitly in this ansatz. several components vanish; the remaining ones force:
+compute $R_{\mu\nu}$ explicitly in this ansatz. several components vanish. the remaining ones force:
 - $A(t, r) = f(t)\,(1 - 2GM/r)$
 - $B(t, r) = (1 - 2GM/r)^{-1}$
 - $f(t)$ can be absorbed by redefining $t$.

@@ -16,14 +16,14 @@ at $t_n$ I know $\mathbf{y}_n$. the slope of $\mathbf{y}$ at that moment is $\ma
 
 ## why it is taught first
 
-it is the *definition* of an ODE turned into a one-line algorithm. every higher-order method (RK2, RK4, leapfrog) is some refinement of Euler — averaging slopes across the step, or staggering positions and velocities, or using past slope information. understanding why Euler is bad is the gateway to understanding why those refinements help.
+it is the *definition* of an ODE turned into a one-line algorithm. every higher-order method (RK2, RK4, leapfrog) is some refinement of Euler, averaging slopes across the step, or staggering positions and velocities, or using past slope information. understanding why Euler is bad is the gateway to understanding why those refinements help.
 
 ## why it is bad
 
 three problems:
 
 1. **first-order accuracy**: error per step is $O(h^2)$, global error is $O(h)$. halving $h$ halves the error. compare RK4: halving $h$ cuts error by 16
-2. **secular energy drift**: for Hamiltonian systems (orbits, oscillators), Euler systematically gains energy each step. an orbit spirals outward over time. this is *not* a roundoff issue; it is a structural property of the algorithm
+2. **secular energy drift**: for Hamiltonian systems (orbits, oscillators), Euler systematically gains energy each step. an orbit spirals outward over time. this is *not* a roundoff issue. it is a structural property of the algorithm
 3. **stability**: for stiff systems, Euler requires very small timesteps to avoid blowup. the stability region of explicit Euler is the disk $\lvert 1 + h\lambda\rvert \leq 1$ in the complex plane, which is small
 
 ## python implementation
@@ -40,7 +40,7 @@ def euler(f, y0, t0, t_end, h):
     return t, y
 ```
 
-## demonstration: harmonic oscillator with Euler
+## demonstration - harmonic oscillator with Euler
 
 $\ddot x + x = 0$ as a 2D system $(x, v)$ with $\dot x = v$, $\dot v = -x$. Euler:
 $x_{n+1} = x_n + h v_n$
@@ -55,8 +55,8 @@ so each step gains energy by a fractional factor $h^2$. after $N$ steps, $E_N = 
 ## when Euler is acceptable
 
 - **dissipative systems** with no conserved quantity (e.g. exponential decay $\dot y = -\lambda y$)
-- **first-time exploratory** integration — get something running, switch to a better method later
-- **didactic demonstrations** of error growth — the standard way to motivate RK and leapfrog
+- **first-time exploratory** integration - get something running, switch to a better method later
+- **didactic demonstrations** of error growth - the standard way to motivate RK and leapfrog
 - **simple numerical examples** in coursework
 
 ## the implicit Euler variant
@@ -70,7 +70,7 @@ for Hamiltonian systems with separable Hamiltonian $H = T(\mathbf{p}) + V(\mathb
 $$\mathbf{p}_{n+1} = \mathbf{p}_n - h\nabla V(\mathbf{q}_n)$$
 $$\mathbf{q}_{n+1} = \mathbf{q}_n + h\nabla T(\mathbf{p}_{n+1})$$
 
-note the order: $\mathbf{p}$ first (using current $\mathbf{q}$), then $\mathbf{q}$ (using *new* $\mathbf{p}$). this is symplectic — it conserves a slightly modified Hamiltonian and so the energy oscillates around the true value rather than drifting. for the harmonic oscillator, energy stays bounded.
+note the order: $\mathbf{p}$ first (using current $\mathbf{q}$), then $\mathbf{q}$ (using *new* $\mathbf{p}$). this is symplectic. it conserves a slightly modified Hamiltonian and so the energy oscillates around the true value rather than drifting. for the harmonic oscillator, energy stays bounded.
 
 semi-implicit Euler is the simplest symplectic integrator, and the conceptual ancestor of [[Leapfrog integrator]].
 
@@ -87,9 +87,9 @@ semi-implicit Euler is the simplest symplectic integrator, and the conceptual an
 
 ## see also
 
-- [[Runge-Kutta 2 midpoint method]] — $O(h^2)$ at twice the cost
-- [[Runge-Kutta 4 method]] — $O(h^4)$ at four times the cost, the workhorse
-- [[Leapfrog integrator]] — second-order, symplectic, no energy drift
+- [[Runge-Kutta 2 midpoint method]] - $O(h^2)$ at twice the cost
+- [[Runge-Kutta 4 method]] - $O(h^4)$ at four times the cost, the workhorse
+- [[Leapfrog integrator]] - second-order, symplectic, no energy drift
 - [[Energy conservation as a diagnostic]]
 - [[Mathematical_Numerical_Methods_MOC]]
 

@@ -18,7 +18,7 @@ so $K$ is just the single Riemann component in 2D.
 
 ## the **Theorema Egregium** (Gauss 1828)
 
-Gauss's "remarkable theorem": the Gaussian curvature of a 2D surface depends **only on the intrinsic metric**, not on how the surface is embedded in higher dimensions.
+Gauss's "theorem": the Gaussian curvature of a 2D surface depends **only on the intrinsic metric**, not on how the surface is embedded in higher dimensions.
 
 practical consequence: a flat sheet of paper has $K = 0$. you can roll it into a cylinder ($K = 0$ still!) without distorting distances. but you **cannot** map a sphere to a plane without distortion: any flat map of the Earth distorts something.
 
@@ -26,7 +26,7 @@ practical consequence: a flat sheet of paper has $K = 0$. you can roll it into a
 
 at a point $p$, choose two linearly independent tangent vectors $u, v$. the **sectional curvature** of the 2-plane $\{u, v\}$ is:
 $$K(u, v) = \frac{R(u, v, v, u)}{g(u, u)g(v, v) - g(u, v)^2}$$
-(numerator is Riemann with all indices lowered, evaluated on $u, v$; denominator is the area squared of the parallelogram spanned by $u, v$).
+(numerator is Riemann with all indices lowered, evaluated on $u, v$, denominator is the area squared of the parallelogram spanned by $u, v$).
 
 so sectional curvature is a function on the 2-Grassmannian of tangent planes at $p$. one number per plane.
 

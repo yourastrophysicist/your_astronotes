@@ -2,7 +2,7 @@
 layout: "default"
 title: "Stellar_Astrophysics_MOC"
 ---
-# Stellar Astrophysics — Map of Content
+# Stellar Astrophysics - Map of Content
 
 A.Y. 2025/2026, second semester at U Padova. course taught by **Antonino Milone** (GALFOR group, ERC starting grant). lecture material at `~/Documents/2/Stellar Astrophysics/`. course page: <http://progetti.dfa.unipd.it/GALFOR/teaching.html>.
 
@@ -21,21 +21,21 @@ every one of the 19 lectures handles a piece of this chain. Milone's research on
 - **Salaris & Cassisi**, *Evolution of Stars and Stellar Populations* (Wiley 2005). the standard text for stellar populations + CMDs.
 - **Carroll & Ostlie**, *An Introduction to Modern Astrophysics* (background stellar physics).
 - **Gray**, *The Observation and Analysis of Stellar Photospheres* (3rd ed.) for stellar spectroscopy.
-- **Renzini & Buzzoni** 1986 (foundational SSP review). 
+- **Renzini & Buzzoni** 1986 (SSP review). 
 - Milone's own papers (heavily cited): Milone et al. 2017 (HST UV Legacy Survey of GCs), Milone et al. 2025 (modern CMD reference), Marino, Milone et al. 2019 (chromosome maps), Milone et al. 2018 (split upper MS in NGC 1755 + NGC 1850), Milone et al. 2012 (DR maps + binary fractions).
 
-**research index**: [[Stellar Astrophysics research citations index]] — full list of papers, surveys, projects cited across the 19 lectures, organised by block + topic.
+**research index**: [[Stellar Astrophysics research citations index]] - full list of papers, surveys, projects cited across the 19 lectures, organised by block + topic.
 
 **figures**: representative figures from every lecture are extracted in `07_Images/Stellar_Astrophysics/`. naming convention: `L<lecture>_p<page>_<topic>.png`. they are referenced in individual zettels as ``L<XX>_p<YY>_<topic>.png``.
 
 ## prerequisites + connections
 
-- [[Fundamentals_Astrophysics_Cosmology_MOC]] — first-semester foundation. introduced stellar structure equations + nuclear burning + early CMDs.
-- [[Observational_Astrophysics_MOC]] — methodological foundation. Covers the detector, photometry, atmospheric, and population synthesis framework for interpreting unresolved light when individual stars cannot be resolved.
-- [[Astrophysics_of_Galaxies_MOC]] — parallel course on galaxies. Block 11 (early-type galaxy stellar populations) + Block 8 (Local Group) overlap directly.
-- [[Observational_Cosmology_MOC]] — cosmic SFR + reionisation overlap with the **first stars** topic.
-- [[Astronomical_Spectroscopy_MOC]] — fluency in spectroscopy is assumed.
-- [[Mathematical_Numerical_Methods_MOC]] — isochrone fitting + IMF inversion are numerical problems.
+- [[Fundamentals_Astrophysics_Cosmology_MOC]] - first-semester foundation. introduced stellar structure equations + nuclear burning + early CMDs.
+- [[Observational_Astrophysics_MOC]] - methodological foundation. Covers the detector, photometry, atmospheric, and population synthesis framework for interpreting unresolved light when individual stars cannot be resolved.
+- [[Astrophysics_of_Galaxies_MOC]] - parallel course on galaxies. Block 11 (early-type galaxy stellar populations) + Block 8 (Local Group) overlap directly.
+- [[Observational_Cosmology_MOC]] - cosmic SFR + reionisation overlap with the **first stars** topic.
+- [[Astronomical_Spectroscopy_MOC]] - fluency in spectroscopy is assumed.
+- [[Mathematical_Numerical_Methods_MOC]] - isochrone fitting + IMF inversion are numerical problems.
 
 ## the 19 lectures
 
@@ -63,177 +63,177 @@ every one of the 19 lectures handles a piece of this chain. Milone's research on
 | 18 | The extended main sequence phenomenon | 12 |
 | 19 | The Bulge (carryover from AY 24/25 syllabus) | 13 |
 
-## Block 0 — course frame + foundational definitions
+## Block 0 - course frame + definitions
 
 before any CMD physics, the **objects** of the course: what is a stellar population, what kinds of clusters exist, what are Population I/II.
 
-- [[Resolved vs unresolved stellar populations]] — the fundamental observational distinction; a resolved system gives individual-star measurements (luminosity, position, $v_r$, abundances), unresolved gives only integrated light.
-- [[Single stellar population SSP]] — an assembly of coeval, initially chemically homogeneous stars. four parameters: age, $Y$, $Z$, IMF. (exists in vault)
-- [[Star cluster types]] — open vs globular, with their typical $N$, age, mass, kinematics, role as SSP laboratories.
-- [[Globular clusters as SSP laboratories]] — old $\sim 12$ Gyr, $\sim 10^4 - 10^6 M_\odot$, tightly bound, historically the gold standard for SSPs.
-- [[Open clusters as young SSP laboratories]] — $10^2 - 10^3$ stars, weakly bound, dissolve in $\sim 100$ Myr to Gyr.
-- [[Population I and II stars]] — Baade 1944. metal-rich (disk + open clusters) vs metal-poor (halo + GCs).
-- [[Extragalactic star clusters]] — Andromeda, M87, Sparkler galaxy via JWST. clusters as cosmological probes.
+- [[Resolved vs unresolved stellar populations]] - the fundamental observational distinction, a resolved system gives individual-star measurements (luminosity, position, $v_r$, abundances), unresolved gives only integrated light.
+- [[Single stellar population SSP]] - an assembly of coeval, initially chemically homogeneous stars. four parameters: age, $Y$, $Z$, IMF. (exists in vault)
+- [[Star cluster types]] - open vs globular, with their typical $N$, age, mass, kinematics, role as SSP laboratories.
+- [[Globular clusters as SSP laboratories]] - old $\sim 12$ Gyr, $\sim 10^4 - 10^6 M_\odot$, tightly bound, historically the standard for SSPs.
+- [[Open clusters as young SSP laboratories]] - $10^2 - 10^3$ stars, weakly bound, dissolve in $\sim 100$ Myr to Gyr.
+- [[Population I and II stars]] - Baade 1944. metal-rich (disk + open clusters) vs metal-poor (halo + GCs).
+- [[Extragalactic star clusters]] - Andromeda, M87, Sparkler galaxy via JWST. clusters as cosmological probes.
 
-## Block 1 — reading the CMD
+## Block 1 - reading the CMD
 
 the **central methodological block**: Milone's expertise. a CMD is a scatter plot of magnitude vs color for stars in a single cluster, and its morphology encodes age + metallicity + distance + reddening + multiplicity + binarity.
 
-- [[HR diagram]] — the theoretical $L$-$T_{\rm eff}$ plane; CMD is its observational analog. (exists)
-- [[Color-magnitude diagrams of clusters]] — observational $M_V$ vs $B-V$ (or HST/JWST filters). (exists)
-- [[Stellar evolutionary phases on the CMD]] — MS, TO, SGB, RGB, HB, AGB, WDCS; what each phase corresponds to in stellar interior physics.
-- [[Main sequence on the CMD]] — core hydrogen burning. mass-luminosity, mass-radius, lifetime $\tau \propto M^{-2.5}$.
-- [[Main sequence turn-off as age indicator]] — TO point shifts to lower $L$ + cooler $T_{\rm eff}$ as a population ages. main age clock.
-- [[Subgiant branch SGB]] — H exhausted in core; H shell-burning starts; $L$ ~ constant, $T_{\rm eff}$ drops.
-- [[Red giant branch RGB]] — H shell-burning; degenerate He core; star expands + cools + brightens. RGB tip = $L \sim 2300 L_\odot$ for low-mass stars.
-- [[Helium flash and horizontal branch]] — He ignition in degenerate core for $M \lesssim 2 M_\odot$; settles on HB at $T_{\rm eff} \sim 5000$ to $30000$ K depending on envelope mass.
-- [[Asymptotic giant branch AGB]] — double-shell burning, thermal pulses, third dredge-up, mass loss.
-- [[White dwarf cooling sequence on the CMD]] — final state for $M < 8 M_\odot$. cools predictably; CMD turn to blue at faint end due to H$_2$ collision-induced absorption.
-- [[Isochrones and isochrone fitting]] — locus in CMD of stars of common age + metallicity but different masses. age + [Fe/H] + distance + reddening fit simultaneously.
-- Distance modulus from CMD — fitting the MS or TRGB or RR Lyrae sets distance.
-- Cluster age from main sequence turn-off — $\tau \sim 10$ Gyr for $M_{\rm TO} \sim 0.85 M_\odot$. uses isochrones from Padova (PARSEC) or DSEP.
-- [[Age-metallicity degeneracy]] — older + more metal-rich and younger + more metal-poor produce similar TO colors. (exists)
+- [[HR diagram]] - the theoretical $L$-$T_{\rm eff}$ plane, CMD is its observational analog. (exists)
+- [[Color-magnitude diagrams of clusters]] - observational $M_V$ vs $B-V$ (or HST/JWST filters). (exists)
+- [[Stellar evolutionary phases on the CMD]] - MS, TO, SGB, RGB, HB, AGB, WDCS, what each phase corresponds to in stellar interior physics.
+- [[Main sequence on the CMD]] - core hydrogen burning. mass-luminosity, mass-radius, lifetime $\tau \propto M^{-2.5}$.
+- [[Main sequence turn-off as age indicator]] - TO point shifts to lower $L$ + cooler $T_{\rm eff}$ as a population ages. main age clock.
+- [[Subgiant branch SGB]] - H exhausted in core, H shell-burning starts, $L$ ~ constant, $T_{\rm eff}$ drops.
+- [[Red giant branch RGB]] - H shell-burning, degenerate He core, star expands + cools + brightens. RGB tip = $L \sim 2300 L_\odot$ for low-mass stars.
+- [[Helium flash and horizontal branch]] - He ignition in degenerate core for $M \lesssim 2 M_\odot$, settles on HB at $T_{\rm eff} \sim 5000$ to $30000$ K depending on envelope mass.
+- [[Asymptotic giant branch AGB]] - double-shell burning, thermal pulses, third dredge-up, mass loss.
+- [[White dwarf cooling sequence on the CMD]] - final state for $M < 8 M_\odot$. cools predictably, CMD turn to blue at faint end due to H$_2$ collision-induced absorption.
+- [[Isochrones and isochrone fitting]] - locus in CMD of stars of common age + metallicity but different masses. age + [Fe/H] + distance + reddening fit simultaneously.
+- Distance modulus from CMD - fitting the MS or TRGB or RR Lyrae sets distance.
+- Cluster age from main sequence turn-off - $\tau \sim 10$ Gyr for $M_{\rm TO} \sim 0.85 M_\odot$. uses isochrones from Padova (PARSEC) or DSEP.
+- [[Age-metallicity degeneracy]] - older + more metal-rich and younger + more metal-poor produce similar TO colors. (exists)
 
-## Block 2 — interstellar reddening
+## Block 2 - interstellar reddening
 
 dust between us + the cluster reddens + dims observed colors. key correction for CMDs.
 
-- [[Interstellar absorption]] — $A_\lambda$, optical depth, total extinction. (exists)
-- [[Interstellar reddening and the reddening vector]] — $E(B-V) = A_B - A_V$. on a CMD, reddening shifts stars along a vector $\propto (R_V, 1)$.
-- [[Extinction law and Rv]] — $R_V = A_V/E(B-V) = 3.1$ in diffuse ISM, varies in dense regions. Cardelli, Clayton, Mathis 1989.
-- Differential reddening across a cluster field — covered by Lecture 10. patchy dust in front of cluster $\to$ artificial broadening of CMD sequences.
-- [[Reddening correction methods]] — fiducial line + ridge mapping (Milone et al. 2012 method).
-- [[Continuum opacity sources]] — links to bound-free + free-free + H$^-$. (exists)
+- [[Interstellar absorption]] - $A_\lambda$, optical depth, total extinction. (exists)
+- [[Interstellar reddening and the reddening vector]] - $E(B-V) = A_B - A_V$. on a CMD, reddening shifts stars along a vector $\propto (R_V, 1)$.
+- [[Extinction law and Rv]] - $R_V = A_V/E(B-V) = 3.1$ in diffuse ISM, varies in dense regions. Cardelli, Clayton, Mathis 1989.
+- Differential reddening across a cluster field - covered by Lecture 10. patchy dust in front of cluster $\to$ artificial broadening of CMD sequences.
+- [[Reddening correction methods]] - fiducial line + ridge mapping (Milone et al. 2012 method).
+- [[Continuum opacity sources]] - links to bound-free + free-free + H$^-$. (exists)
 
-## Block 3 — formation of the Galaxy from the CMD
+## Block 3 - formation of the Galaxy from the CMD
 
 GCs as fossil records of Galactic assembly. ages from CMDs $\to$ chemical enrichment timeline.
 
-- [[Galactic halo and bulge formation timescales]] — GCs in halo: $\sim 13$ Gyr, low [Fe/H]. inner Galaxy: rapid enrichment.
-- [[Age-metallicity relation of Galactic GCs]] — Dotter et al. 2011. inner GCs: tight age-[Fe/H] sequence (in situ); outer GCs: scattered + younger (accreted from dwarfs).
-- [[Galactic GC two-population age structure]] — bimodal ages support **dual origin**: in situ + accreted.
-- [[Halo accretion from dwarf galaxies]] — Sgr stream, Gaia-Enceladus, Sequoia. links GCs to their progenitor dwarfs.
-- [[CMD constraints on disk vs halo populations]] — Pop I in disk has TO at younger ages; Pop II in halo at $\sim 12$-$13$ Gyr.
+- [[Galactic halo and bulge formation timescales]] - GCs in halo: $\sim 13$ Gyr, low [Fe/H]. inner Galaxy: rapid enrichment.
+- [[Age-metallicity relation of Galactic GCs]] - Dotter et al. 2011. inner GCs: tight age-[Fe/H] sequence (in situ), outer GCs: scattered + younger (accreted from dwarfs).
+- [[Galactic GC two-population age structure]] - bimodal ages support **dual origin**: in situ + accreted.
+- [[Halo accretion from dwarf galaxies]] - Sgr stream, Gaia-Enceladus, Sequoia. links GCs to their progenitor dwarfs.
+- [[CMD constraints on disk vs halo populations]] - Pop I in disk has TO at younger ages, Pop II in halo at $\sim 12$-$13$ Gyr.
 
-## Block 4 — ultra-faint dwarf galaxies
+## Block 4 - ultra-faint dwarf galaxies
 
 discovered post-2005 via SDSS + DES + Pan-STARRS. extreme low-luminosity ($L < 10^5 L_\odot$), high $M/L$, very metal-poor.
 
-- [[Ultra-faint dwarf galaxies definition]] — $M_V \gtrsim -7.7$, $\sigma_v \sim$ few km/s, [Fe/H] $\lesssim -2$. probable fossils of pre-reionisation halos.
-- [[UFDG dark matter content]] — $M/L \sim 100$ to $1000$. strong cosmological constraints on warm DM.
-- [[UFDG star formation histories]] — single old burst, truncated at reionisation.
-- [[UFDG search via deep CMD]] — overdensities of metal-poor stars in resolved photometry.
-- [[Pop III remnants in UFDGs]] — abundance patterns reveal first-star nucleosynthesis (r-process, light-element enrichment).
+- [[Ultra-faint dwarf galaxies definition]] - $M_V \gtrsim -7.7$, $\sigma_v \sim$ few km/s, [Fe/H] $\lesssim -2$. probable fossils of pre-reionisation halos.
+- [[UFDG dark matter content]] - $M/L \sim 100$ to $1000$. strong cosmological constraints on warm DM.
+- [[UFDG star formation histories]] - single old burst, truncated at reionisation.
+- [[UFDG search via deep CMD]] - overdensities of metal-poor stars in resolved photometry.
+- [[Pop III remnants in UFDGs]] - abundance patterns reveal first-star nucleosynthesis (r-process, light-element enrichment).
 
-## Block 5 — white dwarfs
+## Block 5 - white dwarfs
 
 evolutionary endpoint for $\sim 95\%$ of stars. faint $\to$ observable only in nearby clusters + Solar neighbourhood. cooling sequence used as independent age clock.
 
-- [[White dwarf overview]] — $M \lesssim 1.4 M_\odot$ (Chandrasekhar), $R \sim R_\oplus$, $\rho \sim 10^9$ kg/m$^3$. supported by electron degeneracy.
-- [[White dwarf types He CO ONeMg]] — He WD: low mass, binary stripping. CO WD: most stars. ONeMg WD: $M_{\rm prog} \sim 8$-$10 M_\odot$.
-- [[Chandrasekhar mass limit]] — $M_{\rm Ch} \approx 1.46 M_\odot$ for fully relativistic electron-degenerate gas.
-- [[White dwarf cooling theory]] — Mestel cooling, $\tau \propto L^{-5/7}$. crystallisation phase + transparency window.
-- [[White dwarf mass-radius relation]] — $R \propto M^{-1/3}$ for non-relativistic; relativistic correction near $M_{\rm Ch}$.
-- [[WDCS turn to blue and CIA]] — cool WDs ($T_{\rm eff} < 5000$ K) develop H$_2$ collision-induced absorption; suppresses IR flux; CMD turns blueward.
-- [[Age dating from the WD luminosity function]] — peak in number counts vs WD luminosity = oldest WDs. NGC 6397: $t_{\rm WDCS} = 11.47 \pm 0.47$ Gyr (Hansen et al. 2007). (matches MS turn-off age $11.6 \pm 1.0$ Gyr).
-- [[WDCS vs MSTO ages comparison]] — independent age methods that agree are a triumph of stellar physics.
-- [[Initial-final mass relation IFMR]] — $M_{\rm WD}(M_{\rm i})$ from open cluster WDs.
+- [[White dwarf overview]] - $M \lesssim 1.4 M_\odot$ (Chandrasekhar), $R \sim R_\oplus$, $\rho \sim 10^9$ kg/m$^3$. supported by electron degeneracy.
+- [[White dwarf types He CO ONeMg]] - He WD: low mass, binary stripping. CO WD: most stars. ONeMg WD: $M_{\rm prog} \sim 8$-$10 M_\odot$.
+- [[Chandrasekhar mass limit]] - $M_{\rm Ch} \approx 1.46 M_\odot$ for fully relativistic electron-degenerate gas.
+- [[White dwarf cooling theory]] - Mestel cooling, $\tau \propto L^{-5/7}$. crystallisation phase + transparency window.
+- [[White dwarf mass-radius relation]] - $R \propto M^{-1/3}$ for non-relativistic, relativistic correction near $M_{\rm Ch}$.
+- [[WDCS turn to blue and CIA]] - cool WDs ($T_{\rm eff} < 5000$ K) develop H$_2$ collision-induced absorption, suppresses IR flux, CMD turns blueward.
+- [[Age dating from the WD luminosity function]] - peak in number counts vs WD luminosity = oldest WDs. NGC 6397: $t_{\rm WDCS} = 11.47 \pm 0.47$ Gyr (Hansen et al. 2007). (matches MS turn-off age $11.6 \pm 1.0$ Gyr).
+- [[WDCS vs MSTO ages comparison]] - independent age methods that agree are a triumph of stellar physics.
+- [[Initial-final mass relation IFMR]] - $M_{\rm WD}(M_{\rm i})$ from open cluster WDs.
 
-## Block 6 — stellar spectroscopy + atmospheric parameters
+## Block 6 - stellar spectroscopy + atmospheric parameters
 
 how to extract $T_{\rm eff}$, $\log g$, [Fe/H], chemical abundances, $v_r$, rotation from spectra.
 
-- [[Stellar atmosphere structure]] — $T(\tau)$, hydrostatic eq, opacity. (exists)
-- [[Saha equation and recombination]] — ionisation balance. (exists)
-- [[Saha ionisation equation]] — multi-stage version. (exists)
-- [[Stellar spectral types OBAFGKM]] — temperature sequence. luminosity classes I-V.
-- [[History of stellar classification]] — Harvard system, Maury, Cannon. (exists)
-- Equivalent width and curve of growth — measure abundances via line strength.
-- LTE vs NLTE in stellar atmospheres — assumptions, when each fails (hot stars, metal-poor giants).
-- [[Atmospheric parameters Teff log g feh vmicro]] — the four numbers extracted from any optical spectrum.
-- [[Spectroscopic determination of Teff]] — Balmer-line wings + colour calibrations + line-depth ratios.
-- [[Spectroscopic determination of log g]] — wings of strong lines (Mg I b, Ca II); ionisation balance.
-- [[Spectroscopic determination of metallicity]] — Fe I + Fe II lines; differential analysis.
-- Microturbulence in stellar spectroscopy — non-thermal velocity broadening; $v_{\rm micro} \sim 1-3$ km/s.
-- [[Radial velocity from stellar spectra]] — cross-correlation with templates, Gaia RVS, MUSE-NFM.
-- [[Stellar rotation v sini]] — line broadening from rotation, used for cluster rotation studies.
-- [[Element abundance patterns]] — alpha/Fe, [C/N], [O/Fe], used to identify multiple populations.
+- [[Stellar atmosphere structure]] - $T(\tau)$, hydrostatic eq, opacity. (exists)
+- [[Saha equation and recombination]] - ionisation balance. (exists)
+- [[Saha ionisation equation]] - multi-stage version. (exists)
+- [[Stellar spectral types OBAFGKM]] - temperature sequence. luminosity classes I-V.
+- [[History of stellar classification]] - Harvard system, Maury, Cannon. (exists)
+- Equivalent width and curve of growth - measure abundances via line strength.
+- LTE vs NLTE in stellar atmospheres - assumptions, when each fails (hot stars, metal-poor giants).
+- [[Atmospheric parameters Teff log g feh vmicro]] - the four numbers extracted from any optical spectrum.
+- [[Spectroscopic determination of Teff]] - Balmer-line wings + colour calibrations + line-depth ratios.
+- [[Spectroscopic determination of log g]] - wings of strong lines (Mg I b, Ca II), ionisation balance.
+- [[Spectroscopic determination of metallicity]] - Fe I + Fe II lines, differential analysis.
+- Microturbulence in stellar spectroscopy - non-thermal velocity broadening, $v_{\rm micro} \sim 1-3$ km/s.
+- [[Radial velocity from stellar spectra]] - cross-correlation with templates, Gaia RVS, MUSE-NFM.
+- [[Stellar rotation v sini]] - line broadening from rotation, used for cluster rotation studies.
+- [[Element abundance patterns]] - alpha/Fe, [C/N], [O/Fe], used to identify multiple populations.
 
-## Block 7 — differential reddening (Lecture 10)
+## Block 7 - differential reddening (Lecture 10)
 
-extension of Block 2; how to map + correct differential reddening across a cluster field.
+extension of Block 2. how to map + correct differential reddening across a cluster field.
 
-- [[Differential reddening maps]] — Milone et al. 2012 technique. uses position-dependent fiducial-line offsets in CMD.
-- [[Effects of differential reddening on CMD analysis]] — broadens MS + TO; can be confused with multiple populations or spread in metallicity. critical to correct before interpreting MPs.
+- [[Differential reddening maps]] - Milone et al. 2012 technique. uses position-dependent fiducial-line offsets in CMD.
+- [[Effects of differential reddening on CMD analysis]] - broadens MS + TO, can be confused with multiple populations or spread in metallicity. critical to correct before interpreting MPs.
 
-## Block 8 — binaries, blue stragglers, and exotic objects
+## Block 8 - binaries, blue stragglers, and exotic objects
 
 these populate the **off-isochrone** regions of the CMD.
 
-- [[Binary stars in CMD]] — equal-mass binary lies $0.75$ mag above MS in $V$. binary fraction inferred from fraction of stars in this displaced sequence.
-- [[Cluster binary fraction methods]] — fitting double-MS + radial velocity follow-up.
-- [[Blue stragglers in star clusters]] — stars brighter + bluer than the MSTO. anomalous in coeval SSPs.
-- [[Blue straggler formation channels]] — collisional + binary mass transfer + binary mergers. dominant in dense vs sparse clusters.
-- [[Cataclysmic variables in clusters]] — WD accreting from companion. detected via UV excess + variability.
-- [[Millisecond pulsars in GCs]] — recycled NSs spun up by accretion. Terzan 5 has $> 30$ MSPs.
-- [[X-ray sources in globular clusters]] — LMXBs, qLMXBs, CVs. tracers of binary populations.
-- [[Yellow stragglers and sub-subgiants]] — peculiar CMD positions; binary evolution products.
+- [[Binary stars in CMD]] - equal-mass binary lies $0.75$ mag above MS in $V$. binary fraction inferred from fraction of stars in this displaced sequence.
+- [[Cluster binary fraction methods]] - fitting double-MS + radial velocity follow-up.
+- [[Blue stragglers in star clusters]] - stars brighter + bluer than the MSTO. anomalous in coeval SSPs.
+- [[Blue straggler formation channels]] - collisional + binary mass transfer + binary mergers. dominant in dense vs sparse clusters.
+- [[Cataclysmic variables in clusters]] - WD accreting from companion. detected via UV excess + variability.
+- [[Millisecond pulsars in GCs]] - recycled NSs spun up by accretion. Terzan 5 has $> 30$ MSPs.
+- [[X-ray sources in globular clusters]] - LMXBs, qLMXBs, CVs. tracers of binary populations.
+- [[Yellow stragglers and sub-subgiants]] - peculiar CMD positions, binary evolution products.
 
-## Block 9 — stellar mass function + hunting black holes
+## Block 9 - stellar mass function + hunting black holes
 
 inferring the IMF + present-day MF from cluster CMDs. inferring black hole populations from dynamics + accretion.
 
-- [[Stellar mass function xi(M)]] — distribution of stars per unit mass: $\xi(M) = dN/dM$, IMF vs PDMF in clusters, Salpeter/Kroupa/Chabrier forms.
-- [[Salpeter Kroupa Chabrier IMFs]] — Salpeter $\xi(M) \propto M^{-2.35}$ for $M > 0.5 M_\odot$. Kroupa + Chabrier add low-mass break/lognormal.
-- [[Initial vs present-day mass function]] — IMF + stellar evolution + dynamical evaporation $\to$ PDMF. low-mass stars preferentially evaporated.
-- [[IMF from cluster luminosity functions]] — convert observed LF to MF via mass-luminosity relation.
-- [[Black holes in globular clusters]] — dynamical signatures (stellar BH retention), accretion + radio emission, X-ray binaries.
-- [[Hunting BHs via radial velocities]] — single-line spectroscopic binaries with massive dark companions. NGC 3201, M22, others.
-- [[Intermediate-mass BHs in GCs]] — controversial; pulsar timing + central kinematics hints.
-- [[BHs from gravitational waves]] — LIGO-Virgo events; possible globular-cluster origin via dynamical formation.
+- [[Stellar mass function xi(M)]] - distribution of stars per unit mass: $\xi(M) = dN/dM$, IMF vs PDMF in clusters, Salpeter/Kroupa/Chabrier forms.
+- [[Salpeter Kroupa Chabrier IMFs]] - Salpeter $\xi(M) \propto M^{-2.35}$ for $M > 0.5 M_\odot$. Kroupa + Chabrier add low-mass break/lognormal.
+- [[Initial vs present-day mass function]] - IMF + stellar evolution + dynamical evaporation $\to$ PDMF. low-mass stars preferentially evaporated.
+- [[IMF from cluster luminosity functions]] - convert observed LF to MF via mass-luminosity relation.
+- [[Black holes in globular clusters]] - dynamical signatures (stellar BH retention), accretion + radio emission, X-ray binaries.
+- [[Hunting BHs via radial velocities]] - single-line spectroscopic binaries with massive dark companions. NGC 3201, M22, others.
+- [[Intermediate-mass BHs in GCs]] - controversial, pulsar timing + central kinematics hints.
+- [[BHs from gravitational waves]] - LIGO-Virgo events, possible globular-cluster origin via dynamical formation.
 
-## Block 10 — the first stars (Pop III)
+## Block 10 - the first stars (Pop III)
 
 the predicted zero-metallicity first generation.
 
-- [[Population III stars]] — $Z = 0$, top-heavy IMF predicted (no metal-line cooling), $M \sim 10$ to $1000 M_\odot$.
-- [[Critical metallicity for fragmentation]] — $Z_{\rm crit} \sim 10^{-5}$ to $10^{-4} Z_\odot$. below this, no efficient cooling channel.
-- [[Pop III nucleosynthesis signatures]] — peculiar abundance patterns: CEMP-no, r-process II stars, no s-process.
-- [[Search for Pop III stars in dwarf galaxies]] — UFDGs as best hunting ground; SkyMapper survey, Pristine survey.
-- [[JWST and the first stars]] — direct detection of Pop III SF regions at $z \sim 10$-$15$.
+- [[Population III stars]] - $Z = 0$, top-heavy IMF predicted (no metal-line cooling), $M \sim 10$ to $1000 M_\odot$.
+- [[Critical metallicity for fragmentation]] - $Z_{\rm crit} \sim 10^{-5}$ to $10^{-4} Z_\odot$. below this, no efficient cooling channel.
+- [[Pop III nucleosynthesis signatures]] - peculiar abundance patterns: CEMP-no, r-process II stars, no s-process.
+- [[Search for Pop III stars in dwarf galaxies]] - UFDGs as best hunting ground, SkyMapper survey, Pristine survey.
+- [[JWST and the first stars]] - direct detection of Pop III SF regions at $z \sim 10$-$15$.
 
-## Block 11 — multiple stellar populations in globular clusters
+## Block 11 - multiple stellar populations in globular clusters
 
 **Milone's signature topic**. since 2000s it is clear GCs are NOT simple SSPs but host $\geq 2$ populations differing in light-element abundances.
 
-- [[Multiple populations in GCs discovery]] — first noticed via Na-O anti-correlation (Carretta + Gratton 1990s). photometric confirmation: Bedin et al. 2004 ($\omega$ Cen), Piotto et al. 2007 (NGC 2808 triple MS).
-- [[Na O anticorrelation]] — first generation: Na-poor + O-rich. second generation: Na-rich + O-poor. signature of high-T H burning.
-- [[CN CH MgAl anticorrelations]] — extended chemical fingerprints of MPs.
-- [[Helium spread in GCs]] — second-generation stars helium-enhanced ($Y$ up to $0.40$); explains hot HB extensions.
-- [[Polluter scenarios for second-generation GC stars]] — AGB stars, fast rotating massive stars, supermassive stars, binaries. open problem.
-- [[Photometric chromosome maps]] — Milone et al. 2017 + 2018. plot $\Delta_{F275W,F814W}$ vs $\Delta_{C\,F275W,F336W,F438W}$. cleanly separates 1G from 2G.
-- [[Type I and Type II GCs]] — Type II: have a split + iron-enriched 2P. e.g. NGC 1851, M22, $\omega$ Cen.
-- [[Mass dependence of multiple populations]] — fraction of 2P stars increases with cluster mass.
-- [[GC formation models with MPs]] — internal SF + retention of polluter ejecta. links to early-Galaxy clustering.
-- [[Multiple populations in extragalactic GCs]] — LMC + SMC clusters, M31. tells us MPs are universal in massive old GCs.
+- [[Multiple populations in GCs discovery]] - first noticed via Na-O anti-correlation (Carretta + Gratton 1990s). photometric confirmation: Bedin et al. 2004 ($\omega$ Cen), Piotto et al. 2007 (NGC 2808 triple MS).
+- [[Na O anticorrelation]] - first generation: Na-poor + O-rich. second generation: Na-rich + O-poor. signature of high-T H burning.
+- [[CN CH MgAl anticorrelations]] - extended chemical fingerprints of MPs.
+- [[Helium spread in GCs]] - second-generation stars helium-enhanced ($Y$ up to $0.40$), explains hot HB extensions.
+- [[Polluter scenarios for second-generation GC stars]] - AGB stars, fast rotating massive stars, supermassive stars, binaries. open problem.
+- [[Photometric chromosome maps]] - Milone et al. 2017 + 2018. plot $\Delta_{F275W,F814W}$ vs $\Delta_{C\,F275W,F336W,F438W}$. cleanly separates 1G from 2G.
+- [[Type I and Type II GCs]] - Type II: have a split + iron-enriched 2P. e.g. NGC 1851, M22, $\omega$ Cen.
+- [[Mass dependence of multiple populations]] - fraction of 2P stars increases with cluster mass.
+- [[GC formation models with MPs]] - internal SF + retention of polluter ejecta. links to early-Galaxy clustering.
+- [[Multiple populations in extragalactic GCs]] - LMC + SMC clusters, M31. tells us MPs are universal in massive old GCs.
 
-## Block 12 — the extended main sequence phenomenon
+## Block 12 - the extended main sequence phenomenon
 
 young + intermediate-age clusters in the LMC + SMC + Milky Way show a broadened MS turn-off.
 
-- [[Extended main sequence turn-off eMSTO]] — observed in $1$-$2$ Gyr clusters; turn-off width $\sim 0.1$-$0.3$ mag.
-- [[Origin of eMSTO age spread or rotation]] — initial proposal: age spread of $\sim 200$-$500$ Myr. now favoured: stellar rotation broadens TO via $T_{\rm eff}$ + $\log g$ shifts.
-- [[Stellar rotation effects on CMD]] — gravity darkening, mixing, He enrichment in fast rotators.
-- [[Splitting of the upper MS in young clusters]] — bifurcation seen in NGC 1755, NGC 1850, etc. = slow + fast rotators.
-- [[eMSTO and multiple populations connection]] — young eMSTO clusters might be the present-day analogues of what GCs were at $\sim 1$ Gyr.
+- [[Extended main sequence turn-off eMSTO]] - observed in $1$-$2$ Gyr clusters, turn-off width $\sim 0.1$-$0.3$ mag.
+- [[Origin of eMSTO age spread or rotation]] - initial proposal: age spread of $\sim 200$-$500$ Myr. now favoured: stellar rotation broadens TO via $T_{\rm eff}$ + $\log g$ shifts.
+- [[Stellar rotation effects on CMD]] - gravity darkening, mixing, He enrichment in fast rotators.
+- [[Splitting of the upper MS in young clusters]] - bifurcation seen in NGC 1755, NGC 1850, etc. = slow + fast rotators.
+- [[eMSTO and multiple populations connection]] - young eMSTO clusters might be the present-day analogues of what GCs were at $\sim 1$ Gyr.
 
-## Block 13 — the Bulge (carryover Lecture 19 from AY 24/25)
+## Block 13 - the Bulge (carryover Lecture 19 from AY 24/25)
 
 old, metal-rich population at the centre of the Milky Way. boxy/peanut bar.
 
-- [[The Galactic Bulge]] — $\sim 10$ Gyr, $-1 < $ [Fe/H] $< +0.5$, boxy/peanut shape from bar buckling.
-- [[Bulge microlensing surveys]] — OGLE + MACHO + EROS. proper motions + distances of bulge dwarfs.
-- [[Bulge CMD complications]] — high reddening + crowding + foreground disk contamination. JWST helps.
+- [[The Galactic Bulge]] - $\sim 10$ Gyr, $-1 < $ [Fe/H] $< +0.5$, boxy/peanut shape from bar buckling.
+- [[Bulge microlensing surveys]] - OGLE + MACHO + EROS. proper motions + distances of bulge dwarfs.
+- [[Bulge CMD complications]] - high reddening + crowding + foreground disk contamination. JWST helps.
 
 ## the 12 cold derivations + 8 conceptual essays (T1)
 
@@ -243,7 +243,7 @@ these are the things I should master cold for the exam.
 1. **mass-luminosity scaling on the MS**: $L \propto M^4$ (low-mass), $L \propto M^3$ (high-mass). MS lifetime $\tau \propto M^{-2.5}$.
 2. **MSTO age**: relate $M_{\rm TO}$ to age via $\tau \approx 10\,(M/M_\odot)^{-2.5}$ Gyr.
 3. **distance modulus** $m - M = 5\log_{10}(d/10\,{\rm pc}) + A_V$. with reddening.
-4. **Chandrasekhar mass** $M_{\rm Ch} \approx 1.46 (\mu_e/2)^{-2} M_\odot$ from polytropic balance — full derivation from Fermi-Dirac degenerate electron pressure through the $n=3$ Lane-Emden limit in [[Chandrasekhar mass limit]].
+4. **Chandrasekhar mass** $M_{\rm Ch} \approx 1.46 (\mu_e/2)^{-2} M_\odot$ from polytropic balance - full derivation from Fermi-Dirac degenerate electron pressure through the $n=3$ Lane-Emden limit in [[Chandrasekhar mass limit]].
 5. **Mestel WD cooling** $\tau \propto L^{-5/7}$, with assumptions.
 6. **isochrone equation** in CMD: locus of $(M_V, B-V)$ for fixed $t, [Fe/H], M$ varied.
 7. **reddening vector slope** in CMD: $A_V/E(B-V) = R_V$.
@@ -251,11 +251,11 @@ these are the things I should master cold for the exam.
 9. **Mass-radius relation** for non-relativistic + relativistic WDs.
 10. **Saha equation** + ionisation fraction in stellar atmospheres.
 11. **equivalent width** integral + curve of growth regimes (linear, saturated, damped).
-12. **chromosome map construction**: pseudo-colour definitions $\Delta_{F275W,F814W}$ + $\Delta_{C\,F275W,F336W,F438W}$ — formal verticalized-residual construction in [[Photometric chromosome maps]].
+12. **chromosome map construction**: pseudo-colour definitions $\Delta_{F275W,F814W}$ + $\Delta_{C\,F275W,F336W,F438W}$ - formal verticalized-residual construction in [[Photometric chromosome maps]].
 
 ### conceptual essays
 1. why is a CMD better than an HRD for **observers**? (filters not bolometric).
-2. why are **GCs the gold standard SSP laboratories**? old + populous + chemically homogeneous (almost).
+2. why are **GCs the standard SSP laboratories**? old + populous + chemically homogeneous (almost).
 3. what makes the **WDCS** an independent age clock from the MSTO?
 4. why does **differential reddening** broaden the MS, and how is it disentangled from MPs?
 5. what is the **evidence that GCs are NOT simple SSPs** (light-element anticorrelations, He spread, chromosome maps)?
@@ -267,15 +267,15 @@ these are the things I should master cold for the exam.
 
 Canonical and modern arXiv astro-ph.SR benchmark papers underlying the stellar-structure formalism, isochrone modeling, and multiple-populations diagnostics above.
 
-- **Asplund et al. (2009)**, *ARA&A* 47, 481, [arXiv:0909.0948](https://arxiv.org/abs/0909.0948) — solar chemical composition from 3D RHD atmospheres; see also the updated Asplund, Amarsi & Grevesse (2021), *A&A* 653, A141, [arXiv:2105.01661](https://arxiv.org/abs/2105.01661). Full synthesis: [[Asplund_2009_Chemical_Composition_of_the_Sun\|Asplund et al. (2009) — Chemical Composition of the Sun]].
-- **Bressan et al. (2012)**, *MNRAS* 427, 127, [arXiv:1208.4498](https://arxiv.org/abs/1208.4498) — PARSEC: the Padova-Trieste stellar evolution code underlying the isochrone grids used throughout this course's CMD/eMSTO modeling.
-- **Milone et al. (2017)**, *MNRAS* 464, 3636, [arXiv:1610.00451](https://arxiv.org/abs/1610.00451) — HST UV Legacy Survey IX, "The Atlas of Multiple Stellar Populations": chromosome maps for 57 Galactic GCs. See [[Photometric chromosome maps]].
-- **Bastian & Lardo (2018)**, *ARA&A* 56, 83, [arXiv:1712.01286](https://arxiv.org/abs/1712.01286) — comprehensive review of multiple-populations observations and the still-unresolved polluter/mass-budget problem.
-- **Gaia Collaboration / Vallenari et al. (2023)**, *A&A* 674, A1, [arXiv:2208.00211](https://arxiv.org/abs/2208.00211) — Gaia DR3: resolved cluster kinematics, proper-motion-cleaned CMDs, and white-dwarf cooling-track astrometry used across Blocks 5, 9, and 11. Full synthesis: [[Gaia_Collaboration_2023_DR3_Summary\|Gaia DR3 Summary]].
-- **Paxton et al. (2011, 2019)** — MESA, *ApJS* 192, 3 / 243, 10, [arXiv:1009.1622](https://arxiv.org/abs/1009.1622) / [arXiv:1903.01426](https://arxiv.org/abs/1903.01426) — the open-source stellar evolution code underlying most modern isochrone grids alongside PARSEC. Full synthesis: [[Paxton_2011_2019_MESA_Stellar_Evolution_Code\|Paxton et al. — MESA]].
-- **Hekker & Christensen-Dalsgaard (2017)**, *A&ARv* 25, 1, [arXiv:1609.07487](https://arxiv.org/abs/1609.07487) — giant-star asteroseismic scaling relations and mixed-mode period spacing. Full synthesis: [[Hekker_Christensen-Dalsgaard_2017_Giant_Star_Asteroseismology\|Hekker & Christensen-Dalsgaard — Giant Star Seismology]].
+- **Asplund et al. (2009)**, *ARA&A* 47, 481, [arXiv:0909.0948](https://arxiv.org/abs/0909.0948) - solar chemical composition from 3D RHD atmospheres, see also the updated Asplund, Amarsi & Grevesse (2021), *A&A* 653, A141, [arXiv:2105.01661](https://arxiv.org/abs/2105.01661). Full synthesis: [[Asplund_2009_Chemical_Composition_of_the_Sun\|Asplund et al. (2009) - Chemical Composition of the Sun]].
+- **Bressan et al. (2012)**, *MNRAS* 427, 127, [arXiv:1208.4498](https://arxiv.org/abs/1208.4498) - PARSEC: the Padova-Trieste stellar evolution code underlying the isochrone grids used throughout this course's CMD/eMSTO modeling.
+- **Milone et al. (2017)**, *MNRAS* 464, 3636, [arXiv:1610.00451](https://arxiv.org/abs/1610.00451) - HST UV Legacy Survey IX, "The Atlas of Multiple Stellar Populations": chromosome maps for 57 Galactic GCs. See [[Photometric chromosome maps]].
+- **Bastian & Lardo (2018)**, *ARA&A* 56, 83, [arXiv:1712.01286](https://arxiv.org/abs/1712.01286) - full review of multiple-populations observations and the still-unresolved polluter/mass-budget problem.
+- **Gaia Collaboration / Vallenari et al. (2023)**, *A&A* 674, A1, [arXiv:2208.00211](https://arxiv.org/abs/2208.00211) - Gaia DR3: resolved cluster kinematics, proper-motion-cleaned CMDs, and white-dwarf cooling-track astrometry used across Blocks 5, 9, and 11. Full synthesis: [[Gaia_Collaboration_2023_DR3_Summary\|Gaia DR3 Summary]].
+- **Paxton et al. (2011, 2019)** - MESA, *ApJS* 192, 3 / 243, 10, [arXiv:1009.1622](https://arxiv.org/abs/1009.1622) / [arXiv:1903.01426](https://arxiv.org/abs/1903.01426) - the open-source stellar evolution code underlying most modern isochrone grids alongside PARSEC. Full synthesis: [[Paxton_2011_2019_MESA_Stellar_Evolution_Code\|Paxton et al. - MESA]].
+- **Hekker & Christensen-Dalsgaard (2017)**, *A&ARv* 25, 1, [arXiv:1609.07487](https://arxiv.org/abs/1609.07487) - giant-star asteroseismic scaling relations and mixed-mode period spacing. Full synthesis: [[Hekker_Christensen-Dalsgaard_2017_Giant_Star_Asteroseismology\|Hekker & Christensen-Dalsgaard - Giant Star Seismology]].
 
-*Provenance note*: two arXiv IDs in this list were corrected during verification — Bastian & Lardo (2018) is arXiv:1712.01286 (not 1712.05621), and Bressan et al. (2012) is arXiv:1208.4498 (not 1208.3598).
+*Provenance note*: two arXiv IDs in this list were corrected during verification - Bastian & Lardo (2018) is arXiv:1712.01286 (not 1712.05621), and Bressan et al. (2012) is arXiv:1208.4498 (not 1208.3598).
 
 ---
 
@@ -283,18 +283,18 @@ Canonical and modern arXiv astro-ph.SR benchmark papers underlying the stellar-s
 
 a 90-second version of the entire course:
 
-> stellar astrophysics is the science of reading the **color-magnitude diagram** of a resolved stellar system. a CMD is a scatter plot of magnitude vs colour for individual stars in a cluster. its morphology encodes age, metallicity, distance, reddening, IMF, binarity, and multiple populations. the principal evolutionary phases on the CMD are the main sequence (core H burning), the turn-off (H exhaustion), the subgiant branch + red giant branch (shell H burning, degenerate He core), the helium flash + horizontal branch (core He burning), the asymptotic giant branch (double shell burning + thermal pulses + mass loss), and the white-dwarf cooling sequence ($M < 8 M_\odot$). globular clusters were historically considered the best example of simple stellar populations and provide the cleanest age-metallicity-distance constraints. since 2000 it has been clear that GCs are NOT simple: they host multiple populations differing in helium + light elements (Na, O, Al, Mg) but not in iron, identifiable via Milone-style chromosome maps. the age-metallicity relation of Galactic GCs separates an in-situ inner-halo population (rapid enrichment) from an accreted outer-halo population (Sgr, Gaia-Enceladus). ultra-faint dwarf galaxies are extreme low-luminosity dark-matter-dominated halos that fossilise the pre-reionisation chemical state of the universe and contain the best evidence for Pop III nucleosynthesis. white dwarfs cool predictably and provide an independent age clock that agrees with the MSTO; their luminosity function in NGC 6397 yields $11.47 \pm 0.47$ Gyr (Hansen 2007). reddening is a critical correction; the extinction law $R_V = A_V/E(B-V) = 3.1$ in the diffuse ISM and varies in dense regions; differential reddening can mimic multiple populations. blue stragglers, binaries, cataclysmic variables, MSPs, and X-ray sources populate the off-isochrone regions and probe dynamical evolution. the IMF (Salpeter, Kroupa, Chabrier) inferred from cluster LFs constrains stellar formation. eMSTO in young clusters reveals stellar rotation effects on CMDs. the Bulge is old + metal-rich + bar-shaped, and JWST is now opening the high-z stellar-population frontier.
+> stellar astrophysics is the science of reading the **color-magnitude diagram** of a resolved stellar system. a CMD is a scatter plot of magnitude vs colour for individual stars in a cluster. its morphology encodes age, metallicity, distance, reddening, IMF, binarity, and multiple populations. the principal evolutionary phases on the CMD are the main sequence (core H burning), the turn-off (H exhaustion), the subgiant branch + red giant branch (shell H burning, degenerate He core), the helium flash + horizontal branch (core He burning), the asymptotic giant branch (double shell burning + thermal pulses + mass loss), and the white-dwarf cooling sequence ($M < 8 M_\odot$). globular clusters were historically considered the best example of simple stellar populations and provide the cleanest age-metallicity-distance constraints. since 2000 it has been clear that GCs are NOT simple: they host multiple populations differing in helium + light elements (Na, O, Al, Mg) but not in iron, identifiable via Milone-style chromosome maps. the age-metallicity relation of Galactic GCs separates an in-situ inner-halo population (rapid enrichment) from an accreted outer-halo population (Sgr, Gaia-Enceladus). ultra-faint dwarf galaxies are extreme low-luminosity dark-matter-dominated halos that fossilise the pre-reionisation chemical state of the universe and contain the best evidence for Pop III nucleosynthesis. white dwarfs cool predictably and provide an independent age clock that agrees with the MSTO. their luminosity function in NGC 6397 yields $11.47 \pm 0.47$ Gyr (Hansen 2007). reddening is a critical correction. the extinction law $R_V = A_V/E(B-V) = 3.1$ in the diffuse ISM and varies in dense regions. differential reddening can mimic multiple populations. blue stragglers, binaries, cataclysmic variables, MSPs, and X-ray sources populate the off-isochrone regions and probe dynamical evolution. the IMF (Salpeter, Kroupa, Chabrier) inferred from cluster LFs constrains stellar formation. eMSTO in young clusters reveals stellar rotation effects on CMDs. the Bulge is old + metal-rich + bar-shaped, and JWST is now opening the high-z stellar-population frontier.
 
 ## see also
 
-- [[Observational_Astrophysics_MOC]] — observational pipeline, photometric concepts, distance ladder, and population synthesis.
-- [[Stellar Astrophysics research citations index]] — master list of papers/surveys cited across 19 lectures.
-- [[Astrophysics_of_Galaxies_MOC]] — galaxy-scale stellar populations.
-- [[Observational_Cosmology_MOC]] — first stars, cosmic SFR, reionisation.
-- [[Astronomical_Spectroscopy_MOC]] — spectroscopic foundation.
-- [[Fundamentals_Astrophysics_Cosmology_MOC]] — stellar structure foundation.
-- [[General_Relativity_MOC]] — neutron stars + Schwarzschild end states.
-- Exams summer 2026 master plan — global study plan.
+- [[Observational_Astrophysics_MOC]] - observational pipeline, photometric concepts, distance ladder, and population synthesis.
+- [[Stellar Astrophysics research citations index]] - master list of papers/surveys cited across 19 lectures.
+- [[Astrophysics_of_Galaxies_MOC]] - galaxy-scale stellar populations.
+- [[Observational_Cosmology_MOC]] - first stars, cosmic SFR, reionisation.
+- [[Astronomical_Spectroscopy_MOC]] - spectroscopic foundation.
+- [[Fundamentals_Astrophysics_Cosmology_MOC]] - stellar structure foundation.
+- [[General_Relativity_MOC]] - neutron stars + Schwarzschild end states.
+- Exams summer 2026 master plan - global study plan.
 
 ---
 
@@ -302,7 +302,7 @@ a 90-second version of the entire course:
 
 Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonino Milone's complete course materials is cataloged below with direct links to its high-resolution render in `07_Images/Stellar_Astrophysics/` and its corresponding pedagogical context:
 
-### Lecture 01: Reading the CMD I — Morphology, Sequences, and Cluster Taxonomy
+### Lecture 01 - Reading the CMD I - Morphology, Sequences, and Cluster Taxonomy
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -334,7 +334,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![LAntonino_p01_24.png](../assets/images/LAntonino_p01_24.png)` | Lecture slide / observational figure from P01 covering Lecture 01: Reading the CMD I | Lecture 01: Reading the CMD I |
 | `![LAntonino_p01_25.png](../assets/images/LAntonino_p01_25.png)` | Lecture slide / observational figure from P01 covering Lecture 01: Reading the CMD I | Lecture 01: Reading the CMD I |
 
-### Lecture 02: Reading the CMD II — Isochrone Fitting, Turnoff Age, and Distance Modulus
+### Lecture 02 - Reading the CMD II - Isochrone Fitting, Turnoff Age, and Distance Modulus
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -368,7 +368,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture02_p35-35.png](../assets/images/Lecture02_p35-35.png)` | Lecture slide / observational figure from P02 covering Lecture 02: Reading the CMD II | Lecture 02: Reading the CMD II |
 | `![Lecture02_p5-05.png](../assets/images/Lecture02_p5-05.png)` | Lecture slide / observational figure from P02 covering Lecture 02: Reading the CMD II | Lecture 02: Reading the CMD II |
 
-### Lecture 03: Reading the CMD III — Chemical Composition, Metallicity, and Horizontal Branch
+### Lecture 03 - Reading the CMD III - Chemical Composition, Metallicity, and Horizontal Branch
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -402,7 +402,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture03_p35-35.png](../assets/images/Lecture03_p35-35.png)` | Lecture slide / observational figure from P03 covering Lecture 03: Reading the CMD III | Lecture 03: Reading the CMD III |
 | `![Lecture03_p5-05.png](../assets/images/Lecture03_p5-05.png)` | Lecture slide / observational figure from P03 covering Lecture 03: Reading the CMD III | Lecture 03: Reading the CMD III |
 
-### Lecture 04: Interstellar Reddening, Extinction Laws, and Galactic Assembly
+### Lecture 04 - Interstellar Reddening, Extinction Laws, and Galactic Assembly
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -439,7 +439,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture04pI_p15-15.png](../assets/images/Lecture04pI_p15-15.png)` | Lecture slide / observational figure from P04 covering Lecture 04: Interstellar Reddening, Extinction Laws, and Galactic Assembly | Lecture 04: Interstellar Reddening, Extinction Laws, and Galactic Assembly |
 | `![Lecture04pI_p5-05.png](../assets/images/Lecture04pI_p5-05.png)` | Lecture slide / observational figure from P04 covering Lecture 04: Interstellar Reddening, Extinction Laws, and Galactic Assembly | Lecture 04: Interstellar Reddening, Extinction Laws, and Galactic Assembly |
 
-### Lecture 05: Ultra-Faint Dwarf Galaxies (UFDGs), Dark Matter Halos, and Pop III Remnants
+### Lecture 05 - Ultra-Faint Dwarf Galaxies (UFDGs), Dark Matter Halos, and Pop III Remnants
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -474,7 +474,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture05pI_p35-35.png](../assets/images/Lecture05pI_p35-35.png)` | Lecture slide / observational figure from P05 covering Lecture 05: Ultra-Faint Dwarf Galaxies (UFDGs), Dark Matter Halos, and Pop III Remnants | Lecture 05: Ultra-Faint Dwarf Galaxies (UFDGs), Dark Matter Halos, and Pop III Remnants |
 | `![Lecture05pI_p5-05.png](../assets/images/Lecture05pI_p5-05.png)` | Lecture slide / observational figure from P05 covering Lecture 05: Ultra-Faint Dwarf Galaxies (UFDGs), Dark Matter Halos, and Pop III Remnants | Lecture 05: Ultra-Faint Dwarf Galaxies (UFDGs), Dark Matter Halos, and Pop III Remnants |
 
-### Lecture 06: White Dwarf Cooling Sequences, Cosmochronology, and CIA Blue Turn
+### Lecture 06 - White Dwarf Cooling Sequences, Cosmochronology, and CIA Blue Turn
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -517,7 +517,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![LAntonino_p06_24.png](../assets/images/LAntonino_p06_24.png)` | Lecture slide / observational figure from P06 covering Lecture 06: White Dwarf Cooling Sequences, Cosmochronology, and CIA Blue Turn | Lecture 06: White Dwarf Cooling Sequences, Cosmochronology, and CIA Blue Turn |
 | `![LAntonino_p06_25.png](../assets/images/LAntonino_p06_25.png)` | Lecture slide / observational figure from P06 covering Lecture 06: White Dwarf Cooling Sequences, Cosmochronology, and CIA Blue Turn | Lecture 06: White Dwarf Cooling Sequences, Cosmochronology, and CIA Blue Turn |
 
-### Lecture 07: Stellar Spectroscopy I — Atmospheric Stratification and Radiative Transfer
+### Lecture 07 - Stellar Spectroscopy I - Atmospheric Stratification and Radiative Transfer
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -551,7 +551,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture07_p35-35.png](../assets/images/Lecture07_p35-35.png)` | Lecture slide / observational figure from P07 covering Lecture 07: Stellar Spectroscopy I | Lecture 07: Stellar Spectroscopy I |
 | `![Lecture07_p5-05.png](../assets/images/Lecture07_p5-05.png)` | Lecture slide / observational figure from P07 covering Lecture 07: Stellar Spectroscopy I | Lecture 07: Stellar Spectroscopy I |
 
-### Lecture 08: Stellar Spectroscopy II — Equivalent Width, Line Broadening, and Curve of Growth
+### Lecture 08 - Stellar Spectroscopy II - Equivalent Width, Line Broadening, and Curve of Growth
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -585,7 +585,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture08_p35-35.png](../assets/images/Lecture08_p35-35.png)` | Lecture slide / observational figure from P08 covering Lecture 08: Stellar Spectroscopy II | Lecture 08: Stellar Spectroscopy II |
 | `![Lecture08_p5-05.png](../assets/images/Lecture08_p5-05.png)` | Lecture slide / observational figure from P08 covering Lecture 08: Stellar Spectroscopy II | Lecture 08: Stellar Spectroscopy II |
 
-### Lecture 09: Atmospheric Parameters (Teff, log g, [Fe/H], v_micro) and Alpha Elements
+### Lecture 09 - Atmospheric Parameters (Teff, log g, [Fe/H], v_micro) and Alpha Elements
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -621,7 +621,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture09b_p35-35.png](../assets/images/Lecture09b_p35-35.png)` | Lecture slide / observational figure from P09 covering Lecture 09: Atmospheric Parameters (Teff, log g, [Fe/H], v_micro) and Alpha Elements | [[Lecture 09: Atmospheric Parameters (Teff, log g, [Fe/H], v_micro) and Alpha Elements]] |
 | `![Lecture09b_p5-05.png](../assets/images/Lecture09b_p5-05.png)` | Lecture slide / observational figure from P09 covering Lecture 09: Atmospheric Parameters (Teff, log g, [Fe/H], v_micro) and Alpha Elements | [[Lecture 09: Atmospheric Parameters (Teff, log g, [Fe/H], v_micro) and Alpha Elements]] |
 
-### Lecture 10: Differential Reddening Mapping (Milone 2012 Method) and CMD De-reddening
+### Lecture 10 - Differential Reddening Mapping (Milone 2012 Method) and CMD De-reddening
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -655,7 +655,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture10_p35-35.png](../assets/images/Lecture10_p35-35.png)` | Lecture slide / observational figure from P10 covering Lecture 10: Differential Reddening Mapping (Milone 2012 Method) and CMD De-reddening | Lecture 10: Differential Reddening Mapping (Milone 2012 Method) and CMD De-reddening |
 | `![Lecture10_p5-05.png](../assets/images/Lecture10_p5-05.png)` | Lecture slide / observational figure from P10 covering Lecture 10: Differential Reddening Mapping (Milone 2012 Method) and CMD De-reddening | Lecture 10: Differential Reddening Mapping (Milone 2012 Method) and CMD De-reddening |
 
-### Lecture 11: Binary Stars in Clusters, Sequence Elevation, and Mass Ratio Distribution
+### Lecture 11 - Binary Stars in Clusters, Sequence Elevation, and Mass Ratio Distribution
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -689,7 +689,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture11_p35-35.png](../assets/images/Lecture11_p35-35.png)` | Lecture slide / observational figure from P11 covering Lecture 11: Binary Stars in Clusters, Sequence Elevation, and Mass Ratio Distribution | Lecture 11: Binary Stars in Clusters, Sequence Elevation, and Mass Ratio Distribution |
 | `![Lecture11_p5-05.png](../assets/images/Lecture11_p5-05.png)` | Lecture slide / observational figure from P11 covering Lecture 11: Binary Stars in Clusters, Sequence Elevation, and Mass Ratio Distribution | Lecture 11: Binary Stars in Clusters, Sequence Elevation, and Mass Ratio Distribution |
 
-### Lecture 12: Blue Stragglers (BSS), Collisional Channels, and Exotic Compact Binaries
+### Lecture 12 - Blue Stragglers (BSS), Collisional Channels, and Exotic Compact Binaries
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -723,7 +723,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture12_p35-35.png](../assets/images/Lecture12_p35-35.png)` | Lecture slide / observational figure from P12 covering Lecture 12: Blue Stragglers (BSS), Collisional Channels, and Exotic Compact Binaries | Lecture 12: Blue Stragglers (BSS), Collisional Channels, and Exotic Compact Binaries |
 | `![Lecture12_p5-05.png](../assets/images/Lecture12_p5-05.png)` | Lecture slide / observational figure from P12 covering Lecture 12: Blue Stragglers (BSS), Collisional Channels, and Exotic Compact Binaries | Lecture 12: Blue Stragglers (BSS), Collisional Channels, and Exotic Compact Binaries |
 
-### Lecture 14: Population III Stars, Zero-Metallicity Nucleosynthesis, and Critical Metallicity
+### Lecture 14 - Population III Stars, Zero-Metallicity Nucleosynthesis, and Critical Metallicity
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -758,7 +758,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture14_p35-35.png](../assets/images/Lecture14_p35-35.png)` | Lecture slide / observational figure from P14 covering Lecture 14: Population III Stars, Zero-Metallicity Nucleosynthesis, and Critical Metallicity | Lecture 14: Population III Stars, Zero-Metallicity Nucleosynthesis, and Critical Metallicity |
 | `![Lecture14_p5-05.png](../assets/images/Lecture14_p5-05.png)` | Lecture slide / observational figure from P14 covering Lecture 14: Population III Stars, Zero-Metallicity Nucleosynthesis, and Critical Metallicity | Lecture 14: Population III Stars, Zero-Metallicity Nucleosynthesis, and Critical Metallicity |
 
-### Lecture 15: Multiple Populations in Globular Clusters I — Discovery, Na-O and Mg-Al Anticorrelations
+### Lecture 15 - Multiple Populations in Globular Clusters I - Discovery, Na-O and Mg-Al Anticorrelations
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -794,7 +794,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture15_p35-35.png](../assets/images/Lecture15_p35-35.png)` | Lecture slide / observational figure from P15 covering Lecture 15: Multiple Populations in Globular Clusters I | Lecture 15: Multiple Populations in Globular Clusters I |
 | `![Lecture15_p5-05.png](../assets/images/Lecture15_p5-05.png)` | Lecture slide / observational figure from P15 covering Lecture 15: Multiple Populations in Globular Clusters I | Lecture 15: Multiple Populations in Globular Clusters I |
 
-### Lecture 16: Multiple Populations in Globular Clusters — Helium Enrichment and Polluter Scenarios
+### Lecture 16 - Multiple Populations in Globular Clusters - Helium Enrichment and Polluter Scenarios
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -824,7 +824,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![LAntonino_p16_24.png](../assets/images/LAntonino_p16_24.png)` | Lecture slide / observational figure from P16 covering Lecture 16: Multiple Populations in Globular Clusters | Lecture 16: Multiple Populations in Globular Clusters |
 | `![LAntonino_p16_25.png](../assets/images/LAntonino_p16_25.png)` | Lecture slide / observational figure from P16 covering Lecture 16: Multiple Populations in Globular Clusters | Lecture 16: Multiple Populations in Globular Clusters |
 
-### Lecture 17: Multiple Populations in Globular Clusters II — The Chromosome Map and Type I/II GCs
+### Lecture 17 - Multiple Populations in Globular Clusters II - The Chromosome Map and Type I/II GCs
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -859,7 +859,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture17_p35-35.png](../assets/images/Lecture17_p35-35.png)` | Lecture slide / observational figure from P17 covering Lecture 17: Multiple Populations in Globular Clusters II | Lecture 17: Multiple Populations in Globular Clusters II |
 | `![Lecture17_p5-05.png](../assets/images/Lecture17_p5-05.png)` | Lecture slide / observational figure from P17 covering Lecture 17: Multiple Populations in Globular Clusters II | Lecture 17: Multiple Populations in Globular Clusters II |
 
-### Lecture 18: Extended Main Sequence Turnoff (eMSTO), Stellar Rotation, and Split MS
+### Lecture 18 - Extended Main Sequence Turnoff (eMSTO), Stellar Rotation, and Split MS
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -894,7 +894,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture18_p35-35.png](../assets/images/Lecture18_p35-35.png)` | Lecture slide / observational figure from P18 covering Lecture 18: Extended Main Sequence Turnoff (eMSTO), Stellar Rotation, and Split MS | Lecture 18: Extended Main Sequence Turnoff (eMSTO), Stellar Rotation, and Split MS |
 | `![Lecture18_p5-05.png](../assets/images/Lecture18_p5-05.png)` | Lecture slide / observational figure from P18 covering Lecture 18: Extended Main Sequence Turnoff (eMSTO), Stellar Rotation, and Split MS | Lecture 18: Extended Main Sequence Turnoff (eMSTO), Stellar Rotation, and Split MS |
 
-### Lecture 19: The Galactic Bulge — Structure, Ancient Populations, and Decontamination
+### Lecture 19 - The Galactic Bulge - Structure, Ancient Populations, and Decontamination
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -939,7 +939,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![Lecture19_p35-35.png](../assets/images/Lecture19_p35-35.png)` | Lecture slide / observational figure from P19 covering Lecture 19: The Galactic Bulge | Lecture 19: The Galactic Bulge |
 | `![Lecture19_p5-05.png](../assets/images/Lecture19_p5-05.png)` | Lecture slide / observational figure from P19 covering Lecture 19: The Galactic Bulge | Lecture 19: The Galactic Bulge |
 
-### Lecture 20: Pre-Main Sequence Evolution, Hayashi/Henyey Tracks, and Young Clusters
+### Lecture 20 - Pre-Main Sequence Evolution, Hayashi/Henyey Tracks, and Young Clusters
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -969,7 +969,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![LAntonino_p20_24.png](../assets/images/LAntonino_p20_24.png)` | Lecture slide / observational figure from P20 covering Lecture 20: Pre-Main Sequence Evolution, Hayashi/Henyey Tracks, and Young Clusters | Lecture 20: Pre-Main Sequence Evolution, Hayashi/Henyey Tracks, and Young Clusters |
 | `![LAntonino_p20_25.png](../assets/images/LAntonino_p20_25.png)` | Lecture slide / observational figure from P20 covering Lecture 20: Pre-Main Sequence Evolution, Hayashi/Henyey Tracks, and Young Clusters | Lecture 20: Pre-Main Sequence Evolution, Hayashi/Henyey Tracks, and Young Clusters |
 
-### Lecture 21: Extragalactic Stellar Populations, Resolved Systems, and JWST Frontiers
+### Lecture 21 - Extragalactic Stellar Populations, Resolved Systems, and JWST Frontiers
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -999,7 +999,7 @@ Every single figure, CMD diagram, and lecture slide extracted from Prof. Antonin
 | `![LAntonino_p21_24.png](../assets/images/LAntonino_p21_24.png)` | Lecture slide / observational figure from P21 covering Lecture 21: Extragalactic Stellar Populations, Resolved Systems, and JWST Frontiers | Lecture 21: Extragalactic Stellar Populations, Resolved Systems, and JWST Frontiers |
 | `![LAntonino_p21_25.png](../assets/images/LAntonino_p21_25.png)` | Lecture slide / observational figure from P21 covering Lecture 21: Extragalactic Stellar Populations, Resolved Systems, and JWST Frontiers | Lecture 21: Extragalactic Stellar Populations, Resolved Systems, and JWST Frontiers |
 
-### Lecture 22: Course Synthesis, Open Problems in Multiple Populations, and Oral Exam Framework
+### Lecture 22 - Course Synthesis, Open Problems in Multiple Populations, and Oral Exam Framework
 
 | Image Asset | Description & Diagnostic Utility | Primary Zettel Note |
 |---|---|---|
@@ -1126,7 +1126,7 @@ Every zettel in this map ends with a short sourced section: a definition quoted 
 
 This matrix contains the signature questions, blackboard derivations, and trap points commonly probed by Prof. Antonino Milone during the oral exam:
 
-### Question 1: Construction and Physics of the Chromosome Map
+### Question 1 - Construction and Physics of the Chromosome Map
 - **Blackboard Prompt**: *Draw a chromosome map for a typical globular cluster (e.g. NGC 2808 or NGC 6752). Explain the definition of both pseudo-color axes, what stellar atmosphere chemistry they trace, and how they separate 1G from 2G stars.*
 - **Starting Equation**: 
   $$\Delta_{C\,F275W,F336W,F438W} = C_{\rm F275W,F336W,F438W} - C_{\rm fiducial}, \quad C = (m_{\rm F275W} - m_{\rm F336W}) - (m_{\rm F336W} - m_{\rm F438W})$$
@@ -1140,7 +1140,7 @@ This matrix contains the signature questions, blackboard derivations, and trap p
 - **Professor Trap Points**:
   - *Trap*: Confusing Type I and Type II GCs. Type I GCs show a single 1G cluster and an extended 2G tail (e.g. NGC 6752). Type II GCs (e.g. $\omega$ Cen, M22, NGC 1851) show a split chromosome map with two distinct parallel sequences, indicating an intrinsic spread in $[\text{Fe}/\text{H}]$ and $s$-process elements in addition to light-element variations!
 
-### Question 2: The Milone et al. (2012) Differential Reddening Correction Method
+### Question 2 - The Milone et al. (2012) Differential Reddening Correction Method
 - **Blackboard Prompt**: *A globular cluster close to the Galactic plane exhibits an artificially broadened main sequence and RGB. How do you distinguish differential reddening from multiple populations or metallicity spreads? Outline your step-by-step procedure to correct it.*
 - **Derivation & Blackboard Walkthrough**:
   1. Define the reddening vector in the CMD plane $(V, B-V)$ or $(m_1, m_1 - m_2)$. The slope is $\frac{A_{m_1}}{E(m_1 - m_2)} = \frac{R_{m_1}}{R_{m_1} - R_{m_2}}$, which is determined strictly by the interstellar extinction law (e.g., Cardelli et al. 1989).
@@ -1153,7 +1153,7 @@ This matrix contains the signature questions, blackboard derivations, and trap p
 - **Professor Trap Points**:
   - *Trap*: Multiple populations shift stars *differently* in different colors (e.g., UV vs optical), whereas interstellar reddening shifts stars strictly along the universal dust extinction vector. Demonstrating that sequence broadening disappears in de-reddened optical CMDs but persists in UV pseudo-color CMDs proves the presence of intrinsic multiple populations.
 
-### Question 3: Helium Enhancement and Horizontal Branch Morphology
+### Question 3 - Helium Enhancement and Horizontal Branch Morphology
 - **Blackboard Prompt**: *Why does helium enhancement shift the Main Sequence to the blue, and how does it explain the extreme blue horizontal branch tails observed in massive clusters like NGC 2808?*
 - **Derivation & Blackboard Walkthrough**:
   1. Mean molecular weight: $\mu^{-1} = 2X + \frac{3}{4}Y + \frac{1}{2}Z$. Increasing $Y$ at fixed $Z$ decreases the hydrogen mass fraction $X = 1 - Y - Z$, which increases $\mu$.
@@ -1164,10 +1164,10 @@ This matrix contains the signature questions, blackboard derivations, and trap p
 - **Professor Trap Points**:
   - *Trap*: Claiming that higher helium makes stars redder. He is a primary fuel for later stages, but during the MS, the $\mu$-increase drives higher core temperatures and hotter surfaces, making the star **bluer**!
 
-### Question 4: Photometric Binary Fractions in Cluster CMDs
+### Question 4 - Photometric Binary Fractions in Cluster CMDs
 - **Blackboard Prompt**: *Derive the magnitude displacement of an unresolved binary system on the CMD as a function of mass ratio $q = M_2/M_1$. How do you measure the cluster binary fraction?*
 - **Derivation & Blackboard Walkthrough**:
-  1. Let star 1 have mass $M_1$ and luminosity $L_1$; star 2 have mass $M_2 \le M_1$ and luminosity $L_2$. Total luminosity is $L_{\rm bin} = L_1 + L_2 = L_1 (1 + L_2/L_1)$.
+  1. Let star 1 have mass $M_1$ and luminosity $L_1$, star 2 have mass $M_2 \le M_1$ and luminosity $L_2$. Total luminosity is $L_{\rm bin} = L_1 + L_2 = L_1 (1 + L_2/L_1)$.
   2. Using the mass-luminosity relation $L \propto M^\alpha$ (where $\alpha \sim 3.5-4.0$ for MS stars), the luminosity ratio is $L_2/L_1 \approx (M_2/M_1)^\alpha = q^\alpha$.
   3. The combined magnitude is: 
      $$m_{\rm bin} = -2.5\log_{10}(L_{\rm bin}) + C = m_1 - 2.5\log_{10}(1 + q^\alpha)$$
@@ -1177,7 +1177,7 @@ This matrix contains the signature questions, blackboard derivations, and trap p
   6. For $q < 1$, the binary shifts both in magnitude and slightly in color, filling the area between the single MS and the equal-mass binary sequence.
   7. The binary fraction $f_{\rm bin}$ is determined by defining a CMD box enclosing the binary locus ($q > 0.5$) and correcting for background field contamination and photometric error scattering.
 
-### Question 5: White Dwarf Cosmochronology and the Mestel Cooling Law
+### Question 5 - White Dwarf Cosmochronology and the Mestel Cooling Law
 - **Blackboard Prompt**: *Derive Mestel's cooling law for degenerate white dwarfs: $\tau_{\rm cool} \propto L^{-5/7}$. Why does the observed WD cooling sequence terminate and turn blueward at faint magnitudes?*
 - **Derivation & Blackboard Walkthrough**:
   1. A white dwarf consists of a degenerate, isothermal carbon-oxygen core of mass $M$ and temperature $T_c$, surrounded by a thin non-degenerate radiative envelope.
@@ -1191,7 +1191,7 @@ This matrix contains the signature questions, blackboard derivations, and trap p
      $$\tau_{\rm cool} \propto M^{5/7} L^{-5/7}$$
   8. **Blue Turn (CIA)**: At $T_{\rm eff} < 5000$ K, dense molecular hydrogen ($H_2$) in pure-H (DA) atmospheres undergoes collision-induced absorption ($H_2 - H_2$ and $H_2 - He$ dipole moments induced by collisions). CIA absorbs strongly in the infrared and red optical, forcing flux out through the blue optical window, causing the WD cooling track to hook sharply blueward on CMDs.
 
-### Question 6: The Extended Main Sequence Turnoff (eMSTO) Debate
+### Question 6 - The Extended Main Sequence Turnoff (eMSTO) Debate
 - **Blackboard Prompt**: *Intermediate-age star clusters (1-2 Gyr) in the Magellanic Clouds exhibit broadened or split main sequence turnoffs. Compare the age spread hypothesis with the stellar rotation hypothesis. Which one is supported by observations?*
 - **Derivation & Blackboard Walkthrough**:
   1. If interpreted as an age spread, the observed turnoff width corresponds to $\Delta t \sim 200-500$ Myr, requiring prolonged star formation in clusters that have modest masses ($10^4 - 10^5 M_\odot$).
@@ -1199,7 +1199,7 @@ This matrix contains the signature questions, blackboard derivations, and trap p
   3. Under the **stellar rotation** model, stars rotate at significant fractions of their break-up velocity ($\omega/\omega_{\rm crit} \sim 0.5-0.9$).
   4. According to the **von Zeipel theorem**, radiative flux is proportional to effective gravity: $F = -\frac{L}{4\pi G M_*} g_{\rm eff}$. Centrifugal force lowers $g_{\rm eff}$ at the equator, making the equator cooler and dimmer while poles remain hot (gravity darkening).
   5. A rotating star viewed equator-on appears redder and cooler than when viewed pole-on.
-  6. Furthermore, rotational mixing brings fresh hydrogen into the core, extending the main sequence lifetime and shifting the turnoff point to higher luminosities.
+ 6. Rotational mixing brings fresh hydrogen into the core, extending the main sequence lifetime and shifting the turnoff point to higher luminosities.
   7. Decisive evidence: High-resolution spectroscopy (e.g. Bastian et al., Milone et al.) demonstrates that stars on the red side of the split MS are rapid rotators ($v\sin i > 150-200$ km/s), while stars on the blue side are slow rotators ($v\sin i < 80$ km/s), decisively confirming the stellar rotation paradigm!
 
 
@@ -1213,7 +1213,7 @@ This matrix contains the signature questions, blackboard derivations, and trap p
 | **Pogson Magnitude Relation** | $m_1 - m_2 = -2.5\log_{10}\left(\frac{F_1}{F_2}\right)$ | $\Delta m \approx 1.0857\frac{\Delta F}{F}$ for small flux variations |
 | **Main Sequence Lifetime** | $\tau_{\rm MS} \approx 10\,{\rm Gyr}\left(\frac{M}{M_\odot}\right)^{-2.5}$ | Assumes $L \propto M^{3.5}$ and core H-burning fraction $\sim 10\%$ |
 | **Mestel WD Cooling Law** | $\tau_{\rm cool} \propto M_{\rm WD}^{5/7} L_{\rm WD}^{-5/7}$ | Derived from degenerate core thermal capacity + Kramers envelope opacity |
-| **Chandrasekhar Mass Limit** | $M_{\rm Ch} = \frac{\omega_3^0}{4\pi}\left(\frac{hc}{G}\right)^{3/2}\left(\frac{1}{\mu_e m_u}\right)^2 \approx 1.46\left(\frac{2}{\mu_e}\right)^2 M_\odot$ | Relativistic electron degeneracy limit; $\mu_e \approx 2$ for C/O WDs |
+| **Chandrasekhar Mass Limit** | $M_{\rm Ch} = \frac{\omega_3^0}{4\pi}\left(\frac{hc}{G}\right)^{3/2}\left(\frac{1}{\mu_e m_u}\right)^2 \approx 1.46\left(\frac{2}{\mu_e}\right)^2 M_\odot$ | Relativistic electron degeneracy limit, $\mu_e \approx 2$ for C/O WDs |
 | **Chromosome Pseudo-Color** | $C_{\rm F275W, F336W, F438W} = (m_{\rm F275W} - m_{\rm F336W}) - (m_{\rm F336W} - m_{\rm F438W})$ | Traces NH, OH, and CN/CH molecular bands in RGB atmospheres |
 | **Salpeter Initial Mass Function** | $\xi(M) = \frac{dN}{dM} = A M^{-\alpha}, \quad \alpha = 2.35$ | Canonical power law for stars with $M > 0.5 M_\odot$ |
 | **Unresolved Binary Shift** | $\Delta m = -2.5\log_{10}(1 + q^\alpha)$ | $q = M_2/M_1 \le 1$, $\Delta m = -0.753$ mag for equal-mass $q=1$ |

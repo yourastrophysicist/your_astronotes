@@ -8,12 +8,12 @@ how do we *weigh* the baryons in the universe? four independent methods, with va
 
 ## the four methods
 
-1. **observe baryons in stars and galaxies** via optical and X-ray emission. counts the photons; depends on understanding stellar populations, dust, ICM gas, etc.
+1. **observe baryons in stars and galaxies** via optical and X-ray emission. counts the photons, and depends on understanding stellar populations, dust, ICM gas, etc.
 2. **quasar absorption spectra**: light from distant quasars is absorbed by intervening hydrogen along the line of sight. the column density of neutral hydrogen depends on the baryon density.
 3. **primordial nucleosynthesis**: the abundances of light nuclei depend strongly on the baryon-to-photon ratio $\eta$ (see [[BBN_overview]]).
 4. **CMB anisotropies**: the height of the acoustic peaks depends on $\Omega_b h^2$ (see [[Cosmic_inventory_photons]]).
 
-methods 3 and 4 are in **excellent agreement** with each other. method 1 historically gave a smaller number, leading to the **missing baryon problem** — about half the baryons were unaccounted for. recent work has located most of them in the **WHIM** (warm-hot intergalactic medium) in filaments connecting galaxies, too cold to emit X-rays brightly.
+methods 3 and 4 are in **excellent agreement** with each other. method 1 historically gave a smaller number, leading to the **missing baryon problem**. about half the baryons were unaccounted for. recent work has located most of them in the **WHIM** (warm-hot intergalactic medium) in filaments connecting galaxies, too cold to emit X-rays brightly.
 
 ![intro-14.png](../../assets/images/intro-14.png)
 
@@ -24,7 +24,7 @@ methods 3 and 4 are in **excellent agreement** with each other. method 1 histori
 from Planck 2018:
 $$\boxed{\,\Omega_b h^2 = 0.0224 \pm 0.0001\,}$$
 
-with $h \approx 0.674$, this gives $\Omega_b \approx 0.049$ — about 5% of the critical density.
+with $h \approx 0.674$, this gives $\Omega_b \approx 0.049$, about 5% of the critical density.
 
 baryon-to-photon ratio: $\eta = n_N/n_\gamma = 2.68 \times 10^{-8}\, (\Omega_b h^2) \approx 6 \times 10^{-10}$. roughly **one nucleon per billion photons**.
 
@@ -32,7 +32,7 @@ baryon-to-photon ratio: $\eta = n_N/n_\gamma = 2.68 \times 10^{-8}\, (\Omega_b h
 
 ## why baryons leave fingerprints on the CMB acoustic peaks
 
-before recombination, baryons and photons were tightly coupled in a single fluid with sound speed $c_s \sim c/\sqrt 3$. small perturbations propagated as acoustic waves with this characteristic speed. when photons free-streamed away at recombination, the baryons were left in standing patterns — the acoustic oscillations imprinted on the CMB sky.
+before recombination, baryons and photons were tightly coupled in a single fluid with sound speed $c_s \sim c/\sqrt 3$. small perturbations propagated as acoustic waves with this characteristic speed. when photons free-streamed away at recombination, the baryons were left in standing patterns, the acoustic oscillations imprinted on the CMB sky.
 
 the height of the first acoustic peak is set by the **baryon loading**:
 - more baryons → heavier "fluid" → lower sound speed
@@ -43,19 +43,25 @@ so reading the relative heights of the peaks gives $\Omega_b h^2$.
 
 ![intro-15.png](../../assets/images/intro-15.png)
 
-a low $\Omega_b h^2 \approx 0.02$ gives a moderate first peak; higher values pump up the first peak relative to the second. fitting the actual measured curve gives $\Omega_b h^2 = 0.0224$.
+a low $\Omega_b h^2 \approx 0.02$ gives a moderate first peak. higher values pump up the first peak relative to the second. fitting the actual measured curve gives $\Omega_b h^2 = 0.0224$.
 
 ---
 
 ## missing baryon problem (sidebar)
 
-direct observations (method 1: counting baryons in stars, galaxies, hot gas) historically yielded only $\sim 2\%$ of the total budget — about half of what BBN (method 3) and the CMB (method 4) demand. these were the **missing baryons** or **dark baryons**.
+direct observations (method 1: counting baryons in stars, galaxies, hot gas) historically yielded only $\sim 2\%$ of the total budget, about half of what BBN (method 3) and the CMB (method 4) demand. these were the **missing baryons** or **dark baryons**.
 
 recent observations have located most of them in **diffuse gas in filaments** connecting galaxies, too cold to emit detectable X-rays directly. read the New Scientist article: [Half the universe's missing matter has just been finally found](https://www.newscientist.com/article/2149742-half-the-universes-missing-matter-has-just-been-finally-found/).
  
 ![intro-39.png](../../assets/images/intro-39.png)
 
 ---
+
+## where it goes wrong
+
+- BBN and the CMB measure the same $\Omega_bh^2$ by different physics, and their agreement is the test.
+- the missing baryons were not missing from the budget, only from the count. they were in warm-hot gas.
+- $\Omega_b$ alone depends on $H_0$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -48,7 +48,7 @@ each is a useful diagnostic in stellar atmospheres for $[Na/H]$, $[K/H]$, etc., 
 
 Na D appears as absorption in stars cooler than $\sim$ G0, becomes very strong in K and M dwarfs (where Na is mostly neutral), then weakens in cooler M giants where molecular bands (TiO, VO) overwhelm it. always in the optical, it is one of the strongest features in cool-star atmospheres.
 
-in hotter stars (B, A, F), Na is mostly ionised; the Na I D lines are weak or absent. so D-line strength **decreases with increasing $T$**.
+in hotter stars (B, A, F), Na is mostly ionised. the Na I D lines are weak or absent. so D-line strength **decreases with increasing $T$**.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

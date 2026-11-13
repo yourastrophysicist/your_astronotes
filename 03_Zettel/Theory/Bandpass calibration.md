@@ -39,7 +39,7 @@ the bandpass has both **amplitude** and **phase** components:
 
 $$B_i(\nu) = \lvert B_i(\nu)\rvert \cdot e^{i \phi_i(\nu)}$$
 
-both vary with frequency. amplitude variations cause spectral-line distortions; phase variations cause spectral-position errors. a good bandpass calibration corrects both.
+both vary with frequency. amplitude variations cause spectral-line distortions. phase variations cause spectral-position errors. a good bandpass calibration corrects both.
 
 ## the bandpass solver
 
@@ -79,7 +79,7 @@ three:
 
 ### 1. wrong calibrator spectrum
 
-if the assumed source spectrum is off by, e.g., 5% at one end of the band, the bandpass solution is biased by that amount. solutions: use the most-recently-measured spectrum; cross-check with multiple calibrators.
+if the assumed source spectrum is off by, e.g., 5% at one end of the band, the bandpass solution is biased by that amount. solutions: use the most-recently-measured spectrum. cross-check with multiple calibrators.
 
 ### 2. RFI in the calibrator data
 
@@ -87,7 +87,7 @@ if the bandpass calibrator data has RFI in some channels, those channels' bandpa
 
 ### 3. variability of calibrator
 
-3C 84 is notoriously variable — useful as a *secondary* calibrator but not primary. for high-precision work, observe a *list* of several bandpass calibrators per session.
+3C 84 is notoriously variable, useful as a *secondary* calibrator but not primary. for high-precision work, observe a *list* of several bandpass calibrators per session.
 
 ## the legacy of poor bandpass
 

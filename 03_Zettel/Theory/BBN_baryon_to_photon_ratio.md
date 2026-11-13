@@ -40,7 +40,7 @@ is **not strictly constant** in time, because $g_{*s}$ changes when species beco
 
 it **is** constant after $e^\pm$ annihilation (which transfers $e^\pm$ entropy to photons at $T \sim m_e/3 \sim 0.5$ MeV). after that, $g_{*s} = $ const and $n_\gamma \propto a^{-3}$ rigorously, so $n_N/n_\gamma$ is conserved.
 
-since BBN happens at $T \sim 0.3$–$0.1$ MeV (well after $e^\pm$ annihilation), we can treat $\eta$ as a constant equal to its present value during all of BBN.
+since BBN happens at $T \sim 0.3$ to $0.1$ MeV (well after $e^\pm$ annihilation), we can treat $\eta$ as a constant equal to its present value during all of BBN.
 
 ![bbn-13.png](../../assets/images/bbn-13.png)
 
@@ -54,18 +54,18 @@ the NSE mass fractions (see [[BBN_NSE_initial_conditions]]) scale as
 $$X_A \propto \eta^{A-1}$$
 
 so for $\eta \sim 10^{-10}$:
-- D ($A = 2$): $X_2 \propto \eta \sim 10^{-10}$ — tiny suppression even when $T \ll B_D$
-- $^4$He ($A = 4$): $X_4 \propto \eta^3 \sim 10^{-30}$ — incredibly suppressed at high T
-- $^{12}$C ($A = 12$): $X_{12} \propto \eta^{11} \sim 10^{-110}$ — utterly negligible
+- D ($A = 2$): $X_2 \propto \eta \sim 10^{-10}$, tiny suppression even when $T \ll B_D$
+- $^4$He ($A = 4$): $X_4 \propto \eta^3 \sim 10^{-30}$, heavily suppressed at high T
+- $^{12}$C ($A = 12$): $X_{12} \propto \eta^{11} \sim 10^{-110}$, negligible
 
 → **even when temperatures fall well below the binding energies, abundances stay tiny because of the small $\eta$.**
 
-despite the binding energies being 1–8 MeV, the NSE abundances of nuclear species reach order unity only well below those binding energies, around 0.3 MeV. this is **due to the very high entropy of the universe** (small $\eta$), not the small binding energy of deuterium directly.
+despite the binding energies being 1-8 MeV, the NSE abundances of nuclear species reach order unity only well below those binding energies, around 0.3 MeV. this is **due to the very high entropy of the universe** (small $\eta$), not the small binding energy of deuterium directly.
 
 a quick estimate: nucleosynthesis is order unity for species $A$ at the temperature
 $$T_{\rm NUCL} \approx \frac{B_A/(A - 1)}{\ln(\eta^{-1}) + 1.5\ln(m_N/T)}$$
 
-so for D one finds $T_{\rm NUCL} \approx 0.07$ MeV; for $^3$He, 0.11 MeV; for $^4$He, 0.28 MeV. all far below the corresponding binding energies.
+so for D one finds $T_{\rm NUCL} \approx 0.07$ MeV, for $^3$He, 0.11 MeV, for $^4$He, 0.28 MeV. all far below the corresponding binding energies.
 
 ---
 
@@ -76,11 +76,19 @@ $\eta$ controls:
 - the final abundance of each light element ($X_A \propto \eta^{A-1}$)
 - the predictions for D/H, $^3$He/H, $^4$He/H, $^7$Li/H
 
-so measuring any one of those abundances precisely fixes $\eta$ — and hence $\Omega_b h^2$. this is method 3 in [[Cosmic_inventory_baryons]].
+so measuring any one of those abundances precisely fixes $\eta$, and hence $\Omega_b h^2$. this is method 3 in [[Cosmic_inventory_baryons]].
 
 agreement of $\Omega_b h^2$ from BBN with $\Omega_b h^2$ from CMB peaks is one of the great validations of the standard model.
 
 ---
+
+## worked example
+
+$\eta = 2.74 \times 10^{-8}\,\Omega_bh^2$. with $\Omega_bh^2 = 0.0224$, $\eta = 6.1 \times 10^{-10}$.
+
+## where it goes wrong
+
+- $\eta$ is constant only after electron-positron annihilation.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

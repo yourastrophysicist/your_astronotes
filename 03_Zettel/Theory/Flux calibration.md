@@ -44,7 +44,7 @@ at NIR wavelengths and in narrow optical bands, **atmospheric absorption lines**
 
 ## relative vs absolute flux calibration
 
-for many science cases (line ratios, equivalent widths, redshift identification), only the *shape* of the spectrum matters; the absolute scale cancels out. relative calibration is much easier than absolute:
+for many science cases (line ratios, equivalent widths, redshift identification), only the *shape* of the spectrum matters. the absolute scale cancels out. relative calibration is much easier than absolute:
 - divide each spectrum by a smooth low-order polynomial $\to$ continuum-normalised.
 - ratios of lines are correctly preserved.
 

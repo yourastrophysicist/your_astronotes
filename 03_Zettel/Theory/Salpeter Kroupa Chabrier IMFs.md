@@ -27,7 +27,7 @@ M^{-2.3}, & 0.5 < M/M_\odot.
 \end{cases}
 $$
 
-the high-mass segment recovers salpeter; the low-mass slope is much shallower; the substellar segment (brown dwarfs) is nearly flat. the break at $0.5\,M_\odot$ is the empirical "low-mass turnover" of the IMF.
+the high-mass segment recovers salpeter. the low-mass slope is much shallower. the substellar segment (brown dwarfs) is nearly flat. the break at $0.5\,M_\odot$ is the empirical "low-mass turnover" of the IMF.
 
 **Chabrier (2003) lognormal + power-law**
 
@@ -47,7 +47,7 @@ with $M_c \approx 0.22\,M_\odot$ (system) or $0.08\,M_\odot$ (single stars) and 
 
 - at $M \gtrsim 1\,M_\odot$: all three agree, salpeter slope.
 - at $M \sim 0.1\text{--}1\,M_\odot$: kroupa is slightly bottom-heavier than chabrier, because the broken power-law has a sharper transition.
-- at $M \lesssim 0.1\,M_\odot$ (substellar): kroupa flattens, chabrier rolls over via the lognormal; data are sparse and JWST is now extending direct counts down to $\sim 5\,M_{\text{Jup}}$ in young clusters (e.g. trapezium).
+- at $M \lesssim 0.1\,M_\odot$ (substellar): kroupa flattens, chabrier rolls over via the lognormal. data are sparse and JWST is now extending direct counts down to $\sim 5\,M_{\text{Jup}}$ in young clusters (e.g. trapezium).
 
 **which to use?**
 

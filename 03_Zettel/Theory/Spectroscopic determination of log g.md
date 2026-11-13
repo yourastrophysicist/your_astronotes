@@ -24,7 +24,7 @@ classic gravity diagnostics:
 
 - **Mg I b triplet** at 5167-5183 Å: dominant pressure-broadened lines in FGK dwarfs.
 - **Ca I 6162** and other strong neutral metal lines.
-- **H Balmer wings** (H$\alpha$ wings for hot stars; in dwarfs H$\beta$ and H$\gamma$ are usable).
+- **H Balmer wings** (H$\alpha$ wings for hot stars, in dwarfs H$\beta$ and H$\gamma$ are usable).
 - **Ca II H & K** in solar-type and metal-rich stars.
 
 for white dwarfs, Stark-broadened H Balmer lines give $\log g$ to $\sim 0.05$ dex, since the wings sit on extreme damping at $\log g \sim 8$.
@@ -33,7 +33,7 @@ for white dwarfs, Stark-broadened H Balmer lines give $\log g$ to $\sim 0.05$ de
 
 scaling relations from solar-like oscillations give
 $$g \propto \nu_{\rm max}\sqrt{T_{\rm eff}}$$
-to $\sim 0.05$ dex precision, calibrated against the sun. with Kepler/TESS this is now the gold standard for FGK giants and dwarfs.
+to $\sim 0.05$ dex precision, calibrated against the sun. with Kepler/TESS this is now the standard for FGK giants and dwarfs.
 
 ## 4. parallax + photometry (the "Gaia gravity")
 

@@ -8,7 +8,7 @@ every matrix $A$ (square or rectangular) factors as
 
 $$A = QR$$
 
-with $Q$ **orthogonal** ($Q^T Q = I$) and $R$ upper triangular. the columns of $Q$ are an orthonormal basis for the column space of $A$. for symmetric matrices this factorization is the foundation of the [[QR algorithm for eigenvalues]]; for rectangular matrices it is the cleanest way to do least squares.
+with $Q$ **orthogonal** ($Q^T Q = I$) and $R$ upper triangular. the columns of $Q$ are an orthonormal basis for the column space of $A$. for symmetric matrices this factorization is the foundation of the [[QR algorithm for eigenvalues]]. for rectangular matrices it is the cleanest way to do least squares.
 
 ## why orthogonal matrices are special
 
@@ -28,7 +28,7 @@ so
 
 $$A = (\mathbf{a}_0\, \mathbf{a}_1\, \cdots\, \mathbf{a}_{N-1}) = (\mathbf{q}_0\, \mathbf{q}_1\, \cdots\, \mathbf{q}_{N-1}) \begin{pmatrix} \\lvert \mathbf{u}_0\\rvert & \mathbf{q}_0\cdot\mathbf{a}_1 & \mathbf{q}_0\cdot\mathbf{a}_2 & \cdots \\ 0 & \\lvert \mathbf{u}_1\\rvert & \mathbf{q}_1\cdot\mathbf{a}_2 & \cdots \\ 0 & 0 & \\lvert \mathbf{u}_2\\rvert & \cdots \\ \vdots & & & \ddots \end{pmatrix} = QR$$
 
-with $R$ explicitly upper triangular. the diagonal of $R$ is the lengths $\\lvert \mathbf{u}_i\\rvert$ before normalization; the off-diagonal entries are projections.
+with $R$ explicitly upper triangular. the diagonal of $R$ is the lengths $\\lvert \mathbf{u}_i\\rvert$ before normalization. the off-diagonal entries are projections.
 
 ## python (production)
 
@@ -41,9 +41,9 @@ Q, R = np.linalg.qr(A)
 
 ## the three flavors
 
-- **classical Gram-Schmidt**: as above. simple, but unstable in floating point — the orthogonality of the later $\mathbf{q}_i$ degrades because the $\mathbf{u}_i$ have lost orthogonality from accumulated roundoff
+- **classical Gram-Schmidt**: as above. simple, but unstable in floating point, the orthogonality of the later $\mathbf{q}_i$ degrades because the $\mathbf{u}_i$ have lost orthogonality from accumulated roundoff
 - **modified Gram-Schmidt**: subtract projections one at a time, updating $\mathbf{u}_i$ as I go. mathematically equivalent, much more stable
-- **Householder reflections**: build $Q$ as a product of reflection matrices that zero out one column at a time. the gold standard, what LAPACK uses
+- **Householder reflections**: build $Q$ as a product of reflection matrices that zero out one column at a time. the standard, what LAPACK uses
 
 ## complexity
 
@@ -93,7 +93,7 @@ QR is the matrix-level statement of Gram-Schmidt. seeing both side by side:
 - [[Gram-Schmidt orthogonalization]]
 - [[QR algorithm for eigenvalues]]
 - [[Power iteration]]
-- [[Linear least squares]] — uses QR internally
+- [[Linear least squares]] - uses QR internally
 - [[Mathematical_Numerical_Methods_MOC]]
 
 

@@ -60,11 +60,11 @@ unphysical (universe is not empty). but useful as a reference + asymptotic limit
 
 alternative to Big Bang:
 - universe expands but **continuously creates** new matter to maintain constant density.
-- no Big Bang; eternal universe.
+- no Big Bang. eternal universe.
 - predicts no CMB.
 
 **ruled out** by:
-- discovery of CMB (1965) — predicted by Big Bang only.
+- discovery of CMB (1965), predicted by Big Bang only.
 - BBN abundances ($^4$He primordial fraction).
 - evolution of QSO + galaxy populations.
 
@@ -78,14 +78,19 @@ the standard model:
 
 fits **all** current cosmological data (CMB, SN Ia, BAO, weak lensing, BBN). still has open issues (Hubble tension, $\sigma_8$ tension, possible $w \ne -1$).
 
-## comparison: matter-only vs $\Lambda$CDM at high $z$
+## comparison - matter-only vs $\Lambda$CDM at high $z$
 
 at small $z$, EdS + $\Lambda$CDM agree.
 at high $z$ ($z \gtrsim 0.5$): $\Lambda$CDM predicts SN Ia **fainter** than EdS would, due to:
 - larger comoving distance (for same $z$).
 - corresponding larger $d_L$.
 
-this is the SN Ia signature that revolutionised cosmology in 1998.
+this is the SN Ia signature that changed cosmology in 1998.
+
+## where it goes wrong
+
+- models with the same $q_0$ can have very different histories.
+- the steady state model was ruled out by the CMB and by radio source counts.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

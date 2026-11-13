@@ -57,7 +57,7 @@ ejecta still optically dominant. spectra show **abundance signatures of nucleosy
 
 modern X-ray + optical mapping reveals the spatial structure of the explosion and the progenitor type.
 
-## the Crab Nebula, M1: the special case
+## the Crab Nebula, M1 - the special case
 
 a young SNR (937 yr old, observed in 1054 AD) with a **central pulsar** (PSR B0531+21). the Crab Nebula's emission has two components:
 - **synchrotron**: powered by the pulsar wind, dominates from radio to gamma-ray.

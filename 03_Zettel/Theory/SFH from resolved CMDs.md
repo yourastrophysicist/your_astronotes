@@ -15,18 +15,18 @@ this is the most direct and least model-dependent way to measure a galaxy's SFH.
 ## the CMD features that matter
 
 - **main-sequence turnoff**: where stars leave the MS, sensitive to age via the mass of the turnoff star. $M_{\text{TO}}(t) \propto t^{-0.4}$. this is the primary age diagnostic
-- **subgiant branch**: short-lived, sharp in the CMD; anchors intermediate ages
+- **subgiant branch**: short-lived, sharp in the CMD. anchors intermediate ages
 - **red clump / horizontal branch**: sensitive to both age and metallicity, useful for distinguishing old populations
-- **AGB**: intermediate-age stars ($\sim 1$–$3$ Gyr) dominate here. strong in starbursts with recent SF
+- **AGB**: intermediate-age stars ($\sim 1$ to $3$ Gyr) dominate here. strong in starbursts with recent SF
 - **RGB tip**: standard distance indicator ($M_I = -4.05$), essentially mass-independent
 
 ## the Pablo examples
 
 - **Ferguson 2002** shows M31 CMD regions: Blue RGB, Red RGB, AGB, foreground. delineating these by colour-magnitude cuts lets you separate old from intermediate populations
-- **Tolstoy et al. 2009** review: uses simulated CMDs with age tagging (blue $< 0.1$ Gyr, green $0.1$–$1$ Gyr, black $1$–$3$ Gyr, red $> 3$ Gyr) to show how each age component populates different CMD regions
+- **Tolstoy et al. 2009** review: uses simulated CMDs with age tagging (blue $< 0.1$ Gyr, green $0.1$ to $1$ Gyr, black $1$ to $3$ Gyr, red $> 3$ Gyr) to show how each age component populates different CMD regions
 - **Harris & Zaritsky 2004** reconstruct the SMC SFH spatially across the whole galaxy: the map shows recent ($< 0.1$ Gyr) SF concentrated in the central bar, older SF more smoothly distributed. gives $\psi(t, \vec{r})$, not just $\psi(t)$
 
-## method: synthetic CMD fitting
+## method - synthetic CMD fitting
 
 1. build synthetic CMDs from SSPs across a fine grid of age and metallicity
 2. weight them by an assumed $\psi(t)$ and $Z(t)$
@@ -41,7 +41,11 @@ codes: MATCH (Dolphin), StarFISH, IAC-POP.
 - **crowding**: in galaxy centres, blending wrecks photometry. periphery regions work better
 - **age-metallicity degeneracy**: reducing it requires deep photometry through the MS turnoff
 
-the technique is extremely powerful for the Local Group (LMC/SMC, M31, dSphs) but cannot be applied to the bulk of the cosmic galaxy population. for that, see [[SED fitting for SFH]].
+the technique is extremely useful for the Local Group (LMC/SMC, M31, dSphs) but cannot be applied to the bulk of the cosmic galaxy population. for that, see [[SED fitting for SFH]].
+
+## where it goes wrong
+
+- the oldest ages are uncertain because the old turnoffs are faint and crowded.
 
 ## connections
 

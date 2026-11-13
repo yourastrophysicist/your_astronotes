@@ -36,7 +36,7 @@ the two curves are *closest* at $M_h \sim 10^{12}\,M_\odot$, which corresponds t
 galaxy formation is not a passive process where each halo collects baryons and turns them into stars. it is *throttled* by feedback at both ends:
 
 - below $M_h \sim 10^{12}\,M_\odot$: SN winds blow gas out
-- above $M_h \sim 10^{12}\,M_\odot$: virial shocks heat infalling gas above the cooling radiation threshold; AGN feedback keeps it hot
+- above $M_h \sim 10^{12}\,M_\odot$: virial shocks heat infalling gas above the cooling radiation threshold. AGN feedback keeps it hot
 
 at $M_h \sim 10^{12}\,M_\odot$ neither feedback channel dominates and gas can cool, fragment, and form stars efficiently. this is the **golden mass** for galaxy formation.
 
@@ -44,11 +44,15 @@ at $M_h \sim 10^{12}\,M_\odot$ neither feedback channel dominates and gas can co
 
 modern galaxy formation simulations (IllustrisTNG, EAGLE, SIMBA) tune their feedback subgrid prescriptions to *reproduce* the SMF given the HMF. that is how feedback parameters are calibrated. then the prediction is everything else (color bimodality, scaling relations, scaling of feedback with $z$).
 
+## where it goes wrong
+
+- the halo function is steeper at low mass than the galaxy function. feedback must suppress star formation in small halos.
+
 ## connections
 
 - mechanism: [[Halo gravity suppression of galaxy formation]]
 - the canonical figure: [[Stellar-to-halo mass ratio]]
-- both functions: [[Stellar mass function]] and (course block 8) Press–Schechter formalism
+- both functions: [[Stellar mass function]] and (course block 8) Press-Schechter formalism
 - big-picture course context: [[Observational_Cosmology_MOC]] block 10
 
 ## key references

@@ -4,7 +4,7 @@ title: "Stellar mass function xi(M)"
 ---
 the **stellar mass function** $\xi(M)$ is the number of stars per unit mass interval. it is the single most important statistic linking star formation to galaxy and [[Globular Clusters\|cluster]] evolution, because almost every observable (luminosity, colour, chemical yield, supernova rate, [[Black holes in globular clusters\|black hole]] population) depends on how many stars formed at each mass.
 
-(note: this zettel covers the stellar IMF $\xi(M)$. for the integrated galaxy stellar-mass distribution $\phi(M_*)$, see [[Stellar mass function]] (Schechter form for galaxies); the two are distinct objects with similar names.)
+(note: this zettel covers the stellar IMF $\xi(M)$. for the integrated galaxy stellar-mass distribution $\phi(M_*)$, see [[Stellar mass function]] (Schechter form for galaxies), the two are distinct objects with similar names.)
 
 **linear and logarithmic forms**
 
@@ -37,7 +37,7 @@ so observed cluster PDMFs cannot be naively interpreted as IMFs. recovering the 
 
 - determines the **total number of supernovae and remnants** per unit star formation,
 - sets the **mass-to-light ratio** $M/L$ used to convert observed luminosities to stellar masses for galaxies,
-- controls **chemical yields** (massive stars produce $\alpha$-elements; intermediate-mass stars produce s-process and CN),
+- controls **chemical yields** (massive stars produce $\alpha$-elements, intermediate-mass stars produce s-process and CN),
 - controls the [[Cosmic star formation history\|cosmic SFH]] inversion from luminosity functions.
 
 **universality (or not)**
@@ -55,10 +55,10 @@ precision tests use [[IMF from cluster luminosity functions\|cluster LFs]], inte
 
 ## reference papers
 
-- **Salpeter 1955, ApJ 121, 161** — original power-law IMF.
-- **Kroupa 2001, MNRAS 322, 231** — broken power-law IMF.
-- **Chabrier 2003, PASP 115, 763** — lognormal IMF.
-- **Cordoni et al. 2023, A&A 677, A30** — segmented IMF in 78 Gaia DR3 open clusters.
+- **Salpeter 1955, ApJ 121, 161** - original power-law IMF.
+- **Kroupa 2001, MNRAS 322, 231** - broken power-law IMF.
+- **Chabrier 2003, PASP 115, 763** - lognormal IMF.
+- **Cordoni et al. 2023, A&A 677, A30** - segmented IMF in 78 Gaia DR3 open clusters.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

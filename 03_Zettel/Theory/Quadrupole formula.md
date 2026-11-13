@@ -37,7 +37,7 @@ so the **lowest non-trivial multipole** is the **quadrupole**. unlike electromag
 
 so GW emission is **higher-order** than EM emission in some sense. consequence: GW emission rates from typical motions are very small.
 
-## the radiated power: Einstein quadrupole formula
+## the radiated power - Einstein quadrupole formula
 
 total power radiated as GW:
 $$P_{\rm GW} = \frac{G}{5 c^5}\langle\dddot Q^{TT}_{ij}\dddot Q^{TT, ij}\rangle$$
@@ -57,7 +57,7 @@ $$t_{\rm coalesce} = \frac{5}{256}\frac{c^5 a_0^4}{G^3 m_1 m_2(m_1 + m_2)}$$
 
 for the GW150914-like binary BH (each $\sim 30\,M_\odot$, separation $\sim 10$ Schwarzschild radii initially): coalescence time is tens of milliseconds.
 
-## frequency evolution: the chirp
+## frequency evolution - the chirp
 
 as the binary inspirals, both **orbital frequency** and **GW frequency** (twice the orbital frequency for the dominant mode) increase. the characteristic **chirp** signal: frequency rises monotonically from $\sim 10$ Hz to $\sim$ kHz over the last seconds of inspiral. LIGO sensitivity range.
 

@@ -4,7 +4,7 @@ title: "Guide stars and laser guide stars"
 ---
 # Guide stars and laser guide stars
 
-AO needs a bright reference object to measure the wavefront in real time. natural stars are limited in number; lasers create artificial reference points. the combination of natural + laser guide stars is what extends AO to sky-coverage of ~50% (visible) to ~100% (IR).
+AO needs a bright reference object to measure the wavefront in real time. natural stars are limited in number. Lasers create artificial reference points. the combination of natural + laser guide stars is what extends AO to sky-coverage of ~50% (visible) to ~100% (IR).
 
 ## natural guide stars (NGS)
 
@@ -34,8 +34,8 @@ advantages:
 - **multiple LGSs possible**: large fields with multiple LGSs for tomographic AO
 
 limitations:
-- **doesn't measure tip-tilt**: the laser comes back along the *same* path it went out. atmospheric tilt acts twice and cancels — the LGS *cannot* see image motion. a faint NGS within $\theta_0$ is still needed for tilt
-- **cone effect**: the laser samples a cone of atmosphere converging to 90 km. higher-altitude turbulence is sampled in a cone narrower than the science cone. mismatch grows with telescope diameter — the cone effect limits LGS AO to $D \lesssim 8$ m. for ELTs, multiple LGSs are needed
+- **doesn't measure tip-tilt**: the laser comes back along the *same* path it went out. atmospheric tilt acts twice and cancels, the LGS *cannot* see image motion. a faint NGS within $\theta_0$ is still needed for tilt
+- **cone effect**: the laser samples a cone of atmosphere converging to 90 km. higher-altitude turbulence is sampled in a cone narrower than the science cone. mismatch grows with telescope diameter, the cone effect limits LGS AO to $D \lesssim 8$ m. for ELTs, multiple LGSs are needed
 - **finite altitude**: the LGS is at finite distance (~90 km), so it produces a *spherical wavefront*, not the plane wavefront from a true infinite-distance star. small correction, handled in software
 
 ## the Rayleigh laser guide star
@@ -88,7 +88,7 @@ the mesospheric sodium layer's column density varies by factor of 2-3 over a yea
 
 ## interferometric application
 
-VLTI's GRAVITY+ uses LGS to enable AO on every UT baseline. previously, GRAVITY needed bright (V < 11) NGS for fringe tracking and AO; with LGS, this requirement relaxes to fainter targets, dramatically expanding what targets are accessible.
+VLTI's GRAVITY+ uses LGS to enable AO on every UT baseline. previously, GRAVITY needed bright (V < 11) NGS for fringe tracking and AO. With LGS, this requirement relaxes to fainter targets, dramatically expanding what targets are accessible.
 
 CHARA does not have LGS but is also looking at such upgrades.
 

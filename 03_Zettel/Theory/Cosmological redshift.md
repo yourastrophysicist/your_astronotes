@@ -13,7 +13,7 @@ $$\boxed{\, \frac{\lambda_{\rm obs}}{\lambda_{\rm emit}} = 1 + z = \frac{a(t_0)}
 
 (using the convention $a(t_0) = 1$.)
 
-so a photon emitted at $z = 1$ has its wavelength doubled by today; emitted at $z = 4$, increased by factor $5$.
+so a photon emitted at $z = 1$ has its wavelength doubled by today. emitted at $z = 4$, increased by factor $5$.
 
 ## the derivation
 
@@ -39,7 +39,7 @@ cosmological redshift is **not** a true Doppler shift (which arises from relativ
 
 at low $z$ ($v \ll c$), the cosmological-redshift formula reduces to the Doppler $z \approx v/c$, which is why people often call it "recession velocity." but at $z \gtrsim 1$, "$v = cz$" gives unphysical $v > c$. the proper relation is $1 + z = a_0/a_e$, with no velocity interpretation.
 
-## consequence: photons lose energy
+## consequence - photons lose energy
 
 with $\nu = c/\lambda$:
 $$\nu_o = \nu_e/(1 + z)$$
@@ -64,6 +64,12 @@ once you measure $z$ from a spectrum (line shifts), you know:
 - **comoving distance**: $d_C(z) = c\int_0^z dz'/H(z')$ (depends on cosmology).
 
 so a single number $z$ is the **time stamp** of cosmological observations.
+
+## where it goes wrong
+
+- the redshift does not give the speed at emission in any meaningful way at high $z$.
+- it gives the ratio of scale factors, and nothing else, unless a model is assumed.
+- gravitational redshift and Doppler shift add on top, at the level of $10^{-3}$ for galaxies.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

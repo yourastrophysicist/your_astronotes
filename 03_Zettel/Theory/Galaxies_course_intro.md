@@ -38,7 +38,7 @@ what's distinctive is the **bridge**: connecting the photometric / spectroscopic
 ## the big results
 
 what students should be able to defend by exam day:
-1. **galaxy bimodality**: red sequence vs blue cloud; what drives the divide.
+1. **galaxy bimodality**: red sequence vs blue cloud. what drives the divide.
 2. **morphology-color-mass-environment** correlations.
 3. **scaling relations**: Tully-Fisher (spirals), Faber-Jackson + Fundamental Plane (ellipticals).
 4. **dark matter** in spirals (rotation curves), ellipticals (X-ray + tracers), dwarfs (high $M/L$), clusters (lensing + virial).

@@ -18,7 +18,7 @@ note the **minus** sign. covectors transform inversely to vectors, hence the opp
 
 ## the rule for higher-rank tensors
 
-each upper index gets a $+\Gamma$ correction; each lower index gets a $-\Gamma$. example for a $(1, 1)$-tensor:
+each upper index gets a $+\Gamma$ correction. each lower index gets a $-\Gamma$. example for a $(1, 1)$-tensor:
 $$\nabla_\mu T^\nu{}_\rho = \partial_\mu T^\nu{}_\rho + \Gamma^\nu{}_{\mu\sigma}T^\sigma{}_\rho - \Gamma^\sigma{}_{\mu\rho}T^\nu{}_\sigma$$
 
 each tensor index brings one Christoffel correction with appropriate sign.
@@ -28,7 +28,7 @@ each tensor index brings one Christoffel correction with appropriate sign.
 - **linear**: $\nabla(aA + bB) = a\nabla A + b\nabla B$ for constants $a, b$.
 - **Leibniz**: $\nabla(A\otimes B) = (\nabla A)\otimes B + A\otimes(\nabla B)$.
 - **respects contractions**: $\nabla(\delta^\mu_\nu) = 0$.
-- **on scalars**: $\nabla_\mu \phi = \partial_\mu \phi$ (no Christoffel needed; scalars are tensors of rank 0).
+- **on scalars**: $\nabla_\mu \phi = \partial_\mu \phi$ (no Christoffel needed, scalars are tensors of rank 0).
 - **metric compatibility**: $\nabla_\rho g_{\mu\nu} = 0$ (see [[Metric compatibility]]).
 
 ## why we need it

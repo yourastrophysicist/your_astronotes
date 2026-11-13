@@ -15,16 +15,12 @@ invented by Mach (1891) and Zehnder (1892) independently. now standard in optics
 
 four optical elements arranged in a rectangle:
 
-```
-        BS1 ──── M2
-         │       │
-         │       │
-        M1 ──── BS2 ── outputs
-```
+![Mach-zender-interferometer](../../assets/images/commons_Mach-zender-interferometer.png)
+*Working scheme of a Mach-Zehnder interferometer, two beam splitters and two mirrors. Image: Daniel Mader, CC BY-SA 3.0 / GFDL, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mach-zender-interferometer.png).*
 
 light from the source hits BS1 (first beam splitter), which sends 50% along arm 1 (to M1) and 50% along arm 2 (to M2). each mirror reflects to BS2 (second beam splitter), where the two beams recombine and exit through *two* output ports.
 
-unlike Michelson, light does *not* return toward the source — the input port and output ports are physically distinct.
+unlike Michelson, light does *not* return toward the source, the input port and output ports are physically distinct.
 
 ## the two outputs
 
@@ -56,7 +52,7 @@ for single photons:
 - detection of the photon at output 1 vs output 2 reveals the OPD
 
 key applications:
-- **Hong-Ou-Mandel experiment** (1987): two photons interfering at a beam splitter; never come out the same port. demonstrates quantum-entangled photon pairs
+- **Hong-Ou-Mandel experiment** (1987): two photons interfering at a beam splitter. Never come out the same port. demonstrates quantum-entangled photon pairs
 - **delayed-choice experiments**: choose to insert/remove BS2 *after* the photon has entered the device. the photon's behavior depends on whether it's measured as wave or particle
 - **quantum cryptography (BB84 + variants)**: Mach-Zehnder loops for generating and verifying quantum states
 
@@ -78,7 +74,7 @@ modern photonic-integrated chips have Mach-Zehnder structures *etched* onto sili
 - optical computing (logic gates from MZI arrays)
 - biosensors (one arm interrogates a biological sample)
 
-these can have arms only millimeters long — but the principle is identical to the bench-top original.
+these can have arms only millimeters long, but the principle is identical to the bench-top original.
 
 ## the modern stellar use
 
@@ -100,7 +96,7 @@ so Mach-Zehnder is *the* architecture for modern infrared interferometry, just s
 | quantum-optics use | sometimes | dominant choice |
 | modern descendant | LIGO | photonic chips, GRAVITY |
 
-both are first-class amplitude-division interferometers; the choice depends on whether you want both outputs.
+both are first-class amplitude-division interferometers. the choice depends on whether you want both outputs.
 
 ## see also
 

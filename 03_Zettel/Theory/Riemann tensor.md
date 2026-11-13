@@ -2,7 +2,7 @@
 layout: "default"
 title: "Riemann tensor"
 ---
-the **Riemann tensor** $R^\rho{}_{\sigma\mu\nu}$ is the **true curvature of a manifold**. it answers: if I parallel-transport a vector around a tiny closed loop, does it come back unchanged? in flat space yes; in curved space no. Riemann measures the difference.
+the **Riemann tensor** $R^\rho{}_{\sigma\mu\nu}$ is the **true curvature of a manifold**. it answers: if I parallel-transport a vector around a tiny closed loop, does it come back unchanged? in flat space yes. in curved space no. Riemann measures the difference.
 
 ## the formula
 
@@ -36,9 +36,9 @@ so Riemann is the **invariant** test of curvature. a metric like $ds^2 = dr^2 + 
 
 $R_{\rho\sigma\mu\nu} = g_{\rho\alpha}R^\alpha{}_{\sigma\mu\nu}$. has more symmetries (see [[Riemann tensor symmetries]]).
 
-## the operational interpretation: tidal forces
+## the operational interpretation - tidal forces
 
-Riemann gives the **relative acceleration** of two nearby free-falling test particles. two geodesics initially parallel (equal velocities) but at slightly different positions don't stay parallel; they accelerate relative to each other due to **geodesic deviation**:
+Riemann gives the **relative acceleration** of two nearby free-falling test particles. two geodesics initially parallel (equal velocities) but at slightly different positions don't stay parallel. They accelerate relative to each other due to **geodesic deviation**:
 $$\frac{D^2 \xi^\mu}{D\tau^2} = -R^\mu{}_{\nu\rho\sigma}u^\nu u^\rho \xi^\sigma$$
 
 with $\xi^\mu$ the separation vector and $u^\mu$ the four-velocity. this is the GR version of **tidal force**: the moon's tide on Earth is geodesic deviation due to spatial curvature.

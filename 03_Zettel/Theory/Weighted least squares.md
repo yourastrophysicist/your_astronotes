@@ -26,7 +26,7 @@ $$\ln L = -\tfrac12 \sum \frac{(y_i - f_i)^2}{\sigma_i^2} + \text{const}$$
 
 so maximizing the likelihood = minimizing weighted $\chi^2$. precision weighting is the maximum-likelihood estimator for the parameters.
 
-without weighting, we are *implicitly* assuming all $\sigma_i$ are equal — an assumption that is wrong whenever errors vary across the dataset.
+without weighting, we are *implicitly* assuming all $\sigma_i$ are equal, an assumption that is wrong whenever errors vary across the dataset.
 
 ## python implementation
 
@@ -48,7 +48,7 @@ from scipy.optimize import curve_fit
 popt, pcov = curve_fit(f, x, y, sigma=sigma, absolute_sigma=True)
 ```
 
-`absolute_sigma=True` is **critical**: it tells curve_fit to trust the input $\sigma_i$ and use them as absolute uncertainties. without it, curve_fit rescales the errors based on the fit residuals — which silently changes the meaning of the parameter uncertainties.
+`absolute_sigma=True` is **critical**: it tells curve_fit to trust the input $\sigma_i$ and use them as absolute uncertainties. without it, curve_fit rescales the errors based on the fit residuals, which silently changes the meaning of the parameter uncertainties.
 
 set `absolute_sigma=False` (the default!) only when:
 - the input $\sigma_i$ are *relative* (correct shape but unknown scale)
@@ -56,13 +56,13 @@ set `absolute_sigma=False` (the default!) only when:
 
 most physics applications need `absolute_sigma=True` since I do know my error bars.
 
-## error propagation: the parameter covariance
+## error propagation - the parameter covariance
 
 the covariance of the fitted parameters:
 
 $$\text{Cov}(\boldsymbol\theta) = (A^T W A)^{-1}$$
 
-(this assumes $\sigma_i$ are correct; if they are not, multiply by $\chi^2_\nu$). the diagonal gives 1$\sigma$ uncertainties on each $\theta_k$:
+(this assumes $\sigma_i$ are correct, if they are not, multiply by $\chi^2_\nu$). the diagonal gives 1$\sigma$ uncertainties on each $\theta_k$:
 
 $$\delta\theta_k = \sqrt{\text{Cov}_{kk}}$$
 
@@ -103,7 +103,7 @@ and rescale parameter uncertainties by $\hat\sigma$.
 
 ### outliers
 
-a single bad point with overestimated precision (small $\sigma_i$) can *dominate* the fit in WLSQ — the precision weighting amplifies it. always check residuals for outliers and consider sigma-clipping or robust loss functions.
+a single bad point with overestimated precision (small $\sigma_i$) can *dominate* the fit in WLSQ, the precision weighting amplifies it. always check residuals for outliers and consider sigma-clipping or robust loss functions.
 
 ### correlated errors
 

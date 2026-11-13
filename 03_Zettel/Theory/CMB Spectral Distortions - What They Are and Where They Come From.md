@@ -42,7 +42,7 @@ each interaction has a temperature below which it can no longer keep up with the
 
 **number-changing freeze-out**, $z_{\rm therm} \approx 2 \times 10^6$. double Compton + bremsstrahlung scale steeply with density (and therefore with redshift), and they decouple before Compton does. below this redshift, photon number per comoving volume is essentially fixed, even if Compton scattering still works.
 
-**Compton freeze-out**, $z_K \approx 5 \times 10^4$. Compton scattering itself becomes inefficient; the photon-electron system can no longer share energy. below this redshift, the photon spectrum is essentially frozen (apart from line-of-sight effects like the SZ effect through clusters).
+**Compton freeze-out**, $z_K \approx 5 \times 10^4$. Compton scattering itself becomes inefficient. the photon-electron system can no longer share energy. below this redshift, the photon spectrum is essentially frozen (apart from line-of-sight effects like the SZ effect through clusters).
 
 these two scales carve the post-thermalisation history into three eras:
 
@@ -52,7 +52,7 @@ these two scales carve the post-thermalisation history into three eras:
 | $\mu$-era | $5\times 10^4 < z < 2\times 10^6$ | Compton only ($n_\gamma$ frozen) | $\mu$-distortion |
 | $y$-era | $z < 5\times 10^4$ | nothing in equilibrium | $y$-distortion |
 
-the existence of these three regimes is exactly what makes spectral distortions a redshift-resolved probe. an injection at $z = 10^7$ leaves no trace; at $z = 10^5$ it leaves a $\mu$; at $z = 10^3$ it leaves a $y$. the *shape* of the residual tells you when.
+the existence of these three regimes is exactly what makes spectral distortions a redshift-resolved probe. an injection at $z = 10^7$ leaves no trace, at $z = 10^5$ it leaves a $\mu$, at $z = 10^3$ it leaves a $y$. the *shape* of the residual tells you when.
 
 ---
 
@@ -98,7 +98,7 @@ $$\frac{\partial f}{\partial y} = \frac{1}{x^2}\frac{\partial}{\partial x}\left[
 with $x = h\nu/k_BT_\gamma$ and the **Compton $y$-parameter**
 $$y = \int \frac{k_B(T_e - T_\gamma)}{m_ec^2}\, n_e \sigma_T c\, dt$$
 
-physically, $y$ is the optical-depth-weighted measure of how much energy hot electrons can dump into the photon bath via repeated scattering. (it appears as an integrated quantity along the line of sight when the SZ effect is observed through galaxy clusters; this is the same parameter, evaluated cosmologically rather than for a single cluster.)
+physically, $y$ is the optical-depth-weighted measure of how much energy hot electrons can dump into the photon bath via repeated scattering. (it appears as an integrated quantity along the line of sight when the SZ effect is observed through galaxy clusters. this is the same parameter, evaluated cosmologically rather than for a single cluster.)
 
 ### shape of the spectrum
 
@@ -174,7 +174,7 @@ Baumann does not derive $\mu$ or $y$ explicitly (he stops at the equilibrium fra
 
 ---
 
-## TL;DR
+## in short
 
 start with $f = 1/(e^{h\nu/k_BT}-1)$, the equilibrium photon distribution Baumann derives in §3.2.1. it is a one-parameter family. for the spectrum to remain Planckian, both photon-number-changing processes (double Compton, bremsstrahlung) and photon-energy-redistributing processes (Compton scattering) must be in equilibrium with the expansion. they fail at different redshifts:
 
@@ -185,7 +185,7 @@ current bounds (FIRAS): $\Delta I/I < 10^{-4}$, $\mu/T < 9\times 10^{-5}$, $y < 
 
 the standard $\Lambda$CDM prediction (Silk damping plus baryon adiabatic cooling) is $\mu/T \sim 2\times 10^{-8}$ and $y \sim 10^{-6}$. detecting either at the standard-model level, with PIXIE or a Voyage 2050 candidate, would open a window onto $z \sim 10^4$ to $10^6$ that no other observation can probe, and would directly measure the primordial power spectrum across four decades of $k$ that no CMB-anisotropy or Lyman-$\alpha$ measurement can reach.
 
-this is exactly the kind of "the universe as a precision instrument" physics that the courses keep returning to. the Planck distribution is not just an answer; it is the *baseline* against which every subtle deviation is read.
+this is exactly the kind of "the universe as a precision instrument" physics that the courses keep returning to. the Planck distribution is more than an answer. it is the *baseline* against which every subtle deviation is read.
 
 ---
 
@@ -199,16 +199,16 @@ this is exactly the kind of "the universe as a precision instrument" physics tha
 
 ## see also
 
-- [[Cosmic_inventory_photons]] — parent note with the boxed bounds
-- [[Cosmic_inventory_photons_derivation]] — derivation of $n_\gamma$, $\rho_\gamma$, $\Omega_{0\gamma}$
-- [[Photon decoupling and CMB]] — how the CMB temperature today is set
-- [[Thermal equilibrium in the early universe]] — Bose-Einstein and Fermi-Dirac framework
-- [[Number density and energy density at thermal equilibrium]] — relativistic-limit formulae
-- [[Conservation of entropy in a comoving volume]] — the $T \propto 1/a$ result
-- [[Brief thermal history]] — where $z_{\rm therm}$, $z_K$, and recombination sit on the timeline
-- [[Saha equation and recombination]] — the same $\Gamma > H$ logic at a different epoch
-- [[Decoupling and freeze-out]] — the general framework
-- [[BBN_overview]] — the previous "frontier" probed by similar logic
-- [[Baumann_reference]] — chapter 3 sections cited above
+- [[Cosmic_inventory_photons]] - parent note with the boxed bounds
+- [[Cosmic_inventory_photons_derivation]] - derivation of $n_\gamma$, $\rho_\gamma$, $\Omega_{0\gamma}$
+- [[Photon decoupling and CMB]] - how the CMB temperature today is set
+- [[Thermal equilibrium in the early universe]] - Bose-Einstein and Fermi-Dirac framework
+- [[Number density and energy density at thermal equilibrium]] - relativistic-limit formulae
+- [[Conservation of entropy in a comoving volume]] - the $T \propto 1/a$ result
+- [[Brief thermal history]] - where $z_{\rm therm}$, $z_K$, and recombination sit on the timeline
+- [[Saha equation and recombination]] - the same $\Gamma > H$ logic at a different epoch
+- [[Decoupling and freeze-out]] - the general framework
+- [[BBN_overview]] - the previous "frontier" probed by similar logic
+- [[Baumann_reference]] - chapter 3 sections cited above
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
 - [[Observational_Cosmology_MOC]]

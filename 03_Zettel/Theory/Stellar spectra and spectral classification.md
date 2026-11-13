@@ -27,7 +27,7 @@ in a star, the hot, dense **photosphere** produces the continuous spectrum, whil
 
 ---
 
-## the Harvard spectral sequence: OBAFGKM
+## the Harvard spectral sequence - OBAFGKM
 
 historically classified by Williamina Fleming and Annie Jump Cannon at Harvard according to hydrogen Balmer line strength (A, B, C... P), the sequence was rearranged into an ordered **temperature sequence**:
 
@@ -40,9 +40,9 @@ each class is subdivided into 10 decimal subclasses ($0$ to $9$, e.g. G0 to G9).
 
 | spectral type | effective temp $T_{\text{eff}}$ [K] | conventional color | prominent spectral features | representative star |
 |---|---|---|---|---|
-| **O** | $> 30,000$ | blue | ionized Helium (He II), highly ionized N, C, O; weak H lines | Alnitak ($\zeta$ Ori) |
+| **O** | $> 30,000$ | blue | ionized Helium (He II), highly ionized N, C, O, weak H lines | Alnitak ($\zeta$ Ori) |
 | **B** | $10,000 - 30,000$ | blue-white | neutral Helium (He I), moderate Balmer H lines, O II, Si II | Rigel, Spica |
-| **A** | $7,500 - 10,000$ | white | **maximum hydrogen Balmer lines** (peaking at A0); weak ionized metals | Vega, Sirius |
+| **A** | $7,500 - 10,000$ | white | **maximum hydrogen Balmer lines** (peaking at A0), weak ionized metals | Vega, Sirius |
 | **F** | $6,000 - 7,500$ | yellow-white | weakening Balmer lines, strengthening Ca II H & K, neutral Fe | Canopus, Procyon |
 | **G** | $5,200 - 6,000$ | yellow | strong **Ca II H & K**, prominent neutral and ionized metal lines (Fe, Ca) | Sun, Capella |
 | **K** | $3,700 - 5,200$ | orange | dominant neutral metal lines, molecular CH band (G-band) | Arcturus, Aldebaran |
@@ -52,27 +52,27 @@ each class is subdivided into 10 decimal subclasses ($0$ to $9$, e.g. G0 to G9).
 
 ---
 
-## the physics of line strengths: Boltzmann and Saha equations
+## the physics of line strengths - Boltzmann and Saha equations
 
 a naive expectation might be that stars with weak hydrogen lines (like O stars or M stars) contain less hydrogen than A stars. **this is completely wrong**: Cecilia Payne-Gaposchkin proved in 1925 that all normal stars have nearly identical chemical composition ($\sim 74\%$ H, $\sim 24\%$ He, $\sim 2\%$ metals by mass). 
 
 the observed differences in spectral lines are entirely governed by **temperature and ionization state**, described by two statistical mechanics equations:
 
-### 1. the Boltzmann excitation equation:
+### 1. the Boltzmann excitation equation
 for atoms in a given ionization stage, the ratio of populations between excited energy level $E_b$ and lower level $E_a$ is:
 $$\frac{N_b}{N_a} = \frac{g_b}{g_a} e^{-\frac{E_b - E_a}{k_B T}}$$
 where $g_a, g_b$ are statistical weights (degeneracy $g = 2j+1$). at higher temperature $T$, more electrons occupy higher energy levels.
 
 ![radiative-31.png](../../assets/images/radiative-31.png)
 
-### 2. the Saha ionization equation:
+### 2. the Saha ionization equation
 the ratio between the population of ionized state $N_{j+1}$ and neutral/lower state $N_j$ is:
 $$\frac{N_{j+1} N_e}{N_j} = \frac{2 g_{j+1}}{g_j} \left(\frac{2\pi m_e k_B T}{h^2}\right)^{3/2} e^{-\frac{\chi_j}{k_B T}}$$
 where $N_e$ is the free electron density, and $\chi_j$ is the ionization potential. higher temperature strongly favors ionization, while higher electron density (pressure) favors recombination.
 
 ![radiative-32.png](../../assets/images/radiative-32.png)
 
-### explaining the Balmer maximum at A0 ($T \approx 10,000$ K):
+### explaining the Balmer maximum at A0 ($T \approx 10,000$ K)
 Balmer absorption lines arise from transitions starting from the excited $n=2$ state of neutral hydrogen ($E_2 - E_1 = 10.2$ eV).
 - at low temperatures ($T < 6000$ K): almost all electrons sit in the ground state $n=1$ ($e^{-10.2/k_B T} \ll 1$). there are virtually no electrons in $n=2$ to absorb Balmer photons $\implies$ weak Balmer lines.
 - at high temperatures ($T > 20,000$ K): Boltzmann populates $n=2$, but the Saha equation dictates that almost all hydrogen is completely ionized ($H^+$, bare protons without bound electrons) $\implies$ weak Balmer lines.
@@ -112,7 +112,7 @@ two stars with the exact same effective temperature (same spectral type, e.g. G2
 
 ![radiative-37.png](../../assets/images/radiative-37.png)
 
-### physical mechanism: pressure broadening
+### physical mechanism - pressure broadening
 supergiants have enormously extended, rarefied atmospheres with very low gas pressure $P_g$ and low surface gravity $g = GM/R^2$. dwarfs have dense, high-pressure atmospheres.
 1. in high-pressure atmospheres (dwarfs, Class V), frequent collisions between atoms perturb energy levels, causing strong **collisional / Stark pressure broadening** $\implies$ lines are **wide and shallow**.
 2. in low-pressure atmospheres (supergiants, Class I), collisions are rare $\implies$ lines are **exceptionally sharp, narrow, and deep**.
@@ -120,6 +120,23 @@ supergiants have enormously extended, rarefied atmospheres with very low gas pre
 ![radiative-38.png](../../assets/images/radiative-38.png)
 
 ---
+
+## worked example
+
+why the Balmer lines peak near $10^4$ K. they need hydrogen in the level $n = 2$, at $10.2$ eV. by Boltzmann:
+
+$$\frac{n_2}{n_1} = \frac{g_2}{g_1}e^{-10.2\,{\rm eV}/k_BT} = 4\,e^{-10.2/k_BT}$$
+
+- $T = 6000$ K, $k_BT = 0.517$ eV: $n_2/n_1 = 1.1 \times 10^{-8}$
+- $T = 10\,000$ K, $k_BT = 0.862$ eV: $n_2/n_1 = 2.9 \times 10^{-5}$
+
+a factor of about 2700 more absorbers. above $10^4$ K the Saha equation takes over, hydrogen ionizes and the lines weaken again.
+
+## where it goes wrong
+
+- the strength of a line is not the abundance of the element. this was Cecilia Payne's result in 1925.
+- OBAFGKM is a sequence in temperature. the composition of most stars is nearly the same.
+- the luminosity class comes from the width of the lines, because a giant has a low-pressure atmosphere and narrow lines.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

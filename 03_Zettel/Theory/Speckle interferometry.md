@@ -4,7 +4,7 @@ title: "Speckle interferometry"
 ---
 # Speckle interferometry
 
-the technique that pushed *single-aperture* telescopes past the seeing limit before AO was practical. take many short-exposure images that "freeze" atmospheric turbulence, compute the autocorrelation of each, average — and recover the diffraction-limited spatial-frequency information of the source.
+the technique that pushed *single-aperture* telescopes past the seeing limit before AO was practical. take many short-exposure images that "freeze" atmospheric turbulence, compute the autocorrelation of each, average, and recover the diffraction-limited spatial-frequency information of the source.
 
 invented by Antoine Labeyrie (1970). a precursor to AO and a still-useful technique today for multiple-star measurements and bright-source imaging.
 
@@ -13,9 +13,9 @@ invented by Antoine Labeyrie (1970). a precursor to AO and a still-useful techni
 ![Short-exposure speckle image freezing atmospheric turbulence into diffraction-limited speckles across the seeing disk.](../../assets/images/Speckle_interferometry.jpg)
 
 
-a long-exposure image of a star through the atmosphere has FWHM $\sim \lambda/r_0$ — far worse than the diffraction limit $\lambda/D$. standard imaging is *seeing-limited*.
+a long-exposure image of a star through the atmosphere has FWHM $\sim \lambda/r_0$, far worse than the diffraction limit $\lambda/D$. standard imaging is *seeing-limited*.
 
-but a short-exposure image (faster than $\tau_0$) freezes the atmosphere into one *instantaneous configuration*. the image is not a smooth blob — it's a **speckle pattern** of bright and dark spots, each speckle the size of $\lambda/D$ (the diffraction limit).
+but a short-exposure image (faster than $\tau_0$) freezes the atmosphere into one *instantaneous configuration*. the image is not a smooth blob. it's a **speckle pattern** of bright and dark spots, each speckle the size of $\lambda/D$ (the diffraction limit).
 
 so the speckles *do* carry diffraction-limited information. the trick is to extract it.
 
@@ -24,7 +24,7 @@ so the speckles *do* carry diffraction-limited information. the trick is to extr
 a single speckle frame is the image of the source convolved with a *single-frame PSF* (a speckle pattern):
 $$I_{\rm speckle}(\mathbf l) = O(\mathbf l) * S(\mathbf l)$$
 
-with $O$ the true source, $S$ the speckle PSF. the speckle PSF $S$ is *random* — different from frame to frame. but it has a *statistical* structure: in the spatial-frequency domain, it has power up to the diffraction-limit cutoff $u_{\max} = D/\lambda$.
+with $O$ the true source, $S$ the speckle PSF. the speckle PSF $S$ is *random*, different from frame to frame. but it has a *statistical* structure: in the spatial-frequency domain, it has power up to the diffraction-limit cutoff $u_{\max} = D/\lambda$.
 
 now compute the *autocorrelation* of the speckle frame:
 $$A(\mathbf l) = I_{\rm speckle} \star I_{\rm speckle}$$
@@ -35,9 +35,9 @@ $$\lvert\tilde I_{\rm speckle}\rvert^2 = \lvert\tilde O\rvert^2 \cdot \lvert\til
 average over many frames:
 $$\langle   \vert\tilde I_{\rm speckle}\vert ^2 \rangle = \lvert \tilde O\rvert^2 \cdot \langle   \vert\tilde S\vert ^2 \rangle$$
 
-the average of $\lvert \tilde S\rvert^2$ is the **speckle transfer function**. it has *non-zero* response up to the full diffraction-limit cutoff $u_{\max}$ — unlike the long-exposure transfer function, which dies away at $r_0/\lambda$.
+the average of $\lvert \tilde S\rvert^2$ is the **speckle transfer function**. it has *non-zero* response up to the full diffraction-limit cutoff $u_{\max}$, unlike the long-exposure transfer function, which dies away at $r_0/\lambda$.
 
-so by averaging $\lvert \tilde I\rvert^2$ over many speckle frames, we recover $\lvert \tilde O\rvert^2$ — the *power spectrum* of the source — at all spatial frequencies up to the diffraction limit.
+so by averaging $\lvert \tilde I\rvert^2$ over many speckle frames, we recover $\lvert \tilde O\rvert^2$, the *power spectrum* of the source, at all spatial frequencies up to the diffraction limit.
 
 ## the speckle transfer function
 
@@ -58,7 +58,7 @@ for symmetric sources (binary stars with equal magnitudes, uniform disks):
 - $A_O$ uniquely determines $O$
 - speckle interferometry → $\lvert \tilde O\rvert$ → $O$ via inverse FT
 
-for asymmetric sources, $\lvert \tilde O\rvert$ alone is *not enough* — phase information is needed for full reconstruction. speckle interferometry recovers the *symmetric part* of the source.
+for asymmetric sources, $\lvert \tilde O\rvert$ alone is *not enough*, phase information is needed for full reconstruction. speckle interferometry recovers the *symmetric part* of the source.
 
 for more complete recovery, use [[Speckle imaging algorithms\|Knox-Thompson]] or [[Bispectrum and triple correlation\|triple-correlation]] methods, which preserve some phase information.
 

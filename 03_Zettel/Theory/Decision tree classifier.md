@@ -74,7 +74,7 @@ three leaves classify with ~95% accuracy on the test set. it is interpretable: I
 
 - **prune** the tree: cut branches that do not improve test-set performance (cost-complexity pruning)
 - **limit depth or leaf size**: hyperparameters in scikit-learn
-- **ensemble methods**: average many trees to reduce variance — see below
+- **ensemble methods**: average many trees to reduce variance, see below
 
 ## random forests and gradient boosting
 

@@ -77,7 +77,7 @@ specific intensity is the directional brightness of the sky, while flux density 
 
 ![07_Images/Interferometry/specific_intensity_flux_beam.svg](../../assets/images/specific_intensity_flux_beam.svg)
 
-reading cue: $I_\nu$ lives on the sky direction by direction; $S_\nu$ is what I get after integrating brightness through the telescope beam. this is why flux density always quietly depends on the beam/source geometry.
+reading cue: $I_\nu$ lives on the sky direction by direction. $S_\nu$ is what I get after integrating brightness through the telescope beam. this is why flux density always quietly depends on the beam/source geometry.
 
 source: local study diagram generated from $S_\nu=\int I_\nu P\,d\Omega$.
 

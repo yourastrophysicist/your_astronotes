@@ -2,7 +2,7 @@
 layout: "default"
 title: "Interstellar medium components and gas cycle"
 ---
-the space between the stars in the Galactic disk is filled with gas and dust known collectively as the **Interstellar Medium (ISM)**. while comprising only $\sim 10-15\%$ of the baryonic mass of the Galactic disk, the ISM is the crucial reservoir where stars are born and where dying stars deposit newly synthesized chemical elements.
+the space between the stars in the Galactic disk is filled with gas and dust known collectively as the **Interstellar Medium (ISM)**. while comprising only $\sim 10-15\%$ of the baryonic mass of the Galactic disk, the ISM is the reservoir where stars are born and where dying stars deposit newly synthesized chemical elements.
 
 ![milkyway-14.png](../../assets/images/milkyway-14.png)
 
@@ -25,7 +25,7 @@ in each cycle, $\sim 70-80\%$ of the gas is locked up in long-lived low-mass sta
 
 the ISM is in rough thermal and mechanical pressure equilibrium ($P/k_B \sim 10^3 - 10^4 \text{ K cm}^{-3}$), partitioning into four distinct physical phases:
 
-### 1. Cold Molecular Clouds (GMCs):
+### 1. Cold Molecular Clouds (GMCs)
 - **temperature**: $T \sim 10 - 30$ K.
 - **density**: $n_H \sim 10^2 - 10^6 \text{ cm}^{-3}$.
 - **composition**: molecular hydrogen ($H_2$), Helium, dust grains, and trace molecules (CO, HCN, $H_2O$, $NH_3$).
@@ -34,14 +34,14 @@ the ISM is in rough thermal and mechanical pressure equilibrium ($P/k_B \sim 10^
 
 ![milkyway-16.png](../../assets/images/milkyway-16.png)
 
-### 2. Cold Neutral Medium (CNM) and the 21 cm HI line:
+### 2. Cold Neutral Medium (CNM) and the 21 cm HI line
 - **temperature**: $T \sim 50 - 100$ K.
 - **density**: $n_H \sim 20 - 50 \text{ cm}^{-3}$.
 - **composition**: neutral atomic hydrogen (HI).
 
 ![milkyway-17.png](../../assets/images/milkyway-17.png)
 
-#### the 21 cm hyperfine spin-flip transition:
+#### the 21 cm hyperfine spin-flip transition
 in the ground state of neutral atomic hydrogen ($1s$), the electron and proton spins can be either parallel ($F=1$, triplet) or antiparallel ($F=0$, singlet). the energy difference between these states corresponds to a photon of:
 $$\Delta E = 5.874 \times 10^{-6} \text{ eV} \implies \nu_0 = 1420.405751 \text{ MHz} \implies \boxed{\, \lambda_0 = 21.106 \text{ cm} \,}$$
 
@@ -51,7 +51,7 @@ the transition probability is extremely small: Einstein $A_{10} \approx 2.85 \ti
 
 ![milkyway-18.png](../../assets/images/milkyway-18.png)
 
-### 3. Warm Neutral and Ionized Medium (WNM / WIM) & HII regions:
+### 3. Warm Neutral and Ionized Medium (WNM / WIM) & HII regions
 - **temperature**: $T \sim 6000 - 10,000$ K.
 - **density**: $n_H \sim 0.1 - 10^3 \text{ cm}^{-3}$.
 - **HII regions (Stromgren spheres)**: photoionized plasma surrounding hot O and B stars ($T_{\text{eff}} > 30,000$ K) emitting Lyman continuum photons ($h\nu > 13.6$ eV). 
@@ -61,7 +61,7 @@ the transition probability is extremely small: Einstein $A_{10} \approx 2.85 \ti
 
 ![milkyway-20.png](../../assets/images/milkyway-20.png)
 
-### 4. Hot Ionized Coronal Medium (HIM):
+### 4. Hot Ionized Coronal Medium (HIM)
 - **temperature**: $T \sim 10^6$ K.
 - **density**: $n_H \sim 10^{-3} - 10^{-2} \text{ cm}^{-3}$ (extremely rarefied).
 - **origin**: shock waves driven by core-collapse supernova explosions and high-velocity stellar winds from OB associations.
@@ -86,6 +86,25 @@ when multiple supernovae detonate within a young OB association, their individua
 ![milkyway-24.png](../../assets/images/milkyway-24.png)
 
 ---
+
+## worked example
+
+the phases are close to pressure balance. with $P/k_B = nT$:
+
+| phase | $n$ (cm$^{-3}$) | $T$ (K) | $nT$ (K cm$^{-3}$) |
+|---|---|---|---|
+| cold neutral | 30 | 100 | 3000 |
+| warm neutral | 0.5 | 8000 | 4000 |
+| warm ionized | 0.3 | 8000 | 2400 |
+| hot ionized | 0.003 | $10^6$ | 3000 |
+
+molecular clouds are the exception, held by their own gravity at $nT \sim 10^5$.
+
+## where it goes wrong
+
+- the hot phase fills about half of the volume but holds very little of the mass. most of the mass is in the cold clouds.
+- H$_2$ has no dipole moment and cannot be seen directly in cold gas. it is traced through CO with a conversion factor that is uncertain by a factor of two.
+- the gas cycle is not closed. galaxies accrete fresh gas and lose some to winds.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -119,7 +138,7 @@ when multiple supernovae detonate within a young OB association, their individua
 - Multi-phase structure of the interstellar medium
 - [[Spiral arm kinematics]]
 - [[Stellar populations I II III]]
-- [[Astrophysics_of_the_Interstellar_Medium_MOC]]
+- Astrophysics_of_the_Interstellar_Medium_MOC
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
 
 

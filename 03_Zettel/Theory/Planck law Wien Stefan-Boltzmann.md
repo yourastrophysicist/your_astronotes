@@ -36,7 +36,7 @@ so increasing $T$ shifts the peak to **shorter wavelengths**. examples:
 - $T = 6000$ K (Sun): $\lambda_{\rm max} = 480$ nm (visible peak, why our eyes evolved here).
 - $T = 30\,000$ K (O star): $\lambda_{\rm max} = 100$ nm (deep UV).
 
-the peak in $\nu$ vs in $\lambda$ corresponds to slightly different temperatures (different definitions of "peak"); the constant differs by a factor.
+the peak in $\nu$ vs in $\lambda$ corresponds to slightly different temperatures (different definitions of "peak"). the constant differs by a factor.
 
 ## Stefan-Boltzmann
 
@@ -67,6 +67,20 @@ quantitative example for a Salpeter IMF in an SSP:
 
 this is the answer to obs3.pdf and the foundation of UV-based SFR tracers (see [[UV SFR tracer]]).
 
+## worked example
+
+the Sun, $T_{\rm eff} = 5772$ K and $R_\odot = 6.957 \times 10^8$ m:
+
+- Wien: $\lambda_{\max} = 2.898 \times 10^{-3}/5772 = 502$ nm
+- surface flux: $\sigma T^4 = 5.67 \times 10^{-8} \times 1.110 \times 10^{15} = 6.29 \times 10^7$ W/m$^2$
+- luminosity: $L = 4\pi R_\odot^2\,\sigma T^4 = 6.08 \times 10^{18} \times 6.29 \times 10^7 = 3.83 \times 10^{26}$ W
+
+## where it goes wrong
+
+- the flux from a blackbody surface is $\pi B$, not $B$. integrating the Planck function over frequency gives $\sigma T^4/\pi$.
+- doubling the temperature multiplies the luminosity by 16 at fixed radius. small errors in $T$ are large errors in $L$.
+- the Wien peak in frequency is at $\nu_{\max} = 5.88 \times 10^{10}\,T$ Hz, which is not $c/\lambda_{\max}$.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -81,7 +95,7 @@ this is the answer to obs3.pdf and the foundation of UV-based SFR tracers (see [
 ## see also
 
 - [[Blackbody radiation and Stefan-Boltzmann]]
-- [[Cosmic_inventory_photons_derivation]] — full derivation of $\rho_\gamma$ and $n_\gamma$
+- [[Cosmic_inventory_photons_derivation]] - full derivation of $\rho_\gamma$ and $n_\gamma$
 - [[Why hot massive stars dominate luminosity]]
 - [[Initial mass function]]
 - [[Stellar scaling relations]]

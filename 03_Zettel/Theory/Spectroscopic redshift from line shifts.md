@@ -41,7 +41,7 @@ modern redshift codes (RVSAO, redrock, marz) use cross-correlation with a librar
 - **at high $z$ ($z > 5$)**: Ly$\alpha$ is in optical, IGM absorption blueward (Gunn-Peterson trough).
 
 ### stars
-- **radial velocity** rather than redshift; $v_r = c\Delta\lambda/\lambda_{\rm rest}$. typical $\lvert v_r\rvert \lesssim 100$ km/s for Galactic stars.
+- **radial velocity** rather than redshift. $v_r = c\Delta\lambda/\lambda_{\rm rest}$. typical $\lvert v_r\rvert \lesssim 100$ km/s for Galactic stars.
 
 ## the role of $[OIII]\,\lambda 5007$
 
@@ -81,7 +81,7 @@ precision-RV applications (exoplanet detection): $\delta v \sim 0.1$ to $1$ m/s 
 - [[Stellar velocity from Doppler shift]]
 - [[Hydrogen spectral series]]
 - [[Calcium and CaII H+K]]
-- [[Photometric redshifts]] — cheaper alternative
+- [[Photometric redshifts]] - cheaper alternative
 - [[Multi-object spectroscopy MOS]]
 
 

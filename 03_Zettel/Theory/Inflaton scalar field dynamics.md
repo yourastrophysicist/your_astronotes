@@ -28,7 +28,7 @@ $$H^2 \approx \frac{8\pi G}{3} V(\phi) \approx \text{const}, \qquad a(t) \propto
 the Klein-Gordon equation for $\phi$ in the FRW background:
 $$\ddot\phi + 3H\dot\phi + V'(\phi) = 0$$
 
-(the $3H\dot\phi$ term is "Hubble friction" — the analog of Stokes drag in a fluid moving through molasses, only here the molasses is the expanding spacetime.)
+(the $3H\dot\phi$ term is "Hubble friction", the analog of Stokes drag in a fluid moving through molasses, only here the molasses is the expanding spacetime.)
 
 combined with the Friedmann equation:
 $$H^2 = \frac{8\pi G}{3}\left[\frac{1}{2}\dot\phi^2 + V(\phi)\right]$$
@@ -70,7 +70,7 @@ inflation **ends** when $\epsilon = 1$, i.e. when the slope of the potential is 
 the **number of e-folds** of inflation is
 $$N \equiv \int H\, dt = \int\frac{d a}{a}$$
 
-so $N$ counts how many times the scale factor doubles by $e$ during inflation. solving the flatness and horizon problems requires $N \gtrsim 60$. typical inflation models naturally produce $N \sim 60$–$100$.
+so $N$ counts how many times the scale factor doubles by $e$ during inflation. solving the flatness and horizon problems requires $N \gtrsim 60$. typical inflation models naturally produce $N \sim 60$ to $100$.
 
 in the slow-roll regime, the number of e-folds from $\phi_*$ to $\phi_{\rm end}$ is:
 $$N(\phi_*) = \int_{\phi_{\rm end}}^{\phi_*}\frac{d\phi}{M_{\rm Pl}\sqrt{2\epsilon(\phi)}}$$
@@ -79,7 +79,7 @@ $$N(\phi_*) = \int_{\phi_{\rm end}}^{\phi_*}\frac{d\phi}{M_{\rm Pl}\sqrt{2\epsil
 
 ## reheating
 
-once inflation ends ($\epsilon \to 1$), the inflaton **oscillates** around the minimum of its potential. its kinetic energy gradually transfers into other fields — radiation, particle physics fields — through couplings in the Lagrangian.
+once inflation ends ($\epsilon \to 1$), the inflaton **oscillates** around the minimum of its potential. its kinetic energy gradually transfers into other fields, radiation, particle physics fields, through couplings in the Lagrangian.
 
 this is **reheating**: the conversion of inflaton energy into thermal radiation, ending the de Sitter phase and starting the standard hot Big Bang radiation era.
 
@@ -101,6 +101,15 @@ $$\frac{\delta\rho}{\rho} \sim \frac{H^2}{\dot\phi}$$
 
 ---
 
+## worked example
+
+for $V = \frac{1}{2}m^2\phi^2$, $\epsilon = 2M_{\rm Pl}^2/\phi^2$ and $N \simeq \phi^2/(4M_{\rm Pl}^2)$. 60 e-folds need $\phi_* = 15.5\,M_{\rm Pl}$. the predictions are $n_s = 1 - 2/N = 0.967$ and $r = 8/N = 0.13$, which is now excluded by the B-mode limit $r < 0.036$.
+
+## where it goes wrong
+
+- slow roll needs both $\epsilon \ll 1$ and $\lvert\eta\rvert \ll 1$.
+- a field value larger than $M_{\rm Pl}$ does not mean an energy density larger than the Planck scale.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -116,7 +125,7 @@ $$\frac{\delta\rho}{\rho} \sim \frac{H^2}{\dot\phi}$$
 - [[Inflation overview]]
 - [[Old vs new vs chaotic inflation, slow-roll]]
 - [[Standard model problems]]
-- [[Baumann_reference]] — chapters 2.3, 6.2, 6.3 are the rigorous treatment
+- [[Baumann_reference]] - chapters 2.3, 6.2, 6.3 are the rigorous treatment
 
 
 

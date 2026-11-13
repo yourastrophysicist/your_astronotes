@@ -33,7 +33,7 @@ assume:
 the fraction of mass in regions with $\delta > \delta_c$ is:
 $$F(>M) = \frac{1}{\sqrt{2\pi}\sigma}\int_{\delta_c}^\infty e^{-\delta^2/(2\sigma^2)}\,d\delta = \frac{1}{2}\,\text{erfc}\left(\frac{\delta_c}{\sqrt 2\sigma}\right)$$
 
-the **fudge factor of 2** comes from the "cloud-in-cloud" problem (a region with $\delta < \delta_c$ might be part of a larger collapsed region). Press and Schechter put this in by hand; the **excursion-set theory** of Bond, Cole, Efstathiou, Kaiser (1991) derives it rigorously.
+the **fudge factor of 2** comes from the "cloud-in-cloud" problem (a region with $\delta < \delta_c$ might be part of a larger collapsed region). Press and Schechter put this in by hand. the **excursion-set theory** of Bond, Cole, Efstathiou, Kaiser (1991) derives it rigorously.
 
 differentiating gives the **mass function**:
 $$\boxed{\,\frac{dn}{dM} = \sqrt{\frac{2}{\pi}}\, \frac{\bar\rho_m}{M^2}\, \frac{\delta_c}{\sigma(M)}\, \left\lvert\frac{d\ln\sigma}{d\ln M}\right\rvert\, e^{-\delta_c^2/(2\sigma^2)}\,}$$
@@ -46,7 +46,7 @@ the PS mass function has a **power-law** behavior at small mass and an **exponen
 - low-mass: $dn/dM \propto M^{-2 + n_s/2}$
 - high-mass: exponential cutoff at the mass where $\sigma(M) = \delta_c$
 
-so the universe has many small halos and few big ones — exactly what we observe in galaxy and cluster surveys.
+so the universe has many small halos and few big ones, exactly what we observe in galaxy and cluster surveys.
 
 ---
 
@@ -57,7 +57,7 @@ $$f_{ST}(\nu) = A\sqrt{\frac{2 a}{\pi}}\,\nu\,(1 + (a\nu^2)^{-p})\, e^{-a\nu^2/2
 
 with $\nu = \delta_c/\sigma$, fitting parameters $A = 0.322$, $a = 0.707$, $p = 0.3$. matches N-body simulations much better.
 
-modern simulations (Jenkins, Tinker, etc.) provide further calibrated mass functions — usually $T(\nu)$-type fits to numerical data.
+modern simulations (Jenkins, Tinker, etc.) provide further calibrated mass functions, usually $T(\nu)$-type fits to numerical data.
 
 ---
 
@@ -74,9 +74,14 @@ we can predict:
 - the fraction of mass in collapsed objects vs free
 - the **halo occupation distribution** (number of galaxies per halo, used in galaxy clustering analyses)
 
-cluster counts are a competitive cosmological probe — they directly measure $\sigma_8$ and the late-time growth of structure. the so-called "$\sigma_8$ tension" between CMB-derived and cluster-derived $\sigma_8$ in 2025 is an active research topic.
+cluster counts are a competitive cosmological probe. they directly measure $\sigma_8$ and the late-time growth of structure. the so-called "$\sigma_8$ tension" between CMB-derived and cluster-derived $\sigma_8$ in 2025 is an active research topic.
 
 ---
+
+## where it goes wrong
+
+- the original formula undercounts halos by a factor of two. the fudge factor 2 was put in by hand.
+- fits to simulations (Sheth-Tormen) are better at the high-mass end.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

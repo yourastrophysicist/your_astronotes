@@ -16,7 +16,7 @@ it satisfies the master perturbation equation (see [[Linear evolution of perturb
 dark matter perturbations on sub-horizon scales experience **Meszaros suppression**: only logarithmic growth.
 $$D(a) \propto \log(a)$$
 
-(approximately constant.) modes that enter the horizon during radiation domination get this logarithmic stunting; modes that stay outside the horizon don't.
+(approximately constant.) modes that enter the horizon during radiation domination get this logarithmic stunting. modes that stay outside the horizon don't.
 
 ### matter-dominated era ($0.7 \lesssim z \lesssim 3300$)
 
@@ -39,12 +39,12 @@ $$D(a) \propto H(a) \int_0^a \frac{da'}{[a' H(a')]^3}$$
 
 ---
 
-## convention: normalization
+## convention - normalization
 
 usually $D(z = 0) = 1$ today. so $D(z)$ is the ratio of the growing-mode amplitude at $z$ to today. for ΛCDM:
 - $D(z = 1100) \approx 1/1280 \approx 7.8 \times 10^{-4}$
   - i.e. perturbations have grown by a factor of $\sim 1280$ since CMB era
-- $D(z = 0.7) \approx 0.65$ — growth has slowed
+- $D(z = 0.7) \approx 0.65$ - growth has slowed
 
 ---
 
@@ -65,7 +65,7 @@ $$f(z) \approx \Omega_m(z)^{0.55}$$
 
 ### early dark energy and the Hubble tension
 
-if there is "early dark energy" before recombination, $H$ is higher at that epoch, affecting the sound horizon and CMB peak positions. this changes $D(z)$ and the inferred $H_0$ — proposed as a way to relieve the Hubble tension (see [[Hubble constant and deceleration parameter]]).
+if there is "early dark energy" before recombination, $H$ is higher at that epoch, affecting the sound horizon and CMB peak positions. this changes $D(z)$ and the inferred $H_0$, proposed as a way to relieve the Hubble tension (see [[Hubble constant and deceleration parameter]]).
 
 ---
 
@@ -80,6 +80,14 @@ $D(z)$ encodes how much "room" perturbations had to grow into halos and galaxies
 so $D(z)$ is one of the central observables of late-time cosmology, complementary to $H(z)$.
 
 ---
+
+## worked example
+
+$f = d\ln D/d\ln a \simeq \Omega_m(z)^{0.55}$. today, $f = 0.315^{0.55} = 0.53$.
+
+## where it goes wrong
+
+- $D$ and $f$ are different. redshift-space distortions measure $f\sigma_8$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

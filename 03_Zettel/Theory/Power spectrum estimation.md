@@ -4,7 +4,7 @@ title: "Power spectrum estimation"
 ---
 # Power spectrum estimation
 
-the power spectrum of a time series tells me how the signal's energy is distributed across frequencies. the basic idea is simple — square the FFT — but practical estimation requires care: averaging, windowing, and detrending all matter.
+the power spectrum of a time series tells me how the signal's energy is distributed across frequencies. the basic idea is simple, square the FFT, but practical estimation requires care: averaging, windowing, and detrending all matter.
 
 ## the periodogram (the naive estimator)
 
@@ -20,7 +20,7 @@ problems:
 2. **leakage**: signals at non-bin frequencies spread across bins
 3. **DC dominance**: if $\bar x \neq 0$, the $k = 0$ bin is huge and visually drowns everything
 
-## fixing #1: Welch's method
+## fixing #1 - Welch's method
 
 split the signal into $K$ overlapping segments, compute the periodogram of each, average. the average is consistent: variance falls as $1/K$, signal is preserved.
 
@@ -30,9 +30,9 @@ freqs, P = welch(x, fs=1/dt, nperseg=N//8, noverlap=N//16)
 plt.loglog(freqs, P)
 ```
 
-`nperseg` is the segment length (smaller = noisier individual periodograms but more averaging; usually $N/8$ to $N/4$). `noverlap` is the overlap, typically half of `nperseg`.
+`nperseg` is the segment length (smaller = noisier individual periodograms but more averaging, usually $N/8$ to $N/4$). `noverlap` is the overlap, typically half of `nperseg`.
 
-## fixing #2: windowing
+## fixing #2 - windowing
 
 apply a window function to each segment before FFT. options:
 
@@ -43,7 +43,7 @@ apply a window function to each segment before FFT. options:
 
 `scipy.signal.welch(window='hann', ...)` is the default and almost always the right choice.
 
-## fixing #3: detrending
+## fixing #3 - detrending
 
 remove the mean (and optionally a linear trend) from each segment before FFT:
 

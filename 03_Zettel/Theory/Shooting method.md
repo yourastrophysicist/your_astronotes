@@ -10,7 +10,7 @@ a way to solve a **boundary value problem** (BVP) by turning it into a sequence 
 
 a typical BVP: solve $y''(x) = f(x, y, y')$ on $[a, b]$ with $y(a) = \alpha$ and $y(b) = \beta$. a BVP differs from an IVP because two of the four pieces of information (the value and derivative at $a$, and the value and derivative at $b$) are split across the two boundaries instead of all at one.
 
-I cannot just integrate forward from $a$ — I do not know $y'(a)$. shooting picks a guess for $y'(a)$, integrates forward, and checks whether the result hits $y(b) = \beta$. if not, adjust the guess and try again.
+I cannot just integrate forward from $a$. I do not know $y'(a)$. shooting picks a guess for $y'(a)$, integrates forward, and checks whether the result hits $y(b) = \beta$. if not, adjust the guess and try again.
 
 ## the algorithm
 
@@ -20,7 +20,7 @@ I cannot just integrate forward from $a$ — I do not know $y'(a)$. shooting pic
 4. find $s$ such that $F(s) = 0$ using bisection, secant, or Newton-Raphson
 5. the IVP solution at the converged $s$ is the BVP solution
 
-step 4 is the magic: $F(s)$ is a function of one real variable (or several, for higher-dimensional problems), so I can use any 1D root finder. each "evaluation" of $F$ requires one full IVP integration, so it is expensive — but few iterations are needed if I use Newton.
+step 4 is the magic: $F(s)$ is a function of one real variable (or several, for higher-dimensional problems), so I can use any 1D root finder. each "evaluation" of $F$ requires one full IVP integration, so it is expensive, but few iterations are needed if I use Newton.
 
 ## python sketch
 
@@ -75,19 +75,19 @@ then $s_{n+1} = s_n - F(s_n)/(dF/ds)$.
 - **multi-point BVPs**: shooting becomes shooting-with-multiple-targets, awkward
 - **eigenvalue problems with many eigenvalues**: matrix methods give all eigenvalues at once
 
-## astrophysics use case: stellar structure
+## astrophysics use case - stellar structure
 
 solve the four stellar structure equations:
 
 $$\frac{dM_r}{dr} = 4\pi r^2 \rho, \quad \frac{dP}{dr} = -\frac{GM_r \rho}{r^2}, \quad \frac{dL}{dr} = 4\pi r^2 \rho \epsilon, \quad \frac{dT}{dr} = -\frac{3 \kappa \rho L}{16\pi a c r^2 T^3}$$
 
-boundary conditions: $M_r(0) = 0$, $L(0) = 0$ (regularity at center); $P(R) = 0$, $T(R) = T_{\rm eff}$ (surface). shoot from center outward with guesses for $P_c, T_c$, root-find on $P(R) = 0$ and $T(R) = T_{\rm eff}$ jointly.
+boundary conditions: $M_r(0) = 0$, $L(0) = 0$ (regularity at center). $P(R) = 0$, $T(R) = T_{\rm eff}$ (surface). shoot from center outward with guesses for $P_c, T_c$, root-find on $P(R) = 0$ and $T(R) = T_{\rm eff}$ jointly.
 
 this is the **Henyey method** for stellar structure, although in practice it is implemented as a finite-difference relaxation rather than naive shooting.
 
 ## bound-state quantum mechanics
 
-solve $-\psi'' + V(x)\psi = E\psi$ on $[-L, L]$ with $\psi(\pm L) \to 0$. boundary value plus eigenvalue. shoot from $-L$ with a guess for $E$; the wavefunction is not normalizable except at the right $E$, where $\psi(+L) = 0$. find $E$ by bisection on $\psi(+L; E)$.
+solve $-\psi'' + V(x)\psi = E\psi$ on $[-L, L]$ with $\psi(\pm L) \to 0$. boundary value plus eigenvalue. shoot from $-L$ with a guess for $E$. the wavefunction is not normalizable except at the right $E$, where $\psi(+L) = 0$. find $E$ by bisection on $\psi(+L; E)$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

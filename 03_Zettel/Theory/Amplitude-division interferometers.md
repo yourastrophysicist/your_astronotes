@@ -4,7 +4,7 @@ title: "Amplitude-division interferometers"
 ---
 # Amplitude-division interferometers
 
-a class of interferometers where a beam splitter — a partially-reflective optical element — splits an incoming beam into two beams of reduced amplitude that travel different paths and then recombine. **the dominant family** in laboratory optics, metrology, quantum optics, and gravitational-wave detection.
+a class of interferometers where a beam splitter, a partially-reflective optical element, splits an incoming beam into two beams of reduced amplitude that travel different paths and then recombine. **the dominant family** in laboratory optics, metrology, quantum optics, and gravitational-wave detection.
 
 contrast with [[Wavefront-division interferometers]], where different *parts* of a wavefront are sent along different paths.
 
@@ -23,7 +23,7 @@ the result: two beams of equal amplitude (in the ideal 50/50 case) travel along 
 
 a beam splitter sends light to two mirrors. each mirror reflects light back to the beam splitter, where the two beams recombine. one output goes to a detector, the other returns toward the source.
 
-**the workhorse of metrology**. one arm typically has a movable mirror; counting fringes as the mirror moves measures distance to a fraction of a wavelength.
+**the workhorse of metrology**. one arm typically has a movable mirror. counting fringes as the mirror moves measures distance to a fraction of a wavelength.
 
 historical importance:
 - Michelson-Morley 1887: searched for the "luminiferous aether," found null result → SR
@@ -34,7 +34,7 @@ see [[Michelson laboratory interferometer]] for the optical setup, [[Michelson s
 
 ### 2. Mach-Zehnder interferometer
 
-a beam splitter splits the input. mirrors send each path to a *second* beam splitter, where they recombine. unlike Michelson, the input and output ports are physically separated — light doesn't return toward the source.
+a beam splitter splits the input. mirrors send each path to a *second* beam splitter, where they recombine. unlike Michelson, the input and output ports are physically separated, light doesn't return toward the source.
 
 useful for:
 - quantum-optics experiments (single-photon interference)
@@ -80,13 +80,13 @@ unlike wavefront division (which produces 2 virtual sources), amplitude division
 
 ### 3. coherence requirements
 
-both beams come from the *same source* via the beam splitter, so spatial coherence is guaranteed. *temporal* coherence determines the maximum useful OPD — fringes wash out for OPD > $\ell_c = c/\Delta\nu$.
+both beams come from the *same source* via the beam splitter, so spatial coherence is guaranteed. *temporal* coherence determines the maximum useful OPD, fringes wash out for OPD > $\ell_c = c/\Delta\nu$.
 
 ## the energy-conservation puzzle
 
 a 50/50 beam splitter sends 50% to one output and 50% to the other. but at the recombination point, *constructive interference* would seem to give 100% on one output and 0% on the other. where did the energy go?
 
-answer: the *other* output (destructive interference at the constructive port has the energy going to the unused port at 100% intensity). the beam splitter has *two* output ports; energy conservation requires that what's lost from one is gained by the other. the two outputs are *complementary*.
+answer: the *other* output (destructive interference at the constructive port has the energy going to the unused port at 100% intensity). the beam splitter has *two* output ports. energy conservation requires that what's lost from one is gained by the other. the two outputs are *complementary*.
 
 this is why Mach-Zehnder + balanced detection (using both outputs) is more sensitive than Michelson (one output): you don't waste light to the "bright" port.
 

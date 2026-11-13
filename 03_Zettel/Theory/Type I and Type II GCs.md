@@ -5,7 +5,7 @@ title: "Type I and Type II GCs"
 milone et al. 2017 (HST UV Legacy Survey) found that ~17% of galactic GCs show a chromosome map structure that is qualitatively different from the rest. these clusters host not only a 1G + 2G split (the canonical multiple-population signature) but also a **second, redder + parallel chromosome map sequence** that itself contains its own 1G + 2G populations + is enhanced in iron + s-process elements. milone called these **Type II GCs**, contrasting with the canonical **Type I GCs**.
 
 ![L19_p22_Terzan5_Ferraro-22.png](../../assets/images/L19_p22_Terzan5_Ferraro-22.png)
-*Terzan 5 — possibly the most extreme Type II case. Ferraro et al. 2009 and Massari et al. 2014 found two metal populations ([Fe/H] $\sim -0.2$ and $\sim +0.3$) in this bulge GC, suggesting it may be a fossil bulge fragment rather than a true GC.*
+*Terzan 5, possibly the most extreme Type II case. Ferraro et al. 2009 and Massari et al. 2014 found two metal populations ([Fe/H] $\sim -0.2$ and $\sim +0.3$) in this bulge GC, suggesting it may be a fossil bulge fragment rather than a true GC.*
 
 the distinction is now standard + carries strong implications for GC formation: type II GCs are likely **stripped nuclei of disrupted dwarf galaxies**, while type I GCs are clusters formed in single massive star-forming events.
 
@@ -31,7 +31,7 @@ the smoking gun for type II is a real $[\text{Fe/H}]$ variation. type I GCs are 
 
 ordinary GCs with potential wells too shallow to retain SN ejecta cannot do this. the natural site is a **dwarf galaxy**: a deeper potential well that retains successive enrichment, ultimately stripped of its outer stars to leave only the dense nucleus.
 
-## ω Centauri: the prototype
+## ω Centauri - the prototype
 
 $\omega$ Cen has long been the odd-one-out. it shows:
 - $[\text{Fe/H}]$ from $-2.0$ to $-0.5$, a full 1.5 dex spread (no other GC comes close)

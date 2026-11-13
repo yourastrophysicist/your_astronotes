@@ -8,7 +8,7 @@ in 1929, combining Vesto Slipher's spectroscopic measurements of galaxy radial v
 
 ---
 
-## the empirical law: $v = H_0 d$
+## the empirical law - $v = H_0 d$
 
 plotting galaxy recession velocity $v$ (in km/s) against distance $d$ (in Mpc):
 
@@ -18,7 +18,7 @@ where $H_0$ is the **Hubble Constant** (la costante di Hubble), representing the
 
 ![distancescale-20.png](../../assets/images/distancescale-20.png)
 
-### modern values of $H_0$ and the Hubble Tension:
+### modern values of $H_0$ and the Hubble Tension
 - **Planck CMB (Early Universe, $\Lambda$CDM model)**:
   $$H_0 = 67.4 \pm 0.5 \text{ km s}^{-1}\text{ Mpc}^{-1}$$
 - **SH0ES / SN Ia (Late Universe, local distance ladder)**:
@@ -27,7 +27,7 @@ this persistent $> 5\sigma$ discrepancy between early-universe and local determi
 
 ---
 
-## physical interpretation: the expansion of space
+## physical interpretation - the expansion of space
 
 Hubble's law does **not** describe galaxies flying through static space away from Earth (Earth is not at any unique cosmic center). 
 instead, general relativity reveals that **the fabric of spacetime itself is expanding uniformly in all directions**:
@@ -40,10 +40,10 @@ yielding Hubble's law with $H(t) \equiv \frac{\dot{a}}{a}$.
 
 ![distancescale-21.png](../../assets/images/distancescale-21.png)
 
-### the Hubble time $t_H$:
+### the Hubble time $t_H$
 extrapolating the expansion backwards in time: if expansion were constant, all galaxies would have been on top of each other at time $t_H$:
 $$t_H \equiv \frac{1}{H_0} = \frac{1}{70 \text{ km s}^{-1}\text{ Mpc}^{-1}} = \frac{3.086 \times 10^{19}\text{ km}}{70 \text{ km/s}} \approx 4.41 \times 10^{17} \text{ s} \approx 14.0 \text{ billion years}$$
-this provides the foundational observational evidence that our universe had a finite beginning: the **Big Bang**.
+this provides the observational evidence that our universe had a finite beginning: the **Big Bang**.
 
 ---
 
@@ -76,6 +76,18 @@ at low redshift ($z \ll 1$), Taylor expansion recovers the familiar linear Doppl
 | **6** | Hubble Flow | metric expansion of space ($v = H_0 d$) | $> 100$ Mpc to horizon | SNe Ia & BAO |
 
 ---
+
+## worked example
+
+a galaxy at $z = 0.02$: $v \simeq cz = 6000$ km/s, and with $H_0 = 70$ km/s/Mpc, $d = 86$ Mpc.
+
+the Hubble time is $1/H_0 = 977.8/70 = 14.0$ Gyr. the light from $d = 86$ Mpc travelled for 280 Myr.
+
+## where it goes wrong
+
+- $v = cz$ is only the first order of a series. at $z = 1$ it would give $v = c$, which is meaningless.
+- the law applies to the smooth flow. nearby galaxies like Andromeda have blueshifts from their own motion.
+- Hubble's own value was 500 km/s/Mpc, because his Cepheid calibration was wrong.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

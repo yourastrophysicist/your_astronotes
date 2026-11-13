@@ -25,7 +25,7 @@ $$\nabla^2 \Phi = 4\pi G a^2 \bar\rho\, \delta$$
 
 ---
 
-## combining: the master perturbation equation
+## combining - the master perturbation equation
 
 eliminate $\vec u$ between continuity and Euler. for a pressureless fluid ($\delta p = 0$), the result is:
 $$\boxed{\,\ddot\delta + 2H\dot\delta - 4\pi G\bar\rho_m\, \delta = 0\,}$$
@@ -34,13 +34,13 @@ $$\boxed{\,\ddot\delta + 2H\dot\delta - 4\pi G\bar\rho_m\, \delta = 0\,}$$
 
 three terms:
 - $\ddot\delta$: acceleration of the perturbation
-- $2H\dot\delta$: **Hubble friction** — expansion damps growth
+- $2H\dot\delta$: **Hubble friction**, expansion damps growth
 - $-4\pi G\bar\rho_m\,\delta$: gravitational instability driving growth
 
 with pressure included:
 $$\ddot\delta + 2H\dot\delta + \left(\frac{c_s^2 k^2}{a^2} - 4\pi G\bar\rho_m\right)\delta = 0$$
 
-where $c_s$ is the sound speed and $k$ is the comoving wavenumber. the second bracketed term is positive when the pressure gradient dominates (oscillation), negative when gravity dominates (growth) — see the **Jeans criterion** in [[Jeans analysis in expanding universe]].
+where $c_s$ is the sound speed and $k$ is the comoving wavenumber. the second bracketed term is positive when the pressure gradient dominates (oscillation), negative when gravity dominates (growth), see the **Jeans criterion** in [[Jeans analysis in expanding universe]].
 
 ---
 
@@ -71,9 +71,9 @@ so dark matter perturbations grow strongly only after matter-radiation equality 
 in Λ domination, the growth equation has:
 $$\ddot\delta + 2H\dot\delta - 0 \cdot \delta = 0$$
 
-(no source, since $\bar\rho_m \to 0$ at late times.) the growing mode **freezes out** — no further growth. perturbations stop growing once Λ takes over at $z \sim 0.7$.
+(no source, since $\bar\rho_m \to 0$ at late times.) the growing mode **freezes out**, no further growth. perturbations stop growing once Λ takes over at $z \sim 0.7$.
 
-so the **growth factor** $D(a)$ — the amplitude of $\delta(a)$ relative to today — is:
+so the **growth factor** $D(a)$, the amplitude of $\delta(a)$ relative to today, is:
 $$D(a) \approx \begin{cases} \log(a)\quad (\text{rad. dominated, sub-horizon}) \\ a \quad (\text{matter dominated}) \\ \text{constant}\quad (\text{Λ dominated}) \end{cases}$$
 
 → see [[Growth factor D(z)]] for the full analytic form.
@@ -88,11 +88,20 @@ the linear growth solution is the **bridge** between the CMB era and the modern 
 - if matter-dominated for the entire interval: $\delta(0) \sim \delta(1100) \times 1100 = 10^{-2}$
 - but with Λ taking over at $z \sim 0.7$, the actual growth between $z = 1100$ and $z = 0$ is suppressed: $D(z=1100)/D(z=0) \approx 1/780$, so $\delta(0) \sim 10^{-5} \times 780 \approx 10^{-2}$
 
-→ matches the observed CMB anisotropies of $\sim 10^{-5}$ growing into the cosmic web of $\sim 10^{-1}$–$1$ density contrasts in galaxy clusters today.
+→ matches the observed CMB anisotropies of $\sim 10^{-5}$ growing into the cosmic web of $\sim 10^{-1}$ to $1$ density contrasts in galaxy clusters today.
 
-so linear theory works *all the way* from the CMB to large-scale structure today — at least for the largest-scale modes that have not yet entered the nonlinear regime.
+so linear theory works *all the way* from the CMB to large-scale structure today, at least for the largest-scale modes that have not yet entered the nonlinear regime.
 
 ---
+
+## worked example
+
+from recombination ($\delta \approx 10^{-5}$ in baryons) to today, linear growth gives $\delta \propto a$, a factor 1100. that reaches $10^{-2}$, not the observed order one. dark matter, which started growing at equality ($a = 1/3400$), gives the extra factor.
+
+## where it goes wrong
+
+- the growing mode $\delta \propto a$ holds in the matter era only. under $\Lambda$ growth slows.
+- linear theory breaks down at $\delta \approx 1$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -111,7 +120,7 @@ so linear theory works *all the way* from the CMB to large-scale structure today
 - [[Spherical collapse]]
 - [[Press-Schechter halo mass function]]
 - [[Matter power spectrum and BAO]]
-- [[Baumann_reference]] — chapters 4 and 5 are the rigorous treatment
+- [[Baumann_reference]] - chapters 4 and 5 are the rigorous treatment
 
 
 

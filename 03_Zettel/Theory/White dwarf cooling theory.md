@@ -20,7 +20,7 @@ at low enough temperatures the Coulomb coupling parameter $\Gamma = (Ze)^2/(a k 
 
 - releases **latent heat** of fusion ($\sim k T$ per ion), producing a temporary plateau in the cooling rate when the freezing wave passes through the core.
 - triggers **chemical separation**: oxygen, being heavier, sinks out of the C-O mixture as it solidifies, releasing additional gravitational energy.
-- transitions the ions from a classical gas to a quantum solid; once $T \ll T_{\rm Debye}$ the ion specific heat drops as $T^3$ and cooling accelerates dramatically (Debye cooling).
+- transitions the ions from a classical gas to a quantum solid. once $T \ll T_{\rm Debye}$ the ion specific heat drops as $T^3$ and cooling accelerates dramatically (Debye cooling).
 
 these effects together leave fingerprints in the luminosity function of the WD cooling sequence: a pile-up where cooling slows, and a steep drop at the faint end where Debye cooling kicks in.
 

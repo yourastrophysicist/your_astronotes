@@ -4,9 +4,9 @@ title: "Pulsar timing arrays as interferometers"
 ---
 # Pulsar timing arrays as interferometers
 
-a *galactic-scale* interferometer made from pulsars. by precisely monitoring the arrival times of pulses from many milliseconds-stable pulsars across the Galaxy, we can detect *low-frequency gravitational waves* — including the cosmic background of supermassive-binary-black-hole mergers throughout cosmic history.
+a *galactic-scale* interferometer made from pulsars. by precisely monitoring the arrival times of pulses from many milliseconds-stable pulsars across the Galaxy, we can detect *low-frequency gravitational waves*, including the cosmic background of supermassive-binary-black-hole mergers throughout cosmic history.
 
-NANOGrav, EPTA, PPTA, and InPTA are the major collaborations. their joint detection of the GW background was announced in **2023** — a landmark in low-frequency astronomy.
+NANOGrav, EPTA, PPTA, and InPTA are the major collaborations. their joint detection of the GW background was announced in **2023**, a landmark in low-frequency astronomy.
 
 ## the pulsar as a clock
 
@@ -32,13 +32,13 @@ the timing precision of MSPs is $\sim 100$ ns. so a single pulsar's timing can d
 
 ## the interferometric structure
 
-now consider *many* pulsars at different sky positions. a passing GW perturbs each pulsar's TOA differently — the strain pattern from a GW source produces a *correlated* TOA pattern across the pulsar sky.
+now consider *many* pulsars at different sky positions. a passing GW perturbs each pulsar's TOA differently, the strain pattern from a GW source produces a *correlated* TOA pattern across the pulsar sky.
 
 this is *the interferometric structure*: each pulsar is a "telescope element," each pair is a "baseline" measuring spatial coherence of the GW field, and the **Hellings-Downs correlation curve** is the analog of the (u, v)-plane Fourier-transformation.
 
 ## the Hellings-Downs curve
 
-the GW background is anisotropic on the sky — different directions contribute different amounts of perturbation. Hellings & Downs (1983) derived the **expected correlation** between TOA residuals of two pulsars as a function of their angular separation $\theta$:
+the GW background is anisotropic on the sky, different directions contribute different amounts of perturbation. Hellings & Downs (1983) derived the **expected correlation** between TOA residuals of two pulsars as a function of their angular separation $\theta$:
 
 $$\Gamma(\theta) = \frac{1 - \cos\theta}{2}\ln\!\left(\frac{1 - \cos\theta}{2}\right) - \frac{1 - \cos\theta}{12} + \frac{1}{2}$$
 

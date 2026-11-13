@@ -35,7 +35,7 @@ iterative point-source subtraction. greedy algorithm: find peak, subtract scaled
 maximum-entropy regularized fit. find $I$ maximizing $F[I]$ = data fit + entropy.
 
 **best for**: extended emission, smooth sources, low surface brightness
-**limitations**: needs careful parameter tuning; can over-smooth; computationally expensive
+**limitations**: needs careful parameter tuning. can over-smooth. computationally expensive
 **adoption**: secondary, used when CLEAN struggles
 
 ### Multi-scale CLEAN (Cornwell 2008)
@@ -52,7 +52,7 @@ Bayesian framework: optimize $\chi^2$ + multiple regularization terms (entropy, 
 
 **best for**: complex sources with multiple structural components, high-precision imaging
 **limitations**: many free parameters, computationally heavy
-**adoption**: emerging; standard for EHT, gaining traction in radio
+**adoption**: emerging. standard for EHT, gaining traction in radio
 
 ### Sparse Bayesian inference
 

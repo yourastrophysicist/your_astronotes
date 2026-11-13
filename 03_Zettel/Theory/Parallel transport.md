@@ -20,11 +20,11 @@ intuitively: at each step along the curve, "parallel transport" the vector by ad
 
 on a curved manifold, parallel transport is **path-dependent**: transporting a vector around a closed loop generally returns it to a **rotated** version of itself. the rotation is exactly the **Riemann tensor** (see [[Riemann tensor]]).
 
-## the canonical example: the 2-sphere
+## the canonical example - the 2-sphere
 
 take a vector at the equator pointing north. parallel-transport it along the equator (it stays pointing north). now bring it up a meridian to the north pole (it stays pointing along the meridian). then bring it down a different meridian (it stays pointing along *that* meridian).
 
-the final vector is rotated by an angle equal to the longitude difference between the two meridians. this rotation is the **holonomy** of the loop. in flat space, holonomy is identity; on a curved manifold, it's not.
+the final vector is rotated by an angle equal to the longitude difference between the two meridians. this rotation is the **holonomy** of the loop. in flat space, holonomy is identity. on a curved manifold, it's not.
 
 ## the parallel-transport equation as a system of ODEs
 

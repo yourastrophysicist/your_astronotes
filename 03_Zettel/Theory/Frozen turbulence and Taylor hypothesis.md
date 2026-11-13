@@ -26,7 +26,7 @@ Taylor's hypothesis works when $v_{\rm wind} \gg v_{\rm rms}$. typical atmospher
 
 it breaks down at very high altitudes where wind speeds are lower or for stratified flow with low shear.
 
-## the consequence: coherence time
+## the consequence - coherence time
 
 at a fixed point, the temporal structure function is
 
@@ -64,9 +64,9 @@ implemented in modern systems like ESO's SPHERE on the VLT and the LBTI on the L
 
 ## the wind profile
 
-real turbulence is at multiple altitudes, each with its own wind. the Taylor hypothesis applies *layer by layer*. high-altitude layer might have wind 30 m/s east; ground-layer 5 m/s west. the wavefront contributions from each move at different speeds.
+real turbulence is at multiple altitudes, each with its own wind. the Taylor hypothesis applies *layer by layer*. high-altitude layer might have wind 30 m/s east. ground-layer 5 m/s west. the wavefront contributions from each move at different speeds.
 
-a SLODAR (or similar) measures the turbulence and wind at each altitude. AO systems with multiple DMs can correct each layer optimally — the basis of multi-conjugate AO.
+a SLODAR (or similar) measures the turbulence and wind at each altitude. AO systems with multiple DMs can correct each layer optimally, the basis of multi-conjugate AO.
 
 ## the "lucky imaging" exploitation
 
@@ -76,11 +76,11 @@ similar idea: speckle interferometry uses the fact that each short-exposure imag
 
 ## limitations of the hypothesis
 
-- **boiling**: at long timescales (~seconds), eddies do evolve internally. Taylor's approximation degrades; full 3D atmospheric simulation is needed for the most demanding applications
+- **boiling**: at long timescales (~seconds), eddies do evolve internally. Taylor's approximation degrades. full 3D atmospheric simulation is needed for the most demanding applications
 - **breaking turbulence**: under shear, eddies break up rather than advecting smoothly. the hypothesis fails near jet streams during shear bursts
 - **convective layers**: in strong convection, vertical motions are comparable to horizontal advection, and the 2D frozen-flow picture is wrong
 
-for design purposes, Taylor's hypothesis is good enough to set $\tau_0$ values; for fine-tuning AO performance, the limitations matter.
+for design purposes, Taylor's hypothesis is good enough to set $\tau_0$ values. for fine-tuning AO performance, the limitations matter.
 
 ## see also
 

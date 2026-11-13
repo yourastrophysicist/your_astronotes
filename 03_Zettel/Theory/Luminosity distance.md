@@ -12,7 +12,7 @@ essential for using SN Ia as standard candles in the Hubble diagram.
 for a flat universe:
 $$\boxed{\, d_L(z) = d_C(z)(1 + z) = (1+z)\frac{c}{H_0}\int_0^z \frac{dz'}{\sqrt{\Omega_m(1+z')^3 + \Omega_\Lambda}} \,}$$
 
-(approximating; ignoring $\Omega_r, \Omega_K$ for late-universe cosmology.)
+(approximating, ignoring $\Omega_r, \Omega_K$ for late-universe cosmology.)
 
 ## the two factors of $(1+z)$
 
@@ -57,6 +57,50 @@ so $d_L \ge d_C \ge d_A$, with equality at $z = 0$.
 surface brightness $\sigma = $ flux per solid angle $\propto F/\theta^2 = (L/d_L^2)/(D^2/d_A^2) = (L/D^2)/d_L^2 \cdot d_A^2 = (L/D^2)\cdot 1/(1+z)^4$. the **$(1+z)^{-4}$ surface brightness dimming**, brutal at high $z$.
 
 see [[Surface brightness dimming]].
+
+## the derivation, step by step
+
+assumptions: a source of bolometric luminosity $L$ at comoving coordinate $\chi$, emitting isotropically, in a Robertson-Walker universe with $a_0 = 1$.
+
+1. **the area**. today the photons emitted at $t_e$ are spread over a sphere centered on the source that passes through me. its proper area is $4\pi d_M^2$, with $d_M = S_k(\chi)$ the transverse comoving distance. in a flat universe $d_M = d_C$.
+2. **the energy of each photon**. a photon emitted with $h\nu_e$ arrives with $h\nu_0 = h\nu_e/(1+z)$.
+3. **the arrival rate**. two photons emitted $\delta t_e$ apart arrive $\delta t_0 = (1+z)\,\delta t_e$ apart, by the same stretching that redshifts the wavelength.
+
+the energy received per unit time and area is then
+
+$$F = \frac{L}{4\pi d_M^2}\cdot\frac{1}{1+z}\cdot\frac{1}{1+z}$$
+
+comparing with the definition $F = L/(4\pi d_L^2)$:
+
+$$d_L = (1+z)\, d_M$$
+
+this is for the **bolometric** flux. in a fixed band I also need the K-correction, because the filter sees a different part of the rest-frame spectrum. see [[K-correction]].
+
+## closed forms and the low-redshift series
+
+- **any model, low $z$**:
+
+$$d_L \simeq \frac{c}{H_0}\left[z + \frac{1 - q_0}{2}\, z^2 + \dots\right]$$
+
+the first term is the Hubble law. the second carries the deceleration parameter, which is why supernovae at $z \sim 0.5$ measure acceleration.
+
+- **Einstein-de Sitter**: $d_L = \dfrac{2c}{H_0}(1+z)\left[1 - \dfrac{1}{\sqrt{1+z}}\right]$
+- **empty (Milne) universe**: $d_L = \dfrac{c}{H_0}\, z\left(1 + \dfrac{z}{2}\right)$
+
+## worked example - how much fainter is a supernova at z = 0.5
+
+with $c/H_0 = 4448$ Mpc:
+
+- $\Lambda$CDM: $d_L = 2910$ Mpc.
+- empty universe: $d_L = 4448 \times 0.5 \times 1.25 = 2780$ Mpc.
+- Einstein-de Sitter: $d_L = 2 \times 4448 \times 1.5 \times (1 - 0.8165) = 2449$ Mpc.
+
+the difference in distance modulus is $\Delta\mu = 5\log_{10}(d_{L,1}/d_{L,2})$:
+
+- $\Lambda$CDM against empty: $5\log_{10}(2910/2780) \approx 0.10$ mag.
+- $\Lambda$CDM against Einstein-de Sitter: $5\log_{10}(2910/2449) \approx 0.37$ mag.
+
+so the whole discovery rests on a few tenths of a magnitude. this is why the dispersion of SN Ia after standardization, about 0.15 mag, and the control of dust and evolution matter so much.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

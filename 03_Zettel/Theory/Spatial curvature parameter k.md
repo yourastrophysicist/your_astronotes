@@ -6,21 +6,21 @@ the **spatial curvature parameter** $k$ in the FLRW metric specifies the curvatu
 
 ## the three options
 
-### $k = 0$: flat
-spatial slices are **3-Euclidean** ($\mathbb{R}^3$). infinite extent, zero curvature. parallel lines stay parallel; angles in triangles sum to $180°$.
+### $k = 0$ - flat
+spatial slices are **3-Euclidean** ($\mathbb{R}^3$). infinite extent, zero curvature. parallel lines stay parallel. angles in triangles sum to $180°$.
 
 spatial metric: $\gamma_{ij}\,dx^i\,dx^j = dr^2 + r^2 d\Omega^2$.
 
 current universe: observed to be flat to $\Omega_k < 0.005$ (Planck CMB). within errors, flat is consistent.
 
-### $k = +1$: closed
+### $k = +1$ - closed
 spatial slices are a **3-sphere $S^3$**. finite volume, positive curvature. parallel lines converge, like geodesics on a 2-sphere meeting at the poles. triangle angles sum to $> 180°$.
 
 spatial metric: $\gamma_{ij}\,dx^i\,dx^j = (dr^2 + \sin^2 r \,d\Omega^2)$ in a "polar" parametrisation.
 
 closed universes can re-collapse if $\Omega_{\rm tot} > 1$. our universe is **not** closed within observational error.
 
-### $k = -1$: open
+### $k = -1$ - open
 spatial slices are **3-hyperbolic**. infinite extent, negative curvature. parallel lines diverge. triangle angles sum to $< 180°$.
 
 spatial metric: $\gamma_{ij}\,dx^i\,dx^j = dr^2 + \sinh^2 r\,d\Omega^2$.

@@ -46,7 +46,7 @@ see Q4 - metric compatibility on the 2-sphere for the full computation.
 
 ## what metric compatibility buys you
 
-several powerful tools:
+several useful tools:
 1. **raising / lowering indices commutes with $\nabla$**: $\nabla_\rho V^\mu = g^{\mu\nu}\nabla_\rho V_\nu$. tensor algebra plays nicely with differentiation.
 2. **proper time interpretation**: $d\tau^2 = -ds^2 = -g_{\mu\nu}dx^\mu dx^\nu$ is well-defined and measures clock time correctly.
 3. **first integral of geodesic equation**: along a geodesic, $g_{\mu\nu}\dot x^\mu \dot x^\nu$ is constant (proper time = affine parameter for timelike geodesics).

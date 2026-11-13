@@ -40,7 +40,7 @@ so all fringes are *swapped* compared to Young's slits. this is the unique exper
 at a reflection from a higher-refractive-index medium, the reflected wave's phase flips. this is a consequence of:
 - continuity of $\mathbf{E}$ at the boundary (Maxwell)
 - the boundary condition that the *transmitted* wave's amplitude be continuous
-- result: the reflected wave's $\mathbf{E}$ is opposite to the incident at the surface — a $\pi$ phase shift
+- result: the reflected wave's $\mathbf{E}$ is opposite to the incident at the surface, a $\pi$ phase shift
 
 this is the same physics that gives the dark central spot in Newton's rings and the dark fringe at the edge of a soap-bubble interference pattern.
 
@@ -53,7 +53,7 @@ Lloyd's mirror is *very* sensitive to:
 
 its main use today is as a *teaching demonstration* of the $\pi$ reflection phase. it's not commonly used as a quantitative tool because Young's slits or Fresnel biprism are more controlled.
 
-## the modern version: dipole-mirror interferometers
+## the modern version - dipole-mirror interferometers
 
 Lloyd's mirror has a modern descendant: in atomic physics, a "dipole mirror" reflects a beam of atoms. when atoms are reflected, they pick up a phase that can be measured via interference with a direct beam. essentially Lloyd's mirror for matter waves.
 

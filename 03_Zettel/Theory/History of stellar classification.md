@@ -62,7 +62,7 @@ stellar atmosphere codes now produce synthetic spectra so detailed that they can
 
 ## the broader lesson
 
-Cecilia Payne's insight: **stars are essentially the same composition; the diversity of spectra is just a temperature ordering**. this is the spectroscopic version of the cosmological principle. it makes possible all of stellar astrophysics: a single grid of stellar atmosphere models in $(T_{\rm eff}, \log g, [Fe/H])$ predicts every star's spectrum.
+Cecilia Payne's insight: **stars are essentially the same composition. The diversity of spectra is just a temperature ordering**. this is the spectroscopic version of the cosmological principle. it makes possible all of stellar astrophysics: a single grid of stellar atmosphere models in $(T_{\rm eff}, \log g, [Fe/H])$ predicts every star's spectrum.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

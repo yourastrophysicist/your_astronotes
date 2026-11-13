@@ -16,7 +16,7 @@ where:
 
 interpretation: at high $T$, the exponential is mild and excited states are populated. at low $T$, only the ground state.
 
-## generalisation: full equilibrium distribution
+## generalisation - full equilibrium distribution
 
 extending to all levels of the ion:
 $$\frac{n_i}{n_{\rm tot}} = \frac{g_i\,e^{-E_i/k_BT}}{Z(T)}$$
@@ -57,7 +57,7 @@ departures from LTE: chromospheres, coronae, and any optically thin gas where ra
 
 ## Saha + Boltzmann together
 
-Boltzmann gives populations within an ionisation stage; Saha ([[Saha ionisation equation]]) gives ratios between adjacent stages. together they specify the full distribution. usually computed with software (e.g. ATLAS9, MARCS, PHOENIX) that iterates.
+Boltzmann gives populations within an ionisation stage. Saha ([[Saha ionisation equation]]) gives ratios between adjacent stages. together they specify the full distribution. usually computed with software (e.g. ATLAS9, MARCS, PHOENIX) that iterates.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -77,7 +77,7 @@ Boltzmann gives populations within an ionisation stage; Saha ([[Saha ionisation 
 - [[Partition function]]
 - [[Population of excited levels]]
 - [[Why the Sequence OBAFGKM]]
-- [[Number density and energy density at thermal equilibrium]] — cosmological version
+- [[Number density and energy density at thermal equilibrium]] - cosmological version
 - [[Hydrogen population vs T]]
 - [[Helium population vs T]]
 - [[Local thermodynamic equilibrium LTE]]

@@ -50,14 +50,14 @@ def rk2(f, y0, t0, t_end, h):
 
 doubling the cost (Euler → RK2) buys *one extra order* of accuracy. for any sensible target accuracy, RK2 wins overwhelmingly.
 
-## the other RK2: Heun's method (improved Euler)
+## the other RK2 - Heun's method (improved Euler)
 
 Heun's method is also second-order. it averages the slope at the start and the slope at the *full step*:
 
 $$\mathbf{k}_1 = \mathbf{f}(\mathbf{y}_n, t_n), \quad \mathbf{k}_2 = \mathbf{f}(\mathbf{y}_n + h\mathbf{k}_1, t_n + h)$$
 $$\mathbf{y}_{n+1} = \mathbf{y}_n + \tfrac{h}{2}(\mathbf{k}_1 + \mathbf{k}_2)$$
 
-equivalent to a "predict with Euler, correct with trapezoidal." accuracy is the same $O(h^2)$ but the constant coefficient differs. for general use, the midpoint method is slightly more accurate; Heun's is sometimes preferred for boundary cases.
+equivalent to a "predict with Euler, correct with trapezoidal." accuracy is the same $O(h^2)$ but the constant coefficient differs. for general use, the midpoint method is slightly more accurate. Heun's is sometimes preferred for boundary cases.
 
 ## the Pythagorean three-body exam exercise
 
@@ -79,7 +79,7 @@ midpoint is conditionally stable: it is stable for $\lvert 1 + h\lambda + h^2 \l
 
 ## astrophysics use cases
 
-- **as a teaching tool for second-order accuracy** — the natural step up from Euler
+- **as a teaching tool for second-order accuracy** - the natural step up from Euler
 - **lightweight integrations** where RK4 is overkill but Euler is too inaccurate
 - **embedded RK pairs** (e.g. RK23) use a midpoint-class step plus a higher-order step to estimate error for adaptive control. see [[Adaptive step size control]]
 
@@ -98,7 +98,7 @@ midpoint is conditionally stable: it is stable for $\lvert 1 + h\lambda + h^2 \l
 
 - [[Euler method]]
 - [[Runge-Kutta 4 method]]
-- [[Leapfrog integrator]] — same order, symplectic, better for orbits
+- [[Leapfrog integrator]] - same order, symplectic, better for orbits
 - [[Energy conservation as a diagnostic]]
 - [[Astrophysical N-body problem formulation]]
 - [[Mathematical_Numerical_Methods_MOC]]

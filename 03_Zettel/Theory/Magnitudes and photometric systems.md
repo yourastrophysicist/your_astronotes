@@ -8,7 +8,7 @@ the magnitude system is astronomy's logarithmic scale for measuring the flux (ap
 
 ---
 
-## historical origin: Hipparchus to Pogson
+## historical origin - Hipparchus to Pogson
 
 around 150 BCE, the Greek astronomer **Hipparchus** cataloged naked-eye stars into six brightness classes:
 - 1st magnitude: the $\sim 20$ brightest stars in the night sky.
@@ -31,10 +31,10 @@ so 1 magnitude corresponds to a flux ratio of $\approx 2.512$.
 for two stars with received flux densities $F_1$ and $F_2$, the difference in their apparent magnitudes $m_1 - m_2$ is:
 $$\boxed{\, m_1 - m_2 = -2.5 \log_{10}\left(\frac{F_1}{F_2}\right) \,}$$
 
-### the inverse relation:
+### the inverse relation
 $$\frac{F_1}{F_2} = 10^{-0.4 (m_1 - m_2)}$$
 
-### crucial notes on the scale:
+### notes on the scale
 1. **the minus sign**: brighter objects have **smaller** (or more negative) magnitudes! 
 2. **apparent magnitude benchmarks**:
    - the Sun: $m = -26.74$
@@ -71,7 +71,7 @@ $$\boxed{\, \mu \equiv m - M = 5 \log_{10} d - 5 = 5 \log_{10}\left(\frac{d}{10\
 
 ![radiative-45.png](../../assets/images/radiative-45.png)
 
-### distance modulus lookup table:
+### distance modulus lookup table
 | distance $d$ | distance modulus $\mu = m - M$ | typical astronomical scale |
 |---|---|---|
 | $10$ pc | $0.0$ | solar neighborhood |
@@ -97,7 +97,7 @@ $$M_{\text{bol}} = 4.74 - 2.5 \log_{10}\left(\frac{L}{L_\odot}\right)$$
 
 ![radiative-47.png](../../assets/images/radiative-47.png)
 
-### bolometric correction (BC):
+### bolometric correction (BC)
 optical filters only sample a fraction of the total spectrum. the **bolometric correction** translates standard V-band magnitude to bolometric magnitude:
 $$\boxed{\, BC \equiv m_{\text{bol}} - V = M_{\text{bol}} - M_V \,}$$
 (by convention, $BC \le 0$ always in modern usage, because a star always emits more total bolometric flux than through the V-filter alone). $BC$ is large and negative for very hot stars (which emit predominantly in UV) and very cool stars (which emit in infrared), and minimal near G-type stars ($BC_\odot \approx -0.07$).
@@ -106,7 +106,7 @@ $$\boxed{\, BC \equiv m_{\text{bol}} - V = M_{\text{bol}} - M_V \,}$$
 
 ---
 
-## broad-band photometric systems: UBVRI
+## broad-band photometric systems - UBVRI
 
 telescopes use optical filters to measure flux in specific wavelength windows. the most widely used standard is the **Johnson-Cousins UBVRI system**:
 
@@ -137,7 +137,7 @@ $$U - B = m_U - m_B = -2.5 \log_{10}\left(\frac{F_U}{F_B}\right) + \text{const}$
 
 ![radiative-52.png](../../assets/images/radiative-52.png)
 
-### color index as an intrinsic thermometer:
+### color index as an intrinsic thermometer
 because distance cancels out in the ratio $F_B / F_V = (L_B / 4\pi d^2) / (L_V / 4\pi d^2) = L_B / L_V$, a **color index is completely independent of distance** (in the absence of dust extinction)!
 
 - **hot stars ($T > 10,000$ K)**: emit far more blue light than yellow light $\implies F_B > F_V \implies B - V < 0$ (e.g. O stars have $B - V \approx -0.33$).
@@ -148,7 +148,7 @@ because distance cancels out in the ratio $F_B / F_V = (L_B / 4\pi d^2) / (L_V /
 
 ---
 
-## photometric zero-points: Vega vs AB systems
+## photometric zero-points - Vega vs AB systems
 
 1. **the Vega system**: historically defines the bright standard star **Vega** ($\alpha$ Lyr, A0V) to have magnitude $0.00$ in all filters ($U=B=V=R=I=0$), so all color indices for Vega are $0.00$.
 2. **the AB magnitude system (Oke & Gunn 1983)**: defined directly in physical units of monochromatic flux density:
@@ -162,6 +162,20 @@ because distance cancels out in the ratio $F_B / F_V = (L_B / 4\pi d^2) / (L_V /
 ![radiative-56.png](../../assets/images/radiative-56.png)
 
 ---
+
+## worked example
+
+two stars of $m = 10.0$ that I cannot separate. the fluxes add, the magnitudes do not:
+
+$$m_{\rm tot} = 10.0 - 2.5\log_{10}2 = 9.25$$
+
+and for small changes, $\Delta m \simeq 1.086\,\Delta F/F$. a change of $0.01$ mag is a change of 0.9% in flux.
+
+## where it goes wrong
+
+- a smaller magnitude is a brighter object, and negative magnitudes exist.
+- Vega and AB magnitudes agree near V and differ strongly in the infrared, by about 1.85 mag in K.
+- a magnitude always belongs to a filter and a system. $m = 18$ alone says nothing.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -20,7 +20,7 @@ if the underlying function is twice-differentiable, the error of linear interpol
 
 $$\lvert f(x) - L(x)\rvert \leq \frac{h^2}{8} \max \lvert f''\rvert$$
 
-so $O(h^2)$ — same order as the trapezoidal rule, which is just integrated linear interpolation.
+so $O(h^2)$, same order as the trapezoidal rule, which is just integrated linear interpolation.
 
 ## python (numpy)
 
@@ -35,7 +35,7 @@ y = np.interp(x_query, x_data, y_data)
 - **simple**: 3 lines of code
 - **monotonicity-preserving**: if data is monotonic, the interpolant is too. cubic splines do *not* have this property
 - **no oscillations**: linear cannot overshoot
-- **fast**: $O(\log N)$ per query with binary search; $O(N + Q)$ for $Q$ vectorized queries on sorted data
+- **fast**: $O(\log N)$ per query with binary search. $O(N + Q)$ for $Q$ vectorized queries on sorted data
 
 ## weaknesses
 

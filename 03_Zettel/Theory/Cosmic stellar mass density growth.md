@@ -46,6 +46,10 @@ both $\rho_*$ (via $M_*/L$) and $\rho_{SFR}$ (via SFR/$L_{UV}$ or SFR/$L_{IR}$) 
 - the stellar mass density buildup tracks the integrated cosmic SFR within $\sim 30\%$
 - 50% of today's stellar mass was already in place by $z = 1$
 
+## where it goes wrong
+
+- integrating the star formation history gives slightly more mass than is observed. the mass returned to the gas, about 40%, must be removed.
+
 ## connections
 
 - companion plot: [[Cosmic star formation history]]

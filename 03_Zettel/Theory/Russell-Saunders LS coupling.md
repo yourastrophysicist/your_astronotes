@@ -16,9 +16,9 @@ allowed total values:
 - $S$: half-integer or integer, between $\lvert s_1 - s_2\rvert$ and $s_1 + s_2$. for $n$ electrons, $S \in \{0, 1, 2, \dots\}$ if $n$ even, $\{1/2, 3/2, \dots\}$ if odd.
 - $J$: integer or half-integer, between $\lvert L - S\rvert$ and $L + S$.
 
-each combination of $(L, S)$ is called a **term**; each combination of $(L, S, J)$ is a **multiplet sublevel** (often just called a "level").
+each combination of $(L, S)$ is called a **term**. each combination of $(L, S, J)$ is a **multiplet sublevel** (often just called a "level").
 
-## notation: term symbols
+## notation - term symbols
 
 the term symbol is
 $$n^{(2S+1)}L_J^{p}$$
@@ -53,7 +53,7 @@ for heavy atoms ($Z \gtrsim 80$), spin-orbit becomes comparable to or larger tha
 $$\vec j_i = \vec\ell_i + \vec s_i$$
 then $\vec J = \sum_i \vec j_i$. this is **jj coupling** ([[jj coupling]]).
 
-intermediate-coupling cases are common in mid-$Z$ elements (Fe-peak elements in stars), where neither LS nor jj is strictly valid; the state is a quantum-mechanical mixture.
+intermediate-coupling cases are common in mid-$Z$ elements (Fe-peak elements in stars), where neither LS nor jj is strictly valid. the state is a quantum-mechanical mixture.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

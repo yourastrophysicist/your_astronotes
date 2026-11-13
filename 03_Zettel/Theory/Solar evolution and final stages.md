@@ -14,12 +14,12 @@ over its $\approx 10$ Gyr main-sequence lifetime, the Sun's core steadily conver
 
 ![stellar-69.png](../../assets/images/stellar-69.png)
 
-### 1. core hydrogen exhaustion and the Subgiant Branch (SGB):
+### 1. core hydrogen exhaustion and the Subgiant Branch (SGB)
 when hydrogen is completely exhausted in the central core ($X_c = 0$), the isothermal helium core cannot support the weight of the outer layers (the Schönberg-Chandrasekhar limit, $M_{\text{core}} \le 0.1 M_{\text{total}}$). the core contracts gravitationally and heats up. a shell of hydrogen immediately above the core ignites (**hydrogen shell burning**). the immense luminosity from the shell drives the outer envelope to expand and cool, moving horizontally to the right across the **Subgiant Branch**.
 
 ![stellar-70.png](../../assets/images/stellar-70.png)
 
-### 2. the Red Giant Branch (RGB) and the Helium Flash:
+### 2. the Red Giant Branch (RGB) and the Helium Flash
 as the envelope cools below $\sim 4000$ K, opacity increases dramatically, triggering deep envelope convection. the star ascends the vertical **Red Giant Branch (RGB)**:
 - radius expands to $R \sim 100 R_\odot$ (reaching Mercury/Venus's orbit).
 - luminosity climbs to $L \sim 10^3 - 10^4 L_\odot$.
@@ -30,18 +30,18 @@ as the envelope cools below $\sim 4000$ K, opacity increases dramatically, trigg
 
 when the contracting degenerate core reaches $T_c \approx 10^8$ K, the **triple-alpha process** ($3\alpha \to {}^{12}\text{C}$) ignites. in normal gas, thermal expansion cools the core, stabilizing fusion. but in degenerate gas, the temperature surge does **not** increase pressure, so the core cannot expand! 
 
-a runaway thermonuclear explosion occurs: the **Helium Flash**. within seconds, core luminosity spikes to $L \sim 10^{11} L_\odot$ internally. the colossal energy release rapidly lifts the electron degeneracy; the core expands, cools, and settles into stable, quiescent helium burning.
+a runaway thermonuclear explosion occurs: the **Helium Flash**. within seconds, core luminosity spikes to $L \sim 10^{11} L_\odot$ internally. the colossal energy release rapidly lifts the electron degeneracy. the core expands, cools, and settles into stable, quiescent helium burning.
 
 ![stellar-72.png](../../assets/images/stellar-72.png)
 
-### 3. the Horizontal Branch (HB) / Red Clump:
+### 3. the Horizontal Branch (HB) / Red Clump
 the star now burns helium stably in its non-degenerate core and hydrogen in a surrounding shell:
 - core expands, outer envelope contracts slightly, surface temperature rises ($T_{\text{eff}} \sim 5000$ K).
 - stars settle onto the **Horizontal Branch** (or the **Red Clump** in metal-rich populations) at $L \approx 50-100 L_\odot$, remaining there for $\sim 100$ Myr.
 
-### 4. the Asymptotic Giant Branch (AGB):
+### 4. the Asymptotic Giant Branch (AGB)
 core helium is exhausted, leaving an inert, degenerate **carbon-oxygen core**. the star undergoes a second expansion, ascending the **Asymptotic Giant Branch (AGB)**:
-- structure: degenerate C-O core + burning Helium shell + burning Hydrogen shell + vast, convective envelope.
+- structure: degenerate C-O core + burning Helium shell + burning Hydrogen shell + large, convective envelope.
 - radius expands to $R \sim 1$ AU (engulfing Earth!).
 - luminosity reaches $L \sim 10^4 L_\odot$.
 - **thermal pulses (helium shell flashes)**: unstable episodic burning in the helium shell causes periodic luminosity pulses, driving **dredge-up episodes** that dredge freshly minted carbon and s-process elements to the surface.
@@ -51,7 +51,7 @@ core helium is exhausted, leaving an inert, degenerate **carbon-oxygen core**. t
 
 ![stellar-74.png](../../assets/images/stellar-74.png)
 
-### 5. Planetary Nebula and White Dwarf:
+### 5. Planetary Nebula and White Dwarf
 the ejected envelope expands into space, forming a luminous, fluorescent **Planetary Nebula** (e.g. Ring Nebula, Helix Nebula) ionized by the blistering ultraviolet radiation ($T > 100,000$ K) of the exposed hot core.
 
 after $\sim 50,000$ years, the nebula disperses into the interstellar medium, enriching it with carbon, nitrogen, and oxygen. the bare carbon-oxygen core remains as a **White Dwarf**:
@@ -65,6 +65,22 @@ after $\sim 50,000$ years, the nebula disperses into the interstellar medium, en
 ![stellar-76.png](../../assets/images/stellar-76.png)
 
 ---
+
+## worked example
+
+the numbers of the future Sun:
+
+- main-sequence lifetime 10 Gyr, present age 4.57 Gyr
+- tip of the red giant branch: $L \approx 2000\,L_\odot$, $R \approx 170\,R_\odot \approx 0.8$ AU
+- helium flash when the core reaches $0.47\,M_\odot$
+- final white dwarf of about $0.54\,M_\odot$, so the Sun loses almost half of its mass
+
+## where it goes wrong
+
+- the helium flash is not seen from outside. the energy goes into lifting the degeneracy of the core.
+- the Sun is far too light to become a supernova.
+- a planetary nebula has nothing to do with planets. it is the ejected envelope, lit by the hot core.
+- a white dwarf does not burn anything. it only cools.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

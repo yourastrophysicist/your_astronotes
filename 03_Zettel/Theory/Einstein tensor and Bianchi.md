@@ -17,7 +17,7 @@ with $R_{\mu\nu}$ the Ricci tensor and $R$ the Ricci scalar.
 - **trace**: $g^{\mu\nu}G_{\mu\nu} = R - 2R = -R$.
 - $4 \times 5/2 = 10$ independent components in 4D.
 
-the divergence-free property is the crucial one. comes from the **contracted Bianchi identity**:
+the divergence-free property is the one. comes from the **contracted Bianchi identity**:
 $$\nabla^\mu G_{\mu\nu} = 0$$
 
 ## why $G$ and not $R$

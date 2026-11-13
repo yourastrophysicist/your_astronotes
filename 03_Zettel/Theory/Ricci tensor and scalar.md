@@ -22,7 +22,7 @@ $$\boxed{\, R \equiv g^{\mu\nu}R_{\mu\nu} \,}$$
 
 $R_{\mu\nu}u^\mu u^\nu$ for a unit timelike $u^\mu$ measures the **convergence rate of nearby geodesics**. specifically, the rate of change of a small volume of test particles co-moving with $u^\mu$:
 $$\frac{1}{V}\frac{d^2 V}{d\tau^2} \approx -R_{\mu\nu}u^\mu u^\nu$$
-(approximate; full Raychaudhuri equation has extra terms).
+(approximate, full Raychaudhuri equation has extra terms).
 
 so positive $R_{\mu\nu}u^\mu u^\nu$ means converging geodesics, attractive gravity. in vacuum ($R_{\mu\nu} = 0$), nearby geodesics neither converge nor diverge **on average**, but Weyl-type tidal forces still operate (the GW polarisations).
 
@@ -30,7 +30,7 @@ so positive $R_{\mu\nu}u^\mu u^\nu$ means converging geodesics, attractive gravi
 
 in 4D, Ricci has 10 components but Riemann has 20. the **Weyl tensor**:
 $$C_{\rho\sigma\mu\nu} = R_{\rho\sigma\mu\nu} - \text{(Ricci traces)}$$
-carries the other 10 components. Weyl is trace-free; it carries pure tidal effects + gravitational waves; Ricci is what couples to matter.
+carries the other 10 components. Weyl is trace-free. it carries pure tidal effects + gravitational waves. Ricci is what couples to matter.
 
 so a vacuum spacetime can have $R_{\mu\nu} = 0$ but non-zero $C$ (gravitational waves, vacuum tidal forces). example: Schwarzschild's exterior has $R_{\mu\nu} = 0$ but $C \ne 0$ (the tidal force is real).
 

@@ -26,7 +26,7 @@ initial velocities: all zero. units: $G = 1$.
 
 ## the dynamics (a brief tour)
 
-starting from rest, the three masses fall toward each other. the smallest mass is *not* simply ejected first; the dynamics is genuinely 3-body chaotic. through a sequence of close-triple encounters and exchanges, eventually:
+starting from rest, the three masses fall toward each other. the smallest mass is *not* simply ejected first. the dynamics is genuinely 3-body chaotic. through a sequence of close-triple encounters and exchanges, eventually:
 
 - the lightest mass ($m_1 = 3$) is **ejected** on a hyperbolic trajectory
 - the heavier two ($m_2 = 4$, $m_3 = 5$) bind into a **stable binary**
@@ -48,7 +48,7 @@ $$E = \tfrac12 \sum_i m_i v_i^2 - \sum_{i < j} \frac{m_i m_j}{\lvert \mathbf{r}_
 at $t = 0$ (rest):
 $$E_0 = -\frac{m_1 m_2}{5} - \frac{m_1 m_3}{4} - \frac{m_2 m_3}{3} = -\frac{12}{5} - \frac{15}{4} - \frac{20}{3} = -\frac{289}{20\cdot 3} \approx -12.81\overline{6}$$
 
-(exact value $-289/22 ish$ — work the LCD: $\frac{12}{5} = 144/60, \frac{15}{4} = 225/60, \frac{20}{3} = 400/60$, sum $769/60 = 12.8166\ldots$). so $E_0 \approx -12.817$.
+(exact value $-289/22 ish$, work the LCD: $\frac{12}{5} = 144/60, \frac{15}{4} = 225/60, \frac{20}{3} = 400/60$, sum $769/60 = 12.8166\ldots$). so $E_0 \approx -12.817$.
 
 throughout the integration, this should be conserved. a properly-tuned midpoint or RK4 integrator with $h = 10^{-5}$ keeps $\lvert \Delta E/E\rvert < 10^{-8}$ during smooth phases, with brief excursions to ~$10^{-5}$ at close encounters.
 
@@ -56,7 +56,7 @@ throughout the integration, this should be conserved. a properly-tuned midpoint 
 
 from `exam_template.pdf`:
 
-> Three point masses attract each other according to the Newtonian law of gravitation: $\vec{a}_i = -G \sum_{j \neq i} m_j (\vec{x}_i - \vec{x}_j)/\lvert \vec{x}_i - \vec{x}_j\rvert^3$. The masses of the particles are $m_1 = 3, m_2 = 4, m_3 = 5$; they are initially located at the apexes of a right triangle with sides 3, 4, and 5, as shown in the figure. The particles are free to move in the xy plane of the triangle and are at rest initially. We assume $G = 1$.
+> Three point masses attract each other according to the Newtonian law of gravitation: $\vec{a}_i = -G \sum_{j \neq i} m_j (\vec{x}_i - \vec{x}_j)/\lvert \vec{x}_i - \vec{x}_j\rvert^3$. The masses of the particles are $m_1 = 3, m_2 = 4, m_3 = 5$. They are initially located at the apexes of a right triangle with sides 3, 4, and 5, as shown in the figure. The particles are free to move in the xy plane of the triangle and are at rest initially. We assume $G = 1$.
 >
 > A. Write a script to integrate the position and the velocity of the three particles in two dimensions with the **midpoint method** between time $t = 0$ and time $t_f = 5$ with timesteps of $h = 10^{-5}$.
 > B. Plot the orbits of the three particles in the xy plane.

@@ -14,7 +14,7 @@ before any equations, before any tensors, before any of the machinery, here is t
 
 > **what is gravity, really?**
 
-Newton answered: gravity is a force, like electricity. masses pull on each other across empty space, instantly, with strength $GMm/r^2$. this works beautifully for almost everything: cannonballs, planets, satellites, the moon. it is the most successful theory in the history of physics until 1916.
+Newton answered: gravity is a force, like electricity. masses pull on each other across empty space, instantly, with strength $GMm/r^2$. this works cleanly for almost everything: cannonballs, planets, satellites, the moon. it is the most successful theory in the history of physics until 1916.
 
 but Newton's answer has two cracks in it.
 
@@ -22,7 +22,7 @@ but Newton's answer has two cracks in it.
 
 **crack two, the speed-of-light problem**. Einstein's special relativity (1905) says nothing travels faster than $c$. but Newton's gravity propagates **instantly**, the moment the sun moved, Earth would feel it immediately, with no delay. either Einstein is wrong or Newton is wrong. they cannot both be right.
 
-Einstein spent ten years (1905 to 1915) figuring out a new theory of gravity that fixes both problems. that theory is **general relativity**, GR, the subject of this course. its answer to "what is gravity, really?" is one of the most beautiful ideas in physics:
+Einstein spent ten years (1905 to 1915) figuring out a new theory of gravity that fixes both problems. that theory is **general relativity**, GR, the subject of this course. its answer to "what is gravity, really?" is one of the nicest ideas in physics:
 
 > **gravity is not a force. gravity is what spacetime looks like when there is matter in it. objects in free fall just follow the natural straight lines of the curved spacetime around them. and the curving of spacetime is what we have always called "the pull of gravity."**
 
@@ -62,7 +62,7 @@ a famous summary by John Wheeler:
 
 > **matter tells spacetime how to curve, spacetime tells matter how to move.**
 
-these are the two halves of the theory and they are decoupled in a beautiful way:
+these are the two halves of the theory and they are decoupled in a way:
 
 - **matter tells spacetime how to curve** is **Einstein's equation**, $G_{\mu\nu} = 8\pi G T_{\mu\nu}$. it is one equation (well, ten) saying: given a distribution of matter and energy, here is what the geometry has to be.
 - **spacetime tells matter how to move** is the **geodesic equation**, $\ddot x^\mu + \Gamma^\mu{}_{\alpha\beta}\dot x^\alpha \dot x^\beta = 0$. it says: in a given geometry, freely-falling particles follow these specific paths.
@@ -121,7 +121,7 @@ now that we have the language, what is "curvature"? the question matters because
 
 physical question this block answers: **how do i know if a space is curved, and how do i quantify it?**
 
-the answer is the Riemann tensor. it is built from a beautiful operational test: parallel transport a vector around a tiny closed loop. if the vector comes back to the same vector, the space is flat. if it comes back rotated, the space is curved, and Riemann measures how much. this is not a metaphor; it is the actual definition.
+the answer is the Riemann tensor. it is built from an operational test: parallel transport a vector around a tiny closed loop. if the vector comes back to the same vector, the space is flat. if it comes back rotated, the space is curved, and Riemann measures how much. this is not a metaphor. it is the actual definition.
 
 - [[Riemann tensor]] the path-dependence of parallel transport, made precise
 - [[Riemann tensor symmetries]] the four symmetries (antisym pair, antisym pair, pair exchange, first Bianchi) that reduce its components
@@ -257,7 +257,7 @@ vacuum solutions of linearized GR. the equations $\Box \bar h_{\mu\nu} = 0$ admi
 
 physical question this block answers: **what are gravitational waves and what do they do?**
 
-after fixing all the gauge freedom (Lorenz first, then four extra TT conditions), only **two physical polarizations** survive: $h_+$ ("plus") and $h_\times$ ("cross"). they affect a ring of test masses by alternately stretching and squeezing it: the "+" pattern stretches the ring along $x$ while squeezing along $y$, then reverses; the "×" pattern is the same rotated by $45°$. LIGO detects this stretching directly through laser interferometry.
+after fixing all the gauge freedom (Lorenz first, then four extra TT conditions), only **two physical polarizations** survive: $h_+$ ("plus") and $h_\times$ ("cross"). they affect a ring of test masses by alternately stretching and squeezing it: the "+" pattern stretches the ring along $x$ while squeezing along $y$, then reverses. the "×" pattern is the same rotated by $45°$. LIGO detects this stretching directly through laser interferometry.
 
 - [[Transverse traceless gauge]] the canonical GW gauge, four extra conditions, two polarizations
 - [[Plus and cross polarizations]] $h_+, h_\times$, the stretching and squeezing patterns
@@ -350,9 +350,9 @@ every question is a calculation that lives inside one of the eight blocks. when 
 
 Canonical and modern arXiv gr-qc/astro-ph.HE benchmark papers underlying the Kerr-metric and gravitational-wave physics above.
 
-- [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes\|Bardeen, Press & Teukolsky (1972) — Rotating Black Holes]] — locally nonrotating frames, the ISCO formula, accretion efficiency
-- [[Abbott_2016_LIGO_GW150914_Detection\|Abbott et al. / LIGO & Virgo (2016) — Observation of Gravitational Waves (GW150914)]] — chirp-mass inspiral, merger, ringdown
-- [[EHT_Collaboration_2022_Testing_Kerr_Metric_SgrA\|Event Horizon Telescope Collaboration (2022) — Testing the Black Hole Metric (Sgr A*)]] — shadow-size Kerr test across mass scales
+- [[Bardeen_Press_Teukolsky_1972_Rotating_Black_Holes\|Bardeen, Press & Teukolsky (1972) - Rotating Black Holes]] - locally nonrotating frames, the ISCO formula, accretion efficiency
+- [[Abbott_2016_LIGO_GW150914_Detection\|Abbott et al. / LIGO & Virgo (2016) - Observation of Gravitational Waves (GW150914)]] - chirp-mass inspiral, merger, ringdown
+- [[EHT_Collaboration_2022_Testing_Kerr_Metric_SgrA\|Event Horizon Telescope Collaboration (2022) - Testing the Black Hole Metric (Sgr A*)]] - shadow-size Kerr test across mass scales
 
 ---
 
@@ -520,16 +520,16 @@ Every zettel in this map ends with a short sourced section: a definition quoted 
 
 The oral examination for General Relativity draws directly from a published bank of 20 core mathematical problems. The following defense matrix details the exact question, starting formula, rigorous blackboard derivation steps, and key trap points for all 20 questions:
 
-### Question 01: Flat 2D Euclidean Metric in Cartesian vs Polar Coordinates
+### Question 01 - Flat 2D Euclidean Metric in Cartesian vs Polar Coordinates
 - **Official Exam Question & Figure Asset**: `![gr_q01_solution.png](../assets/images/gr_q01_solution.png)`
 - **Starting Formula**: $$ds^2 = dx^2 + dy^2$$
 - **Blackboard Derivation & Step-by-Step Proof**:
   1. In Cartesian coordinates, $g_{ij} = \delta_{ij} = {\rm diag}(1,1)$, so $\partial_k g_{ij} = 0$ everywhere, implying all Christoffel symbols $\Gamma^k_{ij} = 0$.
   1. The geodesic equation $\ddot{x}^i + \Gamma^i_{jk}\dot{x}^j\dot{x}^k = 0$ simplifies to $\ddot{x}^i = 0$, whose solution is a straight line $x^i(\lambda) = v^i\lambda + x_0^i$.
   1. Transforming to polar coordinates $x = r\cos\phi, y = r\sin\phi$, the metric becomes $ds^2 = dr^2 + r^2 d\phi^2$. Here $\Gamma^r_{\phi\phi} = -r$ and $\Gamma^\phi_{r\phi} = 1/r$. The straight line is preserved physically, but non-zero Christoffel symbols represent coordinate acceleration (centrifugal and Coriolis forces).
-- **Professor Trap Points**: *Confusing non-zero Christoffel symbols with intrinsic curvature. Christoffel symbols depend on coordinate choice; Riemann tensor $R^i{}_{jkl} = 0$ proves the manifold is intrinsically flat!*
+- **Professor Trap Points**: *Confusing non-zero Christoffel symbols with intrinsic curvature. Christoffel symbols depend on coordinate choice, Riemann tensor $R^i{}_{jkl} = 0$ proves the manifold is intrinsically flat!*
 
-### Question 02: Geodesic Equations in 2D Polar Coordinates via Euler-Lagrange
+### Question 02 - Geodesic Equations in 2D Polar Coordinates via Euler-Lagrange
 - **Official Exam Question & Figure Asset**: `![gr_q02_solution.png](../assets/images/gr_q02_solution.png)`
 - **Starting Formula**: $$L = \frac{1}{2} g_{\mu\nu} \dot{x}^\mu \dot{x}^\nu = \frac{1}{2}(\dot{r}^2 + r^2 \dot{\phi}^2)$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -539,7 +539,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. Differentiating $r^2\dot{\phi} = {\rm const}$ gives $2r\dot{r}\dot{\phi} + r^2\ddot{\phi} = 0 \implies \ddot{\phi} + \frac{2}{r}\dot{r}\dot{\phi} = 0$, so $\Gamma^\phi_{r\phi} = \Gamma^\phi_{\phi r} = 1/r$.
 - **Professor Trap Points**: *Forgetting the symmetry factor 2 when matching $\Gamma^\phi_{r\phi}$ in $\ddot{x}^i + \Gamma^i_{jk}\dot{x}^j\dot{x}^k = 0$ because $\dot{r}\dot{\phi}$ appears twice!*
 
-### Question 03: 2D Spacetime Symmetries and Killing Vectors
+### Question 03 - 2D Spacetime Symmetries and Killing Vectors
 - **Official Exam Question & Figure Asset**: `![gr_q03_solution.png](../assets/images/gr_q03_solution.png)`
 - **Starting Formula**: $$ds^2 = -(1+x^2)dt^2 + dx^2$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -548,7 +548,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. Conserved quantity along any geodesic $u^\mu = dx^\mu/d\tau$: $E = -g_{\mu\nu}\xi^\mu u^\nu = (1+x^2)\frac{dt}{d\tau} = {\rm const}$. This represents energy per unit mass in static gravitational field.
 - **Professor Trap Points**: *Thinking $x$ provides a second Killing vector. The metric depends explicitly on $x$, so $\partial_x$ is NOT a Killing vector!*
 
-### Question 04: Christoffel Symbols and Riemann Curvature of 2D Metric
+### Question 04 - Christoffel Symbols and Riemann Curvature of 2D Metric
 - **Official Exam Question & Figure Asset**: `![gr_q04_solution.png](../assets/images/gr_q04_solution.png)`
 - **Starting Formula**: $$ds^2 = (1+x^2)dx^2 + (1+y^2)dy^2$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -558,7 +558,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. In fact, all components of $R^i{}_{jkl} = 0$ identically! The coordinate transformations $X = \int \sqrt{1+x^2}dx$ and $Y = \int \sqrt{1+y^2}dy$ bring the metric directly to flat Cartesian form $ds^2 = dX^2 + dY^2$.
 - **Professor Trap Points**: *Performing tedious algebra on Riemann without recognizing that a diagonal metric whose components depend only on their own coordinates ($g_{11}(x^1), g_{22}(x^2)$) can always be transformed to flat space by simple 1D coordinate changes!*
 
-### Question 05: Weak-Field Metric Outside Earth and Clock Rates
+### Question 05 - Weak-Field Metric Outside Earth and Clock Rates
 - **Official Exam Question & Figure Asset**: `![gr_q05_solution.png](../assets/images/gr_q05_solution.png)`
 - **Starting Formula**: $$ds^2 = -(1+2\Phi)dt^2 + (1-2\Phi)dr^2 + r^2 d\Omega^2, \quad \Phi = -\frac{GM}{r}$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -567,7 +567,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. A clock higher up in the gravitational potential runs **faster** than a clock on Earth's surface. For GPS satellites ($r_2 \approx 26,600$ km vs $r_1 \approx 6,370$ km), the gravitational blue-shift advances clocks by $\sim +45.9\,\mu$s/day (partially counteracted by special relativistic time dilation $\sim -7.2\,\mu$s/day, net $+38.7\,\mu$s/day).
 - **Professor Trap Points**: *Forgetting that $\Phi < 0$ for attractive Newtonian gravity, which flips the sign if not tracked carefully!*
 
-### Question 06: Christoffel and Curvature of Unit 2-Sphere $S^2$
+### Question 06 - Christoffel and Curvature of Unit 2-Sphere $S^2$
 - **Official Exam Question & Figure Asset**: `![gr_q06_solution.png](../assets/images/gr_q06_solution.png)`
 - **Starting Formula**: $$ds^2 = d\theta^2 + \sin^2\theta d\phi^2$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -577,7 +577,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. Ricci scalar: $R = g^{ij}R_{ij} = 1(1) + \frac{1}{\sin^2\theta}(\sin^2\theta) = 1 + 1 = 2$. For sphere of radius $a$, $R = 2/a^2$.
 - **Professor Trap Points**: *Forgetting that $R_{\phi\phi} = \sin^2\theta$, so the contracted scalar $R = g^{\theta\theta}R_{\theta\theta} + g^{\phi\phi}R_{\phi\phi} = 1 + 1 = 2$, NOT 1!*
 
-### Question 07: Parallel Transport on 2-Sphere and Holonomy Angle
+### Question 07 - Parallel Transport on 2-Sphere and Holonomy Angle
 - **Official Exam Question & Figure Asset**: `![gr_q07_solution.png](../assets/images/gr_q07_solution.png)`
 - **Starting Formula**: $$\nabla_{\dot{\gamma}} V^\mu = 0 \implies \frac{dV^\mu}{d\lambda} + \Gamma^\mu_{\alpha\beta} V^\alpha \frac{dx^\beta}{d\lambda} = 0$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -588,7 +588,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. After complete circuit $\Delta\phi = 2\pi$, the vector has rotated by phase angle $\alpha = 2\pi\cos\theta_0$. The deficit angle (holonomy) is $\Delta\psi = 2\pi - \alpha = 2\pi(1 - \cos\theta_0) = \iint K dA$, which is exactly the solid angle enclosed by the loop (Gauss-Bonnet theorem)!
 - **Professor Trap Points**: *Stating that the vector returns unchanged. On a curved manifold, parallel transport around a closed loop rotates the vector by an angle equal to the integrated curvature!*
 
-### Question 08: Commutator of Covariant Derivatives and Bianchi Identity
+### Question 08 - Commutator of Covariant Derivatives and Bianchi Identity
 - **Official Exam Question & Figure Asset**: `![gr_q08_solution.png](../assets/images/gr_q08_solution.png)`
 - **Starting Formula**: $$[\nabla_\mu, \nabla_\nu] W^{\alpha\beta} = R^\alpha{}_{\lambda\mu\nu} W^{\lambda\beta} + R^\beta{}_{\lambda\mu\nu} W^{\alpha\lambda}$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -598,7 +598,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. Therefore, the condition for $[\nabla_\mu, \nabla_\nu] W^{\mu\nu} = 0$ is that $W^{\mu\nu}$ is a **symmetric tensor**. This is the geometric foundation for the divergence-free Einstein tensor $\nabla_\mu G^{\mu\nu} = 0$.
 - **Professor Trap Points**: *Assuming $[\nabla_\mu, \nabla_\nu] W^{\mu\nu} = 0$ holds for any tensor. If $W^{\mu\nu}$ has an antisymmetric part $A^{\mu\nu}$, the contraction yields $2 R_{\mu\nu} A^{\mu\nu} \ne 0$!*
 
-### Question 09: Photon Trajectory and Coordinate Speed of Light in 2D
+### Question 09 - Photon Trajectory and Coordinate Speed of Light in 2D
 - **Official Exam Question & Figure Asset**: `![gr_q09_solution.png](../assets/images/gr_q09_solution.png)`
 - **Starting Formula**: $$ds^2 = -(1 + x^2/\ell^2)dt^2 + dx^2 = 0$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -608,7 +608,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. Proper speed measured by a local stationary observer with orthonormal basis $\hat{e}_0 = (1+x^2/\ell^2)^{-1/2}\partial_t, \hat{e}_1 = \partial_x$ is $v_{\rm local} = \frac{dx^{\hat{1}}}{dt^{\hat{0}}} = 1 = c$ everywhere.
 - **Professor Trap Points**: *Confusing coordinate velocity $\frac{dx}{dt}$ with locally measured physical velocity $\frac{dx^{\hat{1}}}{dt^{\hat{0}}}$. Local velocity of light is ALWAYS $c$!*
 
-### Question 10: Schwarzschild Christoffel Symbols $\Gamma^r_{rr}$ and $\Gamma^r_{\phi\phi}$
+### Question 10 - Schwarzschild Christoffel Symbols $\Gamma^r_{rr}$ and $\Gamma^r_{\phi\phi}$
 - **Official Exam Question & Figure Asset**: `![gr_q10_solution.png](../assets/images/gr_q10_solution.png)`
 - **Starting Formula**: $$ds^2 = -\left(1 - \frac{2GM}{r}\right)dt^2 + \left(1 - \frac{2GM}{r}\right)^{-1}dr^2 + r^2(d\theta^2 + \sin^2\theta d\phi^2)$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -618,7 +618,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. Formula: $\Gamma^r_{\phi\phi} = -\frac{1}{2}g^{rr}\partial_r g_{\phi\phi} = -\frac{1}{2}f(r)(2r\sin^2\theta) = -r\left(1 - \frac{2GM}{r}\right)\sin^2\theta$. In the equatorial plane $\theta = \pi/2$, $\Gamma^r_{\phi\phi} = -(r - 2GM)$.
 - **Professor Trap Points**: *Missing the negative sign in $\Gamma^r_{\phi\phi} = -\frac{1}{2}g^{rr}\partial_r g_{\phi\phi}$ which comes from the Euler-Lagrange kinetic term $-\frac{\partial L}{\partial r}$!*
 
-### Question 11: Effective Potential and Circular Orbits in Schwarzschild
+### Question 11 - Effective Potential and Circular Orbits in Schwarzschild
 - **Official Exam Question & Figure Asset**: `![gr_q11_solution.png](../assets/images/gr_q11_solution.png)`
 - **Starting Formula**: $$\frac{1}{2}\left(\frac{dr}{d\lambda}\right)^2 + V_{\rm eff}(r) = \frac{E^2 - 1}{2}, \quad V_{\rm eff}(r) = -\frac{GM}{r} + \frac{L^2}{2r^2} - \frac{GML^2}{r^3}$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -626,10 +626,10 @@ The oral examination for General Relativity draws directly from a published bank
   1. Derivative: $\frac{dV_{\rm eff}}{dr} = \frac{GM}{r^2} - \frac{L^2}{r^3} + \frac{3GML^2}{r^4} = 0 \implies GM r^2 - L^2 r + 3GM L^2 = 0$.
   1. Solving quadratic for $r$: $r = \frac{L^2 \pm \sqrt{L^4 - 12 G^2 M^2 L^2}}{2GM} = \frac{L^2}{2GM}\left[1 \pm \sqrt{1 - \frac{12 G^2 M^2}{L^2}}\right]$.
   1. Real solutions exist only if discriminant $\ge 0 \implies L^2 \ge 12 G^2 M^2$. At $L^2 = 12 G^2 M^2$, both roots merge at $r = \frac{12 G^2 M^2}{2GM} = 6GM$.
-  1. Stability requires $\frac{d^2 V_{\rm eff}}{dr^2} > 0$. The outer root is stable; the inner root is unstable. At $r = 6GM$, $\frac{d^2 V_{\rm eff}}{dr^2} = 0$, defining the **Innermost Stable Circular Orbit (ISCO)** at $r_{\rm ISCO} = 6GM = 3 R_s$.
+  1. Stability requires $\frac{d^2 V_{\rm eff}}{dr^2} > 0$. The outer root is stable, the inner root is unstable. At $r = 6GM$, $\frac{d^2 V_{\rm eff}}{dr^2} = 0$, defining the **Innermost Stable Circular Orbit (ISCO)** at $r_{\rm ISCO} = 6GM = 3 R_s$.
 - **Professor Trap Points**: *Forgetting the relativistic term $-GML^2/r^3$ in the effective potential, which has no Newtonian analog and is responsible for orbital instability and ISCO!*
 
-### Question 12: Radial Free-Fall Infall Proper Time vs Coordinate Time
+### Question 12 - Radial Free-Fall Infall Proper Time vs Coordinate Time
 - **Official Exam Question & Figure Asset**: `![gr_q12_solution.png](../assets/images/gr_q12_solution.png)`
 - **Starting Formula**: $$\left(\frac{dr}{d\tau}\right)^2 = \frac{2GM}{r} \quad \text{(released from rest at } r_0 \to \infty \text{)}$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -638,9 +638,9 @@ The oral examination for General Relativity draws directly from a published bank
   1. Integrate from $r_0$ to $r=0$: $\tau = \int_0^{r_0} \sqrt{\frac{r}{2GM}}\,dr = \frac{2}{3\sqrt{2GM}} r_0^{3/2} = \frac{4}{3}\frac{GM}{c^3}\left(\frac{r_0}{2GM}\right)^{3/2}$. This is **finite**!
   1. Coordinate time: $\frac{dt}{dr} = \frac{dt/d\tau}{dr/d\tau} = -\frac{E/(1 - 2GM/r)}{\sqrt{2GM/r}}$. Near $r \to 2GM$, the integrand diverges as $\sim \frac{2GM}{r - 2GM}$.
   1. Integration yields $t(r) \sim -2GM \ln(r - 2GM) \to +\infty$ as $r \to 2GM$. The infalling astronaut crosses the horizon in finite proper time $\tau$, but an outside observer sees them redshift and freeze at the horizon as $t \to \infty$.
-- **Professor Trap Points**: *Stating that the astronaut cannot cross the horizon because $t \to \infty$. Coordinate time $t$ is pathological at $r = 2GM$; proper time $\tau$ is the physical invariant!*
+- **Professor Trap Points**: *Stating that the astronaut cannot cross the horizon because $t \to \infty$. Coordinate time $t$ is pathological at $r = 2GM$, proper time $\tau$ is the physical invariant!*
 
-### Question 13: Photon Sphere and Weak Light Deflection
+### Question 13 - Photon Sphere and Weak Light Deflection
 - **Official Exam Question & Figure Asset**: `![gr_q13_solution.png](../assets/images/gr_q13_solution.png)`
 - **Starting Formula**: $$\left(\frac{dr}{d\lambda}\right)^2 + V_{\rm eff}^{\rm null}(r) = \frac{1}{b^2}, \quad V_{\rm eff}^{\rm null}(r) = \frac{1}{r^2}\left(1 - \frac{2GM}{r}\right)$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -651,7 +651,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. Total deflection angle: $\Delta\phi = 2\lvert u_1(\pi/2)\rvert b = \frac{4GM}{c^2 b}$. For the Sun ($M = M_\odot, b = R_\odot$), $\Delta\phi = 1.751$ arcseconds, confirming Dyson, Eddington & Davidson (1919).
 - **Professor Trap Points**: *Mixing up the Newtonian deflection $\Delta\phi_{\rm Newton} = \frac{2GM}{c^2 b}$ with Einstein's GR deflection $\frac{4GM}{c^2 b}$. Space curvature doubles the Newtonian prediction!*
 
-### Question 14: Perihelion Precession of Mercury
+### Question 14 - Perihelion Precession of Mercury
 - **Official Exam Question & Figure Asset**: `![gr_q14_solution.png](../assets/images/gr_q14_solution.png)`
 - **Starting Formula**: $$\frac{d^2 u}{d\phi^2} + u = \frac{GM}{L^2} + 3GM u^2$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -664,7 +664,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. Precession per orbit: $\Delta\phi = 2\pi\epsilon = \frac{6\pi GM}{c^2 a(1-e^2)}$. For Mercury ($a = 0.387$ AU, $e=0.206$, period 88 days), this gives exactly $42.98''/$century!
 - **Professor Trap Points**: *Dropping the factor of 3 in the relativistic term $3GM u^2$ or failing to identify the secular resonance term $\phi\sin\phi$!*
 
-### Question 15: Linearized Gravity and Gauge Invariance
+### Question 15 - Linearized Gravity and Gauge Invariance
 - **Official Exam Question & Figure Asset**: `![gr_q15_solution.png](../assets/images/gr_q15_solution.png)`
 - **Starting Formula**: $$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}, \quad \lvert h_{\mu\nu}\rvert \ll 1$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -675,7 +675,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. In Lorenz gauge, linearized Einstein field equations simplify to uncoupled wave equations: $\Box \bar{h}_{\mu\nu} = -16\pi G T_{\mu\nu}$.
 - **Professor Trap Points**: *Forgetting to trace-reverse $h_{\mu\nu}$. In terms of unreversed $h_{\mu\nu}$, the equations contain extra trace terms that do not decouple cleanly into wave equations!*
 
-### Question 16: Transverse-Traceless (TT) Gauge for Gravitational Waves
+### Question 16 - Transverse-Traceless (TT) Gauge for Gravitational Waves
 - **Official Exam Question & Figure Asset**: `![gr_q16_solution.png](../assets/images/gr_q16_solution.png)`
 - **Starting Formula**: $$\Box h_{ij}^{\rm TT} = 0, \quad h_{0\mu}^{\rm TT} = 0, \quad h^i{}_i^{\rm TT} = 0, \quad \partial^j h_{ij}^{\rm TT} = 0$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -686,7 +686,7 @@ The oral examination for General Relativity draws directly from a published bank
   $$h_{ij}^{\rm TT}(t, z) = \begin{pmatrix} h_+ & h_\times & 0 \\ h_\times & -h_+ & 0 \\ 0 & 0 & 0 \end{pmatrix} \cos(\omega(t - z/c))$$
 - **Professor Trap Points**: *Believing gravitational waves carry scalar or longitudinal modes in General Relativity. In GR, gravitational waves are strictly transverse and quadrupolar (spin-2)!*
 
-### Question 17: Gravitational Wave Effect on Ring of Test Particles
+### Question 17 - Gravitational Wave Effect on Ring of Test Particles
 - **Official Exam Question & Figure Asset**: `![gr_q17_solution.png](../assets/images/gr_q17_solution.png)`
 - **Starting Formula**: $$\frac{D^2 \xi^i}{dt^2} = R^i{}_{0j0} \xi^j = -\frac{1}{2}\ddot{h}_{ij}^{\rm TT}\xi^j$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -697,7 +697,7 @@ The oral examination for General Relativity draws directly from a published bank
   1. In a laser interferometer (like LIGO/Virgo) with arms along $x$ and $y$: $\Delta L_x = \frac{1}{2}h_+ L_x, \Delta L_y = -\frac{1}{2}h_+ L_y \implies \frac{\Delta L_x - \Delta L_y}{L} = h_+$. The optical interference fringe shift measures $h_+$ directly.
 - **Professor Trap Points**: *Confusing coordinate motion with physical separation. In TT coordinates, the coordinate positions of the masses are constant ($\ddot{x}^i = 0$), but proper distance $d = \sqrt{g_{ij}\Delta x^i \Delta x^j}$ oscillates!*
 
-### Question 18: Friedmann and Fluid Equations: Acceleration and Deceleration
+### Question 18 - Friedmann and Fluid Equations - Acceleration and Deceleration
 - **Official Exam Question & Figure Asset**: `![gr_q18_solution.png](../assets/images/gr_q18_solution.png)`
 - **Starting Formula**: $$H^2 = \frac{8\pi G}{3}\rho - \frac{k}{a^2}, \quad \dot{\rho} + 3H(\rho + p) = 0$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -708,9 +708,9 @@ The oral examination for General Relativity draws directly from a published bank
   1. Using $\frac{\ddot{a}}{a} = \dot{H} + H^2$, we obtain the **acceleration equation**: $\frac{\ddot{a}}{a} = -\frac{4\pi G}{3}(\rho + 3p)$.
   1. Define deceleration parameter: $q_0 = -\frac{\ddot{a}a}{\dot{a}^2} = -\frac{\ddot{a}}{a H^2} = \frac{4\pi G}{3H_0^2}(\rho_0 + 3p_0) = \frac{1}{2}\Omega_m - \Omega_\Lambda$.
   1. For acceleration ($\,\ddot{a} > 0 \implies q_0 < 0$), we require dark energy dominance: $\Omega_\Lambda > \frac{1}{2}\Omega_m$. With $\Omega_m \approx 0.3, \Omega_\Lambda \approx 0.7$, $q_0 \approx 0.15 - 0.70 = -0.55 < 0$!
-- **Professor Trap Points**: *Forgetting the $+3p$ term in $(\rho + 3p)$. In General Relativity, pressure gravitates! Positive pressure enhances deceleration; negative pressure ($p = -\rho$) drives cosmic acceleration.*
+- **Professor Trap Points**: *Forgetting the $+3p$ term in $(\rho + 3p)$. In General Relativity, pressure gravitates! Positive pressure enhances deceleration, negative pressure ($p = -\rho$) drives cosmic acceleration.*
 
-### Question 19: Expansion of Flat Universe with Single Fluid $p = w\rho$
+### Question 19 - Expansion of Flat Universe with Single Fluid $p = w\rho$
 - **Official Exam Question & Figure Asset**: `![gr_q19_solution.png](../assets/images/gr_q19_solution.png)`
 - **Starting Formula**: $$\dot{\rho} + 3\frac{\dot{a}}{a}(1+w)\rho = 0 \implies \rho(a) = \rho_0 a^{-3(1+w)}$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -724,9 +724,9 @@ The oral examination for General Relativity draws directly from a published bank
   - Radiation-dominated ($w=1/3$): $a(t) \propto t^{1/2}$, age $t_0 = \frac{1}{2H_0}$.
   - Stiff matter ($w=1$): $a(t) \propto t^{1/3}$.
   - Vacuum energy ($w=-1$): $a(t) \propto e^{H t}$, steady exponential de Sitter expansion.
-- **Professor Trap Points**: *Integrating with $w=-1$ using the power law formula. When $w=-1$, the exponent has $1+w=0$ in the denominator; the integral yields $\ln a = H t \implies a(t) \propto e^{Ht}$!*
+- **Professor Trap Points**: *Integrating with $w=-1$ using the power law formula. When $w=-1$, the exponent has $1+w=0$ in the denominator, the integral yields $\ln a = H t \implies a(t) \propto e^{Ht}$!*
 
-### Question 20: Exact Solution for Flat $\Lambda$CDM Universe
+### Question 20 - Exact Solution for Flat $\Lambda$CDM Universe
 - **Official Exam Question & Figure Asset**: `![gr_q20_solution.png](../assets/images/gr_q20_solution.png)`
 - **Starting Formula**: $$H^2 = \left(\frac{\dot{a}}{a}\right)^2 = H_0^2\left[\Omega_m a^{-3} + \Omega_\Lambda\right]$$
 - **Blackboard Derivation & Step-by-Step Proof**:
@@ -760,7 +760,7 @@ The oral examination for General Relativity draws directly from a published bank
 | **Killing Equation** | $\nabla_\mu \xi_\nu + \nabla_\nu \xi_\mu = 0 \implies Q = g_{\mu\nu}\xi^\mu u^\nu = {\rm const}$ | Continuous spacetime symmetries and conserved quantities |
 | **Schwarzschild Radius** | $R_s = \frac{2GM}{c^2}$ | Event horizon of static, uncharged black hole |
 | **Schwarzschild ISCO** | $r_{\rm ISCO} = \frac{6GM}{c^2} = 3 R_s$ | Innermost stable circular orbit for massive test particles |
-| **Schwarzschild Photon Sphere** | $r_{\rm ph} = \frac{3GM}{c^2} = 1.5 R_s$ | Unstable circular orbit for photons; shadow boundary $b_{\rm crit} = 3\sqrt{3}GM$ |
+| **Schwarzschild Photon Sphere** | $r_{\rm ph} = \frac{3GM}{c^2} = 1.5 R_s$ | Unstable circular orbit for photons, shadow boundary $b_{\rm crit} = 3\sqrt{3}GM$ |
 | **Light Deflection Angle** | $\Delta\phi = \frac{4GM}{c^2 b}$ | Weak-field gravitational lensing deflection |
 | **Mercury Perihelion Shift** | $\Delta\phi = \frac{6\pi GM}{c^2 a(1-e^2)}$ | Relativistic precession advance per orbital revolution |
 | **Gravitational Wave Strain** | $h_{ij}^{\rm TT} = \frac{2G}{c^4 r} \ddot{I}_{ij}^{\rm TT}(t - r/c)$ | Quadrupole radiation formula for transverse-traceless GW strain |

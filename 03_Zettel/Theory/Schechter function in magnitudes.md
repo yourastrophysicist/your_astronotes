@@ -104,7 +104,7 @@ $$\boxed{\frac{d \log_{10} \Phi(M)}{dM} = -0.4 \, (\alpha + 1)}$$
 - In optical galaxy surveys (e.g. SDSS $r$-band where $\alpha \approx -1.15$ to $-1.25$).
   $$-0.4(\alpha + 1) = -0.4(-0.20) = +0.08$$
   The number density $\log_{10}\Phi(M)$ **increases** by $0.08\,\mathrm{dex}$ per magnitude toward fainter galaxies.
-- Contrast with the luminosity form - in $\Phi(L) dL$, the power law is $L^\alpha$; in $\Phi(M) dM$, the logarithmic slope is $-0.4(\alpha + 1)$. This difference of $+1$ in exponent arises directly from the Jacobian $|dL/dM| \propto L \propto 10^{-0.4 M}$.
+- Contrast with the luminosity form - in $\Phi(L) dL$, the power law is $L^\alpha$. In $\Phi(M) dM$, the logarithmic slope is $-0.4(\alpha + 1)$. This difference of $+1$ in exponent arises directly from the Jacobian $|dL/dM| \propto L \propto 10^{-0.4 M}$.
 
 ### 2. The Bright-End Truncation ($M \ll M^*$)
 For galaxies brighter than $M^*$ ($M < M^*$, e.g. $M - M^* = -2.5\,\mathrm{mag}$).
@@ -126,7 +126,7 @@ This abrupt truncation physically represents the quenching of star formation by 
 
 ## 4. Characteristic SDSS Schechter Parameters (Blanton et al. 2003)
 
-In the Sloan Digital Sky Survey (SDSS DR2; Blanton et al. 2003, ApJ, 592, 819), the luminosity function was fit across the five standard passbands at $z = 0.1$ (assuming $H_0 = 100\,h\,\mathrm{km\,s^{-1}\,Mpc^{-1}}$).
+In the Sloan Digital Sky Survey (SDSS DR2, Blanton et al. 2003, ApJ, 592, 819), the luminosity function was fit across the five standard passbands at $z = 0.1$ (assuming $H_0 = 100\,h\,\mathrm{km\,s^{-1}\,Mpc^{-1}}$).
 
 | Filter Band | $M^* - 5\log_{10}h$ (AB mag) | $\phi^*$ ($10^{-2} h^3\,\mathrm{Mpc}^{-3}$) | Faint-End Slope $\alpha$ | Faint Slope $d\log\Phi/dM$ |
 |---|---|---|---|---|
@@ -239,6 +239,10 @@ When sketching the Schechter function in magnitudes on the blackboard.
 ![gal_lf2-12.png](../../assets/images/gal_lf2-12.png)
 
 
+
+## where it goes wrong
+
+- the slope in magnitudes is $\alpha + 1$, and the factor $0.4\ln 10$ is easy to lose.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

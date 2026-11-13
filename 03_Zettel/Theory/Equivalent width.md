@@ -24,9 +24,9 @@ equivalent definition in frequency: $W_\nu = \int (1 - F_\nu/F_c) d\nu$, units o
 
 $W$ vs column density $N$ is the **curve of growth** (see [[Curve of growth]]). three regimes:
 
-1. **linear** ($\tau_0 \ll 1$): $W \propto N$. line grows as you add absorbers; depth increases linearly. easy abundance work.
-2. **saturation** ($\tau_0 \sim 1$): $W \propto \sqrt{\ln N}$. line core saturates near zero flux; further $N$ deepens the wings only slowly.
-3. **damping** ($\tau_0 \gg 1$): $W \propto \sqrt{N}$. damping wings of the Lorentzian take over; line continues to grow but slowly.
+1. **linear** ($\tau_0 \ll 1$): $W \propto N$. line grows as you add absorbers. depth increases linearly. easy abundance work.
+2. **saturation** ($\tau_0 \sim 1$): $W \propto \sqrt{\ln N}$. line core saturates near zero flux. further $N$ deepens the wings only slowly.
+3. **damping** ($\tau_0 \gg 1$): $W \propto \sqrt{N}$. damping wings of the Lorentzian take over. line continues to grow but slowly.
 
 practical: if $W$ is small ($< 50$ mÅ), the line is in linear regime, abundance from $W$ is reliable. if $W$ is large ($> 200$ mÅ), saturation, harder to extract $N$ without modelling.
 
@@ -54,7 +54,7 @@ since broadening only redistributes the absorbed flux without changing the integ
 
 values vary by stellar type and metallicity. line lists like Moore 1972 or NIST tabulate solar $W$ values for thousands of lines.
 
-## emission lines: negative $W$
+## emission lines - negative $W$
 
 for an emission line, $F_\lambda > F_c$, so the integrand is negative. by convention, $W$ for emission lines is reported as a positive number with a sign convention. typical: $W(H\alpha) \sim -50$ to $-1000$ Å for emission-line galaxies.
 
@@ -81,98 +81,98 @@ for an emission line, $F_\lambda > F_c$, so the integrand is negative. by conven
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 08 - Stellar Spectroscopy II - Curve of Growth & Line Broadening)
 
 > **Context**: *Voigt line profiles, equivalent width W_lambda, curve of growth regimes (linear, saturated flat, damping square-root), and microturbulence velocity fields.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![LAntonino_p08_01.png](../../assets/images/LAntonino_p08_01.png)
-*Figure P08-01: LAntonino_p08_01.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-01: LAntonino_p08_01.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_02.png](../../assets/images/LAntonino_p08_02.png)
-*Figure P08-02: LAntonino_p08_02.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-02: LAntonino_p08_02.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_03.png](../../assets/images/LAntonino_p08_03.png)
-*Figure P08-03: LAntonino_p08_03.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-03: LAntonino_p08_03.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_04.png](../../assets/images/LAntonino_p08_04.png)
-*Figure P08-04: LAntonino_p08_04.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-04: LAntonino_p08_04.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_05.png](../../assets/images/LAntonino_p08_05.png)
-*Figure P08-05: LAntonino_p08_05.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-05: LAntonino_p08_05.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_06.png](../../assets/images/LAntonino_p08_06.png)
-*Figure P08-06: LAntonino_p08_06.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-06: LAntonino_p08_06.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_07.png](../../assets/images/LAntonino_p08_07.png)
-*Figure P08-07: LAntonino_p08_07.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-07: LAntonino_p08_07.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_08.png](../../assets/images/LAntonino_p08_08.png)
-*Figure P08-08: LAntonino_p08_08.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-08: LAntonino_p08_08.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_09.png](../../assets/images/LAntonino_p08_09.png)
-*Figure P08-09: LAntonino_p08_09.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-09: LAntonino_p08_09.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_10.png](../../assets/images/LAntonino_p08_10.png)
-*Figure P08-10: LAntonino_p08_10.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-10: LAntonino_p08_10.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_11.png](../../assets/images/LAntonino_p08_11.png)
-*Figure P08-11: LAntonino_p08_11.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-11: LAntonino_p08_11.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_12.png](../../assets/images/LAntonino_p08_12.png)
-*Figure P08-12: LAntonino_p08_12.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-12: LAntonino_p08_12.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_13.png](../../assets/images/LAntonino_p08_13.png)
-*Figure P08-13: LAntonino_p08_13.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-13: LAntonino_p08_13.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_14.png](../../assets/images/LAntonino_p08_14.png)
-*Figure P08-14: LAntonino_p08_14.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-14: LAntonino_p08_14.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_15.png](../../assets/images/LAntonino_p08_15.png)
-*Figure P08-15: LAntonino_p08_15.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-15: LAntonino_p08_15.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_16.png](../../assets/images/LAntonino_p08_16.png)
-*Figure P08-16: LAntonino_p08_16.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-16: LAntonino_p08_16.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_17.png](../../assets/images/LAntonino_p08_17.png)
-*Figure P08-17: LAntonino_p08_17.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-17: LAntonino_p08_17.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_18.png](../../assets/images/LAntonino_p08_18.png)
-*Figure P08-18: LAntonino_p08_18.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-18: LAntonino_p08_18.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_19.png](../../assets/images/LAntonino_p08_19.png)
-*Figure P08-19: LAntonino_p08_19.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-19: LAntonino_p08_19.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_20.png](../../assets/images/LAntonino_p08_20.png)
-*Figure P08-20: LAntonino_p08_20.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-20: LAntonino_p08_20.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_21.png](../../assets/images/LAntonino_p08_21.png)
-*Figure P08-21: LAntonino_p08_21.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-21: LAntonino_p08_21.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_22.png](../../assets/images/LAntonino_p08_22.png)
-*Figure P08-22: LAntonino_p08_22.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-22: LAntonino_p08_22.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_23.png](../../assets/images/LAntonino_p08_23.png)
-*Figure P08-23: LAntonino_p08_23.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-23: LAntonino_p08_23.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_24.png](../../assets/images/LAntonino_p08_24.png)
-*Figure P08-24: LAntonino_p08_24.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-24: LAntonino_p08_24.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![LAntonino_p08_25.png](../../assets/images/LAntonino_p08_25.png)
-*Figure P08-25: LAntonino_p08_25.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-25: LAntonino_p08_25.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![Lecture08_p15-15.png](../../assets/images/Lecture08_p15-15.png)
-*Figure P08-26: Lecture08_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-26: Lecture08_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![Lecture08_p25-25.png](../../assets/images/Lecture08_p25-25.png)
-*Figure P08-27: Lecture08_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-27: Lecture08_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![Lecture08_p35-35.png](../../assets/images/Lecture08_p35-35.png)
-*Figure P08-28: Lecture08_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-28: Lecture08_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ![Lecture08_p5-05.png](../../assets/images/Lecture08_p5-05.png)
-*Figure P08-29: Lecture08_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 08 — Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
+*Figure P08-29: Lecture08_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
 ---
 

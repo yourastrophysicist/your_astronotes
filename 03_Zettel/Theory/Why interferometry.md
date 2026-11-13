@@ -4,7 +4,7 @@ title: "Why interferometry"
 ---
 # Why interferometry
 
-the answer to "why should I care?" — angular resolution sets *what we can see*, and interferometry is the only path to milli-arcsecond and microarcsecond resolutions in practice.
+the answer to "why should I care?", angular resolution sets *what we can see*, and interferometry is the only path to milli-arcsecond and microarcsecond resolutions in practice.
 
 ## the diffraction limit
 
@@ -26,7 +26,7 @@ numerical examples:
 
 three reasons single telescopes plateau in achievable resolution:
 
-1. **physical size**: the largest current optical telescope is 10 m (Keck, GTC). 30-40 m extremely-large telescopes (TMT, ELT) are at the engineering edge. the Sun's disk at 10 pc is $\sim 1$ mas — a 10× larger aperture would still be $\sim 5$ times too small to resolve it
+1. **physical size**: the largest current optical telescope is 10 m (Keck, GTC). 30-40 m extremely-large telescopes (TMT, ELT) are at the engineering edge. the Sun's disk at 10 pc is $\sim 1$ mas, a 10× larger aperture would still be $\sim 5$ times too small to resolve it
 2. **cost**: telescope cost scales steeply with $D$ (between $D^{2.5}$ and $D^3$). doubling $D$ costs 6-8×
 3. **atmosphere** (optical only): the atmospheric *seeing* limits ground-based optical resolution to $\sim 0.5''$ even with a 100 m mirror. only space (or AO) gets you the diffraction limit
 
@@ -41,8 +41,8 @@ $$\theta_{\rm interf} \approx \frac{\lambda}{B}$$
 with $B$ much larger than any single $D$. **resolution scales with the separation, not with the aperture size**. this is the key technological advance.
 
 scaling examples for the same wavelength as above ($\lambda = 500$ nm):
-- VLTI ($B = 130$ m): $\theta = 0.8$ mas — 65× better than HST
-- CHARA ($B = 330$ m): $\theta = 0.3$ mas — 170× better
+- VLTI ($B = 130$ m): $\theta = 0.8$ mas, 65× better than HST
+- CHARA ($B = 330$ m): $\theta = 0.3$ mas, 170× better
 
 at radio wavelengths:
 - VLA-A ($B = 36$ km, $\lambda = 21$ cm): $\theta = 1.2''$
@@ -81,14 +81,14 @@ interferometry is harder than imaging:
 - **incomplete (u, v) coverage**: I cannot sample every baseline simultaneously. the dirty image always has sidelobes
 - **deconvolution problem**: getting a true image from incomplete Fourier data requires CLEAN, MEM, or modern Bayesian methods
 - **atmosphere**: optical interferometry needs phase-stability schemes (closure phase, fringe tracking, AO)
-- **calibration**: bandpass, flux, phase, polarization — every step has its own technique
+- **calibration**: bandpass, flux, phase, polarization, every step has its own technique
 - **sensitivity**: a 100m baseline of two 8m telescopes has the *resolution* of a 100m mirror but the *collecting area* of two 8m mirrors. only marginal sources are detectable
 
 so interferometry buys angular resolution at the cost of complexity and sensitivity. it is the right tool only when you cannot get the answer any other way.
 
 ## the philosophical flip
 
-a single telescope produces an image directly. an interferometer produces *Fourier components* of the image, and you reconstruct. this is "indirect imaging" — beautiful, mathematically rich, the entire course is one extended explanation of how it works.
+a single telescope produces an image directly. an interferometer produces *Fourier components* of the image, and you reconstruct. this is "indirect imaging", mathematically rich, the entire course is one extended explanation of how it works.
 
 ## see also
 

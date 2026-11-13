@@ -4,7 +4,7 @@ title: "Rotation curves"
 ---
 # Rotation curves
 
-The rotation curve of a disk galaxy, $v_{\rm rot}(r)$, describes the mean azimuthal circular orbital speed of stars, neutral atomic gas ($H\text{ I}$), and molecular gas ($CO$) as a function of Galactocentric radial distance in the equatorial plane. While the luminous stellar distribution of spiral galaxies drops off exponentially ($I(R) \propto e^{-R/R_d}$), high-precision optical longslit spectroscopy and 21 cm H I aperture synthesis interferometry reveal that rotation curves do not exhibit the Keplerian decline ($v_{\rm rot} \propto r^{-1/2}$) expected from Newtonian gravity applied to visible matter. Instead, rotation curves stay approximately flat ($v_{\rm rot} \approx \text{const}$) out to the outermost observable radii (frequently $5 - 10$ disk scalelengths). The extraction of rotation curves from 2D velocity fields relies on the kinematic tilted-ring model, while stellar rotation curves require asymmetric drift corrections to account for radial velocity dispersion pressure support. The flat rotation curve phenomenon provided the foundational empirical evidence for extended, non-luminous dark matter halos in spiral galaxies.
+The rotation curve of a disk galaxy, $v_{\rm rot}(r)$, describes the mean azimuthal circular orbital speed of stars, neutral atomic gas ($H\text{ I}$), and molecular gas ($CO$) as a function of Galactocentric radial distance in the equatorial plane. While the luminous stellar distribution of spiral galaxies drops off exponentially ($I(R) \propto e^{-R/R_d}$), high-precision optical longslit spectroscopy and 21 cm H I aperture synthesis interferometry reveal that rotation curves do not exhibit the Keplerian decline ($v_{\rm rot} \propto r^{-1/2}$) expected from Newtonian gravity applied to visible matter. Instead, rotation curves stay approximately flat ($v_{\rm rot} \approx \text{const}$) out to the outermost observable radii (frequently $5 - 10$ disk scalelengths). The extraction of rotation curves from 2D velocity fields relies on the kinematic tilted-ring model, while stellar rotation curves require asymmetric drift corrections to account for radial velocity dispersion pressure support. The flat rotation curve phenomenon provided the empirical evidence for extended, non-luminous dark matter halos in spiral galaxies.
 
 ---
 
@@ -76,7 +76,7 @@ Applying this correction is mandatory to reconstruct the true gravitational pote
 
 ## 3. Systematic Rotation Curve Shapes across the Hubble Sequence
 
-Extensive observational programs (Rubin et al. 1980, 1985; Persic, Salucci & Stel 1996; Sofue & Rubin 2001) establish that the radial shape of $v_{\rm rot}(r)$ correlates systematically with galaxy luminosity and Hubble morphological type.
+Extensive observational programs (Rubin et al. 1980, 1985, Persic, Salucci & Stel 1996, Sofue & Rubin 2001) establish that the radial shape of $v_{\rm rot}(r)$ correlates systematically with galaxy luminosity and Hubble morphological type.
 
 ```
 +========================================================================================+

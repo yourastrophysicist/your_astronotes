@@ -14,7 +14,7 @@ so given a metric, you can mechanically compute all $\Gamma$s by partial differe
 ## key properties
 
 - **symmetric in lower indices**: $\Gamma^\rho{}_{\mu\nu} = \Gamma^\rho{}_{\nu\mu}$ (because LC is torsion-free).
-- **not a tensor**: under coordinate changes, $\Gamma$ doesn't transform as a $(1, 2)$-tensor; the inhomogeneous term is exactly what cancels the non-tensorial part of $\partial_\mu V^\nu$ in the covariant derivative.
+- **not a tensor**: under coordinate changes, $\Gamma$ doesn't transform as a $(1, 2)$-tensor. the inhomogeneous term is exactly what cancels the non-tensorial part of $\partial_\mu V^\nu$ in the covariant derivative.
 - **vanishes in Riemann normal coordinates** at the origin: $\Gamma(p) = 0$, but $\partial\Gamma(p) \ne 0$ if the manifold is curved.
 
 ## what they're for
@@ -28,7 +28,7 @@ so once you have $\Gamma$, you have all the geometry.
 
 ## counting
 
-at every point of a 4D manifold, $\Gamma$ has $4 \times \binom{4+1}{2} = 4 \cdot 10 = 40$ independent components (4 upper, 10 symmetric lower pairs). most of these are zero in symmetric metrics; the practical exam tables for FLRW and Schwarzschild have ~6 to 10 non-zero ones.
+at every point of a 4D manifold, $\Gamma$ has $4 \times \binom{4+1}{2} = 4 \cdot 10 = 40$ independent components (4 upper, 10 symmetric lower pairs). most of these are zero in symmetric metrics. the practical exam tables for FLRW and Schwarzschild have ~6 to 10 non-zero ones.
 
 ## practical tip for computing
 

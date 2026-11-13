@@ -35,6 +35,20 @@ Direct local measurements of the distance ladder using Cepheids and Type Ia supe
 $$H_0 = 73.04 \pm 1.04 \text{ km s}^{-1} \text{ Mpc}^{-1}$$
 This discrepancy with Planck CMB results exceeds $5\sigma$ significance, representing a potential breakdown of base $\Lambda$CDM (e.g., early dark energy, decaying dark matter, or modified neutrino physics).
 
+## worked example
+
+from the six base parameters to the derived ones. with $\Omega_bh^2 = 0.0224$, $\Omega_ch^2 = 0.120$ and $h = 0.674$:
+
+$$\Omega_m = \frac{0.0224 + 0.120 + 0.0006}{0.674^2} = \frac{0.143}{0.454} = 0.315$$
+
+the 0.0006 is the massive neutrinos. flatness then gives $\Omega_\Lambda = 0.685$.
+
+## where it goes wrong
+
+- $H_0$ from the CMB is derived inside the model. it is not a direct measurement.
+- quoting $\Omega_b$ without $h$. the CMB measures $\Omega_bh^2$.
+- the six parameters are a choice. curvature, neutrino mass and $w$ are fixed by assumption, not measured to be zero.
+
 ## connections
 
 - thermal context: [[Brief thermal history]], [[CMB power spectrum]]

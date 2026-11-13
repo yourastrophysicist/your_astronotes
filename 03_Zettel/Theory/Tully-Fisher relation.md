@@ -2,7 +2,7 @@
 layout: "default"
 title: "Tully-Fisher relation"
 ---
-# tully-fisher relation
+# Tully-Fisher relation
 
 Parent [[Pablo_02_Statistical_properties_of_galaxies]]
 
@@ -133,6 +133,12 @@ where $W_{20}$ is the full line width measured at $20\%$ of peak intensity, $i$ 
 ---
 
 ---
+
+## where it goes wrong
+
+- the rotation speed must be corrected for inclination, $V = W/(2\sin i)$. nearly face-on disks are useless.
+- the slope and zero point depend on the band. the near infrared gives the tightest relation.
+- a sample limited in magnitude is biased toward bright galaxies at each speed. this is the Malmquist bias.
 
 ## observational astrophysics course slides (Prof. Paolo Cassata)
 

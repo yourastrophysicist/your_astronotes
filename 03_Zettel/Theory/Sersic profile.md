@@ -11,7 +11,7 @@ $$\boxed{I(R) = I_e \exp\left\{ -b_n \left[ \left(\frac{R}{R_e}\right)^{1/n} - 1
 The physical parameters.
 - $R_e$ - **Effective radius** (half-light radius), enclosing $50\%$ of the total projected light.
 - $I_e$ - Surface brightness at the effective radius, $I(R_e) = I_e$.
-- $n$ - **Sérsic index** (shape parameter). High $n$ produces a steep central cusp and extended outer wings; low $n$ produces a flat core and sharp truncation.
+- $n$ - **Sérsic index** (shape parameter). High $n$ produces a steep central cusp and extended outer wings, low $n$ produces a flat core and sharp truncation.
 - $b_n$ - Dimensionless constant uniquely determined by $n$ such that $R_e$ encloses half the total luminosity.
 
 ---

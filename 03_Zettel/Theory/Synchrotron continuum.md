@@ -29,7 +29,7 @@ typical $p \sim 2$ to $3$, so $\alpha \sim 0.5$ to $1$. radio galaxies have $\al
 
 ### radio galaxies and AGN
 
-powerful synchrotron from jets and lobes. Cygnus A, M87, etc. spectral mapping reveals the electron acceleration history.
+useful synchrotron from jets and lobes. Cygnus A, M87, etc. spectral mapping reveals the electron acceleration history.
 
 ### supernova remnants
 
@@ -37,7 +37,7 @@ forward shocks accelerate electrons via diffusive shock acceleration, producing 
 
 ### pulsar wind nebulae
 
-electrons accelerated at the termination shock of the pulsar wind. Crab Nebula is the prototype; $\nu^{-0.3}$ from radio through optical, then steepening to $\nu^{-1.0}$ in X-ray due to radiative cooling.
+electrons accelerated at the termination shock of the pulsar wind. Crab Nebula is the prototype. $\nu^{-0.3}$ from radio through optical, then steepening to $\nu^{-1.0}$ in X-ray due to radiative cooling.
 
 ### BL Lacs and blazars
 
@@ -53,7 +53,7 @@ both produce smooth power-law continua at radio frequencies, but with different 
 - **synchrotron**: $\alpha \sim 0.5$ to $1$ (steeper).
 - **free-free**: $\alpha \sim 0.1$ (flatter).
 
-at $\nu \sim 10$ GHz the two are comparable in star-forming galaxies; at higher $\nu$ free-free dominates, at lower $\nu$ synchrotron dominates. this allows separation in multi-frequency radio surveys.
+at $\nu \sim 10$ GHz the two are comparable in star-forming galaxies. at higher $\nu$ free-free dominates, at lower $\nu$ synchrotron dominates. this allows separation in multi-frequency radio surveys.
 
 ## inverse Compton
 
@@ -69,7 +69,7 @@ high-energy synchrotron-emitting electrons can also up-scatter low-energy photon
 
 ## see also
 
-- [[Synchroton]] — the comprehensive existing note
+- [[Synchroton]] - the full existing note
 - [[Free-free continuum]]
 - [[Bremsstrahlung]]
 - [[Compton and Inverse Compton]]

@@ -4,7 +4,7 @@ title: "AU calibration parallax and parsec"
 ---
 the bottom rung of the distance ladder. before any other distance method, we need to know how big $1$ AU is in km. then the same geometry that fixes the AU defines the parsec. answer to `obs1.pdf`.
 
-## historical: AU from a Venus transit
+## historical - AU from a Venus transit
 
 a **transit of Venus** across the solar disk is observed simultaneously from two locations on Earth separated by a known baseline $B$ (typically Earth's diameter projected onto the line of sight). the two observers see Venus tracking slightly different chords across the Sun.
 
@@ -15,14 +15,14 @@ the factor $(1 - a_V/a_E)$ accounts for the fact that the Sun behind Venus is al
 
 historical Venus transits used: $1761$, $1769$ (Captain Cook to Tahiti), $1874$, $1882$. Mercury transits work too with smaller signal.
 
-## modern: AU from radar
+## modern - AU from radar
 
 since the 1960s, a radar pulse is sent from Earth to Venus, bounces off the surface, and the round-trip travel time $t$ is measured at high precision. with the speed of light known to nine digits:
 $$d_{EV} = \frac{c\, t}{2}$$
 
 direct, geometric, and now defines the AU at $\sim 1$ part in $10^{11}$.
 
-a side note on signal strength: received radar power scales as $1/d^4$ because the pulse spreads on the way out and again on the way back. for Earth-Venus ($\sim 0.3$ AU at inferior conjunction) this is feasible with a few-MW transmitter; pushing radar much further out runs into the inverse-fourth-power wall.
+a side note on signal strength: received radar power scales as $1/d^4$ because the pulse spreads on the way out and again on the way back. for Earth-Venus ($\sim 0.3$ AU at inferior conjunction) this is feasible with a few-MW transmitter. pushing radar much further out runs into the inverse-fourth-power wall.
 
 ## Kepler converts $d_{EV}$ to AU
 
@@ -45,7 +45,7 @@ $$1\,\text{AU} \equiv 149\,597\,870\,700\,\text{m}$$
 
 ## the parsec, defined geometrically
 
-Earth's orbit is itself a $2$ AU baseline. observe a nearby star from two opposite points six months apart; it appears to shift against distant background by the **parallax angle** $p$.
+Earth's orbit is itself a $2$ AU baseline. observe a nearby star from two opposite points six months apart. it appears to shift against distant background by the **parallax angle** $p$.
 
 small-angle geometry:
 $$\tan p \approx p = \frac{1\,\text{AU}}{d}$$
@@ -67,6 +67,18 @@ range of geometric parallax:
 - Hipparcos (1989-1993): $\sim 100$ pc, $\sim 1$ mas precision.
 - Gaia DR3 (2022): $\sim 1$ to $10$ kpc, $\sim 10\,\mu$as precision for bright stars.
 - Gaia DR5 expected: $\sim 30$ kpc.
+
+## worked example
+
+radar to Venus at inferior conjunction. the echo returns after 276 s, so the distance is $c\,t/2 = 4.14 \times 10^{10}$ m $= 0.277$ AU. with Kepler's third law giving the orbit of Venus as 0.723 AU, the Earth-Sun distance is fixed absolutely.
+
+then $1\ \text{pc} = 1\ \text{AU}/\tan 1'' = 206\,265$ AU $= 3.086 \times 10^{16}$ m.
+
+## where it goes wrong
+
+- since 2012 the AU is a defined constant, 149 597 870 700 m. it is no longer measured.
+- radar works for the solar system only. the echo power falls as $1/d^4$.
+- the parsec is defined for a baseline of 1 AU, not 2 AU.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -18,8 +18,8 @@ with the deceleration parameter
 $$q_0 = -\frac{\ddot a(t_0) a_0}{\dot a(t_0)^2}$$
 
 so:
-- the **first-order** term $\propto z$ measures $H_0$ alone — the Hubble constant
-- the **second-order** term $\propto z^2$ measures $q_0$ — the acceleration
+- the **first-order** term $\propto z$ measures $H_0$ alone, the Hubble constant
+- the **second-order** term $\propto z^2$ measures $q_0$, the acceleration
 
 a positive $q_0$ means deceleration (an EdS or matter-only universe). a negative $q_0$ means acceleration, requiring something with negative pressure (Λ).
 
@@ -27,7 +27,7 @@ a positive $q_0$ means deceleration (an EdS or matter-only universe). a negative
 
 ## the SN Ia Hubble diagram
 
-at $z \sim 0.5$–$1$, the second-order term is large enough to break the degeneracy between $H_0$ and $q_0$. when SN Ia were measured at these redshifts in 1998, they came out *fainter* than any matter-only model, sitting on a curve consistent with $\Omega_M = 0.28, \Omega_\Lambda = 0.72$ — the discovery of dark energy.
+at $z \sim 0.5$ to $1$, the second-order term is large enough to break the degeneracy between $H_0$ and $q_0$. when SN Ia were measured at these redshifts in 1998, they came out *fainter* than any matter-only model, sitting on a curve consistent with $\Omega_M = 0.28, \Omega_\Lambda = 0.72$, the discovery of dark energy.
 
 ![intro-33.png](../../assets/images/intro-33.png)
 
@@ -53,11 +53,16 @@ related distances (all equal at low z, all different at high z):
 
 ## why this distinction matters
 
-at low $z$ I can interchange "velocity" and "distance" almost casually because everything is linear. at high $z$ I cannot. the cosmological *redshift* is no longer a kinematic Doppler effect — it is a **geometrical** consequence of $a(t)$ stretching photons.
+at low $z$ I can interchange "velocity" and "distance" almost casually because everything is linear. at high $z$ I cannot. the cosmological *redshift* is no longer a kinematic Doppler effect. it is a **geometrical** consequence of $a(t)$ stretching photons.
 
-so when an undergraduate first encounters $z = 0.5$ they often want to compute "how fast that galaxy is moving" using $v = cz/(1+z)$ or some variant. the right answer is: there is no single velocity. the universe is not just stars moving in a static space; it is space itself stretching. what we *measure* is $z$, not $v$.
+so when an undergraduate first encounters $z = 0.5$ they often want to compute "how fast that galaxy is moving" using $v = cz/(1+z)$ or some variant. the right answer is: there is no single velocity. the universe is not just stars moving in a static space. it is space itself stretching. what we *measure* is $z$, not $v$.
 
 ---
+
+## where it goes wrong
+
+- recession speeds above $c$ are allowed. they are not motion through space.
+- the light we see from $z > 1.6$ was emitted when the source was receding faster than light.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

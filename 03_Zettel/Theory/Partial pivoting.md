@@ -64,15 +64,15 @@ def gauss_elim_pivot(A, b):
 
 **partial**: swap rows only. at step $k$, search column $k$ from row $k$ down. cost: $O(N)$ per step, $O(N^2)$ total. **standard practice**.
 
-**full**: swap rows *and* columns. find the largest absolute value in the entire remaining sub-matrix. cost: $O(N^2)$ per step, $O(N^3)$ total — same order as the elimination itself, doubles the constant. used only when the matrix is so ill-conditioned that partial pivoting is not enough.
+**full**: swap rows *and* columns. find the largest absolute value in the entire remaining sub-matrix. cost: $O(N^2)$ per step, $O(N^3)$ total, same order as the elimination itself, doubles the constant. used only when the matrix is so ill-conditioned that partial pivoting is not enough.
 
 ## the cost
 
-partial pivoting adds $O(N^2)$ work to a $O(N^3)$ algorithm — **negligible**. there is no good reason to skip it.
+partial pivoting adds $O(N^2)$ work to a $O(N^3)$ algorithm, **negligible**. there is no good reason to skip it.
 
 ## what about iterative methods?
 
-[[Gauss-Seidel iteration]] does not need pivoting in the same way — it iterates rather than eliminates. but Gauss-Seidel has a different requirement: the matrix must be diagonally dominant for convergence. so the algorithm and the diagnostic differ.
+[[Gauss-Seidel iteration]] does not need pivoting in the same way. it iterates rather than eliminates. but Gauss-Seidel has a different requirement: the matrix must be diagonally dominant for convergence. so the algorithm and the diagnostic differ.
 
 ## scaling and equilibration
 
@@ -94,8 +94,8 @@ after elimination. the parity of the number of row swaps must be tracked.
 
 ## see also
 
-- [[Gauss elimination]] — the unpivoted algorithm
-- [[LU decomposition]] — same elimination, cached as a factorization (with permutation matrix $P$)
+- [[Gauss elimination]] - the unpivoted algorithm
+- [[LU decomposition]] - same elimination, cached as a factorization (with permutation matrix $P$)
 - [[Gauss-Seidel iteration]]
 - [[Pros and cons of linear solvers]]
 - [[Mathematical_Numerical_Methods_MOC]]

@@ -31,11 +31,11 @@ $$g_{*s}(T)\, T^3\, a^3 = \text{const}$$
 so:
 $$T \propto \frac{1}{a\, [g_{*s}(T)]^{1/3}}$$
 
-across a smooth epoch with constant $g_{*s}$, this reduces to $T \propto 1/a$. across a transition where $g_{*s}$ drops (a species annihilating), $T$ falls more slowly than $1/a$ — i.e., the photon temperature gets a "boost" from the absorbed entropy.
+across a smooth epoch with constant $g_{*s}$, this reduces to $T \propto 1/a$. across a transition where $g_{*s}$ drops (a species annihilating), $T$ falls more slowly than $1/a$, i.e., the photon temperature gets a "boost" from the absorbed entropy.
 
 ---
 
-## the famous example: $T_\nu/T_\gamma = (4/11)^{1/3}$
+## the famous example - $T_\nu/T_\gamma = (4/11)^{1/3}$
 
 this is the textbook application.
 
@@ -44,7 +44,7 @@ this is the textbook application.
 if neutrinos have already decoupled but share $T_\gamma$:
 $$g_{*s}(\text{before}) = 2 + \frac{7}{8}(2 + 2 + 6) = 2 + 7/8 \cdot 10 = 10.75$$
 
-actually we want to think about this differently. the key insight: after neutrino decoupling but before $e^\pm$ annihilation, neutrinos have temperature $T_\nu = T_\gamma$ but evolve **separately**. when $e^\pm$ annihilate at $T \sim m_e/3$, they dump their entropy *only* into photons, not into neutrinos.
+actually we want to think about this differently. the key step: after neutrino decoupling but before $e^\pm$ annihilation, neutrinos have temperature $T_\nu = T_\gamma$ but evolve **separately**. when $e^\pm$ annihilate at $T \sim m_e/3$, they dump their entropy *only* into photons, not into neutrinos.
 
 let $T$ be the common temperature *just before annihilation* (when $e^\pm$ are still relativistic). entropy in the photon-electron-positron sector before annihilation:
 $$s_{\gamma e e} \propto \left(2 + \frac{7}{8}\cdot 4\right) T^3 = \frac{11}{2} T^3$$
@@ -77,6 +77,11 @@ after $e^\pm$ annihilation (everything settled), $g_{*s}$ is constant and $\eta$
 
 ---
 
+## where it goes wrong
+
+- it is $g_{*s}$, not $g_*$, that enters entropy conservation. they differ once neutrinos decouple.
+- entropy is conserved only when no out-of-equilibrium process adds heat.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -93,7 +98,7 @@ after $e^\pm$ annihilation (everything settled), $g_{*s}$ is constant and $\eta$
 - [[BBN_baryon_to_photon_ratio]]
 - [[Cosmic_inventory_neutrinos]]
 - [[Brief thermal history]]
-- [[Baumann_reference]] — chapter 3.2.3 has the rigorous treatment
+- [[Baumann_reference]] - chapter 3.2.3 has the rigorous treatment
 
 
 

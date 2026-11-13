@@ -6,7 +6,7 @@ title: "Schmidt-Kennicutt law"
 
 ## 1. Empirical Power-Law Formulation
 
-The **Schmidt-Kennicutt law** (Schmidt 1959; Kennicutt 1989, 1998) is the fundamental scaling relation connecting the star formation rate surface density $\Sigma_{\rm SFR}$ to the cold interstellar gas surface density $\Sigma_{\rm gas}$.
+The **Schmidt-Kennicutt law** (Schmidt 1959, Kennicutt 1989, 1998) is the fundamental scaling relation connecting the star formation rate surface density $\Sigma_{\rm SFR}$ to the cold interstellar gas surface density $\Sigma_{\rm gas}$.
 
 $$\boxed{\Sigma_{\rm SFR} = A \, \Sigma_{\rm gas}^N}$$
 
@@ -79,7 +79,7 @@ This formulation reveals that galaxies convert approximately $1.7\%$ of their av
 
 ## 4. The Star Formation Threshold and Toomre $Q$ Criterion
 
-In the outer disks of spiral galaxies, the star formation rate does not decline smoothly; instead, it drops precipitously below a critical gas surface density threshold.
+In the outer disks of spiral galaxies, the star formation rate does not decline smoothly. Instead, it drops precipitously below a critical gas surface density threshold.
 
 $$\Sigma_{\rm gas, thresh} \approx 5 - 10 \, M_\odot \, \mathrm{pc}^{-2}$$
 
@@ -158,7 +158,7 @@ When sketching the Schmidt-Kennicutt law on the blackboard.
 - **Vertical Axis** - Star formation rate surface density $\log_{10} \Sigma_{\rm SFR}$ in $M_\odot\,\mathrm{yr}^{-1}\,\mathrm{kpc}^{-2}$ from $-5$ to $+4$
 - **Main Power Law** - Solid line spanning $\Sigma_{\rm gas} \sim 10$ to $10^4\,M_\odot\,\mathrm{pc}^{-2}$ with slope $N = 1.4$
 - **Threshold Truncation** - Draw a steep vertical drop at $\Sigma_{\rm crit} \approx 10\,M_\odot\,\mathrm{pc}^{-2}$
-- **Regime Annotations** - Mark normal spiral disks around $\log_{10}\Sigma_{\rm gas} \sim 1 - 1.5$; mark circumnuclear starbursts and ULIRGs at $\log_{10}\Sigma_{\rm gas} \sim 2.5 - 4.0$
+- **Regime Annotations** - Mark normal spiral disks around $\log_{10}\Sigma_{\rm gas} \sim 1 - 1.5$. Mark circumnuclear starbursts and ULIRGs at $\log_{10}\Sigma_{\rm gas} \sim 2.5 - 4.0$
 
 ---
 
@@ -169,7 +169,7 @@ When sketching the Schmidt-Kennicutt law on the blackboard.
   - Chapter 3, Section 3.2 "The Schmidt-Kennicutt Law", pages 31-35 (empirical relation, derivation from free-fall collapse, orbital time scaling, and Toomre $Q$ threshold).
 - **Mo, van den Bosch & White (2010), *Galaxy Formation and Evolution***
   - File - `Houjun Mo, Frank van den Bosch, Simon White - Galaxy Formation and Evolution (2010, Cambridge University Press) - libgen.li.pdf`
-  - Chapter 10, Section 10.3 "The Star Formation Law", pages 455-462 (comprehensive derivation of volumetric and surface laws, depletion timescales).
+  - Chapter 10, Section 10.3 "The Star Formation Law", pages 455-462 (full derivation of volumetric and surface laws, depletion timescales).
 - **Binney & Merrifield (1998), *Galactic Astronomy***
   - File - `Binney J., Merrifield M. - Galactic Astronomy (1998, Princeton).pdf`
   - Chapter 9, Section 9.2, pages 550-560.
@@ -232,6 +232,14 @@ When sketching the Schmidt-Kennicutt law on the blackboard.
 ![gal_ism-12.png](../../assets/images/gal_ism-12.png)
 
 
+
+## worked example
+
+$\Sigma_{\rm SFR} = 2.5 \times 10^{-4}\,\Sigma_{\rm gas}^{1.4}$ with $\Sigma_{\rm gas}$ in $M_\odot$ pc$^{-2}$. for $\Sigma_{\rm gas} = 10$: $\Sigma_{\rm SFR} = 6.3 \times 10^{-3}\ M_\odot\,\text{yr}^{-1}\,\text{kpc}^{-2}$, and the depletion time is $\Sigma_{\rm gas}/\Sigma_{\rm SFR} = 1.6$ Gyr.
+
+## where it goes wrong
+
+- molecular gas alone gives a slope near 1. total gas gives 1.4.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

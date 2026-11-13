@@ -23,7 +23,7 @@ at typical $n_e$:
 - $T = 5800$ K (Sun, G2): $f_{\rm CaII} \approx 0.95$, **H + K dominant**.
 - $T = 8000$ K (F0): $f_{\rm CaII} \approx 0.9$.
 - $T = 10\,000$ K (A0): $f_{\rm CaII} \approx 0.7$.
-- $T = 15\,000$ K (B5): $f_{\rm CaII}$ falls; Ca$^{2+}$ takes over.
+- $T = 15\,000$ K (B5): $f_{\rm CaII}$ falls. Ca$^{2+}$ takes over.
 - $T > 25\,000$ K: very little Ca II.
 
 so Ca II H + K are strong from M through early A, peaking around G-K. the broadest temperature range of any species.

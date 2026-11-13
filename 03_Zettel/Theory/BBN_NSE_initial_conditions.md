@@ -2,7 +2,7 @@
 layout: "default"
 title: "BBN_NSE_initial_conditions"
 ---
-at the beginning of nucleosynthesis ($T \gg 1$ MeV), the various nuclear species are in **nuclear statistical equilibrium** (NSE) — both kinetic equilibrium (Maxwell-Boltzmann velocity distributions) and chemical equilibrium (mass-action relations among the chemical potentials).
+at the beginning of nucleosynthesis ($T \gg 1$ MeV), the various nuclear species are in **nuclear statistical equilibrium** (NSE), meaning both kinetic equilibrium (Maxwell-Boltzmann velocity distributions) and chemical equilibrium (mass-action relations among the chemical potentials).
 
 we are interested in particular in the n/p ratio, which is fixed at the beginning by its equilibrium value. the conditions for NSE will hold until the rates that maintain it become smaller than the expansion rate $H$ (see [[Decoupling and freeze-out]]).
 
@@ -60,7 +60,7 @@ we get the **master NSE expression**:
 
 $$\boxed{\,n_A = g_A\, A^{3/2}\, 2^{-A}\, (n_p)^Z (n_n)^{A-Z}\, (2\pi/m_N T)^{(3/2)(A-1)}\, e^{B_A/T}\,} \qquad (7)$$
 
-the exponential factor $e^{B_A/T}$ is the binding-energy enhancement we expect; the prefactors carry the kinematic (volume of phase space) information.
+the exponential factor $e^{B_A/T}$ is the binding-energy enhancement we expect. the prefactors carry the kinematic (volume of phase space) information.
 
 ![bbn-10.png](../../assets/images/bbn-10.png)
 
@@ -86,7 +86,7 @@ starting from (7) and using the baryon-to-photon ratio $\eta = n_N/n_\gamma$ (se
 
 $$X_A = g_A\,[\zeta(3)^{A-1}\, 2^{(3A-5)/2}\, \pi^{(1-A)/2}]\, A^{5/2}\, (T/m_N)^{(3/2)(A-1)}\, (X_p)^Z (X_n)^{A-Z}\, e^{B_A/T}\, \eta^{A-1}$$
 
-so $X_A \propto \eta^{A-1}$ — a strong dependence on the baryon-to-photon ratio for heavier species.
+so $X_A \propto \eta^{A-1}$, a strong dependence on the baryon-to-photon ratio for heavier species.
 
 ![bbn-15.png](../../assets/images/bbn-15.png)
 
@@ -94,11 +94,15 @@ so $X_A \propto \eta^{A-1}$ — a strong dependence on the baryon-to-photon rati
 
 ## why this matters
 
-the NSE expression (7) is the **starting point** for primordial nucleosynthesis. as long as $T \gg 1$ MeV, all species sit at their NSE values and the n/p ratio tracks equilibrium. as soon as the weak rates fall behind expansion, the n/p ratio freezes — see [[BBN_neutron_proton_ratio]] — and the abundances depart from NSE.
+the NSE expression (7) is the **starting point** for primordial nucleosynthesis. as long as $T \gg 1$ MeV, all species sit at their NSE values and the n/p ratio tracks equilibrium. as soon as the weak rates fall behind expansion, the n/p ratio freezes (see [[BBN_neutron_proton_ratio]]) and the abundances depart from NSE.
 
 so this section sets the *initial conditions* for the dynamical departure from equilibrium that produces the actual BBN abundances we observe.
 
 ---
+
+## where it goes wrong
+
+- NSE fixes the abundances only while the reactions are fast. it does not give the final yields.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

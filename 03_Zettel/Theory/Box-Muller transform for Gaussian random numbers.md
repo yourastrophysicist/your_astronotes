@@ -4,7 +4,7 @@ title: "Box-Muller transform for Gaussian random numbers"
 ---
 # Box-Muller transform for Gaussian random numbers
 
-a beautiful trick: convert two uniform random numbers into two independent standard normal random numbers using nothing but trigonometry. it sidesteps the un-invertibility of the Gaussian CDF.
+a trick: convert two uniform random numbers into two independent standard normal random numbers using nothing but trigonometry. it sidesteps the un-invertibility of the Gaussian CDF.
 
 ## the math
 
@@ -79,8 +79,8 @@ then $\mathbf{x}$ has the right mean and covariance.
 
 - **noise generation**: adding Gaussian noise to a simulated observation
 - **velocity dispersion sampling**: stars in a Maxwell-Boltzmann distribution, each velocity component independent Gaussian
-- **CMB realizations**: each spherical harmonic coefficient $a_{\ell m}$ is a complex Gaussian with variance $C_\ell$; Box-Muller sets the real and imaginary parts
-- **MCMC proposal distributions**: Metropolis-Hastings step uses a Gaussian proposal — Box-Muller per axis
+- **CMB realizations**: each spherical harmonic coefficient $a_{\ell m}$ is a complex Gaussian with variance $C_\ell$. Box-Muller sets the real and imaginary parts
+- **MCMC proposal distributions**: Metropolis-Hastings step uses a Gaussian proposal, Box-Muller per axis
 - **synthetic data generation**: drawing mock photometry, mock spectra, mock catalogs
 
 ## verification
@@ -109,7 +109,7 @@ mean should be $\approx 0$, std $\approx 1$.
 
 ## see also
 
-- [[Inverse transform sampling]] — the general method that fails for Gaussian
+- [[Inverse transform sampling]] - the general method that fails for Gaussian
 - [[Rejection sampling]]
 - [[Pseudo-random number generators]]
 - [[Mathematical_Numerical_Methods_MOC]]

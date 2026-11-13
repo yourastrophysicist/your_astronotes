@@ -52,6 +52,56 @@ $$\theta = D/d_A = 10\,\text{kpc}/(1308\,\text{Mpc}) \approx 1.6\,\text{arcsec}$
 
 resolved by HST and JWST routinely.
 
+## the derivation
+
+assumptions: an object of proper transverse size $D$ at comoving coordinate $\chi$, seen under a small angle $\theta$.
+
+the two ends of the object emit at the same time $t_e$ and at the same $\chi$. their separation is purely angular, so from the Robertson-Walker metric the proper length between them is
+
+$$D = a(t_e)\, S_k(\chi)\, \theta = \frac{d_M}{1+z}\,\theta$$
+
+the photons then travel on radial paths, so the angle between them does not change on the way. comparing with $\theta = D/d_A$:
+
+$$d_A = \frac{d_M}{1+z}$$
+
+in words, $d_A$ is the **proper distance of the object when the light left it**. this is the sentence that explains the turnover.
+
+## where the maximum is
+
+in an Einstein-de Sitter universe the integral is analytic:
+
+$$d_A = \frac{2c}{H_0}\left[\frac{1}{1+z} - \frac{1}{(1+z)^{3/2}}\right]$$
+
+setting $d\,d_A/dz = 0$ gives $(1+z)^{1/2} = 3/2$, so
+
+$$z_{\max} = 1.25, \qquad d_{A,\max} = \frac{8}{27}\frac{c}{H_0}$$
+
+with $\Lambda$ the expansion at late times is faster, the comoving distance keeps growing for longer, and the maximum moves out to $z \approx 1.6$.
+
+the turnover exists in every model with a horizon. as $z \to \infty$, $d_M$ tends to a finite value while $1 + z$ grows without limit, so $d_A \to 0$.
+
+## the angular scale
+
+the number I use in practice is how many kiloparsecs fit in one arcsecond, $d_A \times 4.848 \times 10^{-6}$:
+
+| $z$ | kpc per arcsec |
+|---|---|
+| 0.1 | 1.9 |
+| 0.5 | 6.3 |
+| 1.0 | 8.0 |
+| 1.6 | 8.5 |
+| 3.0 | 7.7 |
+| 5.0 | 6.3 |
+| 10.0 | 4.1 |
+
+so between $z = 1$ and $z = 3$ one arcsecond is always about 8 kpc. the resolution of JWST at $2\,\mu$m, about $0.07''$, is then about 0.6 kpc at every redshift in that range.
+
+## where it goes wrong
+
+- thinking that a larger angular size at high $z$ makes the object easier to see. the surface brightness falls as $(1+z)^{-4}$, so the same light is spread over more sky. see [[Surface brightness dimming]].
+- using $d_A$ for separations along the line of sight. it only converts angles.
+- forgetting that $d_A$ gives proper sizes. comoving sizes, like the BAO scale, need $d_M = (1+z)\,d_A$.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

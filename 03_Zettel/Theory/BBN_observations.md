@@ -11,18 +11,18 @@ so for each light element, we have to think carefully about whether we are measu
 ## deuterium
 
 **historically**: first measurements in solar system and interstellar medium (deuterated molecules, pre-solar meteorites, solar data). gives:
-$$D/H \sim (1\text{–}4) \times 10^{-10}$$
+$$D/H \sim (1\text{-}4) \times 10^{-10}$$
 (after correcting for non-primordial isotopic effects).
 
 D is **easily burned** at $T > 0.5 \times 10^6$ K (~50 eV) and **difficult to produce**. so historically these measurements gave a **lower bound** on the primordial abundance of D, hence an **upper limit on $\eta$** (≤ 10$^{-9}$).
 
 an upper bound cannot be inferred from local D measurements alone since D is easily destroyed. (a lower bound on $\eta$ can be obtained by combining D and $^3$He measurements.)
 
-### the modern way: quasar absorption lines
+### the modern way - quasar absorption lines
 
-**absorption lines of quasars by D at high redshift** ($z \sim 3$–$4$) in intervening gas systems. measurements first attempted in the early 1980s and refined in the late 90s.
+**absorption lines of quasars by D at high redshift** ($z \sim 3$ to $4$) in intervening gas systems. measurements first attempted in the early 1980s and refined in the late 90s.
 
-going to high z is important because there has been less stellar processing — the gas there is closer to primordial.
+going to high z is important because there has been less stellar processing, so the gas there is closer to primordial.
 
 these measurements actually give a **direct precise determination** of $(D/H)_{\rm prim}$, not just a bound:
 
@@ -49,7 +49,7 @@ $$\frac{D + {}^3\text{He}}{H} \sim 10^{-5}$$
 
 (since D burns into $^3$He, the sum is what we measure.)
 
-now $^3$He is **much more difficult to destroy** than D — at most an "astration factor" of $f_a = 2$ can be destroyed by stellar burning. this already suggests that these measurements should be interpreted as an **upper bound** on the primordial $^3$He abundance — and hence a **lower bound on $\eta$**.
+now $^3$He is **much more difficult to destroy** than D. at most an "astration factor" of $f_a = 2$ can be destroyed by stellar burning. this already suggests that these measurements should be interpreted as an **upper bound** on the primordial $^3$He abundance, and hence a **lower bound on $\eta$**.
 
 historically, consistency between predicted BBN abundances of D and $^3$He implied $4 \le \eta \times 10^{10} \le 10$. now with precise D measurements alone we get a precise $\eta$.
 
@@ -61,16 +61,16 @@ historically, consistency between predicted BBN abundances of D and $^3$He impli
 
 at the beginning, only measurements from meteorites and the local ISM. but $^7$Li is both **easily destroyed** (at $T > 2 \times 10^6$ K) and **easily produced** (cosmic-ray spallation, AGB stars), so very difficult to think these reflect primordial abundances.
 
-### the breakthrough: metal-poor halo stars
+### the breakthrough - metal-poor halo stars
 
-starting from 1982, $^7$Li lines were measured in **old, massive, metal-poor stars**. a remarkable correlation appeared:
+starting from 1982, $^7$Li lines were measured in **old, massive, metal-poor stars**. a clear correlation appeared:
 - **rapidly decreasing** $^7$Li abundance with decreasing star mass, AND
 - a **plateau** of $^7$Li abundance for higher and higher star masses
 
 this was the sign that $^7$Li was destroyed in lower-mass stars, but not in higher-mass stars. so the plateau measures the primordial abundance:
 $$\boxed{\,\frac{^7\text{Li}}{H} \sim O(1) \times 10^{-10}\,}$$
 
-remarkably, this measurement can be achieved around the **trough** of the $^7$Li($\eta$) curve, making it a sensitive probe of $\eta$.
+this measurement can be achieved around the **trough** of the $^7$Li($\eta$) curve, making it a sensitive probe of $\eta$.
 
 historically, using D, $^3$He, $^7$Li together one set: $4 \le \eta \times 10^{10} \le 7$.
 
@@ -80,7 +80,7 @@ historically, using D, $^3$He, $^7$Li together one set: $4 \le \eta \times 10^{1
 
 > the BBN-predicted $^7$Li abundance with $\eta$ from CMB is about a factor of 3 *higher* than what is measured in metal-poor halo stars.
 
-this is an ongoing puzzle. possible solutions: stellar destruction of $^7$Li in the atmospheres of these stars; new physics in the early universe; uncertainties in the production cross-sections.
+this is an ongoing puzzle. possible solutions: stellar destruction of $^7$Li in the atmospheres of these stars, new physics in the early universe, uncertainties in the production cross-sections.
 
 ---
 
@@ -88,7 +88,7 @@ this is an ongoing puzzle. possible solutions: stellar destruction of $^7$Li in 
 
 modern $^4$He measurements rely on **recombination lines** of (metal-poor) HII regions, both galactic and extragalactic.
 
-stars produce $^4$He, so high-metallicity environments will overestimate the primordial value. but stars also produce metals, and you'd expect a correlation: lower $^4$He at lower metallicity. that is exactly what we see — so the **best environments to measure primordial $^4$He are metal-poor HII regions**.
+stars produce $^4$He, so high-metallicity environments will overestimate the primordial value. but stars also produce metals, and you'd expect a correlation: lower $^4$He at lower metallicity. that is exactly what we see, so the **best environments to measure primordial $^4$He are metal-poor HII regions**.
 
 extrapolating the $Y$ vs O/H correlation to zero metallicity gives the primordial $^4$He abundance:
 
@@ -97,7 +97,7 @@ extrapolating the $Y$ vs O/H correlation to zero metallicity gives the primordia
 most up-to-date (Aver et al. 2015):
 $$\boxed{\,Y_p = \frac{4 n_{^4\text{He}}}{n_N} = 0.2449 \pm 0.0040 \quad (68\%~\text{CL})\,}$$
 
-remarkably consistent with the prediction of $\sim 25\%$.
+consistent with the prediction of $\sim 25\%$.
 
 ![bbn-43.png](../../assets/images/bbn-43.png)
 
@@ -117,6 +117,10 @@ D/H gives the **cleanest** measurement of $\eta$. $^4$He confirms the n/p physic
 → the final concordance check is comparing $\eta$ from BBN with $\eta$ from CMB peaks: see [[BBN_concordance_with_CMB]].
 
 ---
+
+## where it goes wrong
+
+- every observed abundance must be corrected for stellar processing back to its primordial value.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

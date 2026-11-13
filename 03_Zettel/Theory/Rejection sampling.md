@@ -33,7 +33,7 @@ $$\eta = \frac{\int P(x) dx}{M} = \frac{1}{M}$$
 
 if $P$ is normalized ($\int P = 1$). for the bounding-box version, $\eta = 1/(P_{\max}(b-a))$.
 
-a tight envelope ($M$ small, $g$ shaped like $P$) gives high efficiency. a loose envelope (uniform over a wide box, sharply peaked $P$) gives low efficiency. for a Gaussian peaked at 0 sampled by uniform-on-$[-5\sigma, 5\sigma]$ rejection, $\eta \approx 1/\sqrt{2\pi}/(10) \approx 4\%$ — a lot of wasted samples.
+a tight envelope ($M$ small, $g$ shaped like $P$) gives high efficiency. a loose envelope (uniform over a wide box, sharply peaked $P$) gives low efficiency. for a Gaussian peaked at 0 sampled by uniform-on-$[-5\sigma, 5\sigma]$ rejection, $\eta \approx 1/\sqrt{2\pi}/(10) \approx 4\%$, a lot of wasted samples.
 
 ## python implementation
 
@@ -73,9 +73,9 @@ def rejection_sample_vec(P, P_max, a, b, N_target):
 
 ## when rejection is bad
 
-- **$P$ has long tails or is unbounded** — no finite $P_{\max}$, no envelope
+- **$P$ has long tails or is unbounded** - no finite $P_{\max}$, no envelope
 - **$P$ is sharply peaked**: efficiency $\eta$ is tiny, most samples wasted
-- **need exact $N$ samples and timing matters**: the acceptance is random, so the sample count is non-deterministic — usually fine but occasionally problematic (e.g. inside a tight loop)
+- **need exact $N$ samples and timing matters**: the acceptance is random, so the sample count is non-deterministic, usually fine but occasionally problematic (e.g. inside a tight loop)
 
 ## adaptive envelopes
 
@@ -141,5 +141,6 @@ plt.plot(xx, P(xx) / Z, 'r-')      # Z = trapezoid integral of P
 - [[Pseudo-random number generators]]
 - [[Verifying random samples]]
 - [[Mathematical_Numerical_Methods_MOC]]
+- Rejection sampling efficiency and the curse of dimensionality - why it fails for posteriors with many parameters (Astro-Stat, 2026-10-19)
 
 

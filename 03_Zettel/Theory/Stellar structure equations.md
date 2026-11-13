@@ -10,12 +10,12 @@ a spherically symmetric, non-rotating, non-magnetic star in quasi-static equilib
 
 ## the four fundamental equations of stellar structure
 
-### 1. equation of mass conservation:
+### 1. equation of mass conservation
 the mass $M(r)$ enclosed within a spherical shell of radius $r$ and thickness $dr$ with local density $\rho(r)$ is:
 $$\boxed{\, \frac{dM}{dr} = 4\pi r^2 \rho(r) \,}$$
 - boundary conditions: $M(0) = 0$, and $M(R) = M_{\text{total}}$.
 
-### 2. equation of hydrostatic equilibrium:
+### 2. equation of hydrostatic equilibrium
 in each spherical shell, the inward gravitational pull of the enclosed mass $M(r)$ is exactly balanced by the outward net pressure gradient force:
 $$\boxed{\, \frac{dP}{dr} = -\frac{G M(r) \rho(r)}{r^2} \,}$$
 where total pressure $P = P_{\text{gas}} + P_{\text{rad}} = \frac{\rho k_B T}{\mu m_H} + \frac{1}{3} a T^4$.
@@ -23,7 +23,7 @@ where total pressure $P = P_{\text{gas}} + P_{\text{rad}} = \frac{\rho k_B T}{\m
 
 ![stellar-21.png](../../assets/images/stellar-21.png)
 
-### 3. equation of energy conservation:
+### 3. equation of energy conservation
 the luminosity $L(r)$ flowing outward through a sphere of radius $r$ increases by the energy generated in the shell by nuclear fusion $\epsilon(r)$ (and gravitational contraction/expansion):
 $$\boxed{\, \frac{dL}{dr} = 4\pi r^2 \rho(r) \left[\epsilon(r) - \epsilon_\nu + \epsilon_{\text{grav}}\right] \,}$$
 where $\epsilon$ is the nuclear energy generation rate per unit mass (W/kg), and $\epsilon_\nu$ is energy lost to escaping neutrinos.
@@ -31,17 +31,17 @@ where $\epsilon$ is the nuclear energy generation rate per unit mass (W/kg), and
 
 ![stellar-22.png](../../assets/images/stellar-22.png)
 
-### 4. equation of energy transport:
+### 4. equation of energy transport
 governs the temperature gradient $dT/dr$ required to transport luminosity $L(r)$ outward. energy flows via the mechanism that requires the smallest temperature gradient (conduction, radiation, or convection).
 
-#### A. Radiative transport:
+#### A. Radiative transport
 when energy is carried by photons diffusing through matter with Rosseland mean opacity $\kappa$ (diffusion approximation):
 $$\boxed{\, \left(\frac{dT}{dr}\right)_{\text{rad}} = -\frac{3 \kappa \rho L(r)}{16\pi a c r^2 T^3} = -\frac{3 \kappa \rho}{4 a c T^3} \frac{F(r)}{\pi} \,}$$
 where $a = 4\sigma/c$ is the radiation constant.
 
 ![stellar-23.png](../../assets/images/stellar-23.png)
 
-#### B. Convective transport and the Schwarzschild criterion:
+#### B. Convective transport and the Schwarzschild criterion
 Karl Schwarzschild proved that a fluid element displaced upward adiabatically will become buoyant and unstable to **convection** if the actual temperature gradient is steeper than the adiabatic gradient:
 $$\boxed{\, \left\lvert\frac{dT}{dr}\right\rvert_{\text{actual}} > \left\lvert\frac{dT}{dr}\right\rvert_{\text{ad}} = \left(1 - \frac{1}{\gamma}\right) \frac{T}{P} \left\lvert\frac{dP}{dr}\right\rvert \,}$$
 
@@ -55,7 +55,7 @@ when convection occurs, it is so efficient that the temperature gradient is clam
 
 ---
 
-## Convective Instability: Schwarzschild and Ledoux Criteria
+## Convective Instability - Schwarzschild and Ledoux Criteria
 
 The Schwarzschild criterion above is derived from the buoyancy of an adiabatically displaced fluid element and is exact only for a chemically homogeneous medium. Writing the local temperature gradient in the dimensionless logarithmic form
 $$\nabla \equiv \frac{d\ln T}{d\ln P}, \qquad \nabla_{\mathrm{ad}} \equiv \left(\frac{\partial \ln T}{\partial \ln P}\right)_S = \frac{\Gamma_1-1}{\Gamma_1}$$
@@ -65,9 +65,9 @@ with $\nabla_{\mathrm{rad}}$ obtained by rewriting the radiative-transport equat
 
 In a region with a composition (mean molecular weight $\mu$) gradient, a displaced element carries its original composition with it, so buoyancy depends on both the thermal and compositional density contrast. The generalized **Ledoux criterion for instability** is
 $$\boxed{\, \nabla_{\mathrm{rad}} > \nabla_{\mathrm{ad}} + \frac{\varphi}{\delta}\nabla_\mu \,}, \qquad \nabla_\mu \equiv \frac{d\ln\mu}{d\ln P}, \quad \varphi \equiv \left(\frac{\partial\ln\rho}{\partial\ln\mu}\right)_{P,T}, \quad \delta \equiv -\left(\frac{\partial\ln\rho}{\partial\ln T}\right)_{P,\mu}$$
-A positive $\nabla_\mu$ (mean molecular weight increasing inward, as in a helium-enriched core beneath a hydrogen envelope) stabilizes the layer against convection that the Schwarzschild criterion alone would predict as unstable — the extra term is a compositional restoring force analogous to the stabilizing effect of a salinity gradient in oceanic double-diffusive convection. **Asymptotic check**: for $\nabla_\mu \to 0$ (chemically homogeneous layer), the Ledoux criterion reduces identically to the Schwarzschild criterion.
+A positive $\nabla_\mu$ (mean molecular weight increasing inward, as in a helium-enriched core beneath a hydrogen envelope) stabilizes the layer against convection that the Schwarzschild criterion alone would predict as unstable, the extra term is a compositional restoring force analogous to the stabilizing effect of a salinity gradient in oceanic double-diffusive convection. **Asymptotic check**: for $\nabla_\mu \to 0$ (chemically homogeneous layer), the Ledoux criterion reduces identically to the Schwarzschild criterion.
 
-## Mixing-Length Theory: The Convective Flux
+## Mixing-Length Theory - The Convective Flux
 
 When a layer is convectively unstable, the local temperature gradient must be determined from an explicit theory of convective heat transport rather than simply set equal to $\nabla_{\mathrm{ad}}$, since a finite superadiabatic excess $\nabla-\nabla_{\mathrm{ad}}$ is required to drive a finite convective flux. **Mixing-length theory (MLT)** models convection as parcels rising a characteristic distance $\ell_{\mathrm{MLT}} = \alpha_{\mathrm{MLT}} H_P$ (a fixed multiple of the local pressure scale height $H_P = -dr/d\ln P$) before dissolving and depositing their thermal energy excess. Balancing the buoyant work done on a parcel against its radiative energy leakage yields the convective flux
 $$\boxed{\, F_{\mathrm{conv}} = \rho c_P T \sqrt{\frac{g\delta}{T}}\left(\frac{\ell_{\mathrm{MLT}}}{2}\right)^2 (\nabla-\nabla')^{3/2} \,}$$
@@ -78,11 +78,11 @@ where:
 - $\nabla'$ is the logarithmic temperature gradient inside the rising parcel (equal to $\nabla_{\mathrm{ad}}$ only in the limit of zero radiative leakage from the parcel)
 - $\delta$ is defined as above
 
-Total luminosity is transported jointly by radiation and convection, $L = L_{\mathrm{rad}} + L_{\mathrm{conv}} = 4\pi r^2(F_{\mathrm{rad}}+F_{\mathrm{conv}})$; closing the system requires solving simultaneously for $\nabla$ and $\nabla'$ given $\nabla_{\mathrm{rad}}$ and $\nabla_{\mathrm{ad}}$. **Asymptotic checks**: in the highly efficient convection limit (stellar interiors, high $\rho$, low $\kappa$), radiative parcel leakage is negligible, $\nabla'\to\nabla_{\mathrm{ad}}$, and $\nabla\to\nabla_{\mathrm{ad}}$ to high precision — recovering the adiabatic clamping stated above; in the inefficient convection limit (stellar surface layers, low $\rho$), radiative leakage is severe, $\nabla \gg \nabla_{\mathrm{ad}}$ is required to drive any convective flux at all, and $\alpha_{\mathrm{MLT}}$ becomes an empirically calibrated free parameter (fixed via the solar radius at the solar age) rather than a value derivable from first principles — the dominant systematic uncertainty in 1D stellar evolution codes, only fully resolved by 3D radiative-hydrodynamic simulation (cf. [[Asplund_2009_Chemical_Composition_of_the_Sun]]).
+Total luminosity is transported jointly by radiation and convection, $L = L_{\mathrm{rad}} + L_{\mathrm{conv}} = 4\pi r^2(F_{\mathrm{rad}}+F_{\mathrm{conv}})$. Closing the system requires solving simultaneously for $\nabla$ and $\nabla'$ given $\nabla_{\mathrm{rad}}$ and $\nabla_{\mathrm{ad}}$. **Asymptotic checks**: in the highly efficient convection limit (stellar interiors, high $\rho$, low $\kappa$), radiative parcel leakage is negligible, $\nabla'\to\nabla_{\mathrm{ad}}$, and $\nabla\to\nabla_{\mathrm{ad}}$ to high precision, recovering the adiabatic clamping stated above. In the inefficient convection limit (stellar surface layers, low $\rho$), radiative leakage is severe, $\nabla \gg \nabla_{\mathrm{ad}}$ is required to drive any convective flux at all, and $\alpha_{\mathrm{MLT}}$ becomes an empirically calibrated free parameter (fixed via the solar radius at the solar age) rather than a value derivable from first principles, the dominant systematic uncertainty in 1D stellar evolution codes, only fully resolved by 3D radiative-hydrodynamic simulation (cf. [[Asplund_2009_Chemical_Composition_of_the_Sun]]).
 
 ## Polytropic Spheres and the Lane-Emden Equation
 
-A **polytrope** is a self-gravitating configuration whose pressure and density are related by a single power law, $P = K\rho^{1+1/n}$, with $K$ constant and $n$ the polytropic index — an idealization exact for a fully convective star ($n=3/2$; MLT drives $\nabla\to\nabla_{\mathrm{ad}}$ everywhere, and for an ideal monatomic gas $\Gamma_1=5/3$ gives $P\propto\rho^{5/3}$) and for a degenerate electron gas ([[Chandrasekhar mass limit]]).
+A **polytrope** is a self-gravitating configuration whose pressure and density are related by a single power law, $P = K\rho^{1+1/n}$, with $K$ constant and $n$ the polytropic index, an idealization exact for a fully convective star ($n=3/2$, MLT drives $\nabla\to\nabla_{\mathrm{ad}}$ everywhere, and for an ideal monatomic gas $\Gamma_1=5/3$ gives $P\propto\rho^{5/3}$) and for a degenerate electron gas ([[Chandrasekhar mass limit]]).
 
 Substituting the dimensionless variables
 $$\rho = \rho_c\,\theta^n, \qquad r = \alpha\,\xi, \qquad \alpha^2 \equiv \frac{(n+1)K\rho_c^{1/n-1}}{4\pi G}$$
@@ -96,11 +96,11 @@ where:
 
 **Analytic solutions** exist for three special indices:
 $$n=0:\ \ \theta = 1-\frac{\xi^2}{6}, \qquad n=1:\ \ \theta = \frac{\sin\xi}{\xi}, \qquad n=5:\ \ \theta = \left(1+\frac{\xi^2}{3}\right)^{-1/2}$$
-The $n=0$ (incompressible) and $n=1$ solutions have finite radius $\xi_1$; the $n=5$ solution has $\theta\to0$ only as $\xi\to\infty$, describing a centrally concentrated sphere of formally infinite radius but finite mass — the analytic boundary case beyond which no finite-radius polytrope exists ($n<5$ required for a physical stellar model with a well-defined surface).
+The $n=0$ (incompressible) and $n=1$ solutions have finite radius $\xi_1$. The $n=5$ solution has $\theta\to0$ only as $\xi\to\infty$, describing a centrally concentrated sphere of formally infinite radius but finite mass, the analytic boundary case beyond which no finite-radius polytrope exists ($n<5$ required for a physical stellar model with a well-defined surface).
 
 For general $n$, the enclosed mass in terms of the dimensionless mass function $\omega_n \equiv -\xi_1^2\theta'(\xi_1)$ is
 $$M = 4\pi\alpha^3\rho_c\,\omega_n = 4\pi\left(\frac{(n+1)K}{4\pi G}\right)^{3/2}\rho_c^{(3-n)/2n}\,\omega_n$$
-**Asymptotic check — the $n=3$ case**: for $n=3$ the exponent $(3-n)/2n = 0$, so $M$ becomes *independent of central density* and is fixed entirely by $K$ and the constant $\omega_3\approx2.018$ — this is the mass-radius degeneracy underlying both the ultra-relativistic-degenerate white dwarf limit ([[Chandrasekhar mass limit]]) and, in a different physical context, the $n=3$ radiative envelope structure of an Eddington standard model.
+**Asymptotic check - the $n=3$ case**: for $n=3$ the exponent $(3-n)/2n = 0$, so $M$ becomes *independent of central density* and is fixed entirely by $K$ and the constant $\omega_3\approx2.018$ - this is the mass-radius degeneracy underlying both the ultra-relativistic-degenerate white dwarf limit ([[Chandrasekhar mass limit]]) and, in a different physical context, the $n=3$ radiative envelope structure of an Eddington standard model.
 
 ---
 
@@ -115,8 +115,23 @@ the dominance of radiative vs convective zones depends fundamentally on stellar 
 
 ## Primary Literature
 
-- **Kippenhahn, Weigert & Weiss**, *Stellar Structure and Evolution* (2nd ed., Springer) — the standard graduate reference for the four-equation formalism, MLT, and polytropic structure derived above.
-- **Bressan et al. (2012)**, *MNRAS* 427, 127, [arXiv:1208.4498](https://arxiv.org/abs/1208.4498) — the PARSEC stellar evolution code: modern numerical solution of the four structure equations with updated opacities, equations of state, and mixing-length calibration, used throughout the Padova isochrone grids referenced in [[Photometric chromosome maps]] and [[Extended main sequence turn-off eMSTO]].
+- **Kippenhahn, Weigert & Weiss**, *Stellar Structure and Evolution* (2nd ed., Springer) - the standard graduate reference for the four-equation formalism, MLT, and polytropic structure derived above.
+- **Bressan et al. (2012)**, *MNRAS* 427, 127, [arXiv:1208.4498](https://arxiv.org/abs/1208.4498), the PARSEC stellar evolution code: modern numerical solution of the four structure equations with updated opacities, equations of state, and mixing-length calibration, used throughout the Padova isochrone grids referenced in [[Photometric chromosome maps]] and [[Extended main sequence turn-off eMSTO]].
+
+## worked example
+
+order-of-magnitude values for the Sun, from the equations alone:
+
+- central pressure from hydrostatic equilibrium, $P_c \sim GM^2/R^4 = 1.1 \times 10^{15}$ Pa. the real value is $2.5 \times 10^{16}$ Pa, because the Sun is centrally concentrated.
+- central temperature from the ideal gas law, $T_c \sim \dfrac{GM\mu m_H}{k_BR} = 1.4 \times 10^7$ K with $\mu = 0.6$. the real value is $1.57 \times 10^7$ K.
+
+so hydrostatic equilibrium alone tells me that the centre of the Sun is hot enough for fusion.
+
+## where it goes wrong
+
+- four differential equations are not enough. I also need the equation of state, the opacity and the energy generation rate.
+- the energy transport equation changes form where the gas is convective. the Schwarzschild criterion decides which form applies.
+- the boundary conditions are split between the centre and the surface, so the problem cannot be integrated in one direction only.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

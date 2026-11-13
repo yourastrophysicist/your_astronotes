@@ -40,7 +40,7 @@ $$\Gamma^\phi{}_{\theta\phi} = \Gamma^\phi{}_{\phi\theta} = \cot\theta$$
 - **symmetric in lower indices**: yes.
 - **all coordinate-dependent**: $\Gamma$ is not a tensor.
 - **sphere components** ($\Gamma^\theta{}_{\phi\phi}, \Gamma^\phi{}_{\theta\phi}$) are exactly the 2-sphere Christoffels: the $\theta\phi$ subspace is a 2-sphere of radius $r$.
-- $\Gamma^t{}_{tr}$ encodes time dilation; $\Gamma^r{}_{tt}$ encodes the gravitational acceleration.
+- $\Gamma^t{}_{tr}$ encodes time dilation. $\Gamma^r{}_{tt}$ encodes the gravitational acceleration.
 
 ## the practical use
 

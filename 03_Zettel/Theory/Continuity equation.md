@@ -41,11 +41,11 @@ see [[Equation of state and density scaling]].
 
 ## consistency with Friedmann + acceleration
 
-the contracted Bianchi identity ensures that **only two** of the three equations (Friedmann, acceleration, continuity) are independent. you can use any two; the third is automatic.
+the contracted Bianchi identity ensures that **only two** of the three equations (Friedmann, acceleration, continuity) are independent. you can use any two. the third is automatic.
 
-physically: stress-energy conservation is **not** an additional dynamical input; it's required by Einstein's equation's mathematical consistency. so "matter must satisfy continuity" is a theorem of GR, not an external assumption.
+physically: stress-energy conservation is **not** an additional dynamical input. it's required by Einstein's equation's mathematical consistency. so "matter must satisfy continuity" is a theorem of GR, not an external assumption.
 
-## the special case: dark energy
+## the special case - dark energy
 
 for $w = -1$ (cosmological constant):
 $\dot\rho + 3H(\rho - \rho) = 0 \quad\Rightarrow\quad \dot\rho = 0$, $\rho = $ const.

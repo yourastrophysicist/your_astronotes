@@ -24,7 +24,7 @@ this curve is *the* punchline of extragalactic surveys.
 
 ## perez-gonzalez 2005
 
-the version pablo shows on this slide is his own paper: P-G et al. 2005 used Spitzer 24 μm photometry in deep fields to build the IR LF as a function of $z$, then integrated to get $\rho_{SFR}(z)$. result (his fig. 9): $\rho_{SFR}$ peaks at $z \sim 1$–$2$ and matches simultaneously the UV (S1-Xu 2003) and the IR (Lagache 2004) constraints.
+the version pablo shows on this slide is his own paper: P-G et al. 2005 used Spitzer 24 μm photometry in deep fields to build the IR LF as a function of $z$, then integrated to get $\rho_{SFR}(z)$. result (his fig. 9): $\rho_{SFR}$ peaks at $z \sim 1$ to $2$ and matches simultaneously the UV (S1-Xu 2003) and the IR (Lagache 2004) constraints.
 
 ## bouwens 2010 high-z anchor
 
@@ -43,12 +43,21 @@ where $R \approx 0.4$ is the mass returned to the ISM by stellar evolution. this
 ## three regimes
 
 - $z > 3$: rapid rise. galaxies are young, sub-$L^*$, high specific SFR.
-- $z \sim 1$–$3$: cosmic noon. half of all stars in the universe today were formed in this window. dust-obscured ULIRGs dominate the IR side.
+- $z \sim 1$ to $3$: cosmic noon. half of all stars in the universe today were formed in this window. dust-obscured ULIRGs dominate the IR side.
 - $z < 1$: secular decline. cosmic SFR drops by an order of magnitude. quenching at high mass plus gas depletion overall.
 
 ## what i remember
 
 the cosmic SFR history is the integral of the galaxy LF over $L$ in slices of $z$, so it is the most compressed possible summary of galaxy evolution. Madau-Dickinson 2014 is the canonical reference and is updated every couple of years.
+
+## worked example
+
+the Madau-Dickinson fit $\psi(z) = 0.015\,\frac{(1+z)^{2.7}}{1 + [(1+z)/2.9]^{5.6}}\ M_\odot\,\text{yr}^{-1}\,\text{Mpc}^{-3}$. at $z = 0$: $0.015$. at $z = 2$: $0.015 \times 19.4/1.88 = 0.155$, ten times higher.
+
+## where it goes wrong
+
+- the history is built from different tracers at each redshift. dust corrections dominate the uncertainty.
+- it depends on the IMF, which scales all values together.
 
 ## connections
 
@@ -61,7 +70,7 @@ the cosmic SFR history is the integral of the galaxy LF over $L$ in slices of $z
 
 - Madau & Dickinson 2014, ARAA 52, 415 (the canonical review)
 - Pérez-González et al. 2005, ApJ 630, 82
-- Bouwens et al. 2010 (UV LF at $z = 4$–$8$)
+- Bouwens et al. 2010 (UV LF at $z = 4$ to $8$)
 - Lilly et al. 1996 (the original Lilly-Madau plot)
 
 

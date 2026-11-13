@@ -19,13 +19,13 @@ the TO mass therefore drops monotonically with age. on the CMD this manifests as
 
 practical fitting strategies fall into three families.
 
-(1) **vertical methods**: measure the absolute TO magnitude $M_V^\mathrm{TO}$ and compare to isochrones. this requires an independent distance modulus, otherwise age and distance are degenerate. the TO is reasonably well-defined as the bluest point on the MS, but in practice the MS-TO transition is gradual and the bluest-point measurement is noisy; modern work uses the *brightness* of the TO at a fixed $\Delta(B-V)$ from the unevolved MS, or the magnitude difference $\Delta V_\mathrm{TO}^\mathrm{HB}$ between TO and horizontal branch which removes the distance dependence.
+(1) **vertical methods**: measure the absolute TO magnitude $M_V^\mathrm{TO}$ and compare to isochrones. this requires an independent distance modulus, otherwise age and distance are degenerate. the TO is reasonably well-defined as the bluest point on the MS, but in practice the MS-TO transition is gradual and the bluest-point measurement is noisy. modern work uses the *brightness* of the TO at a fixed $\Delta(B-V)$ from the unevolved MS, or the magnitude difference $\Delta V_\mathrm{TO}^\mathrm{HB}$ between TO and horizontal branch which removes the distance dependence.
 
 (2) **horizontal methods** (chaboyer 1995): the colour difference $\delta(B-V)$ between the TO and the base of the RGB at fixed magnitude is age-sensitive but reddening-insensitive (since reddening shifts both TO and RGB by the same colour amount). this is the workhorse for relative ages between GCs.
 
 (3) **isochrone-fitting**: a full chi-square fit of model isochrones to the entire CMD, simultaneously solving for $(t, [\mathrm{Fe}/\mathrm{H}], (m-M)_0, E(B-V))$, with priors on $[\mathrm{Fe}/\mathrm{H}]$ from spectroscopy and on $(m-M)_0$ from gaia parallax or RR Lyrae (see [[Isochrones and isochrone fitting]]).
 
-precision and pitfalls. with HST or JWST photometry the TO can be located to $\sim 0.05$ mag, which translates to a relative-age precision of $\sim 5\%$ between GCs, or $\sim 0.5$ Gyr at $10$ Gyr (marin-franch et al. 2009). absolute ages are limited by *systematic* uncertainties: the assumed He abundance $Y$ (helium-rich populations have brighter, redder TOs at fixed age, mimicking older ages by $\sim 1$ Gyr per $\Delta Y = 0.04$); the CNO and alpha enhancement mixture, which affects opacities and the TO morphology; convective core overshooting, which extends MS lifetimes and lowers $M_\mathrm{TO}$ at fixed age; and the reddening law, which moves the TO colour. realistic absolute ages for GCs are accurate to $\sim 1$ Gyr, with the oldest milky way GCs (NGC 6397, M92, M30) clustering at $12.5 \pm 0.5$ Gyr.
+precision and pitfalls. with HST or JWST photometry the TO can be located to $\sim 0.05$ mag, which translates to a relative-age precision of $\sim 5\%$ between GCs, or $\sim 0.5$ Gyr at $10$ Gyr (marin-franch et al. 2009). absolute ages are limited by *systematic* uncertainties: the assumed He abundance $Y$ (helium-rich populations have brighter, redder TOs at fixed age, mimicking older ages by $\sim 1$ Gyr per $\Delta Y = 0.04$). the CNO and alpha enhancement mixture, which affects opacities and the TO morphology. convective core overshooting, which extends MS lifetimes and lowers $M_\mathrm{TO}$ at fixed age. and the reddening law, which moves the TO colour. realistic absolute ages for GCs are accurate to $\sim 1$ Gyr, with the oldest milky way GCs (NGC 6397, M92, M30) clustering at $12.5 \pm 0.5$ Gyr.
 
 a critical degeneracy: ages and metallicities are partially anti-correlated in TO photometry, because metal-rich isochrones at younger ages have similar TO colours and magnitudes to metal-poor isochrones at older ages (the [[Age-metallicity degeneracy]]). resolved CMDs break this degeneracy via the *RGB slope* and *HB morphology*, which respond differently to age and to $[\mathrm{Fe}/\mathrm{H}]$, but only if the photometry is deep and clean.
 
@@ -52,98 +52,98 @@ the TO is also the foundation of the cluster age from main sequence turn-off der
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 02 — Reading the CMD II: Isochrones & Age Clocks)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 02 - Reading the CMD II - Isochrones & Age Clocks)
 
 > **Context**: *Isochrone fitting, Turnoff luminosity-age scaling, distance modulus determination, theoretical evolutionary tracks vs observed HST/Gaia filter systems.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![LAntonino_p02_01.png](../../assets/images/LAntonino_p02_01.png)
-*Figure P02-01: LAntonino_p02_01.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-01: LAntonino_p02_01.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_02.png](../../assets/images/LAntonino_p02_02.png)
-*Figure P02-02: LAntonino_p02_02.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-02: LAntonino_p02_02.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_03.png](../../assets/images/LAntonino_p02_03.png)
-*Figure P02-03: LAntonino_p02_03.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-03: LAntonino_p02_03.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_04.png](../../assets/images/LAntonino_p02_04.png)
-*Figure P02-04: LAntonino_p02_04.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-04: LAntonino_p02_04.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_05.png](../../assets/images/LAntonino_p02_05.png)
-*Figure P02-05: LAntonino_p02_05.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-05: LAntonino_p02_05.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_06.png](../../assets/images/LAntonino_p02_06.png)
-*Figure P02-06: LAntonino_p02_06.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-06: LAntonino_p02_06.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_07.png](../../assets/images/LAntonino_p02_07.png)
-*Figure P02-07: LAntonino_p02_07.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-07: LAntonino_p02_07.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_08.png](../../assets/images/LAntonino_p02_08.png)
-*Figure P02-08: LAntonino_p02_08.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-08: LAntonino_p02_08.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_09.png](../../assets/images/LAntonino_p02_09.png)
-*Figure P02-09: LAntonino_p02_09.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-09: LAntonino_p02_09.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_10.png](../../assets/images/LAntonino_p02_10.png)
-*Figure P02-10: LAntonino_p02_10.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-10: LAntonino_p02_10.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_11.png](../../assets/images/LAntonino_p02_11.png)
-*Figure P02-11: LAntonino_p02_11.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-11: LAntonino_p02_11.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_12.png](../../assets/images/LAntonino_p02_12.png)
-*Figure P02-12: LAntonino_p02_12.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-12: LAntonino_p02_12.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_13.png](../../assets/images/LAntonino_p02_13.png)
-*Figure P02-13: LAntonino_p02_13.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-13: LAntonino_p02_13.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_14.png](../../assets/images/LAntonino_p02_14.png)
-*Figure P02-14: LAntonino_p02_14.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-14: LAntonino_p02_14.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_15.png](../../assets/images/LAntonino_p02_15.png)
-*Figure P02-15: LAntonino_p02_15.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-15: LAntonino_p02_15.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_16.png](../../assets/images/LAntonino_p02_16.png)
-*Figure P02-16: LAntonino_p02_16.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-16: LAntonino_p02_16.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_17.png](../../assets/images/LAntonino_p02_17.png)
-*Figure P02-17: LAntonino_p02_17.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-17: LAntonino_p02_17.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_18.png](../../assets/images/LAntonino_p02_18.png)
-*Figure P02-18: LAntonino_p02_18.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-18: LAntonino_p02_18.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_19.png](../../assets/images/LAntonino_p02_19.png)
-*Figure P02-19: LAntonino_p02_19.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-19: LAntonino_p02_19.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_20.png](../../assets/images/LAntonino_p02_20.png)
-*Figure P02-20: LAntonino_p02_20.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-20: LAntonino_p02_20.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_21.png](../../assets/images/LAntonino_p02_21.png)
-*Figure P02-21: LAntonino_p02_21.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-21: LAntonino_p02_21.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_22.png](../../assets/images/LAntonino_p02_22.png)
-*Figure P02-22: LAntonino_p02_22.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-22: LAntonino_p02_22.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_23.png](../../assets/images/LAntonino_p02_23.png)
-*Figure P02-23: LAntonino_p02_23.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-23: LAntonino_p02_23.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_24.png](../../assets/images/LAntonino_p02_24.png)
-*Figure P02-24: LAntonino_p02_24.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-24: LAntonino_p02_24.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![LAntonino_p02_25.png](../../assets/images/LAntonino_p02_25.png)
-*Figure P02-25: LAntonino_p02_25.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-25: LAntonino_p02_25.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![Lecture02_p15-15.png](../../assets/images/Lecture02_p15-15.png)
-*Figure P02-26: Lecture02_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-26: Lecture02_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![Lecture02_p25-25.png](../../assets/images/Lecture02_p25-25.png)
-*Figure P02-27: Lecture02_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-27: Lecture02_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![Lecture02_p35-35.png](../../assets/images/Lecture02_p35-35.png)
-*Figure P02-28: Lecture02_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-28: Lecture02_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 ![Lecture02_p5-05.png](../../assets/images/Lecture02_p5-05.png)
-*Figure P02-29: Lecture02_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 02 — Reading the CMD II: Isochrones & Age Clocks.*
+*Figure P02-29: Lecture02_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 02 - Reading the CMD II: Isochrones & Age Clocks.*
 
 
 

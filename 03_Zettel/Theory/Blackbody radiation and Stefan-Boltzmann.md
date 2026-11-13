@@ -30,7 +30,7 @@ $$\boxed{\, B_\lambda(T) = \frac{2hc^2}{\lambda^5} \frac{1}{e^{\frac{hc}{\lambda
 
 ![radiative-17.png](../../assets/images/radiative-17.png)
 
-### properties of Planck curves:
+### properties of Planck curves
 1. **continuous**: smoothly defined across all wavelengths.
 2. **non-intersecting**: as temperature increases, the Planck curve at higher $T$ sits strictly above the curve at lower $T$ at **all** wavelengths. a hotter body emits more radiation per unit area at every wavelength than a colder body.
 3. **peak shift**: as temperature increases, the peak of the emission shifts toward higher frequencies / shorter wavelengths.
@@ -46,7 +46,7 @@ the peak wavelength $\lambda_{\text{max}}$ of the Planck function $B_\lambda(T)$
 this yields **Wien's displacement law**:
 $$\boxed{\, \lambda_{\text{max}} \, T = b \approx 2.89777 \times 10^{-3} \text{ m K} \approx 2898 \, \mu\text{m K} \,}$$
 
-### astrophysical benchmarks:
+### astrophysical benchmarks
 - **the Sun ($T \approx 5800$ K)**: $\lambda_{\text{max}} \approx 2.9 \times 10^{-3} / 5800 \approx 500$ nm (green-yellow visible light).
 - **hot O-star ($T \approx 30,000$ K)**: $\lambda_{\text{max}} \approx 97$ nm (far ultraviolet).
 - **cool M-dwarf ($T \approx 3000$ K)**: $\lambda_{\text{max}} \approx 970$ nm (near infrared).
@@ -77,7 +77,7 @@ this defines the star's **effective temperature** $T_{\text{eff}}$: the temperat
 
 ## asymptotic limits of the Planck distribution
 
-### 1. Rayleigh-Jeans law (low frequencies / long wavelengths: $h\nu \ll k_B T$):
+### 1. Rayleigh-Jeans law (low frequencies / long wavelengths - $h\nu \ll k_B T$)
 expanding the exponential $e^x \approx 1 + x$:
 $$B_\nu(T) \approx \frac{2\nu^2 k_B T}{c^2} = \frac{2 k_B T}{\lambda^2}$$
 - linear in temperature $T$ and quadratic in frequency $\nu^2$.
@@ -85,7 +85,7 @@ $$B_\nu(T) \approx \frac{2\nu^2 k_B T}{c^2} = \frac{2 k_B T}{\lambda^2}$$
 
 ![radiative-22.png](../../assets/images/radiative-22.png)
 
-### 2. Wien's approximation (high frequencies / short wavelengths: $h\nu \gg k_B T$):
+### 2. Wien's approximation (high frequencies / short wavelengths - $h\nu \gg k_B T$)
 neglecting the $-1$ in the denominator:
 $$B_\nu(T) \approx \frac{2h\nu^3}{c^2} e^{-\frac{h\nu}{k_B T}}$$
 - exponential exponential cutoff describing the high-energy photon tail.
@@ -104,6 +104,12 @@ real stars are not perfect blackbodies because their atmospheres have wavelength
 ![radiative-24.png](../../assets/images/radiative-24.png)
 
 ---
+
+## where it goes wrong
+
+- a star is not a perfect blackbody. lines and the Balmer jump remove flux, so $T_{\rm eff}$ is defined through $L$ and $R$, not through the shape.
+- the peak of $B_\lambda$ and the peak of $B_\nu$ are at different wavelengths. $\lambda_{\max}T = 2.898 \times 10^{-3}$ m K holds for $B_\lambda$ only.
+- the Rayleigh-Jeans form is valid only for $h\nu \ll k_BT$. using it in the optical for a cool star is wrong.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

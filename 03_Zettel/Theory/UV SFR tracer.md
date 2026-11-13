@@ -20,10 +20,10 @@ once this steady state is reached, the emergent monochromatic UV luminosity $L_\
 
 calibrations are derived from stellar population synthesis models (e.g., Starburst99, BC03) assuming constant star formation, solar metallicity, and a specified IMF:
 
-#### Salpeter (1955) IMF ($0.1\text{--}100\,M_\odot$):
+#### Salpeter (1955) IMF ($0.1\text{--}100\,M_\odot$)
 $$\mathrm{SFR}_{\rm UV} [M_\odot/\mathrm{yr}] = 1.4 \times 10^{-28}\, L_\nu(\mathrm{UV})\,[\mathrm{erg\,s^{-1}\,Hz^{-1}}] \quad (\text{Kennicutt 1998})$$
 
-#### Chabrier (2003) IMF:
+#### Chabrier (2003) IMF
 $$\mathrm{SFR}_{\rm UV} [M_\odot/\mathrm{yr}] = 0.88 \times 10^{-28}\, L_\nu(\mathrm{UV})\,[\mathrm{erg\,s^{-1}\,Hz^{-1}}] \quad (\text{Madau \& Dickinson 2014})$$
 
 the conversion between IMFs is:
@@ -31,7 +31,7 @@ $$\mathrm{SFR}_{\rm Chabrier} = \frac{\mathrm{SFR}_{\rm Salpeter}}{1.58} = \math
 
 ---
 
-### the dust challenge: attenuation and the IRX-$\beta$ relation
+### the dust challenge - attenuation and the IRX-$\beta$ relation
 
 the primary systematic uncertainty in UV star formation rates is **dust attenuation**. Interstellar dust preferentially absorbs and scatters ultraviolet photons:
 $$A_{1500} \approx (2.5\text{--}4.5) \times A_V$$
@@ -72,6 +72,16 @@ $$A_{1600} = 4.43 + 1.99\,\beta$$
 - **intrinsic $\beta$ variations**: variations in stellar metallicity ($Z < 0.1\,Z_\odot$) and binary stellar evolution (BPASS) can drive intrinsic slopes down to $\beta_0 \approx -2.6$, shifting the zero-point of dust corrections.
 
 ---
+
+## worked example
+
+the dust correction from the ultraviolet slope $\beta$ (Meurer 1999):
+
+$$A_{1600} = 4.43 + 1.99\,\beta$$
+
+- $\beta = -2.23$: no dust
+- $\beta = -1.5$: $A_{1600} = 1.45$ mag, the rate must be multiplied by $10^{0.58} = 3.8$
+- $\beta = -1.0$: $A_{1600} = 2.44$ mag, a factor of 9.5
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -41,7 +41,7 @@ a pulsar's relativistic wind blows a bubble of energetic plasma, the **pulsar wi
 - **3C 58**, **G21.5-0.9**: synchrotron-emitting PWNe
 - **the Vela PWN**: complex jet structure
 
-VLA/MERLIN imaging at cm wavelengths reveals the *internal structure* of PWNe — jets, filaments, knots, shock fronts. tells us about pulsar wind composition, magnetization, and shock physics.
+VLA/MERLIN imaging at cm wavelengths reveals the *internal structure* of PWNe, jets, filaments, knots, shock fronts. tells us about pulsar wind composition, magnetization, and shock physics.
 
 ## pulsar timing arrays
 
@@ -71,7 +71,7 @@ pulsar in the LMC, observed by VLBI for transverse velocity measurements. tests 
 
 ### PSR J1909-3744
 
-a millisecond pulsar with extremely stable timing — the "best clock" in the Galaxy. used as the central reference for the NANOGrav PTA.
+a millisecond pulsar with extremely stable timing, the "best clock" in the Galaxy. used as the central reference for the NANOGrav PTA.
 
 ## the science
 
@@ -91,7 +91,7 @@ pulsar proper motions + distances reveal galactic potential. complement Gaia ste
 
 ### 4. gravitational waves
 
-PTAs are the only instruments sensitive to nHz gravitational waves — the regime where SMBH mergers radiate.
+PTAs are the only instruments sensitive to nHz gravitational waves, the regime where SMBH mergers radiate.
 
 ## the future
 

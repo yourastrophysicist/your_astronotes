@@ -19,13 +19,8 @@ I need to measure the wavefront across a $D \sim 8$ m aperture sampled at $\sim 
 
 the most common. an array of small lenslets divides the pupil into sub-apertures. each lenslet focuses its sub-aperture's light onto a small CCD region. the *position* of each spot on its CCD region tells you the local wavefront *gradient*.
 
-```
-        wavefront                lenslet array         CCD
-   ━━━━━━━━━━━━━━━━━     ═══════════════════════     ━━━━━━━
-        ↓                  /[]/[]/[]/[]/[]/         spots displaced
-                            (one lenslet per         in proportion
-                             subaperture)            to local tilt
-```
+![Shack Hartmann WFS lensletarray](../../assets/images/commons_Shack_Hartmann_WFS_lensletarray.png)
+*Shack-Hartmann wavefront sensor. Each lenslet images its subaperture, and the spot displacement gives the local wavefront slope. Image: 2pem, CC BY-SA 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shack_Hartmann_WFS_lensletarray.svg).*
 
 advantages:
 - simple, robust
@@ -85,14 +80,14 @@ three key challenges:
 
 ### 1. faint guide stars
 
-AO performance degrades with WFS noise. for $K = 12$ guide stars, photon counts are limited; for $K = 14$ they are very poor. modern systems use:
+AO performance degrades with WFS noise. for $K = 12$ guide stars, photon counts are limited. For $K = 14$ they are very poor. modern systems use:
 - pyramid WFS for sensitivity
 - low-readout-noise detectors (EMCCDs, sCMOS)
 - temporal averaging only when atmospheric conditions allow
 
 ### 2. atmospheric speed vs WFS rate
 
-if the WFS runs at 1 kHz but the atmosphere has features evolving at 2 kHz, AO is undersampled — those fast features contribute to residual error. modern WFS run at 2-3 kHz to handle worst-case atmospheres.
+if the WFS runs at 1 kHz but the atmosphere has features evolving at 2 kHz, AO is undersampled. those fast features contribute to residual error. modern WFS run at 2-3 kHz to handle worst-case atmospheres.
 
 ### 3. spectral bandwidth
 

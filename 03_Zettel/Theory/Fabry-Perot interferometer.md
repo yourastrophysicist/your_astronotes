@@ -27,7 +27,7 @@ where $F = 4R/(1-R)^2$ is the **finesse coefficient**. for $R = 0.99$: $F \appro
 
 when $F$ is large:
 - transmission peaks at $\delta = 2\pi m$ (constructive on every pass)
-- between peaks, $\sin^2(\delta/2)$ is large, so transmission drops to $1/(1 + F)$ — nearly zero
+- between peaks, $\sin^2(\delta/2)$ is large, so transmission drops to $1/(1 + F)$, nearly zero
 
 so the transmission spectrum is a *comb* of very sharp peaks separated by the **free spectral range**:
 
@@ -101,7 +101,7 @@ this is the architectural reason LIGO works at all: without the Fabry-Perot enha
 | resolving power | low to medium | very high |
 | typical use | OPD measurement | spectral filtering |
 
-both are amplitude-division; the difference is whether the cavity is "open" (two beams, finite) or "closed" (multiple beams, infinite series).
+both are amplitude-division. the difference is whether the cavity is "open" (two beams, finite) or "closed" (multiple beams, infinite series).
 
 ## see also
 

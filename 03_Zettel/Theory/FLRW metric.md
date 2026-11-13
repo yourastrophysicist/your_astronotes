@@ -21,7 +21,7 @@ with $k$ the **spatial curvature parameter**:
 - $k = 0$: flat (3-Euclidean).
 - $k = -1$: open (3-hyperbolic).
 
-## the assumptions: cosmological principle
+## the assumptions - cosmological principle
 
 FLRW assumes the **cosmological principle**:
 - **homogeneity**: the universe looks the same at every point in space (averaged over large scales).
@@ -29,7 +29,7 @@ FLRW assumes the **cosmological principle**:
 
 these together force the spatial metric to be one of three constant-curvature options. and force the time-dependence to enter only through $a(t)$.
 
-so the entire dynamics of the universe is encoded in one function $a(t)$. remarkable simplification.
+so the entire dynamics of the universe is encoded in one function $a(t)$. simplification.
 
 ## what $a(t)$ does
 
@@ -121,7 +121,7 @@ see [[Cosmic eras]].
 - [[Matter radiation equality]]
 - [[Radial comoving distance]]
 - [[Spatial curvature parameter k]]
-- [[Cosmology_of_the_Early_Universe_MOC]]
+- Cosmology_of_the_Early_Universe_MOC
 - [[General_Relativity_MOC]]
 
 

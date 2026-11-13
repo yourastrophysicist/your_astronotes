@@ -25,7 +25,7 @@ semi-forbidden uses single right bracket: $C\,\textsc{iii}], N\,\textsc{iv}], C\
 
 ## why "forbidden in the lab, bright in the sky"
 
-at terrestrial-laboratory densities ($n \sim 10^{19}$ cm$^{-3}$), an excited atom in a forbidden state is collisionally de-excited in $\sim 10^{-9}$ s, much faster than its $\sim 1$ s radiative lifetime. so no photon escapes; the line is suppressed.
+at terrestrial-laboratory densities ($n \sim 10^{19}$ cm$^{-3}$), an excited atom in a forbidden state is collisionally de-excited in $\sim 10^{-9}$ s, much faster than its $\sim 1$ s radiative lifetime. so no photon escapes. the line is suppressed.
 
 at nebular densities ($n \sim 10^2$ to $10^5$ cm$^{-3}$), collisional de-excitation is slow ($\sim 10^4$ to $10$ s) and the radiative decay can succeed. so the photon does escape.
 
@@ -53,7 +53,7 @@ high-ionisation tracers of AGN.
 
 ## diagnostic value
 
-forbidden lines are the **gold standard** for nebular plasma diagnostics:
+forbidden lines are the **standard** for nebular plasma diagnostics:
 - **temperature** from ratios of upper levels with very different excitation energies (e.g. $[OIII]\,\lambda 4363$ vs $\lambda 5007$).
 - **density** from ratios of upper levels with similar excitation but different $A$ (e.g. $[SII]\,\lambda 6716/\lambda 6731$).
 - **ionisation state** from the ratios of different ion stages of the same element (e.g. $[OII]/[OIII]$).

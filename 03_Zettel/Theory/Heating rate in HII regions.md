@@ -12,7 +12,7 @@ $$\langle E\rangle = \int (h\nu - \chi_H)\,F_\nu/h\nu\,\sigma_\nu\,d\nu / \int F
 per unit volume, the heating rate is:
 $$G \approx n_H\,\Gamma\,\langle E\rangle\quad\text{erg cm}^{-3}\,\text{s}^{-1}$$
 
-(approximating; full formula has integrals over $\nu$ above threshold and over species).
+(approximating, full formula has integrals over $\nu$ above threshold and over species).
 
 equivalently, $G = n_H \int_{\nu_0}^\infty F_\nu/h\nu\,\sigma_\nu\,(h\nu - \chi)\,d\nu$.
 

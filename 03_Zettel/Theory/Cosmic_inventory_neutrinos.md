@@ -55,7 +55,7 @@ $$\boxed{\,\Omega_\nu h^2 < 0.0012\,(95\%\,\text{CL})\,}$$
 
 (Planck 2018 + lensing + BAO.)
 
-three light neutrino species are assumed (the standard model count). additional sterile neutrino species would change $g_*$ during BBN and the CMB era, providing complementary constraints — see [[BBN_predictions]].
+three light neutrino species are assumed (the standard model count). additional sterile neutrino species would change $g_*$ during BBN and the CMB era, providing complementary constraints, see [[BBN_predictions]].
 
 ---
 
@@ -70,6 +70,20 @@ even though their contribution to $\Omega$ is small, neutrinos:
 upcoming experiments (CMB-S4, Euclid, DESI, LiteBIRD) aim to push the bound on $\sum m_\nu$ down to $\sim 0.02$ eV, which would actually *measure* the neutrino mass scale (since the inverted hierarchy demands $\sum m_\nu \gtrsim 0.1$ eV). this is one of the most exciting cosmological measurements coming in the next decade.
 
 ---
+
+## worked example
+
+with $T_\nu = (4/11)^{1/3}T_\gamma = 1.95$ K, each flavour has $n = 112$ cm$^{-3}$, 336 in total. if they are non-relativistic today,
+
+$$\Omega_\nu h^2 = \frac{\sum m_\nu}{93.1\ \text{eV}}$$
+
+for the minimum mass from oscillations, $\sum m_\nu = 0.06$ eV, $\Omega_\nu = 0.06/(93.1 \times 0.454) = 0.0014$.
+
+## where it goes wrong
+
+- oscillations measure differences of squared masses, not the masses themselves.
+- massive neutrinos are radiation early and matter late. they move from one column of the budget to the other.
+- the cosmic neutrino background has not been detected directly.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

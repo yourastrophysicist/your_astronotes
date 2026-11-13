@@ -4,7 +4,7 @@ title: "Boundary value PDEs and iteration"
 ---
 # Boundary value PDEs and iteration
 
-elliptic PDEs (Laplace, Poisson) are *boundary value problems*: no time evolution, just a constraint relating the values at every grid point to its neighbors plus the boundary conditions. discretization gives a linear system; iterative methods (Gauss-Seidel, SOR, multigrid) solve it.
+elliptic PDEs (Laplace, Poisson) are *boundary value problems*: no time evolution, just a constraint relating the values at every grid point to its neighbors plus the boundary conditions. discretization gives a linear system. iterative methods (Gauss-Seidel, SOR, multigrid) solve it.
 
 ## the Laplace equation as the canonical case
 
@@ -37,7 +37,7 @@ def jacobi_laplace(phi, n_iter=10000, tol=1e-6):
 
 this is **Jacobi iteration**: at each sweep, all updates use the *old* values. simple, parallelizable, but slow.
 
-## Gauss-Seidel: faster convergence
+## Gauss-Seidel - faster convergence
 
 at each sweep, use the *latest* available values. some neighbors have already been updated this sweep, others not:
 
@@ -53,7 +53,7 @@ converges in roughly half the iterations of Jacobi (the spectral radius of the i
 
 see [[Gauss-Seidel iteration]] for the linear-algebra perspective.
 
-## SOR: even faster
+## SOR - even faster
 
 successive over-relaxation. update the new value as
 

@@ -65,7 +65,7 @@ $$\log(M_{BH}/M_\odot) \approx 4.4\log(\sigma/200\,\text{km/s}) + 8.5$$
 
 ## limits
 
-- **resolution**: $R \gtrsim 3000$ to resolve $\sigma_v \gtrsim 100$ km/s. high-$\sigma$ ellipticals OK; dwarfs and clusters need $R \gtrsim 10^4$.
+- **resolution**: $R \gtrsim 3000$ to resolve $\sigma_v \gtrsim 100$ km/s. high-$\sigma$ ellipticals OK. dwarfs and clusters need $R \gtrsim 10^4$.
 - **template mismatch**: if the assumed stellar template doesn't match the actual stellar mix, $\sigma_v$ is biased.
 - **rotation**: a rotating disk has bulk rotation that mimics part of $\sigma_v$. need spatially-resolved spectroscopy to separate rotation from random motions.
 

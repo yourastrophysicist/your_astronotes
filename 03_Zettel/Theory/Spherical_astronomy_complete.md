@@ -2,12 +2,9 @@
 layout: "default"
 title: "Spherical_astronomy_complete"
 ---
-before any astrophysics: just *how do we point at the sky*.
-	the stars look like they sit on a sphere
-		whose center happens to be wherever I am standing.
-			I do not know their true distances from me, and for the purposes of pointing I do not care.
-				I just need **two coordinates** to identify a point on the celestial sphere,
-					and a way to **transform between coordinate systems**.
+before any astrophysics: just *how do we point at the sky*. the stars look like they sit on a sphere, whose center happens to be wherever I am standing.
+- I do not know their true distances from me, and for the purposes of pointing I do not care.
+	- I just need **two coordinates** to identify a point on the celestial sphere, and a way to **transform between coordinate systems**.
 
 this is the geometry every later observation in every later course assumes.
 
@@ -17,7 +14,7 @@ this is the geometry every later observation in every later course assumes.
 
 ## the celestial sphere
 
-old globes, old astrolabes, old cosmographies — all of them rest on the same idea: a sphere of directions, parametrized by two angles.
+old globes, old astrolabes, old cosmographies, all of them rest on the same idea: a sphere of directions, parametrized by two angles.
 
 ![sphereastro-07.png](../../assets/images/sphereastro-07.png)
 
@@ -34,7 +31,7 @@ a **spherical triangle** is bounded by three arcs of great circles.
 the side $\lvert AB\rvert$ of the spherical triangle and the central angle $c$ subtending it are tied by
 $$\lvert AB\rvert = r c, \qquad [c] = \text{rad}$$
 
-so on a unit-radius sphere the angles *are* the side lengths. this is convenient: on the celestial sphere we never need the radius — it cancels out of every angular relation.
+so on a unit-radius sphere the angles *are* the side lengths. this is convenient: on the celestial sphere we never need the radius. it cancels out of every angular relation.
 
 ![sphereastro-09.png](../../assets/images/sphereastro-09.png)
 
@@ -55,7 +52,7 @@ so an octant of a unit sphere ($A = B = C = 90°$) has $E = 90° = \pi/2$ and ar
 
 ---
 
-## spherical trigonometry: rotating between coordinate systems
+## spherical trigonometry - rotating between coordinate systems
 
 a point $P$ on a sphere can be written in two ways:
 - **cartesian**: $(x, y, z)$
@@ -133,7 +130,7 @@ note: $\phi$ also equals **the altitude of the celestial pole on the local horiz
 
 ![sphereastro-17.png](../../assets/images/sphereastro-17.png)
 
-### worked example: Helsinki to La Palma
+### worked example - Helsinki to La Palma
 
 with $\phi_1 = 60°, \lambda_1 = 25°$ (Helsinki) and $\phi_2 = 28.7°, \lambda_2 = -17.5°$ (La Palma), the great-circle distance:
 
@@ -154,7 +151,7 @@ the most natural one for a person standing on Earth: take the local horizontal p
 - **nadir**: opposite of zenith
 - **horizon**: where the local horizontal plane meets the sky
 - **vertical circle**: a great circle through the zenith
-- **meridian**: the vertical circle through the celestial pole — passes through cardinal points N and S
+- **meridian**: the vertical circle through the celestial pole, passes through cardinal points N and S
 
 a celestial body's coordinates:
 - **azimuth** $A$: angle along the horizon from the cardinal point S (clockwise), $A \in [0°, 360°]$
@@ -169,7 +166,7 @@ these coordinates are **time-dependent and observer-dependent**. three stars A, 
 
 ![sphereastro-20.png](../../assets/images/sphereastro-20.png)
 
-at $\phi = 45°$ N (Padova) the picture is one thing; at $\phi = 10°$ N it's another. and within a single night the same star moves continuously through different $(A, a)$ values. so alt-azimuth is **not a catalog system** — you cannot tabulate stars in this frame.
+at $\phi = 45°$ N (Padova) the picture is one thing. at $\phi = 10°$ N it's another. and within a single night the same star moves continuously through different $(A, a)$ values. so alt-azimuth is **not a catalog system**. you cannot tabulate stars in this frame.
 
 ---
 
@@ -178,7 +175,7 @@ at $\phi = 45°$ N (Padova) the picture is one thing; at $\phi = 10°$ N it's an
 instead, use the Earth's rotation axis as the reference axis. it is (almost) constant in time, so the celestial pole and celestial equator are fixed relative to the stars.
 
 - **astronomical meridian**: the great circle through the zenith and the (celestial) pole
-- $\gamma$ **point** (vernal equinox, "punto gamma"): the spring intersection of the celestial equator with the ecliptic — the apparent position of the Sun on the sphere on March 21
+- $\gamma$ **point** (vernal equinox, "punto gamma"): the spring intersection of the celestial equator with the ecliptic, the apparent position of the Sun on the sphere on March 21
 - **right ascension** $\alpha$ (RA): angular distance of a star eastward from $\gamma$ along the equator
 - **declination** $\delta$: angular distance of the star from the celestial equator
 
@@ -204,7 +201,7 @@ three categories of star:
 extreme cases give a clean intuition:
 
 - **at the north pole**: the celestial pole is at the zenith. only half the sphere is visible. all visible stars are circumpolar and visible for 24 h.
-- **at $30°$ S**: a generic latitude — some circumpolar stars (around the south celestial pole), some rise/set
+- **at $30°$ S**: a generic latitude, some circumpolar stars (around the south celestial pole), some rise/set
 - **at the equator**: you see the whole celestial sphere over a year. there are no circumpolar stars. all stars are visible for 12 h each day.
 
 ![sphereastro-23.png](../../assets/images/sphereastro-23.png)
@@ -293,7 +290,7 @@ $$\Rightarrow \delta = \tfrac12(a_{\min} - a_{\max}) + 90°$$
 for a circumpolar star culminating *south* of the zenith:
 $$\delta = \tfrac12(a_{\min} + a_{\max})$$
 
-at the same time, the position of the celestial pole is fixed, so I can get $\delta$ for any other body just from its angular distance to the pole. the position of the celestial equator follows. and as the **zero point of right ascension** I take the point where the Sun crosses the equator from south to north — that defines $\gamma$.
+at the same time, the position of the celestial pole is fixed, so I can get $\delta$ for any other body just from its angular distance to the pole. the position of the celestial equator follows. and as the **zero point of right ascension** I take the point where the Sun crosses the equator from south to north, that defines $\gamma$.
 
 ![sphereastro-30.png](../../assets/images/sphereastro-30.png)
 
@@ -323,14 +320,14 @@ note: this calculation does **not** account for atmospheric refraction (which li
 
 ---
 
-## takeaway
+## summary
 
 three coordinate systems matter for any practical observation:
 
 | system | reference plane | coordinates | depends on |
 |---|---|---|---|
 | **alt-azimuth** | local horizon | $A, a$ | observer + time |
-| **equatorial (catalog)** | celestial equator | $\alpha, \delta$ | nothing — universal |
+| **equatorial (catalog)** | celestial equator | $\alpha, \delta$ | nothing, universal |
 | **equatorial (local)** | celestial equator + meridian | $h, \delta$ | observer + time, but $\delta$ universal |
 
 with the master equations of spherical trigonometry I can transform between any pair, predict when a star rises and sets, and decide whether a target is even visible from a given latitude. that's the whole game.
@@ -351,7 +348,7 @@ with the master equations of spherical trigonometry I can transform between any 
 ## see also
 
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
-- [[Appendix E - Astronomical coordinates]] — short reference card, also covers vernal equinox, precession, J2000
+- [[Appendix E - Astronomical coordinates]] - short reference card, also covers vernal equinox, precession, J2000
 - [[Earth coordinates]]
 - [[Equatorial system]]
 - [[Horizontal alt-azimuth system]]

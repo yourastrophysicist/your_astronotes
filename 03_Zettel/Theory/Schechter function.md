@@ -65,7 +65,7 @@ $$\boxed{\Phi(M)\, dM = 0.4 \ln(10)\, \Phi^*\, 10^{0.4(\alpha+1)(M^* - M)} \exp\
 ## Physical Origin & Halo Mass Function Connection
 
 The Schechter function emerges naturally from the convolution of.
-1. The **halo mass function** $dn/dM_h$ (Press-Schechter 1974; Sheth-Tormen 2001), which exhibits a power law at low halo masses and an exponential cutoff at the high-mass end.
+1. The **halo mass function** $dn/dM_h$ (Press-Schechter 1974, Sheth-Tormen 2001), which exhibits a power law at low halo masses and an exponential cutoff at the high-mass end.
    $$\frac{dn}{dM_h} \propto M_h^{-(1 + \gamma)} \exp\left[-\left(\frac{M_h}{M_*}\right)^\delta\right]$$
 2. The **stellar-to-halo mass relation** $M_*(M_h)$, which peaks at $M_h \approx 10^{12} M_\odot$ with efficiency $\sim 20\%$ and drops sharply at both lower masses (supernova feedback) and higher masses (virial shock heating and AGN radio-mode feedback).
 
@@ -92,6 +92,15 @@ The Schechter function emerges naturally from the convolution of.
 ---
 
 ---
+
+## worked example
+
+the total luminosity density is $j = \phi^*L^*\,\Gamma(\alpha + 2)$. with $\phi^* = 0.005$ Mpc$^{-3}$, $L^* = 10^{10}\,L_\odot$ and $\alpha = -1.2$: $\Gamma(0.8) = 1.164$, so $j = 5.8 \times 10^7\,L_\odot$ Mpc$^{-3}$.
+
+## where it goes wrong
+
+- the number of galaxies diverges for $\alpha \le -1$, but the luminosity does not unless $\alpha \le -2$.
+- $\phi^*$, $L^*$ and $\alpha$ are strongly correlated in a fit.
 
 ## astrophysics of galaxies figures and slides (Prof. Alessandro Pizzella)
 

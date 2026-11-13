@@ -67,7 +67,7 @@ where $M_{\rm HI, exp}$ is the expected gas mass for an isolated field galaxy of
 
 ## 4. The Extragalactic Distance Scale Anchor
 
-Because of its moderate distance, Virgo played a pivotal role in resolving the 20th-century controversy between the short distance scale ($H_0 \approx 50 \text{ km s}^{-1} \text{ Mpc}^{-1}$, Sandage & Tammann) and long distance scale ($H_0 \approx 100 \text{ km s}^{-1} \text{ Mpc}^{-1}$, de Vaucouleurs).
+Because of its moderate distance, Virgo played a central role in resolving the 20th-century controversy between the short distance scale ($H_0 \approx 50 \text{ km s}^{-1} \text{ Mpc}^{-1}$, Sandage & Tammann) and long distance scale ($H_0 \approx 100 \text{ km s}^{-1} \text{ Mpc}^{-1}$, de Vaucouleurs).
 
 ### Distance Methods Applied to Virgo
 1. HST Cepheid Key Project (Freedman et al. 2001) - Resolved Cepheid variable stars in multiple Virgo spirals (M100, M98, M88), establishing the period-luminosity relation distance $d = 16.5 \pm 0.1 \text{ (stat)} \pm 1.1 \text{ (sys)}$ Mpc.

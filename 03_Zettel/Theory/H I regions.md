@@ -75,7 +75,7 @@ $$A_{10} = \frac{64 \pi^4 \nu_{21}^3}{3 h c^3} |\mu_{10}|^2 = 2.85 \times 10^{-1
 The spontaneous radiative lifetime of an isolated hydrogen atom in the excited $F=1$ state is
 $$\tau_{\text{rad}} = \frac{1}{A_{10}} \approx 3.5 \times 10^{14} \text{ s} \approx 1.1 \times 10^7 \text{ yr}$$
 
-Although an individual atom takes eleven million years to decay radiatively, the astronomical column density of hydrogen along galactic sightlines ($N_{\text{H I}} \sim 10^{20} - 10^{22} \text{ cm}^{-2}$) contains such vast numbers of atoms that the 21 cm line produces readily detectable radio emission.
+Although an individual atom takes eleven million years to decay radiatively, the astronomical column density of hydrogen along galactic sightlines ($N_{\text{H I}} \sim 10^{20} - 10^{22} \text{ cm}^{-2}$) contains such large numbers of atoms that the 21 cm line produces readily detectable radio emission.
 
 ## 3. Mathematical Derivation of H I Column Density and Total Mass
 
@@ -138,7 +138,7 @@ $$M_{\text{H I}} = \left[ \frac{16\pi m_{\text{H}}}{3 h c A_{10}} \right] D^2 \i
 Evaluating the physical prefactor in astronomical units ($D$ in $\text{Mpc}$, integrated flux $\int S dv$ in $\text{Jy km s}^{-1}$, mass in solar masses $M_\odot$)
 $$M_{\text{H I}} = 2.356 \times 10^5 \, M_\odot \left(\frac{D}{\text{Mpc}}\right)^2 \left(\frac{\int S(v) dv}{\text{Jy km s}^{-1}}\right)$$
 
-This elegant formula enables the direct calculation of total neutral hydrogen mass from a single integrated 21 cm spectrum and a known distance.
+This formula enables the direct calculation of total neutral hydrogen mass from a single integrated 21 cm spectrum and a known distance.
 
 ## 4. Global 21 cm Profile Morphology and Kinematics
 
@@ -217,7 +217,7 @@ Blackboard presentation notes
                                 log10 n_H (cm^-3)
 ```
 
-Key quantitative takeaways for the blackboard
+Key quantitative points for the blackboard
 - Two stable branches where $dP / d\rho > 0$ - The dense, cold phase (CNM) and the warm, diffuse phase (WNM).
 - Between them lies a forbidden, thermally unstable region where runaway heating or cooling drives gas into one of the two stable phases.
 

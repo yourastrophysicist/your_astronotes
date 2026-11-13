@@ -42,7 +42,7 @@ these reduce the 4-component geodesic problem to a 1D effective potential proble
 
 ### FLRW
 
-FLRW has 6 Killing vectors of the spatial slice (3 translations + 3 rotations for $k = 0$). but **no time-translation symmetry**: the metric depends on $t$ via $a(t)$. so **no conserved energy** for cosmological observers; this is why redshift exists.
+FLRW has 6 Killing vectors of the spatial slice (3 translations + 3 rotations for $k = 0$). but **no time-translation symmetry**: the metric depends on $t$ via $a(t)$. so **no conserved energy** for cosmological observers. This is why redshift exists.
 
 a comoving observer in FLRW does conserve **comoving momentum**: a photon's coordinate momentum stays constant, but the proper energy redshifts with the expansion.
 
@@ -52,7 +52,7 @@ Kerr has 2 Killing vectors: $\partial_t$ + $\partial_\phi$. fewer than Schwarzsc
 
 ## the Killing tensor
 
-generalisation: a **Killing tensor** $K_{\mu_1...\mu_n}$ satisfies $\nabla_{(\mu}K_{\mu_1...\mu_n)} = 0$. gives a conserved quantity $K_{\mu_1...\mu_n}\dot x^{\mu_1}\cdots \dot x^{\mu_n}$. in Kerr this is the Carter tensor; the conserved quantity is Carter's constant.
+generalisation: a **Killing tensor** $K_{\mu_1...\mu_n}$ satisfies $\nabla_{(\mu}K_{\mu_1...\mu_n)} = 0$. gives a conserved quantity $K_{\mu_1...\mu_n}\dot x^{\mu_1}\cdots \dot x^{\mu_n}$. in Kerr this is the Carter tensor. the conserved quantity is Carter's constant.
 
 ## the practical procedure
 

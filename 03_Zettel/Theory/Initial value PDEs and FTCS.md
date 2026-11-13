@@ -28,7 +28,7 @@ solve for $u_i^{n+1}$:
 
 $$u_i^{n+1} = u_i^n + \alpha (u_{i+1}^n - 2u_i^n + u_{i-1}^n), \quad \alpha = \frac{D \Delta t}{\Delta x^2}$$
 
-each new grid point depends only on three old grid points — explicit, simple, fast.
+each new grid point depends only on three old grid points, explicit, simple, fast.
 
 ## stability
 
@@ -36,9 +36,9 @@ FTCS for diffusion is **conditionally stable**: stable iff
 
 $$\alpha = \frac{D \Delta t}{\Delta x^2} \leq \frac{1}{2}$$
 
-so $\Delta t \leq \Delta x^2/(2D)$. this is the diffusion CFL condition. **violating it makes the simulation blow up exponentially** — the solution oscillates with growing amplitude. see [[Stability and the Courant condition]] for a fuller discussion.
+so $\Delta t \leq \Delta x^2/(2D)$. this is the diffusion CFL condition. **violating it makes the simulation blow up exponentially**, the solution oscillates with growing amplitude. see [[Stability and the Courant condition]] for a fuller discussion.
 
-for advection, FTCS is **unconditionally unstable** — even with arbitrarily small $\Delta t$ it grows. for hyperbolic problems we need upwind or Lax-Wendroff schemes instead.
+for advection, FTCS is **unconditionally unstable**, even with arbitrarily small $\Delta t$ it grows. for hyperbolic problems we need upwind or Lax-Wendroff schemes instead.
 
 ## python implementation (1D diffusion)
 
@@ -66,7 +66,7 @@ the FTCS update needs values at $i-1$ and $i+1$ for each interior point. at the 
 
 ## accuracy
 
-FTCS is $O(\Delta t) + O(\Delta x^2)$. first-order in time, second-order in space. to get a balanced refinement, take $\Delta t \propto \Delta x^2$ — which is exactly what stability requires anyway.
+FTCS is $O(\Delta t) + O(\Delta x^2)$. first-order in time, second-order in space. to get a balanced refinement, take $\Delta t \propto \Delta x^2$, which is exactly what stability requires anyway.
 
 ## the implicit alternative
 
@@ -74,7 +74,7 @@ backward Euler in time:
 
 $$\frac{u_i^{n+1} - u_i^n}{\Delta t} = D \frac{u_{i+1}^{n+1} - 2u_i^{n+1} + u_{i-1}^{n+1}}{\Delta x^2}$$
 
-now $u^{n+1}$ appears on *both* sides — implicit. solve a linear system at each timestep. cost per step is higher ($O(N)$ for tridiagonal), but the scheme is **unconditionally stable**. for stiff problems (large $D$ or fine grid), the implicit scheme can take vastly larger timesteps and beat FTCS overall.
+now $u^{n+1}$ appears on *both* sides, implicit. solve a linear system at each timestep. cost per step is higher ($O(N)$ for tridiagonal), but the scheme is **unconditionally stable**. for stiff problems (large $D$ or fine grid), the implicit scheme can take vastly larger timesteps and beat FTCS overall.
 
 the **Crank-Nicolson** scheme is the implicit-explicit average: $O(\Delta t^2) + O(\Delta x^2)$, unconditionally stable. the workhorse for diffusion problems in production.
 

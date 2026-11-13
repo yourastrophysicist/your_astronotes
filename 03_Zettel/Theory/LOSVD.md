@@ -22,7 +22,7 @@ $$G(x) = \int_{-\infty}^\infty T(x - s) \, \mathcal{L}(c \cdot s) \, ds$$
 
 ## 2. Unbroken Mathematical Formulation - The Gauss-Hermite Series Expansion
 
-Real galaxies rarely possess purely Gaussian velocity distributions due to orbital anisotropy, rotating disks, triaxiality, and central mass concentrations. To quantify subtle non-Gaussian shapes, the LOSVD is expanded as a Gauss-Hermite series (van der Marel & Franx 1993; Gerhard 1993).
+Real galaxies rarely possess purely Gaussian velocity distributions due to orbital anisotropy, rotating disks, triaxiality, and central mass concentrations. To quantify subtle non-Gaussian shapes, the LOSVD is expanded as a Gauss-Hermite series (van der Marel & Franx 1993, Gerhard 1993).
 
 $$\boxed{\mathcal{L}(v) = \frac{\gamma}{\sqrt{2\pi}\sigma} \exp\left(-\frac{y^2}{2}\right) \left[ 1 + \sum_{m=3}^M h_m H_m(y) \right]}$$
 
@@ -87,7 +87,7 @@ If a galaxy profile exhibits positive kurtosis ($h_4 > 0$), fitting a single sim
 
 ## 4. Extraction Technique - Penalized Pixel-Fitting (pPXF)
 
-Modern stellar kinematics are extracted from galaxy spectra using the **pPXF** method (Cappellari & Emsellem 2004; Cappellari 2017).
+Modern stellar kinematics are extracted from galaxy spectra using the **pPXF** method (Cappellari & Emsellem 2004, Cappellari 2017).
 1. A linear combination of optimal stellar population templates is constructed to eliminate template mismatch.
 2. The templates are convolved with a Gauss-Hermite parameterized LOSVD.
 3. The fit minimizes a penalized chi-squared.
@@ -126,7 +126,7 @@ When illustrating LOSVD profiles on the blackboard.
 - **Horizontal Axis** - Dimensionless velocity $y = (v - V)/\sigma$ centered at $0$
 - **Vertical Axis** - Probability density $\mathcal{L}(v)$
 - **Gaussian Comparison** - Draw the standard bell curve ($h_3 = 0, h_4 = 0$) as reference
-- **Kurtosis Features** - Draw $h_4 > 0$ with a sharper central peak and higher tails at $|y| > 2$; draw $h_4 < 0$ with a rounded/flattened top and rapid decay
+- **Kurtosis Features** - Draw $h_4 > 0$ with a sharper central peak and higher tails at $|y| > 2$. Draw $h_4 < 0$ with a rounded/flattened top and rapid decay
 - **Skewness Features** - Draw $h_3 > 0$ with a steep left edge and a long right-hand trailing wing
 
 ---

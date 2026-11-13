@@ -30,7 +30,7 @@ this is enough simultaneous information for **direct image reconstruction** of m
 
 ### CLASSIC (formerly the original combiner)
 
-two-beam visible-band combiner. now mostly historical; replaced by MIRC-X.
+two-beam visible-band combiner. now mostly historical. replaced by MIRC-X.
 
 ### MIRC (Michigan Infra-Red Combiner) and MIRC-X
 
@@ -61,7 +61,7 @@ simpler 4-beam combiner used for fast surveys and binary detection.
 at H-band ($\lambda = 1.65$ μm) on a 330m baseline:
 $$\theta = \lambda/B = 1.65 \, \mu\text{m}/(330 \, \text{m}) = 5 \times 10^{-9}$$ rad $= 1.0$ mas
 
-so CHARA achieves *sub-milliarcsecond* angular resolution — the highest resolution of any optical interferometer.
+so CHARA achieves *sub-milliarcsecond* angular resolution, the highest resolution of any optical interferometer.
 
 at K-band: $\theta = 1.4$ mas at maximum baseline.
 
@@ -88,13 +88,13 @@ each 1m telescope collects much less light than a VLTI UT. CHARA targets are lim
 
 ### 2. no AO
 
-CHARA doesn't have AO at each telescope (only tip-tilt). so each 1m aperture is "seeing-limited" — but $r_0 \sim 60$ cm at K, so a 1m dish is mostly within $r_0$. less of an issue than for an 8m without AO.
+CHARA doesn't have AO at each telescope (only tip-tilt). so each 1m aperture is "seeing-limited", but $r_0 \sim 60$ cm at K, so a 1m dish is mostly within $r_0$. less of an issue than for an 8m without AO.
 
 ### 3. no thermal IR
 
-CHARA operates at H, K, and visible; no thermal-IR coverage. for thermal sources (warm dust, mass-loss envelopes), VLTI/MATISSE is the better instrument.
+CHARA operates at H, K, and visible. No thermal-IR coverage. for thermal sources (warm dust, mass-loss envelopes), VLTI/MATISSE is the better instrument.
 
-## the future: CHARA upgrades
+## the future - CHARA upgrades
 
 ongoing improvements:
 - better detectors at all instruments
@@ -104,7 +104,7 @@ ongoing improvements:
 
 ## comparison with VLTI
 
-CHARA is the resolution king; VLTI is the sensitivity king. they are complementary instruments:
+CHARA is the resolution king. VLTI is the sensitivity king. they are complementary instruments:
 
 | feature | CHARA | VLTI |
 |---|---|---|

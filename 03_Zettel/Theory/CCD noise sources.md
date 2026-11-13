@@ -63,6 +63,20 @@ depending on which source dominates, SNR scales differently with $t$:
 
 the regime determines whether to take long single exposures or short stacked ones. see [[The CCD equation]] for the full discussion.
 
+## worked example
+
+a star gives $10\,000$ e$^-$ in an aperture of 50 pixels. the sky is 50 e$^-$ per pixel and the read noise 5 e$^-$:
+
+$$\sigma^2 = 10\,000 + 50 \times (50 + 25) = 13\,750 \quad\Longrightarrow\quad \sigma = 117,\quad \mathrm{SNR} = 85$$
+
+the photons of the star alone would give $\mathrm{SNR} = 100$.
+
+## where it goes wrong
+
+- the noise terms add in quadrature, as variances. the read noise enters as $\sigma_{\rm RN}^2$ per pixel and per read.
+- flat-field errors are multiplicative. they do not average down with exposure time and set a floor on the precision.
+- subtracting the sky adds the noise of the sky estimate, which matters when the sky annulus is small.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

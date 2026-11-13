@@ -34,15 +34,15 @@ a particularly relevant fact: the **mean WD mass observed in the field is around
 
 three main observational handles:
 
-1. **WDs in open clusters** with a well-determined turnoff age. each WD's progenitor mass is the MS mass at the cluster turnoff $M_{\rm TO}(t_{\rm cluster} - t_{\rm cool, WD})$; the WD mass is obtained spectroscopically from the Stark-broadened Balmer lines (see [[Spectroscopic determination of log g]]) plus the [[White dwarf mass-radius relation]]. clusters like the Hyades, Pleiades, NGC 2168, and NGC 6791 are workhorses.
+1. **WDs in open clusters** with a well-determined turnoff age. each WD's progenitor mass is the MS mass at the cluster turnoff $M_{\rm TO}(t_{\rm cluster} - t_{\rm cool, WD})$. The WD mass is obtained spectroscopically from the Stark-broadened Balmer lines (see [[Spectroscopic determination of log g]]) plus the [[White dwarf mass-radius relation]]. clusters like the Hyades, Pleiades, NGC 2168, and NGC 6791 are workhorses.
 
 2. **wide WD-MS binaries**. assume coevality, take MS-star age, get progenitor mass.
 
-3. **field WDs** with parallax distances and atmosphere-fitting; less direct but very large statistics from Gaia.
+3. **field WDs** with parallax distances and atmosphere-fitting. less direct but very large statistics from Gaia.
 
 ## why the IFMR matters
 
-- it determines the **mean WD mass** as a function of cluster age and metallicity, which feeds into chemical evolution models and into the predicted SN Ia rates (Chandrasekhar-mass progenitors require enough merging mass; see [[Chandrasekhar mass limit]]).
+- it determines the **mean WD mass** as a function of cluster age and metallicity, which feeds into chemical evolution models and into the predicted SN Ia rates (Chandrasekhar-mass progenitors require enough merging mass, see [[Chandrasekhar mass limit]]).
 - it sets the **lifetime fraction of mass returned to the ISM**, which is dominated by AGB mass loss.
 - it is a direct test of post-MS stellar evolution and AGB mass-loss physics.
 - it is needed to convert WDCS luminosity functions into ages: cooling time $t_{\rm cool}(L,M)$ depends on WD mass, so a wrong IFMR biases [[Age dating from the WD luminosity function]].

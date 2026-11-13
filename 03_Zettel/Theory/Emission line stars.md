@@ -32,7 +32,7 @@ emission lines are **very broad** ($v_{\rm FWHM} \sim 1000$ to $3000$ km/s) refl
 
 an intermediate class: O-type with weak He II emission. transitional toward WR.
 
-### Be (Pre-MS): T Tauri and Herbig Ae/Be
+### Be (Pre-MS) - T Tauri and Herbig Ae/Be
 
 young stars with accretion + outflows. emission lines from accretion shocks and disk gas.
 - **T Tauri**: $M \lesssim 2\,M_\odot$, K-M types, strong H$\alpha$ emission, [OI], [SII].

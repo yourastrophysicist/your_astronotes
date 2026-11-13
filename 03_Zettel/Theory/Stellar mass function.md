@@ -8,14 +8,14 @@ up: [[Pablo_02_Statistical_properties_of_galaxies]]
 
 ## from luminosity to mass
 
-the LF $\phi(L)$ depends on the band; the **stellar mass function (SMF)** $\phi(M_*)$ does not. it is the more physical statistic. to convert, you need the mass-to-light ratio $\Upsilon = M_*/L$, which depends on:
+the LF $\phi(L)$ depends on the band. the **stellar mass function (SMF)** $\phi(M_*)$ does not. it is the more physical statistic. to convert, you need the mass-to-light ratio $\Upsilon = M_*/L$, which depends on:
 
 - stellar population age (older → larger $\Upsilon$)
 - metallicity (higher → larger $\Upsilon$)
 - IMF (Kroupa vs Salpeter vs top-heavy gives factor $\sim 2$ shifts)
-- dust attenuation (in optical bands; not in K)
+- dust attenuation (in optical bands, not in K)
 
-so SMFs are derived from SED fitting, and they carry a $\sim 0.2$–$0.3$ dex systematic from those choices.
+so SMFs are derived from SED fitting, and they carry a $\sim 0.2$ to $0.3$ dex systematic from those choices.
 
 ## the schechter parametrization
 
@@ -31,7 +31,7 @@ local SMF parameters (Cole et al. 2001 from 2MASS, Bell et al. 2003 from SDSS+2M
 - $\alpha \approx -1.2$
 - $\phi^* \approx 5 \times 10^{-3}\, h^3\, \text{Mpc}^{-3}$
 
-## bimodal SMF: passive vs star-forming
+## bimodal SMF - passive vs star-forming
 
 just like the [[Color bimodality of galaxies]], the SMF splits cleanly into two components:
 
@@ -50,9 +50,13 @@ the total SMF evolves modestly:
 
 the integrated stellar mass density $\rho_*(z)$ rises by a factor $\sim 5$ from $z \sim 3$ to today (see [[Cosmic stellar mass density growth]]).
 
-## SMF vs HMF: the mismatch
+## SMF vs HMF - the mismatch
 
 the predicted halo mass function (HMF) from $\Lambda$CDM is also Schechter-like (Press-Schechter), but with a *much* shallower exponential cutoff ($M^*_h \sim 10^{14}\,M_\odot$) and a *much* steeper faint-end slope ($\alpha_{\text{HMF}} \approx -1.9$). the two functions do not match in either parameter. the gap is the central puzzle of galaxy formation, see [[Halo mass function vs galaxy mass function]] and [[Stellar-to-halo mass ratio]].
+
+## where it goes wrong
+
+- mass functions inherit the IMF and SPS assumptions. a change of IMF shifts the whole function sideways.
 
 ## connections
 

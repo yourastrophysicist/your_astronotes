@@ -26,7 +26,7 @@ Stellar surface imaging has produced several landmark results in modern astrophy
 
 ## astrophysical context
 
-Stellar surface imaging is one of the most unique and powerful capabilities of optical and near-infrared interferometry. No other observational technique, not even the largest planned single-mirror extremely large telescopes, can achieve the fractional milliarcsecond angular resolution required to actually resolve the distinct surface features of other stars.
+Stellar surface imaging is one of the most useful capabilities of optical and near-infrared interferometry. No other observational technique, not even the largest planned single-mirror extremely large telescopes, can achieve the fractional milliarcsecond angular resolution required to actually resolve the distinct surface features of other stars.
 
 ---
 

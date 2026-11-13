@@ -88,7 +88,7 @@ mitigation:
 
 ## the clean beam
 
-after CLEAN, the *resolution* of the image is set by the clean beam — a Gaussian fit to the dirty beam's central lobe. typical:
+after CLEAN, the *resolution* of the image is set by the clean beam, a Gaussian fit to the dirty beam's central lobe. typical:
 - VLA: 1' to 0.04" depending on configuration and frequency
 - ALMA: 0.1" to 30 mas depending on configuration
 

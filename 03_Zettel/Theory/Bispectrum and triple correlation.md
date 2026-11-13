@@ -35,7 +35,7 @@ $$\tilde O(\mathbf u_1) \tilde O(\mathbf u_2) \tilde O^*(\mathbf u_1 + \mathbf u
 the *atmospheric* part:
 $$\tilde S_n(\mathbf u_1) \tilde S_n(\mathbf u_2) \tilde S_n^*(\mathbf u_1 + \mathbf u_2)$$
 
-the atmospheric part is the bispectrum of the random PSF $S_n$. on time-average over many frames, this *bispectrum of the atmosphere* is *real and positive* (the **bispectrum transfer function**) — its phase averages to zero.
+the atmospheric part is the bispectrum of the random PSF $S_n$. on time-average over many frames, this *bispectrum of the atmosphere* is *real and positive* (the **bispectrum transfer function**), its phase averages to zero.
 
 so:
 $$\langle B_n \rangle = \tilde O(\mathbf u_1) \tilde O(\mathbf u_2) \tilde O^*(\mathbf u_1 + \mathbf u_2) \cdot T_B(\mathbf u_1, \mathbf u_2)$$
@@ -84,7 +84,7 @@ at each frequency channel. lets us image the spatial structure at each emission 
 
 ## historical note
 
-introduced by **Lohmann, Weigelt, and Wirnitzer** (1983) — the "Erlangen group" in Germany. they showed that speckle data, processed via the bispectrum, recovered images with full asymmetric structure. the technique has been the standard for high-resolution single-aperture imaging since.
+introduced by **Lohmann, Weigelt, and Wirnitzer** (1983), the "Erlangen group" in Germany. they showed that speckle data, processed via the bispectrum, recovered images with full asymmetric structure. the technique has been the standard for high-resolution single-aperture imaging since.
 
 ## see also
 

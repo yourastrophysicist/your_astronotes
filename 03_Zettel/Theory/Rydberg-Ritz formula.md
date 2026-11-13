@@ -70,7 +70,7 @@ all states with the same $n$ are degenerate (Coulomb degeneracy, removed only by
 - [[Balmer decrement]]
 - [[H-alpha SFR tracer]]
 - [[Optically thin recombination lines]]
-- [[Photon decoupling and CMB]] — Lyman recombination at cosmological scale
+- [[Photon decoupling and CMB]] - Lyman recombination at cosmological scale
 
 
 

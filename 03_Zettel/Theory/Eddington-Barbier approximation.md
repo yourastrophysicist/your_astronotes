@@ -2,7 +2,7 @@
 layout: "default"
 title: "Eddington-Barbier approximation"
 ---
-a simple but powerful result for the **emergent intensity** from a stellar atmosphere: the photon you observe is emitted from the layer at optical depth $\tau \approx 1$ (more precisely, $\tau \approx 2/3$ for plane-parallel geometry).
+a simple but useful result for the **emergent intensity** from a stellar atmosphere: the photon you observe is emitted from the layer at optical depth $\tau \approx 1$ (more precisely, $\tau \approx 2/3$ for plane-parallel geometry).
 
 ## the statement
 
@@ -40,7 +40,7 @@ by measuring the line shapes and using the Eddington-Barbier rule, one can **inv
 
 ## limb darkening
 
-a key consequence: at the limb of a star ($\mu \to 0$), the line of sight enters the atmosphere obliquely; $\tau = 1$ is reached at a smaller geometric depth, where $T$ is lower. so the limb appears **darker** than the centre.
+a key consequence: at the limb of a star ($\mu \to 0$), the line of sight enters the atmosphere obliquely. $\tau = 1$ is reached at a smaller geometric depth, where $T$ is lower. so the limb appears **darker** than the centre.
 
 quantitatively, the linear law:
 $$I_\nu(\mu) = I_\nu(1)\,(1 - u + u\mu)$$

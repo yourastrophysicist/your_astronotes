@@ -25,7 +25,7 @@ because both mechanisms reduce the effective temperature of the dominant stars a
 
 ---
 
-### quantitative formulation: worthey's 3/2 rule
+### quantitative formulation - worthey's 3/2 rule
 
 in his seminal work, Worthey (1994) quantified the relative sensitivities of optical broadband colors and spectral energy distributions to changes in age versus metallicity for intermediate-to-old stellar populations ($\tau > 1.5$ Gyr):
 
@@ -71,9 +71,25 @@ to decouple age from metallicity, one must exploit spectral features that depend
 ### consequences for galaxy evolution
 
 - **downsizing and galaxy ages**: early claims that massive elliptical galaxies were young ($2\text{--}4$ Gyr) were artifacts of the age-metallicity degeneracy compounded by non-solar $[\alpha/\mathrm{Fe}]$ enhancement. Breaking the degeneracy proved that massive early-type galaxies formed the bulk of their stars early ($z > 2$) and quenched rapidly.
-- **stellar mass estimates**: fortunately, the stellar mass-to-light ratio $\Upsilon_*$ correlates with color in a manner that partially compensates for the degeneracy; an older-metal-poor population and a younger-metal-rich population have comparable $\Upsilon_K$, keeping inferred galaxy masses relatively stable ($\sim 0.1\text{--}0.2$ dex).
+- **stellar mass estimates**: fortunately, the stellar mass-to-light ratio $\Upsilon_*$ correlates with color in a manner that partially compensates for the degeneracy. an older-metal-poor population and a younger-metal-rich population have comparable $\Upsilon_K$, keeping inferred galaxy masses relatively stable ($\sim 0.1\text{--}0.2$ dex).
 
 ---
+
+## worked example
+
+the 3/2 rule of Worthey: colours stay the same if $\Delta\log t = -\tfrac{3}{2}\,\Delta\log Z$.
+
+a population of 12 Gyr with solar metallicity looks like one of 4 Gyr if
+
+$$\Delta\log Z = -\frac{2}{3}\,\Delta\log t = -\frac{2}{3}\log_{10}\frac{4}{12} = +0.32$$
+
+that is, with $Z = 2.1\,Z_\odot$.
+
+## where it goes wrong
+
+- broad-band optical colours cannot break the degeneracy.
+- it is broken by comparing a Balmer line, which follows age, with metal lines.
+- dust is a third way to be red. near-infrared data help to separate it.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -119,98 +135,98 @@ to decouple age from metallicity, one must exploit spectral features that depend
 
 ---
 
-## Complete Lecture Slide Panels & Observational Evidence (Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch)
+## Complete Lecture Slide Panels & Observational Evidence (Lecture 03 - Reading the CMD III - Metallicity & Horizontal Branch)
 
 > **Context**: *Metallicity [Fe/H] shifts, helium abundance Y, Horizontal Branch morphology, Lee-Zinn morphology index, and breaking the age-metallicity degeneracy.*
 
 The following slides from Prof. Antonino Milone's lecture series provide the direct observational, photometric, and theoretical foundations for this topic:
 
 ![LAntonino_p03_01.png](../../assets/images/LAntonino_p03_01.png)
-*Figure P03-01: LAntonino_p03_01.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-01: LAntonino_p03_01.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_02.png](../../assets/images/LAntonino_p03_02.png)
-*Figure P03-02: LAntonino_p03_02.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-02: LAntonino_p03_02.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_03.png](../../assets/images/LAntonino_p03_03.png)
-*Figure P03-03: LAntonino_p03_03.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-03: LAntonino_p03_03.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_04.png](../../assets/images/LAntonino_p03_04.png)
-*Figure P03-04: LAntonino_p03_04.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-04: LAntonino_p03_04.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_05.png](../../assets/images/LAntonino_p03_05.png)
-*Figure P03-05: LAntonino_p03_05.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-05: LAntonino_p03_05.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_06.png](../../assets/images/LAntonino_p03_06.png)
-*Figure P03-06: LAntonino_p03_06.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-06: LAntonino_p03_06.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_07.png](../../assets/images/LAntonino_p03_07.png)
-*Figure P03-07: LAntonino_p03_07.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-07: LAntonino_p03_07.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_08.png](../../assets/images/LAntonino_p03_08.png)
-*Figure P03-08: LAntonino_p03_08.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-08: LAntonino_p03_08.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_09.png](../../assets/images/LAntonino_p03_09.png)
-*Figure P03-09: LAntonino_p03_09.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-09: LAntonino_p03_09.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_10.png](../../assets/images/LAntonino_p03_10.png)
-*Figure P03-10: LAntonino_p03_10.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-10: LAntonino_p03_10.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_11.png](../../assets/images/LAntonino_p03_11.png)
-*Figure P03-11: LAntonino_p03_11.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-11: LAntonino_p03_11.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_12.png](../../assets/images/LAntonino_p03_12.png)
-*Figure P03-12: LAntonino_p03_12.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-12: LAntonino_p03_12.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_13.png](../../assets/images/LAntonino_p03_13.png)
-*Figure P03-13: LAntonino_p03_13.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-13: LAntonino_p03_13.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_14.png](../../assets/images/LAntonino_p03_14.png)
-*Figure P03-14: LAntonino_p03_14.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-14: LAntonino_p03_14.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_15.png](../../assets/images/LAntonino_p03_15.png)
-*Figure P03-15: LAntonino_p03_15.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-15: LAntonino_p03_15.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_16.png](../../assets/images/LAntonino_p03_16.png)
-*Figure P03-16: LAntonino_p03_16.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-16: LAntonino_p03_16.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_17.png](../../assets/images/LAntonino_p03_17.png)
-*Figure P03-17: LAntonino_p03_17.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-17: LAntonino_p03_17.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_18.png](../../assets/images/LAntonino_p03_18.png)
-*Figure P03-18: LAntonino_p03_18.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-18: LAntonino_p03_18.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_19.png](../../assets/images/LAntonino_p03_19.png)
-*Figure P03-19: LAntonino_p03_19.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-19: LAntonino_p03_19.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_20.png](../../assets/images/LAntonino_p03_20.png)
-*Figure P03-20: LAntonino_p03_20.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-20: LAntonino_p03_20.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_21.png](../../assets/images/LAntonino_p03_21.png)
-*Figure P03-21: LAntonino_p03_21.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-21: LAntonino_p03_21.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_22.png](../../assets/images/LAntonino_p03_22.png)
-*Figure P03-22: LAntonino_p03_22.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-22: LAntonino_p03_22.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_23.png](../../assets/images/LAntonino_p03_23.png)
-*Figure P03-23: LAntonino_p03_23.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-23: LAntonino_p03_23.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_24.png](../../assets/images/LAntonino_p03_24.png)
-*Figure P03-24: LAntonino_p03_24.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-24: LAntonino_p03_24.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![LAntonino_p03_25.png](../../assets/images/LAntonino_p03_25.png)
-*Figure P03-25: LAntonino_p03_25.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-25: LAntonino_p03_25.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![Lecture03_p15-15.png](../../assets/images/Lecture03_p15-15.png)
-*Figure P03-26: Lecture03_p15-15.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-26: Lecture03_p15-15.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![Lecture03_p25-25.png](../../assets/images/Lecture03_p25-25.png)
-*Figure P03-27: Lecture03_p25-25.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-27: Lecture03_p25-25.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![Lecture03_p35-35.png](../../assets/images/Lecture03_p35-35.png)
-*Figure P03-28: Lecture03_p35-35.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-28: Lecture03_p35-35.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 ![Lecture03_p5-05.png](../../assets/images/Lecture03_p5-05.png)
-*Figure P03-29: Lecture03_p5-05.png — Observational data, CMD morphology, and diagnostics from Lecture 03 — Reading the CMD III: Metallicity & Horizontal Branch.*
+*Figure P03-29: Lecture03_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 03 - Reading the CMD III: Metallicity & Horizontal Branch.*
 
 
 

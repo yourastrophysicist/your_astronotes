@@ -15,7 +15,7 @@ repeatedly factor $A_k = Q_k R_k$ via [[QR decomposition]], then form $A_{k+1} =
 at each step,
 $$A_{k+1} = R_k Q_k = Q_k^T(Q_k R_k) Q_k = Q_k^T A_k Q_k$$
 
-so $A_{k+1}$ is a *similarity transform* of $A_k$ — it has the same eigenvalues. iterating, $A_k = (Q_0 Q_1 \cdots Q_{k-1})^T A (Q_0 Q_1 \cdots Q_{k-1})$. as $k \to \infty$, this similarity transform converges to a diagonal matrix because the QR step gradually concentrates "energy" on the diagonal (a precise statement requires the theory of subspace iteration).
+so $A_{k+1}$ is a *similarity transform* of $A_k$. it has the same eigenvalues. iterating, $A_k = (Q_0 Q_1 \cdots Q_{k-1})^T A (Q_0 Q_1 \cdots Q_{k-1})$. as $k \to \infty$, this similarity transform converges to a diagonal matrix because the QR step gradually concentrates "energy" on the diagonal (a precise statement requires the theory of subspace iteration).
 
 set $V_k = Q_0 Q_1 \cdots Q_{k-1}$, an orthogonal matrix. in the limit:
 
@@ -31,7 +31,7 @@ with $D$ diagonal, eigenvalues on the diagonal, and the columns of $V = \lim V_k
 4. compute $D = V^T A V$
 5. if $D$ is sufficiently diagonal (off-diagonal elements below tolerance $\epsilon$), output $V$ and $D$. otherwise go to step 2
 
-the diagonal of $D$ has the eigenvalues; the columns of $V$ are the eigenvectors.
+the diagonal of $D$ has the eigenvalues. the columns of $V$ are the eigenvectors.
 
 ## python implementation
 
@@ -53,7 +53,7 @@ def qr_algorithm(A, tol=1e-10, max_iter=1000):
 
 ## complexity
 
-each QR factorization is $O(N^3)$, and convergence is linear (typically tens to hundreds of iterations). vanilla QR is therefore $O(N^4)$ or worse — too slow for production. the production version uses two acceleration tricks:
+each QR factorization is $O(N^3)$, and convergence is linear (typically tens to hundreds of iterations). vanilla QR is therefore $O(N^4)$ or worse, too slow for production. the production version uses two acceleration tricks:
 
 1. **Hessenberg reduction**: pre-process $A$ into upper Hessenberg form (zero below the first sub-diagonal) in $O(N^3)$ once. each subsequent QR step then costs only $O(N^2)$
 2. **shifts**: subtract a near-eigenvalue $\sigma$ before the QR step ($A - \sigma I$), then add it back. accelerates convergence dramatically (cubic instead of linear)

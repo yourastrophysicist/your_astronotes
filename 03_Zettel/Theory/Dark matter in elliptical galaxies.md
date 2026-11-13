@@ -135,7 +135,7 @@ However, rigorous orbit modeling revealed the **mass-anisotropy degeneracy**.
 ## 4. Gravitational Lensing Verification (SLACS)
 
 Strong gravitational lensing provides an absolute mass measurement that is independent of dynamical equilibrium and velocity anisotropy.
-In early-type lens galaxies from the SLACS survey (Bolton et al. 2008; Treu et al. 2006).
+In early-type lens galaxies from the SLACS survey (Bolton et al. 2008, Treu et al. 2006).
 1. The Einstein radius $\theta_{\rm Einst}$ directly yields the total projected 2D mass inside the cylinder of radius $R_{\rm Einst} \sim 1 - 2 R_e$.
    $$M_{\rm Einst} = \frac{c^2 \theta_{\rm Einst}^2}{4 G} \frac{D_S D_L}{D_{LS}}$$
 2. Combining strong lensing with stellar kinematics breaks the IMF-dark matter degeneracy.

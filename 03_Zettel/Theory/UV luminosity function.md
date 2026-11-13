@@ -4,7 +4,7 @@ title: "UV luminosity function"
 ---
 # UV luminosity function
 
-The rest-frame ultraviolet luminosity function $\Phi(L_{\rm UV})\,dL_{\rm UV}$ (evaluated at $\lambda \approx 1500$ \AA) quantifies the comoving volume number density of star-forming galaxies as a function of their non-ionizing ultraviolet luminosity. Because continuum emission at $1500$ \AA\ is produced almost exclusively by short-lived, massive O and early B-type stars ($M \ge 5 - 10 M_\odot$, lifetimes $\tau_{\rm MS} \sim 10 - 100$ Myr), the rest-frame UV luminosity serves as a direct linear tracer of the instantaneous star formation rate (SFR) in galaxies. Measuring the evolution of the UV luminosity function from $z = 0$ to $z > 10$ using deep optical, near-infrared space surveys (Hubble Ultra Deep Field, CANDELS, and JWST JADES) provides the primary empirical foundation for mapping the cosmic star formation history (the Madau-Dickinson plot). Crucially, the faint-end logarithmic slope $\alpha$ steepens systematically from $\alpha \approx -1.2$ at $z = 0$ to the critical divergence boundary $\alpha \le -2.0$ at $z \ge 7$. This steep faint-end slope mathematically proves that the cosmic ionizing photon budget during the Epoch of Reionization was dominated not by luminous galaxies, but by abundant, ultra-faint dwarf galaxies.
+The rest-frame ultraviolet luminosity function $\Phi(L_{\rm UV})\,dL_{\rm UV}$ (evaluated at $\lambda \approx 1500$ \AA) quantifies the comoving volume number density of star-forming galaxies as a function of their non-ionizing ultraviolet luminosity. Because continuum emission at $1500$ \AA\ is produced almost exclusively by short-lived, massive O and early B-type stars ($M \ge 5 - 10 M_\odot$, lifetimes $\tau_{\rm MS} \sim 10 - 100$ Myr), the rest-frame UV luminosity serves as a direct linear tracer of the instantaneous star formation rate (SFR) in galaxies. Measuring the evolution of the UV luminosity function from $z = 0$ to $z > 10$ using deep optical, near-infrared space surveys (Hubble Ultra Deep Field, CANDELS, and JWST JADES) provides the primary empirical foundation for mapping the cosmic star formation history (the Madau-Dickinson plot). The faint-end logarithmic slope $\alpha$ steepens systematically from $\alpha \approx -1.2$ at $z = 0$ to the critical divergence boundary $\alpha \le -2.0$ at $z \ge 7$. This steep faint-end slope mathematically proves that the cosmic ionizing photon budget during the Epoch of Reionization was dominated not by luminous galaxies, but by abundant, ultra-faint dwarf galaxies.
 
 ---
 
@@ -47,7 +47,7 @@ The three fundamental free parameters are
 
 ## 3. Systematic Redshift Evolution of Schechter Parameters ($z = 0$ to $z = 10$)
 
-Extensive compilations from HST deep fields (Bouwens et al. 2015, 2021; Finkelstein et al. 2016) and JWST surveys (Donnan et al. 2023, Robertson et al. 2023) reveal a dramatic, monotonic evolutionary trend across cosmic time.
+Extensive compilations from HST deep fields (Bouwens et al. 2015, 2021, Finkelstein et al. 2016) and JWST surveys (Donnan et al. 2023, Robertson et al. 2023) reveal a dramatic, monotonic evolutionary trend across cosmic time.
 
 ```
 +========================================================================================+

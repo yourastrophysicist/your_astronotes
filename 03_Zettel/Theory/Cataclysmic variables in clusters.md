@@ -26,7 +26,7 @@ CVs in clusters reveal themselves via a combination of:
 
 **numbers**
 
-a typical massive [[Globular Clusters\|GC]] hosts $\sim 10\text{--}100$ CV candidates, depending on density. 47 Tuc hosts roughly 50 confirmed and candidate CVs; NGC 6397 has several well-studied systems. the CV fraction per unit luminosity is enhanced by factors of a few in core-collapsed clusters.
+a typical massive [[Globular Clusters\|GC]] hosts $\sim 10\text{--}100$ CV candidates, depending on density. 47 Tuc hosts roughly 50 confirmed and candidate CVs. NGC 6397 has several well-studied systems. the CV fraction per unit luminosity is enhanced by factors of a few in core-collapsed clusters.
 
 **connection to other exotica**
 

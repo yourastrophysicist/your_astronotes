@@ -18,7 +18,7 @@ equivalent forms:
 
 ## physical interpretation
 
-$\tau$ is the **average number of mean free paths** along the line of sight. equivalently, $1/\kappa$ is the photon mean free path; $\tau = $ (path) / (mean free path).
+$\tau$ is the **average number of mean free paths** along the line of sight. equivalently, $1/\kappa$ is the photon mean free path. $\tau = $ (path) / (mean free path).
 
 probability that a photon travels a distance $\ge s$ without absorption:
 $$P(s) = e^{-\kappa s} = e^{-\tau(s)}$$
@@ -90,7 +90,7 @@ so the spectrum is the integrated effect of all these contributions, each with i
 - [[Equivalent width]]
 - [[Stellar atmosphere structure]]
 - [[Photoelectric absorption]]
-- [[Atmospheric extinction]] — extinction along atmospheric path
+- [[Atmospheric extinction]] - extinction along atmospheric path
 
 
 

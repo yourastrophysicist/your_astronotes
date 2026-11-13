@@ -26,7 +26,7 @@ so in LTE, $S_\nu$ is the Planck function at the local temperature. this is the 
 
 ## the non-LTE regime
 
-in **non-LTE** (NLTE), populations don't track local $T$; they are set by the radiation field as well as collisions. then $S_\nu$ is **not** $B_\nu(T)$, and must be computed self-consistently with the populations:
+in **non-LTE** (NLTE), populations don't track local $T$. they are set by the radiation field as well as collisions. then $S_\nu$ is **not** $B_\nu(T)$, and must be computed self-consistently with the populations:
 $$S_\nu = \frac{2h\nu^3/c^2}{n_l g_u/(n_u g_l) - 1}$$
 in terms of the populations of upper $u$ and lower $l$ levels of the line.
 

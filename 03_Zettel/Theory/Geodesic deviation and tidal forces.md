@@ -12,6 +12,15 @@ name: "Geodesic deviation and tidal forces"
 
 ![baumann_fig01_p1.png](../../assets/images/baumann_fig01_p1.png)
 *Cambridge Lecture Diagram: Light cone structure in Minkowski and curved spacetime, defining past and future causal domains.*
+{% endraw %}
+
+<div class="backlinks-section">
+  <h4 class="backlinks-title">Linked References (1)</h4>
+  <ul class="backlinks-list">
+    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
+  </ul>
+</div>
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -24,11 +33,3 @@ name: "Geodesic deviation and tidal forces"
 > Definitions quoted from Wikipedia (CC BY-SA 4.0) and the arXiv abstract. Figures credited in their captions.
 <!-- /sources:wiki-arxiv -->
 
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (1)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/General_Relativity_MOC.html" class="backlink-item">General_Relativity_MOC</a></li>
-  </ul>
-</div>

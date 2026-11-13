@@ -24,7 +24,7 @@ at the present, $\dot d = H_0\,d$. at earlier times, $H$ was bigger (rapid expan
 
 ## peculiar velocity
 
-galaxies don't only follow the Hubble flow; they also have **peculiar velocities** $v_{\rm pec}$ relative to the local Hubble flow. observed velocity is:
+galaxies don't only follow the Hubble flow. they also have **peculiar velocities** $v_{\rm pec}$ relative to the local Hubble flow. observed velocity is:
 $$v_{\rm obs} = H_0\,d + v_{\rm pec}$$
 
 typical $v_{\rm pec} \sim 300$ km/s in nearby clusters, up to $\sim 600$ km/s for Virgo infall. for $z \lesssim 0.01$, peculiar velocity dominates and Hubble distance becomes unreliable.
@@ -49,7 +49,16 @@ at high $z$, the situation gets richer. several distance concepts diverge:
 - **angular diameter distance** $d_A = d_C/(1+z)$.
 - **luminosity distance** $d_L = d_C(1+z)$.
 
-at low $z$ all coincide; at high $z$ they diverge dramatically. see 03_Zettel/Theory/Cosmological distances.
+at low $z$ all coincide. at high $z$ they diverge dramatically. see 03_Zettel/Theory/Cosmological distances.
+
+## worked example
+
+a galaxy at comoving distance 3.3 Gpc ($z = 1$). when the light left it, the proper distance was $3.3/2 = 1.65$ Gpc. today it is 3.3 Gpc, and it recedes at $H_0d = 67.4 \times 3300 = 222\,000$ km/s, $0.74\,c$.
+
+## where it goes wrong
+
+- comoving distances do not change in a perfect Hubble flow. proper distances do.
+- bound objects like galaxies do not expand with the universe.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -8,7 +8,7 @@ title: "CAS galaxy classification"
 
 Traditional visual morphological classification (such as the Hubble tuning fork) is subjective, dependent on observer experience, and increasingly unreliable at high redshifts ($z > 0.5$) where cosmological surface brightness dimming ($\propto [1+z]^4$) and morphological bandpass shifting degrade visual details.
 
-The **CAS (Concentration, Asymmetry, Smoothness)** system (Bershady et al. 2000; Conselice 2003) provides an objective, fully automated, non-parametric classification scheme computed directly from digital astronomical images.
+The **CAS (Concentration, Asymmetry, Smoothness)** system (Bershady et al. 2000, Conselice 2003) provides an objective, fully automated, non-parametric classification scheme computed directly from digital astronomical images.
 
 ---
 
@@ -124,8 +124,8 @@ When sketching the CAS classification diagrams on the blackboard.
 ```
 
 ### Key Blackboard Features
-- **Top Panel ($C$ vs $A$)** - Vertical axis $C$ from $1.0$ to $5.5$; horizontal axis $A$ from $0.0$ to $0.5$. Show early-types at top-left ($C \sim 4.5, A \sim 0.03$), spirals descending diagonally, and mergers isolated on the right ($A > 0.35$).
-- **Bottom Panel ($S$ vs $A$)** - Vertical axis $S$ from $0.0$ to $0.5$; horizontal axis $A$ from $0.0$ to $0.5$. Highlight the diagonal dividing line $A = S$ and the vertical boundary $A = 0.35$.
+- **Top Panel ($C$ vs $A$)** - Vertical axis $C$ from $1.0$ to $5.5$. Horizontal axis $A$ from $0.0$ to $0.5$. Show early-types at top-left ($C \sim 4.5, A \sim 0.03$), spirals descending diagonally, and mergers isolated on the right ($A > 0.35$).
+- **Bottom Panel ($S$ vs $A$)** - Vertical axis $S$ from $0.0$ to $0.5$. Horizontal axis $A$ from $0.0$ to $0.5$. Highlight the diagonal dividing line $A = S$ and the vertical boundary $A = 0.35$.
 - **Background Correction Note** - Explicitly write $B_{180}$ and $B_S$ formulas on the blackboard, emphasizing that sky noise must be subtracted.
 - **Centering Rule** - Emphasize that $(x_0, y_0)$ minimizes $A$, which is an exam question favorite.
 

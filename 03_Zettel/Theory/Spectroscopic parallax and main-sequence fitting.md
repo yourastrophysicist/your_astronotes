@@ -25,7 +25,7 @@ precision: $\sim 0.3$ to $0.5$ mag in $M$, hence $\sim 15$ to $25\%$ in distance
 for an open or globular cluster:
 1. measure $V$ and $B-V$ for cluster stars, plot the **observed CMD**: $V$ vs $B - V$.
 2. compare with a **calibrated absolute CMD**: $M_V$ vs $(B-V)_0$ from a reference cluster (e.g. Hyades, distance known from parallax) or theoretical isochrone.
-3. shift the cluster CMD vertically to overlay; the vertical shift is $\mu = m_V - M_V$.
+3. shift the cluster CMD vertically to overlay. the vertical shift is $\mu = m_V - M_V$.
 4. read off the distance.
 
 advantages over single-star spectroscopic parallax:
@@ -44,6 +44,18 @@ the Hyades cluster ($d \approx 46$ pc) is the historical zero-point: its main se
 ## isochrone fitting
 
 a generalisation: fit a theoretical **stellar isochrone** (e.g. PARSEC, BaSTI, Y$^2$, MIST) to the cluster CMD, simultaneously fitting age, metallicity, distance modulus, and reddening. this works when the cluster has both a turnoff and a giant branch. used universally for globular cluster ages.
+
+## worked example
+
+a G2 V star has $M_V = 4.8$. if it is seen at $V = 14.8$ with no dust, $d = 10^{(14.8 - 4.8 + 5)/5} = 1000$ pc.
+
+the scatter of $M_V$ at fixed spectral type is about $0.4$ mag, so the distance of a single star is uncertain by about 20%. fitting the whole main sequence of a cluster reduces this to a few percent.
+
+## where it goes wrong
+
+- the luminosity class must be right. a giant classified as a dwarf gives a distance ten times too short.
+- the method needs the metallicity, which shifts the main sequence by several tenths of a magnitude.
+- unresolved binaries look brighter and give distances that are too short.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

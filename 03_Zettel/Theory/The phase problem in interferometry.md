@@ -14,7 +14,7 @@ tags: ""
 
 To mathematically reconstruct an image from interferometer data via Fourier transform, you need two pieces of information for every spatial frequency: the amplitude (how bright the fringes are) and the phase (where the fringe peaks are located relative to the center of your field). 
 
-While visibility amplitudes are relatively robust, the phases are incredibly fragile. As the plane wave from a star travels through the Earth's atmosphere, pockets of hot and cold air (or variations in water vapor for radio waves) change the refractive index. This introduces random, rapidly changing delays to the signal arriving at each antenna. Because the absolute phase of the fringe shifts wildly, averaging the signal over time smears the fringes out completely. Without correct phases, you cannot map where the light is actually coming from on the sky. This is the central nightmare of ground-based interferometry.
+While visibility amplitudes are relatively robust, the phases are very fragile. As the plane wave from a star travels through the Earth's atmosphere, pockets of hot and cold air (or variations in water vapor for radio waves) change the refractive index. This introduces random, rapidly changing delays to the signal arriving at each antenna. Because the absolute phase of the fringe shifts wildly, averaging the signal over time smears the fringes out completely. Without correct phases, you cannot map where the light is actually coming from on the sky. This is the central nightmare of ground-based interferometry.
 
 ---
 

@@ -6,7 +6,7 @@ if I want a coordinate system that does *not* depend on the observer or the time
 
 reference plane: the **celestial equator** (the projection of the Earth's equator onto the celestial sphere).
 
-key reference point: the $\gamma$ **point** (vernal equinox, "punto gamma") — the spring intersection of the celestial equator with the ecliptic. equivalently, the apparent position of the Sun on the celestial sphere on March 21, when it crosses the equator going from south to north.
+key reference point: the $\gamma$ **point** (vernal equinox, "punto gamma"), the spring intersection of the celestial equator with the ecliptic. equivalently, the apparent position of the Sun on the celestial sphere on March 21, when it crosses the equator going from south to north.
 
 ![sphereastro-21.png](../../assets/images/sphereastro-21.png)
 
@@ -55,7 +55,7 @@ extreme cases give clean intuition:
 
 ---
 
-## hour angle: the local cousin of right ascension
+## hour angle - the local cousin of right ascension
 
 declination $\delta$ tells me **which circle of declination** the body sits on. but the $\gamma$ point itself moves across the sky during the night because of Earth's rotation, so I cannot use $\alpha$ alone to find the body in real time. I need a *local* coordinate paired with $\alpha$.
 
@@ -77,6 +77,20 @@ practical use: I point my telescope at a star with known $(\alpha, \delta)$, rea
 equivalent statement: $\alpha = \Theta - h$. so a star is at the meridian (its highest point) when $h = 0$, i.e. when $\alpha = \Theta$.
 
 ---
+
+## worked example
+
+Sirius has $\alpha = 6^{\rm h}45^{\rm m}$. it crosses the meridian when the local sidereal time is $\Theta = 6^{\rm h}45^{\rm m}$. if my sidereal clock reads $\Theta = 4^{\rm h}00^{\rm m}$, then
+
+$$h = \Theta - \alpha = -2^{\rm h}45^{\rm m}$$
+
+the star is east of the meridian and will culminate in 2 hours 45 minutes of sidereal time.
+
+## where it goes wrong
+
+- right ascension grows eastward, hour angle grows westward. the sign of $h$ tells me on which side of the meridian the star is.
+- right ascension is given in hours, declination in degrees. I convert before any trigonometry.
+- a pair $(\alpha, \delta)$ means nothing without the equinox it refers to, J2000.0 today.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

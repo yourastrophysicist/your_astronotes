@@ -4,7 +4,7 @@ title: "Non-linear fitting with scipy"
 ---
 # Non-linear fitting with scipy
 
-when the model has parameters appearing *nonlinearly*, linear LSQ does not apply. instead, iterative algorithms — usually Levenberg-Marquardt — minimize $\chi^2$ in parameter space. `scipy.optimize.curve_fit` is the standard tool.
+when the model has parameters appearing *nonlinearly*, linear LSQ does not apply. instead, iterative algorithms, usually Levenberg-Marquardt, minimize $\chi^2$ in parameter space. `scipy.optimize.curve_fit` is the standard tool.
 
 ## the problem
 
@@ -16,7 +16,7 @@ over the parameters $\boldsymbol\theta$ when $f$ depends nonlinearly on $\boldsy
 - $f = A \sin(\omega x + \phi) + C$
 - $f = A/(1 + (x/x_0)^\alpha)$
 
-## the algorithm: Levenberg-Marquardt
+## the algorithm - Levenberg-Marquardt
 
 a hybrid of Gauss-Newton (good when close to the minimum) and steepest descent (good when far). at each iteration:
 
@@ -48,10 +48,10 @@ sigma_p = np.sqrt(np.diag(pcov))    # parameter uncertainties
 
 key arguments:
 
-- **`p0`**: initial guess. **critical** — bad guesses cause divergence or convergence to wrong minima. for any real fit, start with a good guess from physics intuition or a simpler fit
+- **`p0`**: initial guess. **critical**, bad guesses cause divergence or convergence to wrong minima. for any real fit, start with a good guess from physics intuition or a simpler fit
 - **`sigma`**: per-point uncertainty. without it, every point is weighted equally
 - **`absolute_sigma=True`**: trust `sigma` as absolute. without this, scipy rescales by $\chi^2_\nu$, which can hide model problems
-- **`bounds`**: tuple of (lower, upper) per parameter; LM with bounds uses a trust-region reflective algorithm
+- **`bounds`**: tuple of (lower, upper) per parameter. LM with bounds uses a trust-region reflective algorithm
 - **`maxfev`**: maximum number of function evaluations (default 800 × number of parameters)
 
 ## scipy.optimize.least_squares
@@ -121,7 +121,7 @@ popt, pcov = curve_fit(model, x, y, p0=p0, jac=jacobian)
 
 - **many parameters with strong correlations**: use MCMC (`emcee`, `dynesty`)
 - **complicated likelihood (non-Gaussian)**: use MCMC or nested sampling
-- **discrete parameters**: LM cannot handle integers; use specialized algorithms
+- **discrete parameters**: LM cannot handle integers. use specialized algorithms
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

@@ -11,7 +11,7 @@ in the FRW universe there is **no single notion of distance**. four different di
 the radial distance between two comoving points, measured at the present epoch:
 $$d_C(z) = \int_0^z \frac{c\, dz'}{H(z')}$$
 
-(flat universe; for $k \neq 0$ apply $\sinh$ or $\sin$.) integrating along a null geodesic, $ds^2 = 0$, gives:
+(flat universe. for $k \neq 0$ apply $\sinh$ or $\sin$.) integrating along a null geodesic, $ds^2 = 0$, gives:
 $$dt = -\frac{a(t)}{c}\, dr$$
 
 and using $1 + z = a_0/a(t)$:
@@ -90,7 +90,7 @@ at high $z$ they diverge. for a SN Ia at $z = 1$ in ΛCDM: $d_C \approx 3.4$ Gpc
 - [[Hubble law exact form]]
 - 03_Zettel/Theory/Robertson-Walker metric
 - Friedmann equations with Λ
-- [[Observational_Cosmology_MOC]] — block 1 has the same content with extra observational detail
+- [[Observational_Cosmology_MOC]] - block 1 has the same content with extra observational detail
 
 
 

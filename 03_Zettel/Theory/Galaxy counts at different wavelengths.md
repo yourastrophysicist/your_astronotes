@@ -18,14 +18,14 @@ link: https://astro.dur.ac.uk/~nm/pubhtml/counts/counts.html
 
 key features:
 - **U-band** counts flatten earliest because of the Lyman-break: at $z \gtrsim 3$ the rest-frame far-UV is absorbed and galaxies drop out. so U counts saturate.
-- **B-band** is the historical workhorse; slope drops from 0.6 to $\sim 0.45$ around $B \sim 21$, to $\sim 0.3$ at $B \sim 25$.
+- **B-band** is the historical workhorse. Slope drops from 0.6 to $\sim 0.45$ around $B \sim 21$, to $\sim 0.3$ at $B \sim 25$.
 - **K-band** (2.2 μm) is the closest thing to a stellar-mass-tracing band at $z \sim 1$, and its counts have the *flattest* slope ($\sim 0.25$) at faint magnitudes because K samples mature stellar populations whose evolution is mild.
 
-the Durham website gives postscript plots and tabulated text data for each band; pablo recommends pulling the K-band table for the LF normalization in the [[Schechter K-band luminosity function]] note.
+the Durham website gives postscript plots and tabulated text data for each band. pablo recommends pulling the K-band table for the LF normalization in the [[Schechter K-band luminosity function]] note.
 
 ## mid-IR
 
-at 24 μm (Spitzer MIPS) and 70 μm, the counts are dominated by *dusty* star-forming galaxies. Bethermin et al. 2010 shows $S^{2.5}\, dN/dS$ rising by $\sim 10\times$ above the Euclidean line at $\sim 0.3$ mJy. that bump is the entire LIRG/ULIRG population at $z \sim 1$–$2$.
+at 24 μm (Spitzer MIPS) and 70 μm, the counts are dominated by *dusty* star-forming galaxies. Bethermin et al. 2010 shows $S^{2.5}\, dN/dS$ rising by $\sim 10\times$ above the Euclidean line at $\sim 0.3$ mJy. that bump is the entire LIRG/ULIRG population at $z \sim 1$ to $2$.
 
 ## sub-mm
 
@@ -39,8 +39,12 @@ X-ray counts (Hasinger 2005, eROSITA) are dominated by AGN, not normal galaxies.
 
 ## what i remember
 
-- there is no single "galaxy count"; pick the band that traces what you care about (stars → K, dust → sub-mm, AGN → X-ray, unobscured SF → UV).
+- there is no single "galaxy count". pick the band that traces what you care about (stars → K, dust → sub-mm, AGN → X-ray, unobscured SF → UV).
 - the Durham compilation is the goto reference for optical / NIR, and the FIR Bethermin compilation for the dust side.
+
+## where it goes wrong
+
+- in the sub-mm the negative K-correction flattens the counts and lets high-$z$ galaxies dominate.
 
 ## connections
 

@@ -20,7 +20,7 @@ Sir James Jeans (1902) formulated the classical theory of **gravitational instab
 
 ---
 
-## mathematical derivation: small perturbation analysis of fluid equations
+## mathematical derivation - small perturbation analysis of fluid equations
 
 consider an infinite, homogeneous, static, ideal gas of uniform density $\rho_0$, pressure $P_0$, and velocity $\vec{v}_0 = 0$. 
 
@@ -45,7 +45,7 @@ the system is governed by the three fundamental equations of hydrodynamics:
 
 ---
 
-## timescales: sound crossing time vs free-fall time
+## timescales - sound crossing time vs free-fall time
 
 two competing physical timescales govern the cloud:
 1. **sound crossing time** $t_s$: the time required for thermal pressure waves to cross a region of size $\lambda$ and push back against compression:
@@ -91,7 +91,7 @@ $$\boxed{\, \frac{\partial^2\rho_1}{\partial t^2} - c_s^2 \nabla^2\rho_1 - 4\pi 
 
 ![stellar-52.png](../../assets/images/stellar-52.png)
 
-### the plane-wave solution:
+### the plane-wave solution
 substituting a Fourier plane-wave mode $\rho_1(\vec{r}, t) = A \, e^{i(\vec{k}\cdot\vec{r} - \omega t)}$:
 $$-\omega^2 + c_s^2 k^2 - 4\pi G \rho_0 = 0$$
 
@@ -104,7 +104,7 @@ $$\boxed{\, \omega^2 = k^2 c_s^2 - 4\pi G \rho_0 \,}$$
 
 ---
 
-## physical interpretation: stability vs collapse
+## physical interpretation - stability vs collapse
 
 setting $\omega^2 = 0$ defines the critical **Jeans wavevector** $k_J$:
 $$k_J = \frac{\sqrt{4\pi G \rho_0}}{c_s}$$
@@ -162,7 +162,7 @@ substituting $R = \left(\frac{3M}{4\pi\rho_0}\right)^{1/3}$ yields $M > M_J \pro
 as a giant molecular cloud collapses ($M_{\text{cloud}} \sim 10^4 M_\odot \gg M_J \sim 10^2 M_\odot$), density $\rho$ increases. as long as the gas remains optically thin to dust cooling, temperature $T$ stays constant ($T \sim 10$ K, isothermal collapse).
 
 because $M_J \propto \rho^{-1/2}$, **the Jeans mass decreases as density increases!**
-consequence: sub-regions within the collapsing cloud exceed their local, smaller Jeans mass and collapse independently. this process—**hierarchical fragmentation**—breaks a colossal molecular cloud into hundreds of solar-mass protostellar cores, naturally explaining why stars form in clusters.
+consequence: sub-regions within the collapsing cloud exceed their local, smaller Jeans mass and collapse independently. this process, **hierarchical fragmentation**, breaks a huge molecular cloud into hundreds of solar-mass protostellar cores, naturally explaining why stars form in clusters.
 
 fragmentation terminates when the density becomes high enough that the core becomes optically thick to its own dust emission: radiative cooling is trapped, compression becomes adiabatic ($P \propto \rho^{5/3}$), temperature rises, and $M_J \propto T^{3/2} \rho^{-1/2} \propto \rho^0 = \text{const}$, halting fragmentation at the minimum stellar mass ($M_{\text{min}} \sim 0.01 - 0.08 M_\odot$).
 
@@ -180,9 +180,23 @@ modern sub-millimeter interferometers like **ALMA** directly image these collaps
 
 in modified gravity theories such as $f(R)$ gravity (see Arbuzova, Dolgov, & Reverberi 2014, *Phys. Lett. B* 739, 279), the effective gravitational coupling acquires a scale-dependent Yukawa correction:
 $$G_{\text{eff}}(k) = G \left(1 + \frac{1}{3} \frac{k^2}{k^2 + m_R^2}\right)$$
-on astrophysical scales ($k \ll m_R$), $G_{\text{eff}} \to G$, recovering standard Newtonian Jeans collapse; on intermediate scales, the enhanced gravity lowers the Jeans mass, accelerating early structure collapse.
+on astrophysical scales ($k \ll m_R$), $G_{\text{eff}} \to G$, recovering standard Newtonian Jeans collapse. on intermediate scales, the enhanced gravity lowers the Jeans mass, accelerating early structure collapse.
 
 ---
+
+## worked example
+
+a dense molecular core with $T = 10$ K and $n = 10^4$ cm$^{-3}$ of H$_2$ ($\mu = 2.33$), so $\rho = 3.9 \times 10^{-17}$ kg/m$^3$:
+
+$$M_J = \left(\frac{5k_BT}{G\mu m_H}\right)^{3/2}\left(\frac{3}{4\pi\rho}\right)^{1/2} = 1.37 \times 10^{23} \times 7.8 \times 10^7 = 1.1 \times 10^{31}\ \text{kg} \approx 5\,M_\odot$$
+
+the free-fall time is $t_{\rm ff} = \sqrt{3\pi/32G\rho} = 1.1 \times 10^{13}$ s, about $3 \times 10^5$ yr.
+
+## where it goes wrong
+
+- the analysis assumes a uniform static medium that is not itself in equilibrium. this is the Jeans swindle.
+- real clouds are also supported by magnetic fields and turbulence, so they form stars much more slowly than the free-fall time suggests.
+- while the collapse is isothermal the Jeans mass falls as the density rises, and the cloud fragments. it stops when the gas becomes opaque.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

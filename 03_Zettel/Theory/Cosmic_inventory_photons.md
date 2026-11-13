@@ -10,7 +10,7 @@ photons in the universe come in many bands, each carrying its own cosmic backgro
 - **CXB**: cosmic X-ray background (see [[Lab_High-Energy_MOC]])
 - **CUVOB**: cosmic UV/optical background (stars and AGN)
 - **CIB**: cosmic infrared background (dust-reprocessed star formation)
-- **CMB**: cosmic microwave background — **dominates by number** ($\sim 99\%$ of all photons)
+- **CMB**: cosmic microwave background, **dominates by number** ($\sim 99\%$ of all photons)
 - **CRB**: cosmic radio background
 
 so for a photon census, "the photons of the universe" means essentially "the CMB."
@@ -58,7 +58,7 @@ so today the photon background is essentially negligible in the energy budget. b
 
 ## CMB spectral distortions
 
-read more: CMB Spectral Distortions — What They Are and Where They Come From 
+read more: CMB Spectral Distortions - What They Are and Where They Come From 
 
 even though the CMB looks like a perfect blackbody, the standard model predicts tiny departures from blackbody, of order $\mu/T \sim 1.9 \times 10^{-8}$. so far we only have upper bounds:
 
@@ -88,6 +88,15 @@ these tiny anisotropies are the seeds of every galaxy and cluster I will ever ob
 
 ---
 
+## worked example
+
+$n_\gamma = 410$ photons per cm$^3$ against $n_b = 2.5 \times 10^{-7}$ baryons per cm$^3$, so $\eta = 6.1 \times 10^{-10}$, one baryon per 1.6 billion photons.
+
+## where it goes wrong
+
+- the CMB has many more photons than all stars ever made, but less energy than the stars over the age of the universe only by a small factor.
+- radiation was dominant in energy before $z \approx 3400$, but photons have dominated in number always.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -103,7 +112,7 @@ these tiny anisotropies are the seeds of every galaxy and cluster I will ever ob
 ## see also
 
 - [[Cosmic_inventory_photons_derivation]]
-- CMB Spectral Distortions — What They Are and Where They Come From
+- CMB Spectral Distortions - What They Are and Where They Come From
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
 - [[Cosmic_inventory_overview]]
 - [[Brief thermal history]]

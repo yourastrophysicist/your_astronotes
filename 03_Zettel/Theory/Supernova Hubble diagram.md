@@ -53,6 +53,12 @@ at moderate $z$ ($0.1 \lesssim z \lesssim 1$): deviation from linearity reveals 
 
 at high $z$ ($z \gtrsim 1$): SN Ia were **brighter** than expected for a constant-$\Lambda$ model, consistent with $\Lambda$CDM. some surveys hint at $w \ne -1$ (DESI 2024-2025), still under investigation.
 
+## where it goes wrong
+
+- the discovery is in the residuals, a few tenths of a magnitude, not in the overall curve.
+- evolution of the supernovae with redshift could mimic acceleration. it is tested with host properties.
+- the low-$z$ and high-$z$ samples were observed with different telescopes and filters, which is a source of systematic error.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

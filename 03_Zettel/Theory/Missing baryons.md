@@ -14,7 +14,7 @@ at $z = 0$, baryon census from direct observations:
 
 total: $\sim 43\%$. **the missing $\sim 57\%$**: where is it?
 
-## the prediction: WHIM
+## the prediction - WHIM
 
 cosmological simulations (Cen + Ostriker 1999, Davé et al. 2001) predicted that **half the baryons** should reside in the **warm-hot intergalactic medium (WHIM)**: gas at $T \sim 10^5$ to $10^7$ K, in **filaments** connecting clusters.
 
@@ -25,7 +25,7 @@ the WHIM is too hot for atomic Ly-α absorption (most H ionised) but too cool fo
 the WHIM has been confirmed via several independent observations:
 1. **soft X-ray absorption lines** (O VII, O VIII, Ne IX) in QSO + AGN spectra. detected by XMM-Newton + Chandra in select sight lines (e.g. behind blazars).
 2. **kinetic SZ effect**: hot WHIM contributes to the kinematic SZ signal toward galaxies, detected statistically by Planck + ACT.
-3. **fast radio burst (FRB) dispersion measures**: total electron column from cosmic distances; gas density along sight lines. Macquart et al. 2020 used FRBs to confirm baryon density consistent with $\Omega_b$ from BBN.
+3. **fast radio burst (FRB) dispersion measures**: total electron column from cosmic distances. gas density along sight lines. Macquart et al. 2020 used FRBs to confirm baryon density consistent with $\Omega_b$ from BBN.
 4. **statistical SZ + lensing cross-correlations**: hot gas around galaxies + filaments.
 
 so the **missing-baryon problem** is now understood as the **WHIM** + **photoionised IGM** + various circumgalactic reservoirs. consistent with $\Omega_b = $ BBN + CMB.
@@ -42,6 +42,10 @@ modern surveys: COS-Halos, Q-PACT, MUSEQuBES use QSO sight lines to probe the CG
 
 ### simulations match
 modern cosmological simulations (IllustrisTNG, EAGLE, SIMBA) reproduce the WHIM + CGM budget when including realistic feedback + chemical enrichment. consistent with current observations.
+
+## where it goes wrong
+
+- the baryons were not missing in the budget. they were missing in the census.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

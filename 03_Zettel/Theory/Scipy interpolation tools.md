@@ -163,10 +163,10 @@ rbf = RBFInterpolator(points, values, kernel='thin_plate_spline')
 
 ## the gotchas
 
-- **extrapolation outside the data range** is rarely correct; always set `bounds_error=True` or check ranges
-- **CubicSpline bc_type matters** for tasks near the boundary; default `'not-a-knot'` is usually best
-- **scattered data outside the convex hull** of the input gives NaN with `method='cubic'`; nearest-neighbor extrapolation if `method='nearest'`
-- **periodic data** — use `bc_type='periodic'` in CubicSpline, or pre-replicate the data
+- **extrapolation outside the data range** is rarely correct. always set `bounds_error=True` or check ranges
+- **CubicSpline bc_type matters** for tasks near the boundary. Default `'not-a-knot'` is usually best
+- **scattered data outside the convex hull** of the input gives NaN with `method='cubic'`. nearest-neighbor extrapolation if `method='nearest'`
+- **periodic data** - use `bc_type='periodic'` in CubicSpline, or pre-replicate the data
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

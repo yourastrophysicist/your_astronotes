@@ -6,7 +6,7 @@ title: "Element abundance patterns"
 
 individual abundances of elements heavier than hydrogen and helium ("metals") are produced by different nucleosynthetic processes: massive-star core-collapse supernovae, type Ia supernovae, AGB winds, neutron-star mergers, etc. each process has its own characteristic timescale and yield pattern. so the **ratios** of element abundances in a star are diagnostic fingerprints of its formation environment. ratios are usually denoted $[\text{X/Y}] = \log_{10}(N_X/N_Y)_* - \log_{10}(N_X/N_Y)_\odot$ (see [[Spectroscopic determination of metallicity]]).
 
-## the alpha-element / Fe ratio: $[\alpha/\text{Fe}]$
+## the alpha-element / Fe ratio - $[\alpha/\text{Fe}]$
 
 "alpha elements" have nuclei built from integer numbers of $\alpha$ particles: O, Mg, Si, S, Ca, Ti. they are produced predominantly by **core-collapse supernovae** (type II/Ib/Ic) on short timescales of $\lesssim 30$ Myr after a starburst. iron is produced both by core-collapse and, on much longer timescales ($\gtrsim 1$ Gyr), by **type Ia supernovae**.
 
@@ -18,7 +18,7 @@ the resulting [α/Fe] vs [Fe/H] diagram has a characteristic "knee" structure:
 
 this is the basis of distinguishing inner-halo, outer-halo, thick-disk, and thin-disk populations of the Milky Way (and accreted dwarfs like Gaia-Enceladus).
 
-## the C and N anticorrelation: [C/N]
+## the C and N anticorrelation - [C/N]
 
 CN-cycle hydrogen burning processes carbon into nitrogen. the [C/N] ratio is a sensitive tracer of:
 
@@ -43,9 +43,9 @@ ratios like [Ba/Eu] separate s- from r-process contributions and constrain galac
 ## other useful diagnostics
 
 - **[Mn/Fe], [Cr/Fe]:** sensitive to SNe Ia.
-- **[Li]:** primordial Li (BBN value $\sim 2.7$ on the 12-scale) survives only in unmixed atmospheres; its depletion traces convective mixing, age, and stellar activity.
-- **[Be], [B]:** light elements destroyed at modest depths; tracers of internal mixing and rotation.
-- **He:** the second-most abundant element; large variations only seen via narrow He I 5876 Å in hot horizontal branch stars (Marino 2014 in NGC 2808).
+- **[Li]:** primordial Li (BBN value $\sim 2.7$ on the 12-scale) survives only in unmixed atmospheres. its depletion traces convective mixing, age, and stellar activity.
+- **[Be], [B]:** light elements destroyed at modest depths. tracers of internal mixing and rotation.
+- **He:** the second-most abundant element. Large variations only seen via narrow He I 5876 Å in hot horizontal branch stars (Marino 2014 in NGC 2808).
 
 ## why patterns matter
 

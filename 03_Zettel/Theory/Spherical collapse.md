@@ -8,7 +8,7 @@ linear perturbation theory works while $\lvert \delta\rvert \ll 1$. once $\delta
 
 ## the setup
 
-take a uniform sphere of mass $M$ and initial overdensity $\delta_i$ (small). because of Birkhoff's theorem, the dynamics of the sphere depend only on its own mass and not on what's outside. so the sphere evolves as if it were its own *closed* universe — the density inside is higher than the background, so the sphere recollapses.
+take a uniform sphere of mass $M$ and initial overdensity $\delta_i$ (small). because of Birkhoff's theorem, the dynamics of the sphere depend only on its own mass and not on what's outside. so the sphere evolves as if it were its own *closed* universe, the density inside is higher than the background, so the sphere recollapses.
 
 three stages:
 1. **expansion**: at first, the sphere expands with the rest of the universe but slows down faster
@@ -74,6 +74,10 @@ corrections beyond spherical collapse:
 - **excursion set theory**: more rigorous treatment of the collapse threshold
 
 ---
+
+## worked example
+
+a sphere collapses when its linear overdensity reaches $1.686$. at that moment the real overdensity is infinite, and after virialization it is $18\pi^2 \approx 178$ times the background.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

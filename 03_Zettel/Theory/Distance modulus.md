@@ -60,6 +60,13 @@ at low $z$, $d_L \approx cz/H_0$, recovering the Hubble flow. see [[Luminosity d
 
 at high $z$, an additional **K-correction** is needed because the observed band samples a different rest-frame wavelength than the calibrated $M$. see [[K-correction]].
 
+## where it goes wrong
+
+- forgetting the extinction term. it makes the star look farther than it is.
+- the formula wants parsecs. for Mpc the constant is $+25$ instead of $-5$.
+- an error of $0.1$ mag in the modulus is an error of 4.6% in distance, since $\delta d/d = 0.46\,\delta\mu$.
+- at cosmological distances the distance is $d_L$ and a K-correction is needed.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

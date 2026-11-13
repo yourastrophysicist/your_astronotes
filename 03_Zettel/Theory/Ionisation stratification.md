@@ -36,7 +36,7 @@ in spatially resolved HII regions (M42 Orion, M16 Eagle, M20 Trifid):
 - **middle**: H$\alpha, [OII], [NII]$.
 - **outer**: [SII], [OI] $\lambda 6300$.
 
-resolved with HST or ground-based narrow-band imaging; each filter highlights a different layer.
+resolved with HST or ground-based narrow-band imaging. each filter highlights a different layer.
 
 ### integrated line ratios
 
@@ -56,9 +56,9 @@ uses the ionisation potentials of observed and unobserved species to estimate th
 ## the matter-bounded vs ionisation-bounded distinction
 
 - **ionisation-bounded**: the gas is more than enough to absorb all ionising photons (typical HII region). the boundary is sharp.
-- **matter-bounded**: gas is too thin to absorb all photons; some photons leak out. low-density-clumpy gas, AGN narrow-line regions sometimes. consequence: extra Lyman continuum reaches the IGM.
+- **matter-bounded**: gas is too thin to absorb all photons. some photons leak out. low-density-clumpy gas, AGN narrow-line regions sometimes. consequence: extra Lyman continuum reaches the IGM.
 
-matter-bounded vs ionisation-bounded affects the integrated line ratios; matter-bounded shows excess [OII] and [SII] relative to [OIII] for the same $U$.
+matter-bounded vs ionisation-bounded affects the integrated line ratios. matter-bounded shows excess [OII] and [SII] relative to [OIII] for the same $U$.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

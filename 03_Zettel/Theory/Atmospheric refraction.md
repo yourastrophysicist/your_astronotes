@@ -32,7 +32,7 @@ $$R \approx (n_0 - 1) \tan z_{\text{app}}$$
 at standard sea-level temperature and pressure ($T = 0^\circ$C, $P = 1013.25$ hPa), $(n_0 - 1) \approx 2.93 \times 10^{-4}$ rad $\approx 60.4'' \approx 1'$. therefore:
 $$\boxed{\, R \approx 1' \tan z_{\text{app}} \approx 60'' \tan z_{\text{app}} \,}$$
 
-### typical values:
+### typical values
 - at zenith ($z = 0^\circ$): $R = 0''$.
 - at $z = 45^\circ$ ($a = 45^\circ$): $R \approx 60'' = 1.0'$.
 - at $z = 60^\circ$ ($a = 30^\circ$): $R \approx 1.73' \approx 104''$.
@@ -47,7 +47,7 @@ $$\boxed{\, R \approx 1' \tan z_{\text{app}} \approx 60'' \tan z_{\text{app}} \,
 near the horizon ($z \to 90^\circ$), the $\tan z$ approximation diverges unphysically. full spherical integration through the atmospheric density profile reveals:
 $$\boxed{\, R(z = 90^\circ) \approx 35' \approx 0.58^\circ \,}$$
 
-### key physical consequences:
+### key physical consequences
 1. **geometric vs apparent sunrise/sunset**: the angular diameter of both the Sun and the Moon is $\sim 31'-32'$. because $R \approx 35' > 32'$, **when the lower limb of the Sun appears to just touch the horizon, the entire solar disk is already geometrically below the horizon!** atmospheric refraction lengthens daytime by about $4$ to $8$ minutes at mid-latitudes.
 2. **vertical flattening of the solar/lunar disk**: because $R$ increases very steeply near the horizon, the lower limb of the Sun ($z \approx 90^\circ$) is refracted by $\sim 35'$, whereas the upper limb ($z \approx 89.5^\circ$) is refracted by only $\sim 29'$. this $6'$ differential refraction compresses the vertical diameter of the Sun, giving setting/rising celestial bodies their characteristic oval, squashed appearance.
 

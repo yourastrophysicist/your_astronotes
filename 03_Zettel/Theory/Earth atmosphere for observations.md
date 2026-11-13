@@ -2,7 +2,7 @@
 layout: "default"
 title: "Earth atmosphere for observations"
 ---
-the atmosphere is the **last optical element** in any ground-based light path, and an actively bad one. before the photon hits the CCD it has spent its last microsecond inside 100 km of perturbed gas that does four annoying things: it absorbs at certain wavelengths (transparency), it dims the photon at all wavelengths (extinction), it twinkles its arrival time (scintillation), and it scrambles its arrival angle (seeing). this note collects all four into one comprehensive picture, with the formulas I need on the board.
+the atmosphere is the **last optical element** in any ground-based light path, and an actively bad one. before the photon hits the CCD it has spent its last microsecond inside 100 km of perturbed gas that does four annoying things. it absorbs at certain wavelengths (transparency), it dims the photon at all wavelengths (extinction), it twinkles its arrival time (scintillation), and it scrambles its arrival angle (seeing). this note collects all four into one picture, with the formulas I need on the board.
 
 source: Lecture 2 ("Earth atmosphere") of the Obs Astrophysics course at U Padua, with reference text Lena et al., *Observational Astrophysics*. companion to [[Observational_Astrophysics_MOC]] Block 2.
 
@@ -29,7 +29,7 @@ a high-altitude observatory at $4200$ m (Mauna Kea, Cerro Paranal) sits above $\
 the atmosphere is opaque at most wavelengths. observing windows are the gaps:
 
 - **visible** ($\sim 320$ nm to $1$ $\mu$m): mostly transparent, ozone cuts off the UV.
-- **near-IR**: J ($1.25\,\mu$m), H ($1.65\,\mu$m), K ($2.2\,\mu$m), L ($3.5\,\mu$m), M ($4.8\,\mu$m). water vapour absorption between bands is sharp; that is why these letter bands have specific shapes.
+- **near-IR**: J ($1.25\,\mu$m), H ($1.65\,\mu$m), K ($2.2\,\mu$m), L ($3.5\,\mu$m), M ($4.8\,\mu$m). water vapour absorption between bands is sharp. that is why these letter bands have specific shapes.
 - **mid-IR** ($\sim 8$ to $25\,\mu$m): partially open, dominated by thermal sky background.
 - **far-IR** ($\sim 25$ to $300\,\mu$m): completely opaque from the ground (water vapour). only space (Herschel, JWST/MIRI partly) or balloons (SOFIA) work here.
 - **sub-mm** ($\sim 300\,\mu$m to $1$ mm): a few transparent windows in dry sites (ALMA at $5000$ m). water vapour again.
@@ -43,7 +43,7 @@ the chief absorbers, in order: **water vapour** (NIR, mid-IR, sub-mm), **CO$_2$*
 
 at all transparent wavelengths the atmosphere still **dims** the photons by absorption + scattering. the path length depends on zenith distance $z$ via the **airmass** $X$:
 $$X(z) \approx \sec z = 1/\cos z$$
-(for $z \lesssim 60°$; at higher $z$ a curved-Earth correction matters).
+(for $z \lesssim 60°$, and at higher $z$ a curved-Earth correction matters).
 
 Beer-Lambert law: the observed magnitude in some band $\lambda$ at airmass $X$ is
 $$m_{\rm obs}(\lambda) = m_0(\lambda) + k(\lambda)\, X$$
@@ -75,7 +75,7 @@ scintillation matters mainly for high-precision time-series photometry (transits
 
 ## seeing, the spatial blurring
 
-the same turbulent cells that cause scintillation also distort the **wavefront** of incoming light. a plane wave from a distant star arrives at the telescope as a wrinkled wave, and the focal-plane image is no longer a diffraction-limited Airy disk; instead it is a smeared blob of width $\theta_{\rm seeing}$.
+the same turbulent cells that cause scintillation also distort the **wavefront** of incoming light. a plane wave from a distant star arrives at the telescope as a wrinkled wave, and the focal-plane image is no longer a diffraction-limited Airy disk. instead it is a smeared blob of width $\theta_{\rm seeing}$.
 
 the central scale is the **Fried parameter** $r_0$, the diameter of an atmospheric coherence patch over which the wavefront is roughly flat. for a Kolmogorov turbulent atmosphere:
 $$r_0 \propto \lambda^{6/5}\, (\sec z)^{-3/5}$$
@@ -108,8 +108,8 @@ AO measures the wavefront in real time and corrects it with a **deformable mirro
 the headline metric is the **Strehl ratio** $S = I_{\rm peak}^{\rm obs}/I_{\rm peak}^{\rm diffraction-limited}$, between $0$ and $1$. a well-running AO system delivers $S > 0.5$ in the K-band (where $r_0$ is large), much less in the V-band.
 
 key limits:
-- **isoplanatic angle** $\theta_0 \sim \lambda^{6/5}$, typically $\sim 30''$ in the K-band. AO works only over patches this size; far from the guide star, correction degrades.
-- **need a bright reference**. natural guide stars are scarce; the workaround is **laser guide stars**, sodium lasers exciting the mesospheric Na layer at $\sim 90$ km to create an artificial point source. tip-tilt still requires a natural star nearby.
+- **isoplanatic angle** $\theta_0 \sim \lambda^{6/5}$, typically $\sim 30''$ in the K-band. AO works only over patches this size. far from the guide star, correction degrades.
+- **need a bright reference**. natural guide stars are scarce. the workaround is **laser guide stars**, sodium lasers exciting the mesospheric Na layer at $\sim 90$ km to create an artificial point source. tip-tilt still requires a natural star nearby.
 - **AO is naturally NIR-friendly**. higher Strehl in K than in V, both because $r_0$ is larger and because the same wavefront error is a smaller fraction of $\lambda$.
 
 modern AO (MCAO, GLAO, MOAO) extends correction to wider fields by using multiple guide stars and tomographic reconstruction.
@@ -138,7 +138,7 @@ practical consequence: faint-source imaging is **sky-noise-limited**, so the noi
 
 **refraction**: the apparent zenith distance $z'$ is smaller than the true $z$ because atmospheric refractive index $> 1$ bends rays toward the vertical. for moderate altitudes:
 $$R \equiv z - z' \approx 60''\,\tan z$$
-diverges at the horizon (where standard formulas fail; the actual horizon refraction is $\sim 35'$ at sea level, which is why you see the Sun for a couple of minutes after it has geometrically set).
+diverges at the horizon (where standard formulas fail. the actual horizon refraction is $\sim 35'$ at sea level, which is why you see the Sun for a couple of minutes after it has geometrically set).
 
 refraction matters for absolute astrometry and for telescope tracking on short timescales.
 
@@ -155,6 +155,16 @@ the spine of any oral question on the atmosphere is:
 4. **explain what AO does**: real-time wavefront measurement and correction, breaks the seeing limit, only really works in NIR, needs a guide star. the Strehl ratio is the figure of merit.
 5. **finish with where space wins**: UV ($< 300$ nm), far-IR ($25$ to $300\,\mu$m), and any science where stability or photometric precision beats raw aperture.
 
+## worked example
+
+a star observed at $z = 60^\circ$ in the V band. the airmass is $X = \sec 60^\circ = 2$, and with $k_V = 0.15$ mag per airmass it is dimmer by $0.30$ mag than above the atmosphere, a loss of 24% of the flux. at the zenith the loss is $0.15$ mag, or 13%.
+
+## where it goes wrong
+
+- seeing and transparency are independent. a night can be sharp and hazy, or clear and turbulent.
+- $X = \sec z$ is good to 1% only up to $z \approx 70^\circ$.
+- the atmosphere is not only an absorber. it also emits, and in the infrared its emission is the main source of noise.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -168,15 +178,15 @@ the spine of any oral question on the atmosphere is:
 
 ## see also
 
-- [[Observational_Astrophysics_MOC]] — Block 2 lives here
+- [[Observational_Astrophysics_MOC]] - Block 2 lives here
 - [[Adaptive optics overview]]
 - [[Atmospheric extinction]]
 - [[Atmospheric seeing]]
-- [[CCD detectors and SNR]] — the next stop in the photon's journey
-- [[Magnitudes and photometric systems]] — what we do with the photometric standards
+- [[CCD detectors and SNR]] - the next stop in the photon's journey
+- [[Magnitudes and photometric systems]] - what we do with the photometric standards
 - [[Sky brightness]]
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
-- [[Lab_High-Energy_MOC]] — the X-ray analogue of "the atmosphere as a barrier"
+- [[Lab_High-Energy_MOC]] - the X-ray analogue of "the atmosphere as a barrier"
 
 ---
 

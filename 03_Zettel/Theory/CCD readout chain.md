@@ -51,6 +51,23 @@ read-out speed vs read noise: faster readout gives more $\sigma_{\rm RN}$. moder
 
 each shift is not perfect: some electrons are lost or smeared. CTE is the per-pixel transfer efficiency, typically $> 0.99999$. for a $4 \text{k} \times 4$k chip, total transfers $\sim 8000$, so $\sim 0.99999^{8000} \approx 0.92$ of charge survives, marginal. for very faint sources at the far end of a serial register, CTE losses bias photometry. mitigated by **charge injection** (adding a known signal) and post-processing CTE correction.
 
+## worked example
+
+a charge transfer efficiency of $0.99999$ sounds perfect. over the 4096 transfers from the far corner:
+
+$$0.99999^{4096} = e^{-0.041} = 0.960$$
+
+4% of the charge is left behind. with $0.999999$ the loss is 0.4%.
+
+reading a $4096 \times 4096$ chip through one amplifier at 1 MHz takes 17 s, at 100 kHz it takes 168 s.
+
+## where it goes wrong
+
+- reading faster raises the read noise. the readout speed is a choice between time and noise.
+- the gain is in electrons per ADU. a larger number means fewer ADU for the same charge.
+- the bias is an electronic offset, not light. it is there even in a zero-second exposure.
+- in space the transfer efficiency degrades with radiation damage, and the trails must be modelled.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

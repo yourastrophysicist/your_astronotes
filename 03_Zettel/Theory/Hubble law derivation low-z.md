@@ -2,7 +2,7 @@
 layout: "default"
 title: "Hubble law derivation low-z"
 ---
-at low redshift, **Hubble's law** has a beautifully simple form:
+at low redshift, **Hubble's law** has a cleanly simple form:
 $$v = H_0\, d, \qquad z \simeq \frac{v}{c}$$
 
 a straight line through the origin in the $v$-$d$ plot. this is the celebrated 1929 Hubble result.
@@ -22,7 +22,7 @@ $$\dot d_{\rm phys} = \dot a\, r = \frac{\dot a}{a}\, d_{\rm phys} = H\, d_{\rm 
 at the present epoch:
 $$\boxed{\,v = H_0\, d\,}$$
 
-so the **expansion of the universe** automatically produces a linear velocity-distance relation for every comoving observer. nothing to do with the Doppler effect of moving stars in our own galaxy — it is the *space* itself stretching.
+so the **expansion of the universe** automatically produces a linear velocity-distance relation for every comoving observer. nothing to do with the Doppler effect of moving stars in our own galaxy. it is the *space* itself stretching.
 
 ---
 
@@ -62,7 +62,7 @@ $$d_L(z) = \frac{c}{H_0}\left[z + \tfrac12(1 - q_0) z^2 + O(z^3)\right]$$
 
 practical recipe:
 1. measure redshifts of nearby galaxies ($z \lesssim 0.1$, well within the linear regime)
-2. measure their distances independently — Cepheid period-luminosity, Tully-Fisher, SN Ia, surface brightness fluctuations, etc.
+2. measure their distances independently, Cepheid period-luminosity, Tully-Fisher, SN Ia, surface brightness fluctuations, etc.
 3. fit the $v$-$d$ plot, slope is $H_0$
 
 with HST Cepheids out to $\sim 20$ Mpc, then SN Ia to extend the ladder beyond, we get:
@@ -73,6 +73,11 @@ inconsistent at $\sim 5\sigma$ with the CMB-anchored value $67.4 \pm 0.5$. this 
 ![intro-32.png](../../assets/images/intro-32.png)
 
 ---
+
+## where it goes wrong
+
+- $v = H_0d$ is exact for proper distance and its rate of change. $cz = H_0d$ is the approximation.
+- the derivation assumes comoving observers. peculiar velocities add on top.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
