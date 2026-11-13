@@ -2,73 +2,95 @@
 layout: "default"
 title: "Aberration of light"
 ---
-{% raw %}
-the **aberration of light** is the apparent displacement of a celestial source in the direction of the instantaneous motion of the observer. discovered in 1728 by **James Bradley** while attempting to measure stellar parallax, aberration provided the very first direct observational proof of Earth's orbital revolution around the Sun and confirmed the finite speed of light $c$.
+**aberration of light** is the apparent displacement of a star toward the direction in which the observer is moving. it exists because the speed of light is finite and the observer has a velocity. it depends only on the observer's velocity, not on the distance of the star.
 
-![sphereastro2-18.png](../../assets/images/sphereastro2-18.png)
+## the picture
 
----
+rain falls vertically, but if I run I have to tilt the umbrella forward. the rain has not changed, my velocity has. for starlight the telescope is the umbrella. during the time the light travels down the tube, the tube has moved, so I must tilt it forward by a small angle to keep the light on the axis.
 
-## the physical mechanism: rain in a moving carriage
+## the classical derivation
 
-the classic analogy: if rain falls vertically with speed $c$, and you run forward with horizontal speed $v$, the raindrops appear to strike you at an angle tilted toward your direction of motion. you must tilt your umbrella forward by an angle $\theta \approx v/c$.
+let the star be at angle $\theta$ from the direction of my velocity $\vec v$. in the rest frame of the Sun the light arrives with velocity components
 
-similarly, a telescope moving with Earth's orbital velocity $\vec{v}$ must be inclined forward in the direction of motion for photons traveling down the tube to strike the detector without hitting the tube walls.
+$$c_\parallel = -c\cos\theta, \qquad c_\perp = -c\sin\theta$$
 
-![sphereastro2-19.png](../../assets/images/sphereastro2-19.png)
+in my frame I subtract my own velocity along the parallel direction, so the light arrives with
 
----
+$$c'_\parallel = -(c\cos\theta + v), \qquad c'_\perp = -c\sin\theta$$
 
-## the aberration formula
+the apparent direction $\theta'$ satisfies
 
-in classical vector mechanics:
-$$\vec{c}' = \vec{c} - \vec{v}$$
-where $\vec{c}$ is the velocity of light in the solar-system barycentric frame, and $\vec{v}$ is Earth's orbital velocity ($v \approx 29.8$ km/s $\approx 30$ km/s).
+$$\tan\theta' = \frac{c\sin\theta}{c\cos\theta + v} = \frac{\sin\theta}{\cos\theta + \beta}, \qquad \beta \equiv \frac{v}{c}$$
 
-for $v \ll c$, the angular displacement $\theta$ between the true position and the apparent position is:
-$$\tan\theta \approx \sin\theta \approx \frac{v}{c} \sin\psi$$
-where $\psi$ is the angle between the line of sight to the star and Earth's velocity vector $\vec{v}$.
+for $\beta \ll 1$ I expand to first order. writing $\theta' = \theta - \alpha$ with $\alpha$ small:
 
-the maximum displacement occurs when the star is perpendicular to Earth's velocity vector ($\psi = 90^\circ$). this defines the **aberration constant** $\kappa$:
-$$\boxed{\, \kappa = \frac{v}{c} = \frac{29.78 \times 10^3 \text{ m/s}}{2.998 \times 10^8 \text{ m/s}} \approx 9.93 \times 10^{-5} \text{ rad} \approx 20.4955'' \approx 20.5'' \,}$$
+$$\boxed{\, \alpha \equiv \theta - \theta' \simeq \beta\sin\theta \,}$$
 
-![sphereastro2-20.png](../../assets/images/sphereastro2-20.png)
+the star is displaced **toward the apex** of my motion, by an amount that is largest when the star is at right angles to my velocity.
 
----
+## the relativistic formula
 
-## the annual aberration ellipse
+the classical argument adds velocities in a way that is not allowed for light. the Lorentz transformation of the photon direction gives the exact result
 
-as Earth orbits the Sun over one year, its velocity vector $\vec{v}(t)$ sweeps through a full $360^\circ$ circle in the ecliptic plane. consequence: every star on the sky appears to describe an **aberration ellipse** over the course of a year:
-- **semi-major axis**: always equal to $\kappa \approx 20.5''$, parallel to the ecliptic plane.
-- **semi-minor axis**: equal to $\kappa \sin\beta$, where $\beta$ is the star's ecliptic latitude.
+$$\cos\theta' = \frac{\cos\theta + \beta}{1 + \beta\cos\theta}$$
 
-### limiting cases:
-1. **at the Ecliptic Pole ($\beta = \pm 90^\circ$)**: the apparent path is a perfect **circle** of radius $\kappa = 20.5''$.
-2. **in the Ecliptic Plane ($\beta = 0^\circ$)**: the path degenerates into a **line segment** of length $2\kappa \approx 41''$.
-3. **intermediate latitudes**: an **ellipse** of semi-axes $a = \kappa$ and $b = \kappa\sin\beta$.
+expanding to first order in $\beta$ gives $\theta' \simeq \theta - \beta\sin\theta$, the same as before. the difference appears at order $\beta^2$, which for the Earth is $\sim 10^{-8}$ rad, about a milliarcsecond. Gaia works at that level, so astrometry missions use the relativistic form.
 
----
+## annual aberration
 
-## fundamental differences: aberration vs parallax
+the Earth moves around the Sun at $v_\oplus \approx 29.78$ km/s. the **constant of aberration** is
 
-students frequently confuse aberration and parallax. they must be rigorously distinguished on the oral exam:
+$$\kappa = \frac{v_\oplus}{c} = \frac{29.78}{299\,792} \approx 9.93 \times 10^{-5}\ \text{rad} \approx 20.5''$$
 
-| feature | stellar aberration | annual stellar parallax |
+over one year the velocity vector of the Earth turns through $360°$ in the plane of the ecliptic, so each star traces a small figure on the sky. for a star at ecliptic latitude $\beta_{\rm ecl}$:
+
+- the semi-major axis is $\kappa = 20.5''$, parallel to the ecliptic.
+- the semi-minor axis is $\kappa\sin\beta_{\rm ecl}$, perpendicular to the ecliptic.
+
+so the figure is a **circle** at the ecliptic pole, an **ellipse** at intermediate latitudes and a **straight line** of half-length $20.5''$ on the ecliptic itself.
+
+## the other aberrations
+
+- **diurnal aberration**: the rotation of the Earth carries the observer at $v = 0.465\cos\phi$ km/s, which gives $0.32''\cos\phi$. small, but not negligible for meridian astrometry.
+- **secular aberration**: the motion of the Sun around the Galaxy at $\sim 220$ km/s shifts every star by up to $\sim 150''$. the shift is practically constant over human timescales, so it is absorbed into the catalog positions and never corrected.
+- **planetary aberration**: for solar system bodies the light-travel time matters too, because the body itself moves while the light is on its way.
+
+## how it differs from parallax
+
+this is the comparison I must be able to draw.
+
+| | aberration | parallax |
 |---|---|---|
-| **cause** | **velocity** of the observer $\vec{v}$ (finite speed of light) | **position** of the observer (geometric baseline $2$ AU) |
-| **distance dependence** | **independent of distance!** all stars have $a = 20.5''$ | **inversely proportional to distance**: $p = 1/d$ |
-| **typical amplitude** | huge: $\approx 20.5''$ | tiny: $\le 0.77''$ (Proxima Cen), $< 0.01''$ for $d > 100$ pc |
-| **phase of maximum shift** | displaced in direction of Earth's **velocity** $\vec{v}$ | displaced opposite to Earth's **displacement** $\vec{r}$ |
-| **phase difference** | $\vec{v}$ leads $\vec{r}$ by $90^\circ$ (quarter of a year, $\sim 3$ months) | $90^\circ$ out of phase with aberration! |
+| cause | velocity of the observer | displacement of the observer |
+| size | $20.5''$ for every star | $\le 0.77''$, falls as $1/d$ |
+| depends on distance | no | yes, $p = 1/d$ |
+| direction of the shift | toward the apex of the Earth's velocity | toward the Sun |
+| phase | leads parallax by 3 months | reference |
 
----
+the two ellipses have the same shape for the same star, but they are **90° out of phase**, because the velocity of the Earth is perpendicular to the Earth-Sun line. this phase is what told Bradley he was not looking at parallax.
 
-## other forms of aberration
+## Bradley 1728
 
-- **diurnal aberration**: caused by Earth's daily axial rotation ($v_{\text{rot}} \approx 0.46 \cos\phi$ km/s). amplitude $\approx 0.32'' \cos\phi$, directed toward the east.
-- **secular aberration**: caused by the Sun's orbit around the Galactic Center ($v_0 \approx 220$ km/s). amplitude $\approx 2.5'$, but changes on a $\sim 230$-million-year timescale, so it produces an unnoticeable constant shift except for tiny accelerations measured by Gaia ($5$ $\mu$as/yr/kpc).
+James Bradley and Samuel Molyneux observed $\gamma$ Draconis from 1725, a star that passes almost through the zenith of London, so refraction is negligible. they wanted the parallax. they found a yearly oscillation of about $20''$, but with the maximum displacement three months away from where parallax would put it. Bradley understood in 1728 that the cause was the velocity of the Earth combined with the finite speed of light.
 
----
+two results came out of it:
+
+- the first direct proof that the **Earth moves around the Sun**.
+- a measurement of the **speed of light**. from $\kappa$ and the orbital speed Bradley found that light takes about 8 minutes 12 seconds to come from the Sun, close to the modern 8 minutes 19 seconds.
+
+it also explained why nobody had seen parallax yet. the true parallaxes are more than 25 times smaller than aberration, and the first one was measured only in 1838 by Bessel.
+
+## why it matters in practice
+
+- every precise position must be corrected for annual aberration before it is compared with a catalog. the correction is larger than precession over a few months, and much larger than any parallax.
+- the correction is the same for all stars in a small field, so differential astrometry inside one image is almost free of it. absolute astrometry is not.
+- the CMB dipole is the same effect combined with the Doppler shift. our motion at $\sim 370$ km/s with respect to the CMB frame both shifts the temperature and aberrates the positions of the anisotropies.
+
+## quick numbers
+
+- $\kappa = 20.5''$ (annual), $0.32''$ (diurnal, at the equator).
+- largest stellar parallax: $0.77''$ (Proxima Centauri).
+- second-order relativistic term: $\sim \kappa^2/4 \approx 1$ mas.
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -83,21 +105,12 @@ students frequently confuse aberration and parallax. they must be rigorously dis
 
 ## see also
 
-- [[Fundamentals_Astrophysics_Cosmology_MOC]]
 - [[Annual stellar parallax]]
-- [[Proper motion and stellar kinematics]]
 - [[Precession and nutation]]
-- [[Equatorial system]]
+- [[Precession nutation aberration parallax]]
+- [[Proper motion and stellar kinematics]]
+- [[Atmospheric refraction]]
 - [[Ecliptic system]]
-{% endraw %}
-
-<div class="backlinks-section">
-  <h4 class="backlinks-title">Linked References (5)</h4>
-  <ul class="backlinks-list">
-    <li class="backlink-item-wrap"><a href="./Annual%20stellar%20parallax.html" class="backlink-item">Annual stellar parallax</a></li>
-    <li class="backlink-item-wrap"><a href="./Atmospheric%20refraction.html" class="backlink-item">Atmospheric refraction</a></li>
-    <li class="backlink-item-wrap"><a href="../../04_Atlas/Fundamentals_Astrophysics_Cosmology_MOC.html" class="backlink-item">Fundamentals_Astrophysics_Cosmology_MOC</a></li>
-    <li class="backlink-item-wrap"><a href="./Precession%20and%20nutation.html" class="backlink-item">Precession and nutation</a></li>
-    <li class="backlink-item-wrap"><a href="./Proper%20motion%20and%20stellar%20kinematics.html" class="backlink-item">Proper motion and stellar kinematics</a></li>
-  </ul>
-</div>
+- [[Equatorial system]]
+- [[Fundamentals_Astrophysics_Cosmology_MOC]]
+- [[Observational_Astrophysics_MOC]]
