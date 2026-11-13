@@ -1,0 +1,169 @@
+/* yourastro.space theme for Your AstroNotes.
+   Loaded last, after style.css, velocity.css and layout.css. It only overrides colours, type
+   and shapes so the notes match the main site: light grey ground, one electric blue,
+   compressed capitals for titles, mono for small labels, square corners, no shadows.
+   Body text is a deep blue instead of the bright one, because notes are long reads. */
+
+:root {
+  --v-accent: #141ef0;
+  --v-accent-soft: rgba(20, 30, 240, 0.08);
+  --v-red: #c8102e;
+  --v-radius: 0px;
+  --v-radius-sm: 0px;
+
+  --bg-color: #f2f2f2;
+  --content-bg: #fafafa;
+  --text-color: #121a8a;
+  --text-muted: #5a61d9;
+  --heading-color: #141ef0;
+
+  --primary-color: #141ef0;
+  --primary-hover: #0a10a8;
+  --link-visited: #141ef0;
+
+  --border-color: rgba(20, 30, 240, 0.28);
+  --border-subtle: rgba(20, 30, 240, 0.16);
+  --sidebar-bg: #f2f2f2;
+  --sidebar-hover: rgba(20, 30, 240, 0.06);
+  --sidebar-active: rgba(20, 30, 240, 0.10);
+
+  --toc-bg: #fafafa;
+  --toc-border: rgba(20, 30, 240, 0.28);
+  --toc-active: #141ef0;
+
+  --code-bg: rgba(20, 30, 240, 0.06);
+  --code-border: transparent;
+  --code-text: #121a8a;
+
+  --badge-bg: #e4e4e8;
+  --badge-border: transparent;
+
+  --list-marker: #5a61d9;
+  --quote-bar: #141ef0;
+  --shadow: none;
+
+  --ys-display: 'Antonio', 'Arial Narrow', sans-serif;
+  --ys-text: 'Inter Tight', 'Inter', -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --ys-mono: 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace;
+  color-scheme: light;
+}
+
+/* dark mode keeps the same idea: one blue family, now on a deep blue-black */
+:root[data-theme="dark"] {
+  --v-accent: #8a92ff;
+  --v-accent-soft: rgba(138, 146, 255, 0.14);
+  --v-red: #ff6b81;
+  --bg-color: #070b2e;
+  --content-bg: #0b1038;
+  --text-color: #d9dcff;
+  --text-muted: #9aa0f0;
+  --heading-color: #b3b8ff;
+  --primary-color: #8a92ff;
+  --primary-hover: #c3c7ff;
+  --link-visited: #8a92ff;
+  --border-color: rgba(138, 146, 255, 0.30);
+  --border-subtle: rgba(138, 146, 255, 0.18);
+  --sidebar-bg: #070b2e;
+  --sidebar-hover: rgba(138, 146, 255, 0.08);
+  --sidebar-active: rgba(138, 146, 255, 0.14);
+  --toc-bg: #0b1038;
+  --toc-border: rgba(138, 146, 255, 0.30);
+  --toc-active: #8a92ff;
+  --code-bg: rgba(138, 146, 255, 0.10);
+  --code-text: #d9dcff;
+  --badge-bg: #141a4a;
+  --list-marker: #9aa0f0;
+  --quote-bar: #8a92ff;
+  color-scheme: dark;
+}
+
+body { font-family: var(--ys-text); color: var(--text-color); }
+::selection { background: var(--primary-color); color: var(--bg-color); }
+code, pre, kbd { font-family: var(--ys-mono); }
+
+/* header: the same marks and links as the main site */
+header {
+  background-color: color-mix(in srgb, var(--bg-color) 90%, transparent);
+  border-bottom: 1px solid var(--border-color);
+}
+.logo {
+  font-family: var(--ys-display); font-weight: 400; font-size: 1.35rem;
+  letter-spacing: .02em; text-transform: uppercase; color: var(--primary-color) !important;
+}
+.header-subtitle {
+  font-family: var(--ys-mono); font-size: 0.68rem; letter-spacing: .05em;
+  text-transform: uppercase; color: var(--text-muted);
+}
+.header-tab {
+  font-family: var(--ys-display); font-weight: 400; font-size: 0.98rem;
+  letter-spacing: .07em; text-transform: uppercase; color: var(--primary-color);
+}
+.header-tab:hover { color: var(--primary-hover); background: var(--sidebar-hover); }
+.header-tab.active { background: var(--primary-color); color: var(--bg-color); }
+.header-tab.header-site { padding-left: 10px; padding-right: 10px; }
+.header-sep { width: 1px; align-self: stretch; margin: 8px 6px; background: var(--border-color); }
+.panel-toggle { color: var(--primary-color); border-radius: 0; }
+
+/* titles */
+.article-header { border-bottom: 1px solid var(--border-color); }
+.article-title {
+  font-family: var(--ys-display); font-weight: 300; font-size: clamp(2.2rem, 4.4vw, 3.4rem);
+  line-height: 0.98; letter-spacing: 0; text-transform: uppercase; color: var(--heading-color);
+}
+.article-tagline {
+  font-family: var(--ys-mono); font-size: 0.7rem; letter-spacing: .05em;
+  text-transform: uppercase; color: var(--text-muted);
+}
+.markdown-body h1, .markdown-body h2 {
+  font-family: var(--ys-display); font-weight: 400; text-transform: uppercase; letter-spacing: .01em;
+}
+.markdown-body h1 { font-size: 2.1rem; font-weight: 300; }
+.markdown-body h2 { font-size: 1.6rem; }
+.markdown-body h3, .markdown-body h4 { font-family: var(--ys-text); font-weight: 600; }
+
+/* small labels in mono, like the main site */
+.sidebar-heading, .toc-title, .cal-title, .cal-dow {
+  font-family: var(--ys-mono); letter-spacing: .06em; text-transform: uppercase;
+}
+
+/* square fields and cards */
+.search-box { border-radius: 0; border: 1px solid var(--border-color); background: #fff; color: var(--text-color); }
+.search-box:focus { border-color: var(--primary-color); box-shadow: none; outline: 2px solid var(--primary-color); outline-offset: 1px; }
+.cal-card, .graph-card, .toc, #toc, .callout, .markdown-body blockquote, .markdown-body pre { border-radius: 0 !important; box-shadow: none !important; }
+.cal-day.is-today { background: var(--primary-color); color: var(--bg-color); border-radius: 0; }
+:focus-visible { outline: 2px solid var(--primary-color); outline-offset: 2px; }
+
+:root[data-theme="dark"] .search-box { background: var(--content-bg); }
+
+/* light/dark button, shared with the main site */
+.theme-toggle {
+  display: inline-grid; place-items: center; width: 32px; height: 32px; padding: 0; cursor: pointer;
+  background: transparent; color: var(--primary-color); border: 1px solid var(--border-color); border-radius: 0;
+}
+.theme-toggle:hover { background: var(--sidebar-hover); }
+.theme-toggle svg { width: 16px; height: 16px; }
+.theme-toggle .t-sun { display: none; }
+:root[data-theme="dark"] .theme-toggle .t-sun { display: block; }
+:root[data-theme="dark"] .theme-toggle .t-moon { display: none; }
+
+/* layout fixes for the yourastro.space header and page card */
+main, #main-content { border-radius: 0 !important; box-shadow: 0 0 0 1px var(--border-color) !important; }
+.header-subtitle { display: none; }
+.header-brand { flex: 0 1 auto; min-width: 0; }
+.header-nav { flex: 1 1 auto; min-width: 0; justify-content: flex-end; }
+
+/* iPad and phone: the site links scroll sideways inside the header instead of pushing the page wider */
+@media (max-width: 1080px) {
+  .header-nav { overflow-x: auto; scrollbar-width: none; flex-wrap: nowrap; justify-content: flex-start; }
+  .header-nav::-webkit-scrollbar { display: none; }
+  .header-tab { flex: none; }
+  .header-social span { display: none; }
+}
+@media (max-width: 600px) {
+  .header-brand { display: none; }
+  .header-tab { font-size: 0.86rem; padding: 6px 8px; letter-spacing: .05em; }
+  .header-sep { margin: 10px 2px; }
+  .theme-toggle { flex: none; width: 30px; height: 30px; }
+}
+.article-title { overflow-wrap: anywhere; }
+@media (max-width: 600px) { .article-title { font-size: 2rem; } }

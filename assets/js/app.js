@@ -882,6 +882,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
     wakeSimulation(1.0);
 
+    // the site's light/dark button changes the CSS variables, so read them again and redraw
+    const refreshTheme = () => {
+      const c = getComputedStyle(document.documentElement);
+      const v = (name, fallback) => (c.getPropertyValue(name) || '').trim() || fallback;
+      theme.accent = v('--primary-color', theme.accent);
+      theme.accentStrong = v('--primary-hover', theme.accentStrong);
+      theme.text = v('--text-color', theme.text);
+      theme.muted = v('--text-muted', theme.muted);
+      theme.border = v('--border-color', theme.border);
+      theme.surface = v('--content-bg', theme.surface);
+      render();
+    };
+    window.addEventListener('themechange', refreshTheme);
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', refreshTheme);
+
     // Node hit testing in screen coordinates
     function getNodeAt(sx, sy) {
       for (let i = nodes.length - 1; i >= 0; i--) {
