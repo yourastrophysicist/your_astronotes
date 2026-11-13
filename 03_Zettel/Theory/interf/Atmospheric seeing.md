@@ -67,6 +67,20 @@ site-monitoring instruments:
 
 published seeing for a site is the median over many years; a given night can be much better or much worse.
 
+## worked example
+
+with $r_0 = 10$ cm at 500 nm:
+
+$$\theta = 0.98\,\frac{\lambda}{r_0} = \frac{0.98 \times 5 \times 10^{-7}}{0.10} = 4.9 \times 10^{-6}\ \text{rad} = 1.0''$$
+
+in the K band, $r_0$ grows as $\lambda^{6/5}$ to $10 \times 4.4^{1.2} = 59$ cm, and the seeing is $0.75''$. so the seeing improves only as $\lambda^{-1/5}$, while the diffraction limit gets worse as $\lambda$. the coherence time is $\tau_0 \simeq 0.31\,r_0/v = 3$ ms for a wind of 10 m/s.
+
+## where it goes wrong
+
+- a telescope larger than $r_0$ collects more light but does not resolve more, unless it has adaptive optics.
+- $r_0$ shrinks with airmass as $X^{-3/5}$, so the seeing is worse away from the zenith.
+- part of the seeing is made inside the dome, by the heat of the telescope and the building.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -130,5 +144,3 @@ published seeing for a site is the median over many years; a given night can be 
 - [[Spectrograph design]]
 - [[Useful constants and conversions]]
 - [[Observational_Astrophysics_MOC]]
-
-

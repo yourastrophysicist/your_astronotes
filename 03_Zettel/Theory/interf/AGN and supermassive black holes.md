@@ -44,7 +44,7 @@ masses inferred from:
 EHT 2022 published the first image of Sgr A* itself:
 - **bright ring** of size ~50 μas (smaller than M87 because Sgr A* is closer)
 - **dark center** also from the photon sphere
-- mass $M_{\rm BH} = 4.3 \times 10^6 M_\odot$, consistent with [[Galactic Center Sgr A and S-stars\|GRAVITY S-star]] measurements
+- mass $M_{\rm BH} = 4.3 \times 10^6 M_\odot$, consistent with [[Galactic Center Sgr A and S-stars|GRAVITY S-star]] measurements
 
 both M87 and Sgr A* images confirm GR predictions for the photon ring at $\sim 1$ percent precision in linear scale.
 
@@ -100,6 +100,14 @@ planned:
 - **VLTI/GRAVITY+ extension**: BLR studies of fainter AGN
 - **GRAVITY+ + ELT extreme AO**: combined observations to fully resolve AGN central regions
 
+## worked example
+
+$L_{\rm Edd} = 1.3 \times 10^{38}\,(M/M_\odot)$ erg/s. a black hole of $10^8\,M_\odot$ has $L_{\rm Edd} = 1.3 \times 10^{46}$ erg/s. at 10% efficiency it accretes $\dot M = L/(\eta c^2) = 2.2\,M_\odot$/yr.
+
+## where it goes wrong
+
+- the Eddington limit assumes spherical accretion. disks can exceed it.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -133,5 +141,3 @@ planned:
 - [[Galactic Center Sgr A and S-stars]]
 - [[Astronomical_Interferometry_MOC]]
 - [[Observational_Cosmology_MOC]]
-
-

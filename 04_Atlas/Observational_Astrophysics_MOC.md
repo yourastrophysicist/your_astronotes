@@ -15,6 +15,10 @@ $$\text{coordinates} \to \text{atmosphere} \to \text{photons in filter} \to \tex
 
 ---
 
+## Derivations, step by step
+
+The CCD signal-to-noise equation and the optimal aperture, the photon transfer curve for gain and read noise, atmospheric extinction with the Bouguer line, and the diffraction limit and plate scale are written out in [[Observational Astrophysics derivations]].
+
 ## Reference texts
 
 - **Karttunen, Oja, Poutanen, Donner**, *Fundamental Astronomy* - spherical astronomy backbone and stellar populations.

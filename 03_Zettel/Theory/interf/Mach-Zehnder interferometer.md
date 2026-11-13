@@ -12,12 +12,8 @@ invented by Mach (1891) and Zehnder (1892) independently. now standard in optics
 
 four optical elements arranged in a rectangle:
 
-```
-        BS1 ──── M2
-         │       │
-         │       │
-        M1 ──── BS2 ── outputs
-```
+![Mach-zender-interferometer](../../../assets/images/commons_Mach-zender-interferometer.png)
+*Working scheme of a Mach-Zehnder interferometer, two beam splitters and two mirrors. Image: Daniel Mader, CC BY-SA 3.0 / GFDL, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mach-zender-interferometer.png).*
 
 light from the source hits BS1 (first beam splitter), which sends 50% along arm 1 (to M1) and 50% along arm 2 (to M2). each mirror reflects to BS2 (second beam splitter), where the two beams recombine and exit through *two* output ports.
 
@@ -125,5 +121,3 @@ both are first-class amplitude-division interferometers; the choice depends on w
 - [[Michelson laboratory interferometer]]
 - [[Sagnac interferometer]]
 - [[Astronomical_Interferometry_MOC]]
-
-

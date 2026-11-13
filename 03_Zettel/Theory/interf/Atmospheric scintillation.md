@@ -47,6 +47,24 @@ these are related but different:
 
 both come from the same atmospheric turbulence, but they live in different observables. seeing is the dominant problem for *imaging resolution*; scintillation is the dominant problem for *time-series photometry from small telescopes*.
 
+## worked example
+
+Young's scaling for the fractional noise from scintillation is
+
+$$\sigma_{\rm scint} \simeq 0.09\,D^{-2/3}X^{7/4}e^{-h/8\,{\rm km}}(2t)^{-1/2}$$
+
+with $D$ in cm and $t$ in s. for a 1 m telescope at 2000 m, at the zenith, in 60 s:
+
+$$\sigma = 0.09 \times 0.0464 \times 0.779 \times 0.0913 \approx 3 \times 10^{-4}$$
+
+so 0.3 mmag. this is the floor for bright stars from the ground, and it is why transit photometry of bright stars went to space.
+
+## where it goes wrong
+
+- planets twinkle less than stars because their disks average over many turbulent cells.
+- scintillation comes mostly from high layers. seeing comes from all of them. a site can be good in one and poor in the other.
+- for faint stars photon and sky noise dominate, and scintillation does not matter.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -85,5 +103,3 @@ both come from the same atmospheric turbulence, but they live in different obser
 
 - [[Atmospheric seeing]]
 - [[Observational_Astrophysics_MOC]]
-
-

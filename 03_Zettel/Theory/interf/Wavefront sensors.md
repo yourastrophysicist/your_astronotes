@@ -16,13 +16,8 @@ I need to measure the wavefront across a $D \sim 8$ m aperture sampled at $\sim 
 
 the most common. an array of small lenslets divides the pupil into sub-apertures. each lenslet focuses its sub-aperture's light onto a small CCD region. the *position* of each spot on its CCD region tells you the local wavefront *gradient*.
 
-```
-        wavefront                lenslet array         CCD
-   ━━━━━━━━━━━━━━━━━     ═══════════════════════     ━━━━━━━
-        ↓                  /[]/[]/[]/[]/[]/         spots displaced
-                            (one lenslet per         in proportion
-                             subaperture)            to local tilt
-```
+![Shack_Hartmann_WFS_lensletarray](../../../assets/images/commons_Shack_Hartmann_WFS_lensletarray.png)
+*Shack-Hartmann wavefront sensor. Each lenslet images its subaperture, and the spot displacement gives the local wavefront slope. Image: 2pem, CC BY-SA 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shack_Hartmann_WFS_lensletarray.svg).*
 
 advantages:
 - simple, robust
@@ -132,5 +127,3 @@ the inversion is a sparse linear-system solve, doable in microseconds on modern 
 - [[Frozen turbulence and Taylor hypothesis]]
 - [[Guide stars and laser guide stars]]
 - [[Astronomical_Interferometry_MOC]]
-
-

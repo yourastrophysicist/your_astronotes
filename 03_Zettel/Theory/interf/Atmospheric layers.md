@@ -46,6 +46,20 @@ an observatory at $4200$ m sits above $\sim 40\%$ of the atmosphere by mass and 
 
 practical pre-2020 list: Mauna Kea ($4200$ m), Cerro Paranal ($2600$ m), Cerro Pachón ($2700$ m), La Palma ($2400$ m), San Pedro Mártir ($2800$ m), Cerro Tololo ($2200$ m). future ELTs: Cerro Armazones ($3000$ m), Maunakea-South.
 
+## worked example
+
+the pressure falls as $P = P_0\,e^{-h/H}$ with a scale height
+
+$$H = \frac{k_BT}{\mu m_Hg} \approx 7.5\ \text{km}$$
+
+for $T = 250$ K and $\mu = 29$. at Paranal (2635 m) the pressure is $e^{-0.35} = 71\%$ of sea level, at Mauna Kea (4200 m) it is $58\%$. water vapour has a scale height of only 2 km, so at 4200 m only $e^{-2.1} = 12\%$ of it is still above the telescope. this is why infrared and sub-mm telescopes go high.
+
+## where it goes wrong
+
+- turbulence is not only near the ground. the jet stream at 10 to 12 km is a strong layer.
+- the ozone that blocks the ultraviolet is in the stratosphere, above every mountain.
+- the sodium layer used for laser guide stars is at 90 km, and the ionosphere that affects radio waves is higher still.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -84,5 +98,3 @@ practical pre-2020 list: Mauna Kea ($4200$ m), Cerro Paranal ($2600$ m), Cerro P
 - [[Atmospheric transparency windows]]
 - [[Sky brightness]]
 - [[Observational_Astrophysics_MOC]]
-
-

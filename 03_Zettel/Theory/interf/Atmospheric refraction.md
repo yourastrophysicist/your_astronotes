@@ -42,6 +42,25 @@ so on a hot day or at high altitude the refraction is smaller. at Mauna Kea ($P 
 - **astrometry**: photons from different angles refract differently, so absolute positions need refraction correction.
 - **photometry at high airmass**: differential refraction within a wide-field image is non-zero, so very wide fields need a 2D refraction model, not just a single shift.
 
+## worked example
+
+with $R \simeq 58.2''\tan z$ at sea level:
+
+| $z$ | $R$ |
+|---|---|
+| $45^\circ$ | $58''$ |
+| $60^\circ$ | $101'' = 1.7'$ |
+| $80^\circ$ | $330'' = 5.5'$ (the true value is $5.3'$) |
+| $90^\circ$ | $\approx 35'$, from the full integration |
+
+the Sun is $32'$ across, so when its lower edge seems to touch the horizon the whole disk is geometrically below it.
+
+## where it goes wrong
+
+- the $\tan z$ law comes from a plane-parallel atmosphere and fails beyond $z \approx 75^\circ$.
+- the constant scales with pressure and temperature, roughly as $P/T$. a high and cold site has less refraction.
+- refraction depends on wavelength, so every star near the horizon is a small vertical spectrum.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -78,5 +97,3 @@ so on a hot day or at high altitude the refraction is smaller. at Mauna Kea ($P 
 - [[Precession nutation aberration parallax]]
 - [[Fundamentals_Astrophysics_Cosmology_MOC]]
 - [[Observational_Astrophysics_MOC]]
-
-

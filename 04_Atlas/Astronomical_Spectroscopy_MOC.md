@@ -25,6 +25,10 @@ every later course (Stellar Astrophysics, Galaxies, Lab High-Energy in X-ray spe
 - **Mihalas**, *Stellar Atmospheres*, the classic rigorous treatment of radiative transfer.
 - **Hansen, Kawaler, Trimble**, *Stellar Interiors* - for the connection to stellar structure.
 
+## derivations, step by step
+
+The radiative transfer equation and its formal solution, the line broadening profiles, the Voigt profile and the three regimes of the curve of growth are written out in [[Astronomical Spectroscopy derivations]].
+
 ## Block 0 - course frame
 
 - [[Spectroscopy_course_intro]] - what this course is, the chain from atomic physics to plasma diagnostics, how it relates to other MOCs

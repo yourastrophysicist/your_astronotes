@@ -71,6 +71,22 @@ second-generation systems (SPHERE on VLT, GPI on Gemini, MagAO-X on Magellan) pu
 
 the next generation telescopes (ELT $39$ m, GMT $25$ m, TMT $30$ m) all rely on AO to deliver useful resolution. the diffraction limit at $30$ m, K-band, is $\sim 15$ mas, $30\times$ better than HST. without AO it would all be lost.
 
+## worked example
+
+how many actuators an 8 m telescope needs, roughly $(D/r_0)^2$:
+
+- visible, $r_0 = 15$ cm: $(800/15)^2 \approx 2800$
+- K band, $r_0 = 90$ cm: $(800/90)^2 \approx 80$
+
+the Strehl ratio for a residual wavefront error of $\lambda/14$ rms is $S = e^{-(2\pi/14)^2} = 0.82$, the usual definition of diffraction limited. the isoplanatic angle is $\theta_0 \simeq 0.31\,r_0/\bar h$. for $r_0 = 15$ cm and $\bar h = 5$ km it is $9 \times 10^{-6}$ rad, about $2''$ in the visible.
+
+## where it goes wrong
+
+- adaptive optics corrects the phase of the wave, not the transparency of the sky.
+- the correction is good only within the isoplanatic angle of the guide star.
+- a laser guide star cannot measure the overall tilt of the wavefront, so a natural star is still needed for that.
+- the system must run faster than the coherence time, hundreds to thousands of times per second.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -122,5 +138,3 @@ the next generation telescopes (ELT $39$ m, GMT $25$ m, TMT $30$ m) all rely on 
 - [[Earth atmosphere for observations]]
 - [[Astronomical_Interferometry_MOC]]
 - [[Observational_Astrophysics_MOC]]
-
-

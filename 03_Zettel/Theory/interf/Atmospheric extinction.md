@@ -67,6 +67,21 @@ cloud, varying aerosol, or jet stream cause $k$ to vary on minute timescales. th
 - Bouguer line procedure: photometric standards at multiple $X$, fit a line, get $k$ and $m_0$.
 - for percent photometry: $X \le 1.5$, photometric night.
 
+## worked example
+
+a standard star is measured twice in the same night:
+
+- at $X = 1.2$, $m = 12.38$
+- at $X = 2.0$, $m = 12.50$
+
+the slope of the Bouguer line is $k = (12.50 - 12.38)/(2.0 - 1.2) = 0.15$ mag per airmass. the magnitude above the atmosphere is $m_0 = 12.38 - 0.15 \times 1.2 = 12.20$.
+
+## where it goes wrong
+
+- the coefficient depends on wavelength, so inside a broad filter a blue star and a red star are extinguished differently. this is the colour term.
+- the coefficient is measured every night. it changes with dust and humidity.
+- if the points do not fall on a straight line, the night was not photometric.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -132,5 +147,3 @@ cloud, varying aerosol, or jet stream cause $k$ to vary on minute timescales. th
 - [[Useful constants and conversions]]
 - [[Atmospheric refraction]]
 - [[Observational_Astrophysics_MOC]]
-
-

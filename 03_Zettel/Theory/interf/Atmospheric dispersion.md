@@ -42,6 +42,20 @@ for high-resolution imaging at $z > 30°$, an **ADC** is mandatory. it consists 
 
 modern AO instruments (NACO, SPHERE, KECK NIRC2) all include an ADC.
 
+## worked example
+
+at sea level the refractivity $n - 1$ of air differs by about $6.6 \times 10^{-6}$ between 400 and 700 nm. the length of the little spectrum is therefore
+
+$$\Delta R \simeq 6.6 \times 10^{-6}\tan z\ \text{rad} = 1.4''\tan z$$
+
+at $z = 45^\circ$ that is $1.4''$, already larger than the seeing. at an observatory at 2600 m the pressure is about 73% of sea level and the number drops to $1.0''$.
+
+## where it goes wrong
+
+- a slit that is not along the parallactic angle loses the blue or the red light of the star.
+- the effect grows quickly toward the blue, because the refractivity of air rises steeply there.
+- an atmospheric dispersion corrector is needed for fibres and for adaptive optics, where the image is smaller than the dispersion.
+
 ## sources of $n(\lambda)$
 
 the refractive index of dry air at standard $T, P$:
@@ -83,5 +97,3 @@ weakly chromatic in the optical, more strongly so in the UV. water vapour adds a
 
 - [[Atmospheric refraction]]
 - [[Observational_Astrophysics_MOC]]
-
-

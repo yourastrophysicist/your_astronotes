@@ -57,7 +57,7 @@ All core textbooks, lecture dispensas, and student synthesis documents reside lo
    - `SMBH_in_Galaxies.tex` / `SMBH_in_Galaxies.pdf` (26 pp.)  -  Direct Evidence (Sgr A*, EHT, NGC 4258), Kinematical Modeling (Gas STIS, Spherical Jeans, JAM), Reverberation Mapping & Velocity-Delay Maps, SMBH Scaling Relations ($M-\sigma$, Magorrian).
 
 7. **Master Exam Protocols & Blackboard Blueprints**
-   - Master Derivations and Mathematical Rigor  -  Step-by-step mathematical proofs with zero intermediate steps skipped.
+   - [[Astrophysics of Galaxies derivations]]  -  Step-by-step mathematical proofs with zero intermediate steps skipped.
    - Master Observational Graphs and Blackboard Fluency  -  Blackboard sketch anatomy, axes, slopes, turnovers, and physical mechanics.
    - Lesson Learned - Mathematical Rigor and Observational Graph Fluency  -  Postmortem exam strategy and oral defense rules.
 

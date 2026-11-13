@@ -76,4 +76,5 @@ these supplement the [[Fundamentals_Astrophysics_Cosmology_MOC]]. the MOC is the
 
 ## see also
 
+- [[Fundamentals derivations blocks 7 to 9]], the earlier one-file version of blocks 7 to 9.
 - [[Fundamentals_Astrophysics_Cosmology_MOC]] is the conceptual map this folder supports.

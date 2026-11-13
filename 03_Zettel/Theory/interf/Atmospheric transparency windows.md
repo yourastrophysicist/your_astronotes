@@ -52,6 +52,21 @@ each band's filter shape is constrained by the surrounding water bands, not by a
 
 a transmission curve $T(\lambda)$ is the input to any exposure-time calculator. tools like ATRAN, TAPAS, or the ESO SkyCalc model the column transmission given site, airmass, PWV, and date. exposure planning at a real observatory always starts from one of these.
 
+## worked example
+
+the edges to remember:
+
+- ultraviolet cutoff at about 310 nm, from ozone.
+- optical window from 0.31 to about 1 $\mu$m.
+- infrared bands between the water and CO$_2$ absorptions: J 1.25, H 1.65, K 2.2, L 3.5, M 4.8, N 10, Q 20 $\mu$m.
+- radio window from about 1 cm to 10 or 30 m. the long-wavelength edge is the plasma frequency of the ionosphere, $\nu_p \simeq 9\ \text{kHz}\sqrt{n_e}$. for $n_e = 10^6$ cm$^{-3}$ this is 9 MHz.
+
+## where it goes wrong
+
+- a window is not perfectly transparent. even in V about 13% of the light is lost at the zenith.
+- the infrared and sub-mm windows open and close with the amount of water vapour, so they change from night to night.
+- X-rays and gamma rays never reach the ground. they are stopped high in the atmosphere, which is why Cherenkov telescopes observe the shower and not the photon.
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -121,5 +136,3 @@ a transmission curve $T(\lambda)$ is the input to any exposure-time calculator. 
 - [[Sky brightness]]
 - [[Survey resources for Obs Astro]]
 - [[Observational_Astrophysics_MOC]]
-
-
