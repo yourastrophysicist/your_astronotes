@@ -4,16 +4,15 @@ title: "Master's Curriculum in Astrophysics & Cosmology"
 ---
 
 <div class="welcome-hero">
+  <pre class="sky" aria-hidden="true"></pre>
+  <p class="hero-sub">M.Sc. astrophysics and cosmology · semesters 1 and 2 · Università degli Studi di Padova</p>
   <h1>Your AstroNotes</h1>
-  <p class="hero-sub">
-    Master's Curriculum in Astrophysics and Cosmology (Semesters 1-2) — Università degli Studi di Padova
-  </p>
   <p class="hero-tag">
-    From your BRAT astrophysicist for your astronotes &mdash; an open digital garden of graduate lecture notes, derivations, Maps of Content, and observational figures.
+    In my first year in Padova I wrote down everything, and the notes grew into an open garden of lecture notes, derivations, maps of content and figures. They are here for anyone who needs them, from your BRAT astrophysicist.
   </p>
 </div>
 
-## Academic Scope & Curriculum Overview (Semesters 1 – 2)
+## The ten courses
 
 <div class="semester-grid">
 

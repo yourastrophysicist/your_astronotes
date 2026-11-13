@@ -12,6 +12,8 @@ Everything here was put together by one voyager only. There are lecture write-up
 * Website, [yourastro.space/notes](https://www.yourastro.space/notes/)
 * Instagram, [@your.astrophysicist](https://instagram.com/your.astrophysicist)
 
+The notes are one part of [yourastro.space](https://www.yourastro.space/), next to my [terminal](https://www.yourastro.space/terminal/) and the [SPHEREx](https://www.yourastro.space/SPHEREx/) page. They share one look, a single blue on light grey, with a light and dark button at the top that remembers your choice across the whole site.
+
 ---
 
 ## Why I keep them linked
@@ -77,6 +79,12 @@ There are ten courses, each with its own map in `04_Atlas/`. A map is the best p
 Open a course map first and read it in order, so the notes come with their context. When a note has a derivation, do it yourself on paper before reading mine, check the units and look at what happens in the limits. The files in the derivations folder are made for exactly that, each one ends with a few questions and a short summary to redo from memory. When a note mentions something you do not remember, click it, that is what the links are for.
 
 The notes assume the usual bachelor background, so calculus and differential equations, linear algebra, classical mechanics, electromagnetism, thermodynamics and statistical mechanics, and some quantum mechanics.
+
+---
+
+## How the site is built
+
+The notes are built by GitHub Pages with Jekyll and shown at `yourastro.space/notes`. The layout is `_layouts/default.html`. The styles stack in this order, `style.css` for the structure, `velocity.css` for the type scale (ported from the Obsidian theme [Velocity](https://github.com/Gonzalo-D-Sales/obsidian-velocity)), `layout.css` for iPad and phone, and `site-theme.css` last, which gives the notes the yourastro.space colours, fonts and square shapes. The light and dark button and the star field on the home page come from the main site, `/theme.js` and `/ascii.js`.
 
 ---
 
