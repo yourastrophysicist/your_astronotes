@@ -1,0 +1,319 @@
+/* Layout for laptop, iPad and phone.
+   Desktop (wider than 1080px): both sidebars sit beside the page and can be collapsed.
+   iPad portrait and phones (1080px and narrower): both sidebars slide in as drawers. */
+
+/* header with the two sidebar buttons */
+header {
+  gap: 8px;
+  padding: 0 12px;
+}
+
+.header-brand {
+  flex: 1 1 auto;
+}
+
+.panel-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+  padding: 0;
+  border: none;
+  border-radius: var(--v-radius-sm, 6px);
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.panel-toggle:hover {
+  background-color: var(--sidebar-hover);
+  color: var(--heading-color);
+}
+
+.panel-toggle[aria-expanded="true"] {
+  color: var(--heading-color);
+}
+
+.panel-toggle svg {
+  width: 20px;
+  height: 20px;
+}
+
+.header-social {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.header-social svg {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+
+/* the old in-sidebar "Browse notes" button is replaced by the header button */
+.sidebar-toggle {
+  display: none !important;
+}
+
+.sidebar-body {
+  display: block !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+.drawer-backdrop[hidden] {
+  display: none;
+}
+
+/* the graph can be dragged with a finger */
+#graph-canvas {
+  touch-action: none;
+}
+
+/* calendar */
+.cal-card {
+  margin-bottom: 18px;
+  padding: 10px 12px 12px;
+  background-color: var(--content-bg);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--v-radius, 10px);
+}
+
+.cal-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+
+.cal-title,
+.cal-nav {
+  font: inherit;
+  background: transparent;
+  border: none;
+  border-radius: var(--v-radius-sm, 6px);
+  color: var(--heading-color);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.cal-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 4px 8px;
+}
+
+.cal-nav {
+  width: 30px;
+  height: 30px;
+  font-size: 1.15rem;
+  line-height: 1;
+  color: var(--text-muted);
+}
+
+.cal-title:hover,
+.cal-nav:hover {
+  background-color: var(--sidebar-hover);
+  color: var(--heading-color);
+}
+
+.cal-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 2px;
+  text-align: center;
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.cal-dow {
+  padding: 2px 0 4px;
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+}
+
+.cal-day {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1;
+  max-height: 32px;
+  margin: 0 auto;
+  width: 100%;
+  border-radius: 50%;
+  color: var(--text-color);
+}
+
+.cal-day.is-weekend {
+  color: var(--text-muted);
+}
+
+.cal-day.is-outside {
+  color: var(--text-muted);
+  opacity: 0.4;
+}
+
+.cal-day.is-today {
+  background-color: var(--v-accent, var(--primary-color));
+  color: #fff;
+  font-weight: 650;
+  opacity: 1;
+}
+
+/* desktop: sidebars beside the page, collapsible */
+@media (min-width: 1081px) {
+  body.hide-left .sidebar-left,
+  body.hide-right .sidebar-right {
+    display: none;
+  }
+
+  body.hide-left main,
+  body.hide-right main {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* small laptops and iPad landscape: slimmer sidebars */
+@media (min-width: 1081px) and (max-width: 1300px) {
+  .sidebar-left { width: 250px; }
+  .sidebar-right { width: 260px; }
+  main { padding: 32px 40px 56px; }
+}
+
+/* iPad portrait and phones: sidebars become drawers */
+@media (max-width: 1080px) {
+  .container {
+    flex-direction: row;
+  }
+
+  .sidebar-left,
+  .sidebar-right {
+    display: block;
+    position: fixed;
+    top: var(--header-height);
+    bottom: 0;
+    height: auto;
+    max-height: none;
+    width: min(320px, 86vw);
+    padding: 16px;
+    z-index: 900;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+    visibility: hidden;
+    box-shadow: var(--shadow);
+    transition: transform 0.22s ease, visibility 0.22s;
+  }
+
+  .sidebar-left {
+    left: 0;
+    transform: translateX(-100%);
+    border: none;
+    border-right: 1px solid var(--border-subtle);
+  }
+
+  .sidebar-right {
+    right: 0;
+    transform: translateX(100%);
+    border: none;
+    border-left: 1px solid var(--border-subtle);
+  }
+
+  body.drawer-left .sidebar-left,
+  body.drawer-right .sidebar-right {
+    transform: none;
+    visibility: visible;
+  }
+
+  body.drawer-left,
+  body.drawer-right {
+    overflow: hidden;
+  }
+
+  .drawer-backdrop {
+    position: fixed;
+    top: var(--header-height);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 850;
+    background: rgba(0, 0, 0, 0.32);
+  }
+
+  main {
+    margin: 12px auto;
+  }
+
+  /* bigger tap targets in the tree */
+  .tree-folder,
+  .tree-file-link {
+    padding: 7px 8px;
+  }
+}
+
+/* iPad portrait: keep the page card centred with a little air */
+@media (min-width: 769px) and (max-width: 1080px) {
+  main {
+    margin: 16px 24px;
+    max-width: none;
+  }
+}
+
+/* phones: one-row header, social links as icons */
+@media (max-width: 600px) {
+  header {
+    height: var(--header-height);
+    min-height: 0;
+    padding: 0 6px;
+    flex-wrap: nowrap;
+    gap: 4px;
+  }
+
+  .header-brand {
+    width: auto;
+    justify-content: flex-start;
+  }
+
+  .header-nav {
+    width: auto;
+    gap: 2px;
+    border-top: none;
+    padding-top: 0;
+  }
+
+  .header-tab {
+    padding: 6px 7px;
+    font-size: 0.82rem;
+  }
+
+  .header-social span {
+    display: none;
+  }
+
+  .header-social svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .logo {
+    font-size: 1rem;
+  }
+
+  main {
+    margin: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sidebar-left,
+  .sidebar-right {
+    transition: none;
+  }
+}

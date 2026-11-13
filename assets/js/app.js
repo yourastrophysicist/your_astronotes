@@ -1,12 +1,120 @@
 document.addEventListener('DOMContentLoaded', () => {
-  // --- 0. Mobile "Browse notes" toggle ---
-  const sidebarToggle = document.querySelector('.sidebar-toggle');
-  if (sidebarToggle) {
-    sidebarToggle.addEventListener('click', () => {
-      const open = sidebarToggle.getAttribute('aria-expanded') !== 'true';
-      sidebarToggle.setAttribute('aria-expanded', String(open));
-      document.body.classList.toggle('sidebar-open', open);
+  // --- 0. Sidebar toggles: collapse on desktop, drawers on iPad portrait and phones ---
+  const drawerQuery = window.matchMedia('(max-width: 1080px)');
+  const toggleLeft = document.getElementById('toggle-left');
+  const toggleRight = document.getElementById('toggle-right');
+  const backdrop = document.getElementById('drawer-backdrop');
+  const body = document.body;
+
+  function store(key, on) {
+    try { localStorage.setItem(key, on ? '1' : '0'); } catch (e) {}
+  }
+
+  function syncToggles() {
+    const drawers = drawerQuery.matches;
+    const leftOpen = drawers ? body.classList.contains('drawer-left') : !body.classList.contains('hide-left');
+    const rightOpen = drawers ? body.classList.contains('drawer-right') : !body.classList.contains('hide-right');
+    if (toggleLeft) toggleLeft.setAttribute('aria-expanded', String(leftOpen));
+    if (toggleRight) toggleRight.setAttribute('aria-expanded', String(rightOpen));
+    if (backdrop) backdrop.hidden = !(drawers && (leftOpen || rightOpen));
+  }
+
+  function closeDrawers() {
+    body.classList.remove('drawer-left', 'drawer-right');
+    syncToggles();
+  }
+
+  function togglePanel(side) {
+    if (drawerQuery.matches) {
+      const cls = 'drawer-' + side;
+      const opening = !body.classList.contains(cls);
+      body.classList.remove('drawer-left', 'drawer-right');
+      if (opening) body.classList.add(cls);
+    } else {
+      const cls = 'hide-' + side;
+      const hidden = body.classList.toggle(cls);
+      store('an-hide-' + side, hidden);
+    }
+    syncToggles();
+  }
+
+  if (toggleLeft) toggleLeft.addEventListener('click', () => togglePanel('left'));
+  if (toggleRight) toggleRight.addEventListener('click', () => togglePanel('right'));
+  if (backdrop) backdrop.addEventListener('click', closeDrawers);
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && (body.classList.contains('drawer-left') || body.classList.contains('drawer-right'))) {
+      closeDrawers();
+    }
+  });
+  // Close the contents drawer after jumping to a heading
+  const tocBox = document.getElementById('toc-content');
+  if (tocBox) {
+    tocBox.addEventListener('click', (e) => {
+      if (drawerQuery.matches && e.target.closest('a')) closeDrawers();
     });
+  }
+  const onModeChange = () => {
+    body.classList.remove('drawer-left', 'drawer-right');
+    if (!drawerQuery.matches) {
+      try {
+        body.classList.toggle('hide-left', localStorage.getItem('an-hide-left') === '1');
+        body.classList.toggle('hide-right', localStorage.getItem('an-hide-right') === '1');
+      } catch (e) {}
+    }
+    syncToggles();
+  };
+  if (drawerQuery.addEventListener) drawerQuery.addEventListener('change', onModeChange);
+  else if (drawerQuery.addListener) drawerQuery.addListener(onModeChange);
+  syncToggles();
+
+  // --- 0b. Month calendar (weeks start on Monday) ---
+  const calGrid = document.getElementById('cal-grid');
+  const calTitle = document.getElementById('cal-title');
+  if (calGrid && calTitle) {
+    const today = new Date();
+    let shown = new Date(today.getFullYear(), today.getMonth(), 1);
+    const monthName = new Intl.DateTimeFormat('en-GB', { month: 'long', year: 'numeric' });
+    const dayName = new Intl.DateTimeFormat('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+
+    function renderCalendar() {
+      calTitle.textContent = monthName.format(shown);
+      calGrid.innerHTML = '';
+      ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'].forEach(d => {
+        const el = document.createElement('div');
+        el.className = 'cal-dow';
+        el.textContent = d;
+        calGrid.appendChild(el);
+      });
+      const offset = (shown.getDay() + 6) % 7;
+      const start = new Date(shown.getFullYear(), shown.getMonth(), 1 - offset);
+      for (let i = 0; i < 42; i++) {
+        const d = new Date(start.getFullYear(), start.getMonth(), start.getDate() + i);
+        if (i >= 35 && d.getMonth() !== shown.getMonth()) break;
+        const el = document.createElement('div');
+        el.className = 'cal-day';
+        if (d.getMonth() !== shown.getMonth()) el.classList.add('is-outside');
+        if (i % 7 >= 5) el.classList.add('is-weekend');
+        if (d.toDateString() === today.toDateString()) {
+          el.classList.add('is-today');
+          el.setAttribute('aria-current', 'date');
+        }
+        el.textContent = d.getDate();
+        el.title = dayName.format(d);
+        calGrid.appendChild(el);
+      }
+    }
+
+    document.querySelectorAll('.cal-nav').forEach(btn => {
+      btn.addEventListener('click', () => {
+        shown = new Date(shown.getFullYear(), shown.getMonth() + Number(btn.dataset.step), 1);
+        renderCalendar();
+      });
+    });
+    calTitle.addEventListener('click', () => {
+      shown = new Date(today.getFullYear(), today.getMonth(), 1);
+      renderCalendar();
+    });
+    renderCalendar();
   }
 
   // --- 1. Dynamic File Tree Explorer ---
@@ -823,7 +931,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }, { passive: false });
 
     // Mouse & Touch Interactions
-    canvas.addEventListener('mousemove', (e) => {
+    canvas.addEventListener('pointermove', (e) => {
       const rect = canvas.getBoundingClientRect();
       const sx = e.clientX - rect.left;
       const sy = e.clientY - rect.top;
@@ -875,7 +983,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-    canvas.addEventListener('mouseleave', () => {
+    canvas.addEventListener('pointerleave', () => {
       hoveredNode = null;
       draggedNode = null;
       isPanning = false;
@@ -884,7 +992,7 @@ document.addEventListener('DOMContentLoaded', () => {
       render();
     });
 
-    canvas.addEventListener('mousedown', (e) => {
+    canvas.addEventListener('pointerdown', (e) => {
       const rect = canvas.getBoundingClientRect();
       const sx = e.clientX - rect.left;
       const sy = e.clientY - rect.top;
@@ -905,7 +1013,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-    window.addEventListener('mouseup', (e) => {
+    window.addEventListener('pointerup', (e) => {
       if (draggedNode) {
         if (!hasDragged) {
           // Plain click on node -> navigate to article
