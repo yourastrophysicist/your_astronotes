@@ -76,6 +76,13 @@ luminosity classes matter because:
 
 modern stellar surveys (Gaia + spectroscopy) recover both reliably.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide28_yerkes_observatory_staff_1938_philip.png](../../assets/images/spec_slide28_yerkes_observatory_staff_1938_philip.png)
+*Yerkes, Morgan, Keenan and Kellman (MK system), Ciroi's slides* (Ciroi's slides, slide 28)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

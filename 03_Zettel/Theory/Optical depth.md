@@ -69,6 +69,13 @@ opacity sources differ by wavelength:
 
 so the spectrum is the integrated effect of all these contributions, each with its own $\kappa_\nu$.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig3-03_two_reference_systems_applied_to_describe.png](../../assets/images/spec_notes_fig3-03_two_reference_systems_applied_to_describe.png)
+*Figure 3.3 of Ciroi's notes: Two reference systems applied to describe the emission/absorption processes within the gaseous cloud.* (Ciroi's notes, p. 37)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

@@ -497,7 +497,7 @@ if I had to compress all of blocks 7-9 onto one page, this is what would be on i
 | growth EdS | $a \propto t^{2/3}$, drop pressure | power law $t^n$ | $\delta \propto a$ (and decaying $a^{-3/2}$) |
 | Mészáros | $\bar\rho_m \ll \bar\rho_r$, $H = 1/2t$ | source negligible | $\delta_m \propto \ln t$ |
 | spherical collapse | closed-Friedmann cycloid | linear extrapolation to $t_c$ | $\delta_c \approx 1.686$, $\Delta_{vir} = 18\pi^2$ |
-| Press-Schechter | Gaussian smoothed field, $P(\delta > \delta_c)$ | factor of 2 by hand | $dn/dM \propto (\delta_c/\sigma) |d\ln\sigma/d\ln M| e^{-\delta_c^2/2\sigma^2}/M^2$ |
+| Press-Schechter | Gaussian smoothed field, $P(\delta > \delta_c)$ | factor of 2 by hand | $dn/dM \propto (\delta_c/\sigma) \lvert d\ln\sigma/d\ln M\rvert e^{-\delta_c^2/2\sigma^2}/M^2$ |
 
 ---
 

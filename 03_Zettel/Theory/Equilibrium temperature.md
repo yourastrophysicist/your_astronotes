@@ -53,6 +53,13 @@ in some environments the gas is not in thermal equilibrium:
 
 modern photoionisation + radiation-hydrodynamics codes (Cloudy + Yt, MAPPINGS V) treat these effects.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig9-01_thermal_balance_between_the_main_heating.png](../../assets/images/spec_notes_fig9-01_thermal_balance_between_the_main_heating.png)
+*Figure 9.1 of Ciroi's notes: Thermal balance between the main heating and cooling mechanisms working in a H II region. The equilibrium temperatures correspond to the values where the efficiencies of heating and cooling processes become equal.* (Ciroi's notes, p. 115)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

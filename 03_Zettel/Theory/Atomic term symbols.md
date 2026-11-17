@@ -22,7 +22,7 @@ elements:
 - **$1\,^2S_{1/2}^e$**: $n = 1$, $S = 1/2$ (doublet), $L = 0$, $J = 1/2$, even parity. this is the H ground state.
 - **$2\,^3P_2^o$**: $n = 2$, $S = 1$ (triplet), $L = 1$, $J = 2$, odd parity. this is one sublevel of $2p$ excited state of He I.
 - **$3\,^2P_{3/2}^o$**: $n = 3$, doublet, $L = 1$, $J = 3/2$, odd. this is one of the Na D-line upper levels.
-- **$2\,^3P_0^o$, $2\,^3P_1^o$, $2\,^3P_2^o$**: the three sublevels of the $2p^2$ ground term of C I (Hund $J = 0$ is the ground state since $2p^2$ is less than half-filled).
+- **$2\,^3P_0^e$, $2\,^3P_1^e$, $2\,^3P_2^e$**: the three sublevels of the $2p^2$ ground term of C I. two $p$ electrons give even parity. Hund puts $J = 0$ lowest because $2p^2$ is less than half-filled.
 
 ## fine structure
 
@@ -44,7 +44,22 @@ example: $2p^1 \to L = 1$, parity $(-1)^1 = -1$ $\to$ odd. $2s^1 \to$ even. $2p^
 
 the **electric dipole selection rule** requires $\Delta p = \text{change}$, i.e. odd $\to$ even or vice versa. if both states have the same parity, the transition is **parity-forbidden** at electric dipole. it can still proceed at magnetic dipole or electric quadrupole, $\sim 10^5$ to $10^8$ times weaker. these are the **forbidden lines** of nebular spectroscopy ([[Forbidden lines]]).
 
-the famous $[OIII]\,\lambda 4959, 5007$ Å lines arise from a parity-forbidden transition $^3P^e \to {^1\!}D^e$, both even, so E1 is forbidden but M1 is allowed.
+the famous $[OIII]\,\lambda 4959, 5007$ Å lines arise from the transition $^1D_2^e \to {^3P_{2,1}^e}$, both terms even, so E1 is forbidden and the line is emitted as M1 (with a small E2 part).
+
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+- A term $n\,LS$ splits into $r = 2S+1$ sublevels if $L \ge S$ and $r = 2L+1$ if $L < S$, giving the multiplet $n\,LSJ$ (Ciroi's notes, p. 7).
+- In a magnetic field each sublevel splits further into $g = 2J+1$ components. Without a field the same $g$ is kept as the statistical weight of the level.
+- Parity rule of thumb from the notes: an odd number of electrons in odd orbitals ($\ell = 1, 3, 5$) gives an odd term, an even number gives an even term. This is why all terms of O I $2p^4$ are even and why O I λ5577, λ6300, λ6364 are forbidden (Ciroi's notes, p. 16).
+<!-- /ciroi-sync -->
+
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig1-01_ground_and_low_excited_levels_of.png](../../assets/images/spec_notes_fig1-01_ground_and_low_excited_levels_of.png)
+*Figure 1.1 of Ciroi's notes: Ground and low excited levels of C I. Energy values are in cm$^{-1}$* (Ciroi's notes, p. 11)
+<!-- /spec-figures -->
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -64,9 +79,6 @@ the famous $[OIII]\,\lambda 4959, 5007$ Å lines arise from a parity-forbidden t
 - [[Forbidden vs permitted vs semiforbidden transitions]]
 - [[Forbidden lines]]
 - Energy level diagrams Grötrian
-
-
-
 ## Linked References
 
 - [[Calcium and CaII H+K]]

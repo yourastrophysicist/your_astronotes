@@ -55,6 +55,13 @@ a rough fraction of the total recombination energy goes into continuum vs lines.
 
 both contribute simultaneously. their sum is the smooth nebular continuum.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig6-01_the_recombination_continumm_for_the_three.png](../../assets/images/spec_notes_fig6-01_the_recombination_continumm_for_the_three.png)
+*Figure 6.1 of Ciroi's notes: The recombination continuum for the three sequences of the hydrogen atom. A temperature $T_e = 10^4$ K is assumed.* (Ciroi's notes, p. 82)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

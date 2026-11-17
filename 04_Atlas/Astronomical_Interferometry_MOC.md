@@ -684,11 +684,11 @@ Every zettel in this map ends with a short sourced section: a definition quoted 
 |---|---|---|
 | **Angular Resolution** | $\theta_{\rm res} \approx \frac{\lambda}{B_{\rm max}}$ | Maximum projected baseline $B_{\rm max}$ sets angular resolving power |
 | **Complex Visibility** | $V(u,v) = \iint I(l,m) e^{-i 2\pi (ul + vm)} dl dm$ | 2D Fourier transform of source brightness distribution $I(l,m)$ |
-| **Fringe Visibility Contrast** | $\mathcal{V} = \frac{I_{\rm max} - I_{\rm min}}{I_{\rm max} + I_{\rm min}} = \frac{|V|}{V(0,0)}$ | Peak-to-valley contrast of interference fringe pattern |
+| **Fringe Visibility Contrast** | $\mathcal{V} = \frac{I_{\rm max} - I_{\rm min}}{I_{\rm max} + I_{\rm min}} = \frac{\lvert V\rvert}{V(0,0)}$ | Peak-to-valley contrast of interference fringe pattern |
 | **Airy Disk First Zero** | $\theta = 1.22 \frac{\lambda}{D}$ | Single aperture diffraction limit of diameter $D$ |
 | **Atmospheric Coherence Time** | $\tau_0 \approx 0.314 \frac{r_0}{v_{\rm wind}}$ | Time before turbulent atmospheric phase fluctuates by $1$ radian |
 | **Closure Phase Relation** | $\Phi_{123} = \arg(V_{12} V_{23} V_{31})$ | Phase sum around closed antenna triangle cancels station errors $\theta_i$ |
-| **Closure Amplitude Relation** | $A_{1234} = \frac{|V_{12}| |V_{34}|}{|V_{13}| |V_{24}|}$ | Ratio of 4 visibilities cancels station-based gain errors $g_i$ |
+| **Closure Amplitude Relation** | $A_{1234} = \frac{\lvert V_{12}\rvert \lvert V_{34}\rvert}{\lvert V_{13}\rvert \lvert V_{24}\rvert}$ | Ratio of 4 visibilities cancels station-based gain errors $g_i$ |
 | **Geometric Delay** | $\tau_g = \frac{\vec{B} \cdot \hat{s}}{c}$ | Wavefront arrival time difference between antennas along baseline $\vec{B}$ |
 | **Delay Line Optical Path** | $\Delta L = c \tau_g = \vec{B} \cdot \hat{s}$ | Path length compensation required in real-time delay carts |
 | **UV Coordinate Transformation** | $\begin{pmatrix} u \\ v \\ w \end{pmatrix} = \frac{1}{\lambda} \mathbf{R}(\delta, H) \begin{pmatrix} B_x \\ B_y \\ B_z \end{pmatrix}$ | Projects ground baseline vector $(B_x, B_y, B_z)$ onto plane perpendicular to line of sight |

@@ -179,23 +179,14 @@ Galaxies in the core of the Virgo cluster regularly exhibit $\text{Def}_{\text{H
 
 ### Graph 1. The Global 21 cm Double-Horned Spectral Profile
 
-```
-  Flux Density S_v (Jy)
-     ^
- 1.0 |      Approaching Horn                     Receding Horn
-     |         /=======\                             /=======\
- 0.8 |        /         \                           /         \
-     |       /           \                         /           \
- 0.5 | . . . * . . . . . . * . . . . . . . . . . . * . . . . . . * . . .  50% Peak
-     |     /  |           | \                   / |             | \
- 0.2 | . * .  |           |  . * . . . . . . . *  |             |  . * .  20% Peak
-     |   /    |           |    \             /    |             |   \
- 0.0 +==*=====+===========+=====*===========*=====+=============+====*==>
-              <=== W_50 / 2 ===>      ^     <=== W_50 / 2 ===>
-                                      |
-                           v_sys (Systemic Velocity)
-                               Heliocentric Velocity v (km/s)
-```
+The profile of a rotating disc seen in the 21 cm line has two horns. Gas on the approaching side piles up at the most blueshifted velocities and gas on the receding side at the most redshifted ones, because the rotation curve is flat and a large area of the disc shares nearly the same projected velocity. Between the horns the flux drops to a trough centred on the systemic velocity $v_{\rm sys}$.
+
+| Quantity | How it is read off the profile |
+|---|---|
+| $v_{\rm sys}$ | midpoint between the two edges at 50% of the peak |
+| $W_{50}$ | full width between the two edges at 50% of the peak flux |
+| $W_{20}$ | full width between the two edges at 20% of the peak, more sensitive to faint wings |
+| rotation speed | $v_{\rm rot} \simeq W_{50}/(2\sin i)$ after correcting for inclination $i$ |
 
 Blackboard presentation notes
 - Symmetric horn heights confirm a balanced, undisturbed gas disk. Asymmetric horns indicate tidal interactions, ram-pressure stripping, or lopsided gas accretion.
@@ -203,19 +194,15 @@ Blackboard presentation notes
 
 ### Graph 2. The Field, Goldsmith and Habing (1969) Two-Phase Phase Diagram
 
-```
-  log10 P / k_B (K cm^-3)
-     ^
- 4.0 |      *=================================\ (Unstable branch - dP/drho < 0)
-     |       \  Cold Neutral Medium (CNM)       \
- 3.5 |        \  T ~ 50 - 100 K                  \  Warm Neutral Medium (WNM)
-     |         \  n ~ 20 - 50 cm^-3               \  T ~ 8000 K
- 3.0 |          \                                  \=====================*
-     |           \                                  n ~ 0.2 - 0.5 cm^-3
- 2.5 +============+=================================+====================>
-                 -1.0          0.0                +1.0          +2.0
-                                log10 n_H (cm^-3)
-```
+Thermal equilibrium of the neutral gas, heating against cooling at fixed pressure, allows two stable phases and one unstable branch between them.
+
+| Phase | $T$ (K) | $n$ (cm$^{-3}$) | Stability |
+|---|---|---|---|
+| Cold Neutral Medium (CNM) | 50 to 100 | 20 to 50 | stable |
+| intermediate branch | a few hundred to a few thousand | between the two | unstable, $dP/d\rho < 0$ |
+| Warm Neutral Medium (WNM) | about 8000 | 0.2 to 0.5 | stable |
+
+The two stable phases coexist in pressure balance at $P/k_B \sim 10^3$ to $10^4$ K cm$^{-3}$.
 
 Key quantitative points for the blackboard
 - Two stable branches where $dP / d\rho > 0$ - The dense, cold phase (CNM) and the warm, diffuse phase (WNM).
@@ -259,9 +246,6 @@ Key quantitative points for the blackboard
 ![gal_ism-22.png](../../assets/images/gal_ism-22.png)
 
 ![gal_ism-23.png](../../assets/images/gal_ism-23.png)
-
-
-
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

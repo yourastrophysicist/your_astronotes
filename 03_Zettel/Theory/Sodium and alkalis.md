@@ -50,6 +50,13 @@ Na D appears as absorption in stars cooler than $\sim$ G0, becomes very strong i
 
 in hotter stars (B, A, F), Na is mostly ionised. the Na I D lines are weak or absent. so D-line strength **decreases with increasing $T$**.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide20_stellar_spectra_n_m_e.png](../../assets/images/spec_slide20_stellar_spectra_n_m_e.png)
+*Stellar spectra, absorption from level n to m, Na I lines, Ciroi's slides* (Ciroi's slides, slide 20)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

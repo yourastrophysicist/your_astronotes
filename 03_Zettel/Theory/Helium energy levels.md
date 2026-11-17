@@ -47,9 +47,39 @@ helium is the **second-most abundant element**, $\sim 24\%$ by mass in stars. it
 - **He I lines** appear in B stars, peak at B2 ($T \sim 22\,000$ K).
 - **He II lines** appear in O stars, peak at O5 ($T \sim 40\,000$ K).
 - both absent in cooler stars (A and later) because no excitation at low $T$.
-- both absent in hottest stars (Wolf-Rayet) because all helium is fully ionised. only He III continuum.
+- in the hottest O stars He I fades because helium is mostly He$^+$ and He$^{2+}$, while He II stays strong. Wolf-Rayet stars show very strong, broad He II emission (He II $\lambda 4686$ is a defining WR line).
 
 so the He I / He II ratio is a temperature thermometer for early-type stars. plus, He I and He II emission diagnose AGN (Seyfert) and hot evolved stars (PN central stars, sdO).
+
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+The first excited level above the ground is $2\,^3S_1$ at 19.82 eV, the second $2\,^1S_0$ at 20.62 eV (Ciroi's notes, p. 15). Ciroi's table of He I lines in the visible and near IR (Ciroi's notes, p. 16):
+
+| Lower | Upper | $E_n$ (eV) | $E_m$ (eV) | $\lambda$ (Å) | Line |
+|---|---|---|---|---|---|
+| $2\,^1S_0$ | $4\,^1P_1$ | 20.62 | 23.74 | 3964.73 | He I λ3965 |
+| $2\,^1P_1$ | $4\,^1D_2$ | 21.22 | 23.74 | 4921.93 | He I λ4922 |
+| $2\,^1S_0$ | $3\,^1P_1$ | 20.62 | 23.09 | 5015.68 | He I λ5016 |
+| $2\,^1P_1$ | $3\,^1D_2$ | 21.22 | 23.07 | 6678.15 | He I λ6678 |
+| $2\,^3S_1$ | $4\,^3P_{2,1,0}$ | 19.82 | 23.70 | 3187.75 | He I λ3187 |
+| $2\,^3S_1$ | $3\,^3P_{2,1,0}$ | 19.82 | 23.00 | 3888.65 | He I λ3889 |
+| $2\,^3P_{2,1,0}$ | $5\,^3D_{3,2,1}$ | 20.96 | 24.04 | 4026.19 | He I λ4026 |
+| $2\,^3P_{2,1,0}$ | $4\,^3D_{3,2,1}$ | 20.96 | 23.74 | 4471.48 | He I λ4471 |
+| $2\,^3P_{2,1,0}$ | $4\,^3S_1$ | 20.96 | 23.59 | 4713.14 | He I λ4713 |
+| $2\,^3P_{2,1,0}$ | $3\,^3D_{3,2,1}$ | 20.96 | 23.07 | 5875.62 | He I λ5876 |
+| $2\,^3P_{2,1,0}$ | $3\,^3S_1$ | 20.96 | 22.72 | 7065.19 | He I λ7065 |
+| $2\,^3S_1$ | $2\,^3P_{2,1,0}$ | 19.82 | 20.96 | 10830.3 | He I λ10830 |
+
+He II λ4686 is the Pa$\alpha$-like $4 \to 3$ transition of hydrogenic He$^+$.
+<!-- /ciroi-sync -->
+
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig2-07_helium_lines_in_different_spectral_types.png](../../assets/images/spec_notes_fig2-07_helium_lines_in_different_spectral_types.png)
+*Figure 2.7 of Ciroi's notes: Helium lines in different spectral types. The dashed vertical lines indicate the positions of He I λ4471, He II λ4686, and He I λ4713. The Y axis is in arbitrary units to make the comparison easier.* (Ciroi's notes, p. 27)
+<!-- /spec-figures -->
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -73,9 +103,6 @@ so the He I / He II ratio is a temperature thermometer for early-type stars. plu
 - [[Helium population vs T]]
 - [[Why the Sequence OBAFGKM]]
 - [[Stellar spectra and spectral classification]]
-
-
-
 ## Linked References
 
 - [[AGN spectroscopy]]

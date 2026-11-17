@@ -59,6 +59,13 @@ $T_e$ is **anti-correlated with metallicity** (since metal-line cooling is the d
 
 so direct $T_e$ measurement gives metallicity. modern abundance work uses this extensively.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig5-07_the_temperature_can_be_estimated_from.png](../../assets/images/spec_notes_fig5-07_the_temperature_can_be_estimated_from.png)
+*Figure 5.7 of Ciroi's notes: The temperature can be estimated from the [O III] lines ratio. This curve was calculated with the IRAF task TEMDEN by assuming $N_e = 10^3$ cm$^{-3}$.* (Ciroi's notes, p. 73)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

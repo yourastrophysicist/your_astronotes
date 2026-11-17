@@ -65,6 +65,13 @@ a young SNR (937 yr old, observed in 1054 AD) with a **central pulsar** (PSR B05
 
 the Crab is **the** prototype pulsar wind nebula, key calibrator for high-energy astronomy.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide34_example_of_supernova_remnant_m1.png](../../assets/images/spec_slide34_example_of_supernova_remnant_m1.png)
+*Supernova remnant M1, Ciroi's slides* (Ciroi's slides, slide 34)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

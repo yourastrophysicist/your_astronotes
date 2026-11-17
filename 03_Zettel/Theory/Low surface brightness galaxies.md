@@ -63,11 +63,9 @@ Convert this intensity ratio into surface brightness magnitudes -
 $$\mu_0 - \mu_{\mathrm{lim}} = -2.5 \log_{10}\left( \frac{I_0}{I_{\mathrm{lim}}} \right) = -2.5 \log_{10}(e^2) = -5 \log_{10}(e)$$
 Since $\log_{10}(e) \approx 0.43429$ -
 $$\mu_0 - \mu_{\mathrm{lim}} = -5 (0.43429) \approx -2.17 \text{ mag arcsec}^{-2}$$
-$$\mu_{0, {
-m max}} = \mu_{\mathrm{lim}} - 2.17 \text{ mag arcsec}^{-2}$$
+$$\mu_{0, {\rm max}} = \mu_{\mathrm{lim}} - 2.17 \text{ mag arcsec}^{-2}$$
 On historical photographic survey plates (such as the Palomar Observatory Sky Survey, POSS), the detection limit for visual galaxy identification was $\mu_{\mathrm{lim}} \approx 24.0 \text{ mag arcsec}^{-2}$. Substituting this limit -
-$$\mu_{0, {
-m max}} \approx 24.0 - 2.17 = 21.83 \text{ mag arcsec}^{-2}$$
+$$\mu_{0, {\rm max}} \approx 24.0 - 2.17 = 21.83 \text{ mag arcsec}^{-2}$$
 This matches Freeman's observed value ($\mu_0 = 21.65 \pm 0.30$) with high precision.
 
 ### Physical Conclusion

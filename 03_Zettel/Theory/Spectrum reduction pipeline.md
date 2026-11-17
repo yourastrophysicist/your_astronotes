@@ -93,6 +93,13 @@ raw frame
 - **MIDAS** (ESO): old, mostly retired.
 - **instrument-specific pipelines**: HARPS DRS, MUSE pipeline, X-shooter pipeline.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide16_longslit_spectroscopy.png](../../assets/images/spec_slide16_longslit_spectroscopy.png)
+*Longslit spectroscopy, Ciroi's slides* (Ciroi's slides, slide 16)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

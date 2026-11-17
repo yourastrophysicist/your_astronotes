@@ -32,7 +32,7 @@ higher series go into the radio: $n = 100$ to $1000$ transitions are observable 
 | ... | ... | ... |
 | H head | $\infty$ | $3646.0$ |
 
-note: above H8 the lines are increasingly close together and converge at the **Balmer edge** $3646$ Å (= "Balmer jump"). at this wavelength, the bound-free continuum kicks in: photons just above this wavelength can ionise hydrogen from $n = 2$. produces a sharp jump in the continuum, dramatic in A and F stars where $n = 2$ population is high.
+note: above H8 the lines are increasingly close together and converge at the **Balmer edge** $3646$ Å (= "Balmer jump"). at this wavelength the bound-free continuum kicks in: photons shortward of 3646 Å (energy above 3.4 eV) can ionise hydrogen from $n = 2$. produces a sharp jump in the continuum, dramatic in A and F stars where $n = 2$ population is high.
 
 ## the Lyman series
 
@@ -59,6 +59,14 @@ each series line has strength proportional to (number of atoms in the lower leve
 
 Balmer line strength peaks at A0, exactly the spectral type Cecilia Payne identified as having maximum H I excitation.
 
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+- Ciroi's tables give $\Delta E$ next to each wavelength (Ciroi's notes, p. 14, Ciroi's notes, p. 15): Ly$\alpha$ 10.2 eV, Ly$\beta$ 12.09, Ly$\gamma$ 12.75, Ly$\delta$ 13.05, head 13.6 eV. H$\alpha$ 1.89 eV, H$\beta$ 2.55, H$\gamma$ 2.86, H$\delta$ 3.02, head 3.4 eV. Pa$\alpha$ 0.66 eV (18751 Å), Pa$\beta$ 0.97 (12818), Pa$\gamma$ 1.13 (10938), Pa$\delta$ 1.23 (10049), head 1.51 (8203). Br$\alpha$ 0.31 eV (40522 Å), Br$\beta$ 0.47 (26258), Br$\gamma$ 0.57 (21661), Br$\delta$ 0.64 (19445), head 0.85 (14580).
+- Lyman wavelengths are in vacuum, Balmer and longer in air ($n \simeq 1.000277$).
+- Which sublevels make H$\alpha$: $2\,^2S_{1/2} \leftrightarrow 3\,^2P_{1/2,3/2}$, $2\,^2P_{1/2} \leftrightarrow 3\,^2S_{1/2}, 3\,^2D_{3/2}$, and $2\,^2P_{3/2} \leftrightarrow 3\,^2S_{1/2}, 3\,^2D_{3/2,5/2}$. Only $s\leftrightarrow p$ and $p \leftrightarrow d$ jumps are allowed.
+<!-- /ciroi-sync -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -81,9 +89,6 @@ Balmer line strength peaks at A0, exactly the spectral type Cecilia Payne identi
 - [[Balmer decrement]]
 - [[H-alpha SFR tracer]]
 - [[Photon decoupling and CMB]]
-
-
-
 ## Linked References
 
 - [[AGN spectroscopy]]

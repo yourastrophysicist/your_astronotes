@@ -62,6 +62,16 @@ forbidden lines are the **standard** for nebular plasma diagnostics:
 
 modern AGN classification (BPT diagram) is based entirely on forbidden-line ratios.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig5-05_scheme_of_a_3_level_atom.png](../../assets/images/spec_notes_fig5-05_scheme_of_a_3_level_atom.png)
+*Figure 5.5 of Ciroi's notes: Scheme of a 3–level atom: electrons at level 3 decay to level 2 and 1, electrons at level 2 decay to level 1.* (Ciroi's notes, p. 69)
+
+![spec_notes_fig5-06_the_grotrian_diagram_of_o_iii.png](../../assets/images/spec_notes_fig5-06_the_grotrian_diagram_of_o_iii.png)
+*Figure 5.6 of Ciroi's notes: The Grotrian diagram of [O III]λ2321, λ4363, λ4959, λ5007.* (Ciroi's notes, p. 70)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

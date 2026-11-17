@@ -80,10 +80,10 @@ the visibility is the *complex coherence*, encoding both how strongly correlated
 ## diagonal vs off-diagonal
 
 at the same point ($\mathbf r_1 = \mathbf r_2$):
-$$\Gamma_{11}(\tau) = $$ autocorrelation of intensity = source spectrum (Wiener-Khinchin)
+$\Gamma_{11}(\tau) =$ autocorrelation of intensity = source spectrum (Wiener-Khinchin)
 
 at the same time but different points ($\tau = 0$):
-$$\Gamma_{12}(0) = $$ mutual spatial coherence = visibility = source brightness FT (Van Cittert-Zernike)
+$\Gamma_{12}(0) =$ mutual spatial coherence = visibility = source brightness FT (Van Cittert-Zernike)
 
 so the diagonal and off-diagonal of $\Gamma$ encode different things: temporal coherence ↔ frequency spectrum, spatial coherence ↔ brightness distribution.
 

@@ -51,6 +51,13 @@ the CMB has $W = 1$ everywhere (filling all space). so its photoexcitation rate 
 
 near the inner edge of a disk around a black hole or compact object, the radiation is intense ($W \to 0.5$). photoionisation and photoexcitation rates approach LTE values. **both** processes are relevant.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig5-01_an_observer_in_p_receives_the.png](../../assets/images/spec_notes_fig5-01_an_observer_in_p_receives_the.png)
+*Figure 5.1 of Ciroi's notes: An observer in P receives the radiation from the star.* (Ciroi's notes, p. 60)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

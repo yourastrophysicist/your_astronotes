@@ -61,6 +61,13 @@ velocity dispersions, mass measurements, star-formation classification.
 - **target density**: fiber MOS has minimum fiber separation, so very dense fields (cluster centres) saturate. multi-pass observing with different mask configurations.
 - **calibration overhead**: a typical MOS night spends substantial time on flat fields and arc lamps because of the per-fiber variations.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide18_multiobject_spectroscopy.png](../../assets/images/spec_slide18_multiobject_spectroscopy.png)
+*Multiobject spectroscopy, Ciroi's slides* (Ciroi's slides, slide 18)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

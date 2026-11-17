@@ -70,8 +70,8 @@ the **language of spectra**: every line corresponds to a transition between two 
 - [[Hydrogen spectral series]] - Lyman ($n = 1$, UV), Balmer ($n = 2$, optical), Paschen ($n = 3$, NIR), Brackett ($n = 4$, NIR)
 - [[Helium energy levels]] - singlet ($S = 0$, parahelium) vs triplet ($S = 1$, orthohelium), $1s^1 2s^1$, $1s^1 2p^1$ etc.
 - [[Sodium and alkalis]] - $3s^1$ ground, D-doublet at $5890, 5896$ Å from $3p \to 3s$
-- [[Magnesium and alkali earths]] - ground $1\,^1\!S_0$, b-triplet near $5170$ Å from $3p\,^3P \to 3s\,^3S$
-- [[Calcium and CaII H+K]] - single-electron ion, $4s^1 \to 3p^6 4s^1$ ground, K $3934$ Å, H $3968$ Å, very strong in cool stars
+- [[Magnesium and alkali earths]] - ground $1\,^1\!S_0$, b-triplet λ5167, 5173, 5184 Å between $3s3p\,^3P^o_{0,1,2}$ (lower, 2.71 eV) and $3s4s\,^3S_1$ (upper, 5.11 eV)
+- [[Calcium and CaII H+K]] - one valence electron, ground $3p^6 4s\;^2S_{1/2}$, K $3934$ Å ($^2P_{3/2}$), H $3968$ Å ($^2P_{1/2}$), red triplet λ8498, 8542, 8662 from $3d\,^2D$, very strong in cool stars
 
 ## Block 3 - population of energy levels
 

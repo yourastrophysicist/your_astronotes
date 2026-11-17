@@ -58,6 +58,13 @@ $$F_{\rm bol} = \int F_\nu d\nu = \sigma_{SB} T_{\rm eff}^4$$
 
 photometric magnitudes depend on the convolution of $F_\lambda$ with filter throughput. the deviations from Planck contribute to the **bolometric correction** ([[Bolometric correction and effective temperature]]). for the Sun, $BC_V \approx -0.07$, very small. for an O5 star, $BC_V \approx -4.1$ (most light in UV).
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig8-02_black_body_spectrum_of_increasing_temperatures.png](../../assets/images/spec_notes_fig8-02_black_body_spectrum_of_increasing_temperatures.png)
+*Figure 8.2 of Ciroi's notes: Black-body spectrum of increasing temperatures. The dashed lines indicate the hydrogen ionization potential ($13.6$ eV) and the helium first ionization potential ($24.6$ eV).* (Ciroi's notes, p. 105)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

@@ -44,8 +44,7 @@ valid in the early universe ($z \gtrsim z_{\rm eq} \sim 3300$).
 ## Λ-dominated (de Sitter) - $\rho = \rho_V = $ const, flat
 
 $\Lambda$ alone:
-$$H^2 = \frac{\Lambda c^2}{3} = $ const
-$$
+$$H^2 = \frac{\Lambda c^2}{3} = \text{const}$$
 
 → $a(t) \propto e^{Ht}$, exponential expansion.
 

@@ -48,6 +48,13 @@ $$\frac{n_X^{i+1}}{n_X^i} = \frac{\Gamma_i}{n_e\alpha_i}$$
 
 so high $\Gamma$ or low $n_e$ (high $U$) means more ionised. low $\Gamma$ or high $n_e$ means less ionised. see [[Photoionisation balance]] and [[Ionisation parameter U]].
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig7-02_the_j_function_data_have_been.png](../../assets/images/spec_notes_fig7-02_the_j_function_data_have_been.png)
+*Figure 7.2 of Ciroi's notes: The $\varphi_j$ function. Data have been taken from Spitzer (2004, Table 5.2).* (Ciroi's notes, p. 98)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

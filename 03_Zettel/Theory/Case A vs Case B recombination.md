@@ -62,6 +62,13 @@ in special situations:
 
 modern photoionisation codes (Cloudy, MAPPINGS) handle Cases A, B, C, and intermediate self-consistently.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig5-02_figure_3_from_prozesky_smits_2018.png](../../assets/images/spec_notes_fig5-02_figure_3_from_prozesky_smits_2018.png)
+*Figure 5.2 of Ciroi's notes: Figure 3 from Prozesky & Smits (2018). The departure coefficient $b_n$ is calculated for different temperatures and assuming $N_e = 10^4$ cm$^{-3}$. Solid lines are the results by Prozesky & Smits (2018), while dashed lines from Storey & Hummer (1995).* (Ciroi's notes, p. 65)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

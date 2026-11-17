@@ -43,6 +43,13 @@ key diagnostic in:
 
 Ca ($Z = 20$): $[Ar] 4s^2$. ground $1\,^1S_0^e$. similar structure to Mg but the more important Ca features are from **Ca II**, the singly ionised stage.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig2-13_magnesium_triplet_5175_in_different_spectral.png](../../assets/images/spec_notes_fig2-13_magnesium_triplet_5175_in_different_spectral.png)
+*Figure 2.13 of Ciroi's notes: Magnesium triplet $\lambda 5175$ in different spectral types. The dashed vertical lines indicate the positions of the three lines: $5167.32$, $5172.68$, $5183.60$ Å. The Y axis is in arbitrary units to make the comparison easier.* (Ciroi's notes, p. 31)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

@@ -28,6 +28,13 @@ in particular, the **grating envelope**: each individual groove of an N-slit gra
 
 this envelope is what makes the **blazed grating** useful: by tilting the groove face you shift the single-slit envelope to peak at a chosen order/wavelength, dramatically increasing throughput there.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide02_b_i_a0_2_sin.png](../../assets/images/spec_slide02_b_i_a0_2_sin.png)
+*Single slit diffraction, Ciroi's slides* (Ciroi's slides, slide 2)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

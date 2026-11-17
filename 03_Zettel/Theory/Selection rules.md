@@ -64,6 +64,13 @@ given a transition specified by initial and final term symbols, check:
 
 if any rule is violated, identify whether it's M1 (parity preserved + $\Delta L = 0$), E2 ($\Delta J$ up to $\pm 2$), or intersystem ($\Delta S \ne 0$).
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide20_stellar_spectra_n_m_e.png](../../assets/images/spec_slide20_stellar_spectra_n_m_e.png)
+*Stellar spectra, absorption from level n to m, Na I lines, Ciroi's slides* (Ciroi's slides, slide 20)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

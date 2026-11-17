@@ -37,6 +37,19 @@ peak strength as Mg II in stellar populations: $T \sim 8000$ to $10\,000$ K (A0)
 
 `MgI_stelle.png` shows Mg I b in actual stellar spectra of various types, demonstrating the peak at G.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig2-11_the_magnesium_partition_functions_calculated_by.png](../../assets/images/spec_notes_fig2-11_the_magnesium_partition_functions_calculated_by.png)
+*Figure 2.11 of Ciroi's notes: The magnesium partition functions calculated by Irwin (1981).* (Ciroi's notes, p. 30)
+
+![spec_notes_fig2-12_the_population_of_the_excited_level.png](../../assets/images/spec_notes_fig2-12_the_population_of_the_excited_level.png)
+*Figure 2.12 of Ciroi's notes: The population of the excited level $3\,^3P_{0,1,2}$ in Mg I.* (Ciroi's notes, p. 31)
+
+![spec_notes_fig2-13_magnesium_triplet_5175_in_different_spectral.png](../../assets/images/spec_notes_fig2-13_magnesium_triplet_5175_in_different_spectral.png)
+*Figure 2.13 of Ciroi's notes: Magnesium triplet $\lambda 5175$ in different spectral types. The dashed vertical lines indicate the positions of the three lines: $5167.32$, $5172.68$, $5183.60$ Å. The Y axis is in arbitrary units to make the comparison easier.* (Ciroi's notes, p. 31)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

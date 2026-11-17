@@ -62,6 +62,16 @@ physical reason: HII regions sit inside dense birth clouds with extra dust colum
 
 modeled by Charlot & Fall 2000 with two attenuation components.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig5-03_the_cardelli_et_al_1989_extinction.png](../../assets/images/spec_notes_fig5-03_the_cardelli_et_al_1989_extinction.png)
+*Figure 5.3 of Ciroi's notes: The Cardelli et al. (1989) extinction law in the visible wavelength domain.* (Ciroi's notes, p. 68)
+
+![spec_notes_fig5-04_in_black_the_spectrum_of_an.png](../../assets/images/spec_notes_fig5-04_in_black_the_spectrum_of_an.png)
+*Figure 5.4 of Ciroi's notes: In black the spectrum of an A0 star, in red the same spectrum reddened by A(V) = 1 mag.* (Ciroi's notes, p. 68)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

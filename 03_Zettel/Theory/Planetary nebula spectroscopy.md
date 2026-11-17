@@ -59,6 +59,13 @@ PN abundances reflect the **AGB nucleosynthesis** of the progenitor:
 
 so PN spectra carry the chemical legacy of intermediate-mass star evolution and contribute to Galactic chemical evolution.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide33_example_of_planetary_nebula_m57.png](../../assets/images/spec_slide33_example_of_planetary_nebula_m57.png)
+*Planetary nebula M57 and H II regions, Ciroi's slides* (Ciroi's slides, slide 33)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

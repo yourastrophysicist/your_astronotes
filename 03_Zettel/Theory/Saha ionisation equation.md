@@ -54,6 +54,13 @@ practical consequence: at a fixed $T$, **lower $n_e$ shifts the equilibrium towa
 
 at recombination of the early universe ($z \sim 1100$, $T \sim 3000$ K), the same equation applies but now in the cosmic-background-photon environment. see [[Saha equation and recombination]] for the cosmological version, which uses $\eta = n_b/n_\gamma \sim 10^{-9}$ and gives a recombination temperature much lower than $\chi_H$, exactly because of the photon-to-baryon ratio. there the equation says when matter and radiation decouple.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig2-03_on_the_left_the_ratio_between.png](../../assets/images/spec_notes_fig2-03_on_the_left_the_ratio_between.png)
+*Figure 2.3 of Ciroi's notes: On the left the ratio between the number density of ionized H atoms and neutral H atoms. On the right the ratio between the number density of ionized H atoms and the total H atoms (ionized plus neutral).* (Ciroi's notes, p. 24)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

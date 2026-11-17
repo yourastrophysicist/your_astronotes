@@ -58,6 +58,23 @@ values vary by stellar type and metallicity. line lists like Moore 1972 or NIST 
 
 for an emission line, $F_\lambda > F_c$, so the integrand is negative. by convention, $W$ for emission lines is reported as a positive number with a sign convention. typical: $W(H\alpha) \sim -50$ to $-1000$ Å for emission-line galaxies.
 
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+Ciroi (Ciroi's notes, p. 42, Ciroi's notes, p. 43):
+- The **line depth** is $R_\lambda = [I_c(0) - I_\lambda(0)]/I_c(0)$. With Eddington-Barbier, $I_c(0) \approx B_\lambda(T_{\rm eff})$ and $I_\lambda(0) = B_\lambda(T_1)$, $T_1 = T(\tau_\lambda = 2/3)$, so $R_\lambda = 1 - B_\lambda(T_1)/B_\lambda(T_{\rm eff})$. Weak line, $k_\lambda \approx k_c$, $R_\lambda \approx 0$. Strong line, $k_c \ll k_\lambda$, $R_\lambda \approx 1$. The continuum forms deeper and hotter, the line higher and cooler.
+- The **equivalent width** is the width of a rectangle as high as the continuum with the same area as the line (Fig. 4.2). It does not depend on the flux calibration, so it works when the calibration is missing or uncertain.
+- EW ratios are only meaningful for lines close in wavelength.
+- The EW has nothing to do with the real width of the line, which is measured by the FWHM.
+<!-- /ciroi-sync -->
+
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig4-02_this_sketch_shows_how_the_ew.png](../../assets/images/spec_notes_fig4-02_this_sketch_shows_how_the_ew.png)
+*Figure 4.2 of Ciroi's notes: This sketch shows how the EW is calculated. The area inside the absorption line is equal to the area of the rectangle. The height of the rectangle is the continuum at the base of the spectral line, and the width is the EW.* (Ciroi's notes, p. 43)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -78,6 +95,8 @@ for an emission line, $F_\lambda > F_c$, so the integrand is negative. by conven
 - [[Voigt profile]]
 - [[Damping wings]]
 - [[Curve of growth abundance analysis]]
+
+---
 
 ---
 
@@ -174,15 +193,11 @@ The following slides from Prof. Antonino Milone's lecture series provide the dir
 ![Lecture08_p5-05.png](../../assets/images/Lecture08_p5-05.png)
 *Figure P08-29: Lecture08_p5-05.png - Observational data, CMD morphology, and diagnostics from Lecture 08 - Stellar Spectroscopy II: Curve of Growth & Line Broadening.*
 
----
 
 ### Astronomical Spectroscopy Diagnostic Panels
 
 ![spec_theory_p85.png](../../assets/images/spec_theory_p85.png)
 *The Curve of Growth: linear regime ($W_\lambda \propto N f$), flat saturated Doppler core regime ($W_\lambda \propto \sqrt{\ln(N f)}$), and square-root damping wings regime ($W_\lambda \propto \sqrt{N f \gamma}$).*
-
-
-
 ## Linked References
 
 - [[Absorption coefficient and oscillator strength]]

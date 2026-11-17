@@ -38,6 +38,16 @@ modern stellar-atmosphere codes (ATLAS9, MARCS, PHOENIX) have built-in partition
 
 quick-and-dirty: for most species below $T = 10^4$ K, $Z_i \approx g_i^{\rm ground}$ within $\sim 10\%$.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig2-02_partition_function_of_h_i_solid.png](../../assets/images/spec_notes_fig2-02_partition_function_of_h_i_solid.png)
+*Figure 2.2 of Ciroi's notes: Partition function of H I (solid red) and Na I (dashed green) according to Irwin (1981).* (Ciroi's notes, p. 22)
+
+![spec_notes_fig2-08_the_sodium_partition_functions_calculated_by.png](../../assets/images/spec_notes_fig2-08_the_sodium_partition_functions_calculated_by.png)
+*Figure 2.8 of Ciroi's notes: The sodium partition functions calculated by Irwin (1981).* (Ciroi's notes, p. 28)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

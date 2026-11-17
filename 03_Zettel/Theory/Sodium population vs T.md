@@ -49,6 +49,19 @@ separate from stellar spectroscopy:
 - **interstellar Na D**: cold neutral diffuse ISM has Na I in the ground state. seen as narrow absorption in spectra of bright stars and quasars.
 - **Mercury, Moon, Io exospheres**: Na D in **emission**, the brightest atomic line in tenuous-atmosphere bodies (resonance line, sodium fluoresces in sunlight). spectacular spectra.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig2-08_the_sodium_partition_functions_calculated_by.png](../../assets/images/spec_notes_fig2-08_the_sodium_partition_functions_calculated_by.png)
+*Figure 2.8 of Ciroi's notes: The sodium partition functions calculated by Irwin (1981).* (Ciroi's notes, p. 28)
+
+![spec_notes_fig2-09_the_population_of_the_fundamental_level.png](../../assets/images/spec_notes_fig2-09_the_population_of_the_fundamental_level.png)
+*Figure 2.9 of Ciroi's notes: The population of the fundamental level in Na I.* (Ciroi's notes, p. 29)
+
+![spec_notes_fig2-10_sodium_doublet_5890_5896_in_different.png](../../assets/images/spec_notes_fig2-10_sodium_doublet_5890_5896_in_different.png)
+*Figure 2.10 of Ciroi's notes: Sodium doublet $\lambda\lambda 5890, 5896$ in different spectral types. The dashed vertical lines indicate the positions of He I $\lambda 5876$ and Na I $\lambda 5890$. The Y axis is in arbitrary units to make the comparison easier.* (Ciroi's notes, p. 29)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

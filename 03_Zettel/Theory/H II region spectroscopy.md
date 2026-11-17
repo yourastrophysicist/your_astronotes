@@ -85,19 +85,15 @@ $$n_{\rm crit} \equiv \frac{\sum_{i < k} A_{ki}}{q_{ki}}$$
 - Low-density regime ($n_e \ll n_{\rm crit}$) - Collisional de-excitation is negligible. Every collision from the ground state that excites an electron to level $k$ results in the emission of a forbidden line photon. The line cooling rate scales linearly with density squared ($\propto n_e n_{\rm ion}$).
 - High-density regime ($n_e \gg n_{\rm crit}$) - Collisional de-excitation dominates. The level populations reach Boltzmann thermal equilibrium ($n_k/n_i \propto e^{-\Delta E / k_B T_e}$), and the line emissivity scales only linearly with density ($\propto n_{\rm ion}$). The line becomes collisionally quenched as a cooling agent.
 
-```
-+========================================================================================+
-| Spectral Line           | Upper Level | Transition | A_ki (s^-1) | n_crit (cm^-3)      |
-+========================================================================================+
-| [O III] lambda 5007     | 1D_2        | M1 / E2    | 2.0 x 10^-2 | 6.8 x 10^5          |
-| [O III] lambda 4363     | 1S_0        | E2         | 1.6 x 10^0  | 3.3 x 10^7          |
-| [N II] lambda 6584      | 1D_2        | M1 / E2    | 3.0 x 10^-3 | 8.6 x 10^4          |
-| [S II] lambda 6716      | 2D_5/2      | M1 / E2    | 2.6 x 10^-4 | 1.5 x 10^3          |
-| [S II] lambda 6731      | 2D_3/2      | M1 / E2    | 8.8 x 10^-4 | 3.9 x 10^3          |
-| [O II] lambda 3726      | 2D_3/2      | M1 / E2    | 1.6 x 10^-4 | 1.6 x 10^4          |
-| [O II] lambda 3729      | 2D_5/2      | M1 / E2    | 4.2 x 10^-5 | 3.4 x 10^3          |
-+========================================================================================+
-```
+| Spectral line | Upper level | Transition | $A_{ki}$ (s$^{-1}$) | $n_{\rm crit}$ (cm$^{-3}$) |
+|---|---|---|---|---|
+| [O III] λ5007 | $^1D_2$ | M1 / E2 | $2.0\times10^{-2}$ | $6.8\times10^{5}$ |
+| [O III] λ4363 | $^1S_0$ | E2 | $1.6$ | $3.3\times10^{7}$ |
+| [N II] λ6584 | $^1D_2$ | M1 / E2 | $3.0\times10^{-3}$ | $8.6\times10^{4}$ |
+| [S II] λ6716 | $^2D_{5/2}$ | M1 / E2 | $2.6\times10^{-4}$ | $1.5\times10^{3}$ |
+| [S II] λ6731 | $^2D_{3/2}$ | M1 / E2 | $8.8\times10^{-4}$ | $3.9\times10^{3}$ |
+| [O II] λ3726 | $^2D_{3/2}$ | M1 / E2 | $1.6\times10^{-4}$ | $1.6\times10^{4}$ |
+| [O II] λ3729 | $^2D_{5/2}$ | M1 / E2 | $4.2\times10^{-5}$ | $3.4\times10^{3}$ |
 
 ---
 
@@ -157,39 +153,19 @@ Two fundamental demarcation curves divide the BPT plane
 
 ## 6. Blackboard Blueprint and Observational Graph Literacy
 
-```
-                  THE OPTICAL BPT DIAGNOSTIC DIAGRAM
-   log10 ([O III] 5007 / H-beta)
-     +1.5 +                        .-----------.
-          |                       /   SEYFERT   \
-     +1.0 +                      /     (AGN)     \
-          |     STARBURST       |                 |
-     +0.5 +     SEQUENCE       /                   \
-          |         *         /  COMPOSITE          \
-      0.0 +          *       |     ZONE              \    LINERs
-          |           *     /                         \  (Shocks /
-     -0.5 +            *   |      Kewley 2001         /   p-AGB)
-          |             * /     .-------------.      /
-     -1.0 +              *     / Kauffmann 2003     /
-          |               *   /                    /
-     -1.5 +
-          +===+===========+==/========+===========+===========+
-            -1.5        -1.0        -0.5         0.0        +0.5
-                      log10 ([N II] 6584 / H-alpha)
+The BPT diagram plots $\log([\text{O III}]\,5007/\text{H}\beta)$ against $\log([\text{N II}]\,6584/\text{H}\alpha)$. Star-forming regions sit on a sequence at the lower left, Seyferts at high [O III]/H$\beta$ and high [N II]/H$\alpha$, LINERs at low [O III]/H$\beta$ and high [N II]/H$\alpha$. Two curves separate them, with $x = \log([\text{N II}]/\text{H}\alpha)$ and $y = \log([\text{O III}]/\text{H}\beta)$.
 
-             STRÖMGREN SPHERE RADIAL STRUCTURE SCHEMATIC
-      Ionizing Star (O7V)
-            (*)  ======> UV Photons (h nu >= 13.6 eV)
-             |
-             |<---------------- R_S ~ 15 pc ----------------->|
-             |                                                |
-      [ H+ Zone - Fully Ionized Plasma ]               [ H0 Neutral Envelope ]
-      [ T_e ~ 10,000 K, n_e ~ n_p ~ n_H ]              [ T ~ 100 K (CNM/WNM) ]
-             |                                                |
-             +================================================+
-                               Ionization Front
-                               (Delta r ~ 0.1 pc)
-```
+| Line | Equation | What lies below it |
+|---|---|---|
+| Kauffmann et al. 2003 (empirical) | $y = 0.61/(x - 0.05) + 1.30$ | pure star formation |
+| Kewley et al. 2001 (theoretical maximum starburst) | $y = 0.61/(x - 0.47) + 1.19$ | anything a starburst can produce |
+
+Galaxies between the two curves are called composite, a mix of star formation and AGN. See [[BPT diagram]].
+
+The radial structure of the ionised sphere around the star is shown by Ciroi's photoionisation models below. The gas stays almost fully ionised out to the Strömgren radius ($R_S \sim 15$ pc for an O7 V star at $n_H \sim 10$ cm$^{-3}$) and then becomes neutral within a thin ionisation front, $\Delta r \sim 0.1$ pc, about one photon mean free path. Inside, $T_e \sim 10^4$ K and $n_e \simeq n_p \simeq n_H$. Outside lies the neutral envelope at $T \sim 100$ K.
+
+![spec_notes_fig8-01_the_ionization_degree_as_a_function.png](../../assets/images/spec_notes_fig8-01_the_ionization_degree_as_a_function.png)
+*Figure 8.1 of Ciroi's notes: ionisation degree against distance for an O5 V and a B0 V star, CLOUDY models.* (Ciroi's notes, p. 104)
 
 ### Blackboard Presentation Script for the Oral Examination
 1. Draw the Strömgren sphere radial diagram first. Mark the central O-star, the interior $H^+$ zone with temperature $T_e \approx 10^4$ K, and the extremely sharp ionization front where neutral hydrogen jumps from 0 to 1 over $\Delta r \ll R_S$.
@@ -241,8 +217,12 @@ Two fundamental demarcation curves divide the BPT plane
 
 ![gal_ism-30.png](../../assets/images/gal_ism-30.png)
 *Figure 3 - The BPT diagram separating star-forming galaxies, composites, Seyferts, and LINERs.*
+<!-- spec-figures -->
+## Figures
 
-
+![spec_slide33_example_of_planetary_nebula_m57.png](../../assets/images/spec_slide33_example_of_planetary_nebula_m57.png)
+*Planetary nebula M57 and H II regions, Ciroi's slides* (Ciroi's slides, slide 33)
+<!-- /spec-figures -->
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

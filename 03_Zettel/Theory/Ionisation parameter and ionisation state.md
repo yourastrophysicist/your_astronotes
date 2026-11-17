@@ -64,6 +64,13 @@ galaxies form a "main sequence" in this diagram: star-forming galaxies on a curv
 
 see [[BPT diagram]].
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig8-03_this_plot_taken_from_osterbrock_ferland.png](../../assets/images/spec_notes_fig8-03_this_plot_taken_from_osterbrock_ferland.png)
+*Figure 8.3 of Ciroi's notes: This plot, taken from Osterbrock & Ferland (2006, Fig. 2.2), shows the photoionization cross-sections of H$^0$, He$^0$ and He$^+$.* (Ciroi's notes, p. 106)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

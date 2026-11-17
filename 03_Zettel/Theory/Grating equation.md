@@ -50,6 +50,22 @@ at high $m$ (echelle), the FSR is small and orders pile up densely. needs a cros
 
 the diffraction efficiency peaks where the grating's single-slit envelope is centred on the chosen order. a **blazed grating** (sawtooth groove profile) is engineered so the envelope peaks at a chosen wavelength in a chosen order, the **blaze wavelength** $\lambda_B$. see [[Blazed gratings]].
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide06_d_sin_m_m_0.png](../../assets/images/spec_slide06_d_sin_m_m_0.png)
+*Orders m = 0, 1, 2 for one line, Ciroi's slides* (Ciroi's slides, slide 6)
+
+![spec_slide08_4400_5500_6500_4400_5500.png](../../assets/images/spec_slide08_4400_5500_6500_4400_5500.png)
+*Orders for three wavelengths, overlap, Ciroi's slides* (Ciroi's slides, slide 8)
+
+![spec_slide09_grating_orders.png](../../assets/images/spec_slide09_grating_orders.png)
+*Grating orders -2 to +2, Ciroi's slides* (Ciroi's slides, slide 9)
+
+![spec_slide10_density_of_grating_lines_inclination.png](../../assets/images/spec_slide10_density_of_grating_lines_inclination.png)
+*Grating equation, groove density and incidence angle, Ciroi's slides* (Ciroi's slides, slide 10)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

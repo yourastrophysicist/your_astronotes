@@ -54,6 +54,13 @@ $t_{\rm cool} = (3 n k_BT)/(2 L)$. for HII regions: $\sim 10^4$ years. compare w
 
 (at low metallicity, cooling is slower, thermal equilibrium less strict.)
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig9-01_thermal_balance_between_the_main_heating.png](../../assets/images/spec_notes_fig9-01_thermal_balance_between_the_main_heating.png)
+*Figure 9.1 of Ciroi's notes: Thermal balance between the main heating and cooling mechanisms working in a H II region. The equilibrium temperatures correspond to the values where the efficiencies of heating and cooling processes become equal.* (Ciroi's notes, p. 115)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

@@ -59,6 +59,13 @@ heating rate per atom $\propto U$. so high-$U$ regions are "hotter" in the sense
 
 **low-metallicity** gas has weaker forbidden-line cooling, so equilibrium $T_e$ rises. famous: in metal-poor galaxies, $T_e \sim 15\,000$ to $20\,000$ K (vs $\sim 8000$ K at solar metallicity), making the $[OIII]\,\lambda 4363$ line easier to detect.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig9-01_thermal_balance_between_the_main_heating.png](../../assets/images/spec_notes_fig9-01_thermal_balance_between_the_main_heating.png)
+*Figure 9.1 of Ciroi's notes: Thermal balance between the main heating and cooling mechanisms working in a H II region. The equilibrium temperatures correspond to the values where the efficiencies of heating and cooling processes become equal.* (Ciroi's notes, p. 115)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

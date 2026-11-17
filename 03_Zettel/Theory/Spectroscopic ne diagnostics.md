@@ -56,6 +56,13 @@ $n_e < 1$ cm$^{-3}$. forbidden-line ratios approach the statistical-weight ratio
 
 precision: limited by line-flux measurement and instrumental resolution. typical $\pm 0.3$ dex in $n_e$.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig5-10_more_precise_calculations_made_with_the.png](../../assets/images/spec_notes_fig5-10_more_precise_calculations_made_with_the.png)
+*Figure 5.10 of Ciroi's notes: More precise calculations made with the IRAF task TEMDEN show slightly different limits of the [S II] emission line ratio. This curve is useful for estimating electron density when $10^2 < N_e < 10^4$ cm$^{-3}$.* (Ciroi's notes, p. 77)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

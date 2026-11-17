@@ -68,6 +68,16 @@ for a spectrum of an HII region:
 
 a complete analysis takes a few iterations (since $T_e$ and $n_e$ are coupled), typically converged in $\sim 3$ steps.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig5-07_the_temperature_can_be_estimated_from.png](../../assets/images/spec_notes_fig5-07_the_temperature_can_be_estimated_from.png)
+*Figure 5.7 of Ciroi's notes: The temperature can be estimated from the [O III] lines ratio. This curve was calculated with the IRAF task TEMDEN by assuming $N_e = 10^3$ cm$^{-3}$.* (Ciroi's notes, p. 73)
+
+![spec_notes_fig5-10_more_precise_calculations_made_with_the.png](../../assets/images/spec_notes_fig5-10_more_precise_calculations_made_with_the.png)
+*Figure 5.10 of Ciroi's notes: More precise calculations made with the IRAF task TEMDEN show slightly different limits of the [S II] emission line ratio. This curve is useful for estimating electron density when $10^2 < N_e < 10^4$ cm$^{-3}$.* (Ciroi's notes, p. 77)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

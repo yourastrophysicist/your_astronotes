@@ -59,8 +59,8 @@ it is only *between* sources that the addition becomes incoherent.
 |---|---|
 | amplitudes add: $\psi = \psi_1 + \psi_2$ | intensities add: $I = I_1 + I_2$ |
 | linear in $\psi$ | linear in $I$ |
-| convolution with $\psi_{\rm PSF}$ | convolution with $|\psi_{\rm PSF}|^2 = $ intensity PSF |
-| Fourier transforms involve $\tilde A$ (aperture) | Fourier transforms involve OTF $= |\tilde A|^2$ |
+| convolution with $\psi_{\rm PSF}$ | convolution with $\lvert \psi_{\rm PSF}\rvert^2 = $ intensity PSF |
+| Fourier transforms involve $\tilde A$ (aperture) | Fourier transforms involve OTF $= \lvert \tilde A\rvert^2$ |
 | relevant for laser, single point source, interferometry | relevant for imaging multi-source scenes |
 
 both formalisms are correct *in their domain*. mixing them up is a common bug.

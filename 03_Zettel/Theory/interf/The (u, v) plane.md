@@ -10,7 +10,7 @@ the spatial-frequency domain of interferometry. each baseline samples one point 
 
 let the line of sight to the source define the local "z" axis. the plane perpendicular is the *aperture plane*. project every baseline vector onto this plane:
 
-$$\mathbf B_\perp = $$ baseline projected on the aperture plane
+$\mathbf B_\perp =$ baseline projected on the aperture plane
 
 then the **spatial frequency** sampled by that baseline is
 $$\mathbf u = \mathbf B_\perp/\lambda$$

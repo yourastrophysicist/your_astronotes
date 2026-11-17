@@ -58,6 +58,16 @@ $$\frac{F(5007)}{F(H\beta)} \sim \frac{n(O^{2+})}{n_e}\cdot\frac{q_{O,1D \to ^3P
 
 at low metallicity, $n(O^{2+})/n_e$ small (less O total), and $T_e$ is high (less metal cooling), so the ratio depends on metallicity in a non-monotonic way. the famous "double-valued" R23 diagnostic ($R_{23} = ([OII] + [OIII])/H\beta$) reflects this.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig5-06_the_grotrian_diagram_of_o_iii.png](../../assets/images/spec_notes_fig5-06_the_grotrian_diagram_of_o_iii.png)
+*Figure 5.6 of Ciroi's notes: The Grotrian diagram of [O III]λ2321, λ4363, λ4959, λ5007.* (Ciroi's notes, p. 70)
+
+![spec_notes_fig5-07_the_temperature_can_be_estimated_from.png](../../assets/images/spec_notes_fig5-07_the_temperature_can_be_estimated_from.png)
+*Figure 5.7 of Ciroi's notes: The temperature can be estimated from the [O III] lines ratio. This curve was calculated with the IRAF task TEMDEN by assuming $N_e = 10^3$ cm$^{-3}$.* (Ciroi's notes, p. 73)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

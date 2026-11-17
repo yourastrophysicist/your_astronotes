@@ -39,9 +39,19 @@ If you tried to build a lens, the bending would be so weak, that the focal point
 
 **This is why X-ray telescopes look fundamentally different from optical ones**, the geometry is entirely dictated by the need to keep photons nearly parallel to the mirror surface
 
-In X-ray astronomy it is commonly used $\theta_c$ which is complementary to critical angle $\alpha_c$, since the imaginary part is much smaller than the real one, we can assume that $n \approx 1 - \delta$, therefore:                                           $$\sin\alpha_c = \cos\theta_c = n_2 \approx 1 - \delta$$
-Because of the small value of $\delta$, also $\theta_c$ is small so that we can apply the approximation: $$\cos\theta_c \approx 1 - \frac{\theta_c^2}{2} = 1 - \delta$$$$\theta_c \approx \sqrt{2\delta} \quad \text{in radians units}$$$$\theta_c \approx 81\sqrt{\delta} \quad \text{in degrees units}$$
-  The parameter $\delta$ is given by the following formula:                             $$\delta = \frac{\rho~A_0~r_e~\lambda^2~f_1}{2\pi~W_m}$$   where
+In X-ray astronomy it is commonly used $\theta_c$ which is complementary to critical angle $\alpha_c$, since the imaginary part is much smaller than the real one, we can assume that $n \approx 1 - \delta$, therefore:
+
+$$\sin\alpha_c = \cos\theta_c = n_2 \approx 1 - \delta$$
+Because of the small value of $\delta$, also $\theta_c$ is small so that we can apply the approximation:
+
+$$\cos\theta_c \approx 1 - \frac{\theta_c^2}{2} = 1 - \delta$$
+
+$$\theta_c \approx \sqrt{2\delta} \quad \text{in radians units}$$
+
+$$\theta_c \approx 81\sqrt{\delta} \quad \text{in degrees units}$$
+  The parameter $\delta$ is given by the following formula:
+
+$$\delta = \frac{\rho~A_0~r_e~\lambda^2~f_1}{2\pi~W_m}$$   where
         $\rho$ is the density of the material 
         $A_0$ is the Avogadro's number                      
         $r_e$ is the classical electron radius
@@ -49,7 +59,9 @@ Because of the small value of $\delta$, also $\theta_c$ is small so that we can 
         $f_1$ is the first atomic scattering coefficient, corresponding to the number of scattering electrons per atom                         
         $W_m$ is the molar weight of the reflecting material
 
-  Given that at very high energies $f_1$ is almost equal to the atomic number $Z$, we can write:                                                                    $$\theta_c \propto \frac{\sqrt{\rho}}{E}$$
+  Given that at very high energies $f_1$ is almost equal to the atomic number $Z$, we can write:
+
+$$\theta_c \propto \frac{\sqrt{\rho}}{E}$$
   that is, the critical angle is proportional to the square root of the material density and the atomic number,  and inversely proportional to the photon energy                                                                                                                                                                                 
   To increase $\theta_c$ we have to increase the material density, therefore, high-$Z$ materials are used as coating layers for X-ray mirrors on top of lighter supporting plates, for example:
 	- tungsten ($Z_W = 74$), 

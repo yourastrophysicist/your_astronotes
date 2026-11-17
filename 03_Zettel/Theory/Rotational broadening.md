@@ -60,6 +60,16 @@ extreme rotators near break-up. material flung off into circumstellar disks give
 
 a planet transiting in front of a rotating star occults different velocity components at different times. the apparent radial velocity shift during transit ("RM effect") measures the stellar spin axis vs orbital axis alignment.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig4-03_p_and_q_are_the_poles.png](../../assets/images/spec_notes_fig4-03_p_and_q_are_the_poles.png)
+*Figure 4.3 of Ciroi's notes: P and Q are the poles, AB is the stellar diameter, $R_\star$ is the stellar radius, CD is the diameter of a parallel at latitude $\vartheta$ and X is a point over this parallel with circular velocity $\vec{v}_X$.* (Ciroi's notes, p. 50)
+
+![spec_notes_fig4-04_on_the_left_the_stellar_disk.png](../../assets/images/spec_notes_fig4-04_on_the_left_the_stellar_disk.png)
+*Figure 4.4 of Ciroi's notes: On the left: the stellar disk projected on the sky. On the right: the pole P view of the star.* (Ciroi's notes, p. 50)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

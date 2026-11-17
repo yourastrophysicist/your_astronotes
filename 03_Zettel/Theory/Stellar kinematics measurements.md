@@ -56,14 +56,11 @@ Let us explicitly demonstrate why the summation starts at $m = 3$, omitting $H_1
 1. Consider the integral of the Gaussian weight function -
    $$I_0 = \int_{-\infty}^{+\infty} \frac{1}{\sqrt{2\pi}} e^{-y^2/2} \, dy = 1$$
 2. Evaluate the first moment of the unperturbed Gaussian -
-   $$\langle y 
-angle = \int_{-\infty}^{+\infty} y \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = 0$$
+   $$\langle y\rangle = \int_{-\infty}^{+\infty} y \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = 0$$
    because the integrand is strictly antisymmetric with respect to $y = 0$. By setting the centroid of the Gaussian to $V$, the mean velocity of the profile is already captured. Thus, $h_1 \equiv 0$.
 3. Evaluate the second moment of the unperturbed Gaussian -
-   $$\langle y^2 
-angle = \int_{-\infty}^{+\infty} y^2 \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = \left[ -y \frac{e^{-y^2/2}}{\sqrt{2\pi}} \right]_{-\infty}^{+\infty} + \int_{-\infty}^{+\infty} \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = 0 + 1 = 1$$
-   Since $\langle y^2 
-angle = 1$, the variance is already completely specified by $\sigma^2$. Therefore, the coefficient of $H_2(y) = \frac{1}{\sqrt{2}}(y^2 - 1)$ must vanish ($h_2 \equiv 0$).
+   $$\langle y^2\rangle = \int_{-\infty}^{+\infty} y^2 \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = \left[ -y \frac{e^{-y^2/2}}{\sqrt{2\pi}} \right]_{-\infty}^{+\infty} + \int_{-\infty}^{+\infty} \frac{e^{-y^2/2}}{\sqrt{2\pi}} \, dy = 0 + 1 = 1$$
+   Since $\langle y^2\rangle = 1$, the variance is already completely specified by $\sigma^2$. Therefore, the coefficient of $H_2(y) = \frac{1}{\sqrt{2}}(y^2 - 1)$ must vanish ($h_2 \equiv 0$).
 4. Physical interpretation of $h_3$ (Skewness) -
    $H_3(y)$ is an odd function ($H_3(-y) = -H_3(y)$). The coefficient $h_3$ quantifies asymmetric deviations from a Gaussian. A positive $h_3 > 0$ indicates a tail towards velocities higher than $V$, whereas $h_3 < 0$ indicates a tail towards lower velocities.
 5. Physical interpretation of $h_4$ (Kurtosis) -

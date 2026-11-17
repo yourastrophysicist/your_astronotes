@@ -18,8 +18,8 @@ units: cm$^{-1}$. constants:
 ## what the oscillator strength is
 
 $f_{lu}$ is the **dimensionless transition strength**, comparing a real quantum transition to a classical harmonic oscillator. mathematically:
-$$f_{lu} = \frac{2 m_e}{\hbar e^2}\,(E_u - E_l)\,\lvert \langle u \vertx\vert l \rangle\rvert^2$$
-in Gaussian units. proportional to the squared dipole matrix element.
+$$f_{lu} = \frac{2 m_e (E_u - E_l)}{3\hbar^2\,g_l}\sum_{m_l, m_u}\lvert \langle u \vert \vec r \vert l \rangle\rvert^2$$
+summed over the magnetic substates. dimensionless, proportional to the squared dipole matrix element. (an older version had $\hbar e^2$ in the denominator, which is not dimensionless.)
 
 for permitted transitions, $f \sim 0.1$ to $2$. for forbidden lines (M1, E2), $f \sim 10^{-6}$ to $10^{-3}$. for semi-forbidden (intersystem), $\sim 10^{-3}$ to $10^{-1}$.
 
@@ -55,6 +55,19 @@ practical: knowing $\tau_0$ and $f$ from atomic data, you get $N_l$. column dens
 
 historically: an oscillator with strength $f$ has the same time-integrated emission as a classical electron oscillating at the resonance frequency, times $f$. so $f = 1$ matches a classical oscillator. $f < 1$ for "weak" transitions, $f > 1$ rare ($f$ summed over all transitions from a given lower level satisfies the Thomas-Reiche-Kuhn sum rule, $\sum f = N_e$).
 
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+Ciroi builds it from the classical oscillator (Ciroi's notes, p. 43 to Ciroi's notes, p. 46): the classical damping constant is $\gamma = \frac{1}{4\pi\varepsilon_0}\frac{8\pi^2e^2\nu_0^2}{3m_ec^3} \simeq 2.47\times10^{-22}\nu_0^2$ s$^{-1}$, and near resonance the cross section is $a_\nu = \frac{1}{4\pi\varepsilon_0}\frac{\pi e^2}{m_ec}\,\phi(\nu) \simeq 2.65\times10^{-6}\,\phi(\nu)$ m$^2$ (that is 0.0265 cm$^2$ Hz times the profile). In quantum mechanics $\gamma$ becomes $\Gamma$, set by the decay probabilities of the levels, and the classical cross section is multiplied by the oscillator strength $f$.
+<!-- /ciroi-sync -->
+
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig4-01_absorption_line_he_ii_5412_ic.png](../../assets/images/spec_notes_fig4-01_absorption_line_he_ii_5412_ic.png)
+*Figure 4.1 of Ciroi's notes: Absorption line He II λ5412.* (Ciroi's notes, p. 41)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -74,9 +87,6 @@ historically: an oscillator with strength $f$ has the same time-integrated emiss
 - [[Statistical weight g]]
 - [[Equation of radiative transfer]]
 - [[Curve of growth abundance analysis]]
-
-
-
 ## Linked References
 
 - [[Curve of growth abundance analysis]]

@@ -52,6 +52,13 @@ backbone of Galactic Archaeology surveys: GALAH, APOGEE-2, 4MOST-HR. abundance-p
 - **HIRES** (Keck): historic high-$z$ galaxy and quasar spectroscopy.
 - **FEROS** at La Silla: small-aperture echelle.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide17_echelle_spectroscopy.png](../../assets/images/spec_slide17_echelle_spectroscopy.png)
+*Echelle spectroscopy, Ciroi's slides* (Ciroi's slides, slide 17)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

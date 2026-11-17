@@ -65,6 +65,12 @@ defined as $a = \Gamma/(4\pi\Delta\nu_D)$, the ratio of total Lorentzian (natura
 - $a \sim 1$: comparable, true Voigt regime.
 - $a \gg 1$: Lorentzian dominates throughout.
 
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+Ciroi's summary (Ciroi's notes, p. 48): collisional broadening depends on the gas density (pressure), on the cross section of the collision and on the thermal velocity of the atoms, and it is Lorentzian. Natural and collisional broadening (resonance plus van der Waals) are Lorentzian, thermal Doppler and microturbulence Gaussian. Together they give the Voigt profile, which for hydrogen must also be convolved with the Stark profile, see [[Stark broadening]] and [[Voigt profile]].
+<!-- /ciroi-sync -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -84,9 +90,6 @@ defined as $a = \Gamma/(4\pi\Delta\nu_D)$, the ratio of total Lorentzian (natura
 - [[Curve of growth]]
 - [[MK luminosity classes]]
 - [[Stellar atmosphere structure]]
-
-
-
 ## Linked References
 
 - [[Damping wings]]

@@ -33,6 +33,19 @@ the **resolving power** of an $N$-line grating in order $m$ is
 $$R = \lambda/\Delta\lambda = m N$$
 for a $5000$-line grating in $m = 1$, $R = 5000$. typical optical spectrographs have $R = 10^3$ to $10^5$.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide03_d_i_a0_2_sin.png](../../assets/images/spec_slide03_d_i_a0_2_sin.png)
+*N slits interference, Ciroi's slides* (Ciroi's slides, slide 3)
+
+![spec_slide04_n_slit_pattern.png](../../assets/images/spec_slide04_n_slit_pattern.png)
+*Intensity pattern of a grating, Ciroi's slides* (Ciroi's slides, slide 4)
+
+![spec_slide05_d_3b_n_25_spectral.png](../../assets/images/spec_slide05_d_3b_n_25_spectral.png)
+*The spectrum in orders, one line, Ciroi's slides* (Ciroi's slides, slide 5)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

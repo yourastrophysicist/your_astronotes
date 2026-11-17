@@ -23,7 +23,7 @@ title: "Lambda CDM current parameters"
 |---|---|
 | total matter $\Omega_m$ | $0.315 \pm 0.007$ |
 | dark energy $\Omega_\Lambda$ | $0.685 \pm 0.007$ |
-| spatial curvature $|\Omega_k|$ | $< 0.005$ (flat) |
+| spatial curvature $\lvert \Omega_k\rvert$ | $< 0.005$ (flat) |
 | age of universe $t_0$ | $13.797 \pm 0.023$ Gyr |
 | sound horizon at recombination $r_d$ | $147.6 \pm 0.2$ Mpc |
 | matter-radiation equality $z_{\rm eq}$ | $3402 \pm 26$ |

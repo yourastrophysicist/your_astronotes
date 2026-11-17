@@ -53,6 +53,13 @@ this is the **ionisation stratification** ([[Ionisation stratification]]).
 
 modern photoionisation codes (Cloudy, MAPPINGS V, MOCASSIN) solve the full ionisation balance for $\sim 30$ elements, $\sim 10$ ionisation stages each, plus thermal balance, line emission, dust, all self-consistently. the standard for nebular modelling.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig8-01_the_ionization_degree_as_a_function.png](../../assets/images/spec_notes_fig8-01_the_ionization_degree_as_a_function.png)
+*Figure 8.1 of Ciroi's notes: ionisation degree against distance for an O5 V and a B0 V star, CLOUDY models.* (Ciroi's notes, p. 104)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

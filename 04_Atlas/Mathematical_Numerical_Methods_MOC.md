@@ -566,6 +566,6 @@ Every zettel in this map ends with a short sourced section: a definition quoted 
 | **Jacobi Constant** | $C_J = -2\Phi_{\rm eff} - v^2 = \Omega^2(x^2 + y^2) + 2\frac{GM_1}{r_1} + 2\frac{GM_2}{r_2} - v^2$ | Exact invariant in circular restricted 3-body problem (CR3BP) |
 | **Random Walk RMS Spread** | $\sqrt{\langle R^2(N) \rangle} = l_{\rm step} \sqrt{N}$ | Standard diffusive scaling in $D$ dimensions |
 | **Barnes-Hut MAC** | $\theta = \frac{s}{d} < \theta_{\rm crit} \approx 0.5-0.7$ | $\mathcal{O}(N\log N)$ N-body treecode multipole acceptance condition |
-| **Newton-Raphson Iteration** | $x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}$ | Quadratic local convergence $|e_{n+1}| \propto |e_n|^2$ |
+| **Newton-Raphson Iteration** | $x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}$ | Quadratic local convergence $\lvert e_{n+1}\rvert \propto \lvert e_n\rvert^2$ |
 | **CFL Stability Condition** | $C = \frac{u \Delta t}{\Delta x} \le C_{\rm max} = 1$ | Courant condition for explicit hyperbolic PDE stability |
-| **Metropolis Acceptance Ratio** | $\alpha = \min\left(1, \frac{P(x')}{P(x)}\frac{q(x|x')}{q(x'|x)}\right)$ | MCMC transition probability preserving detailed balance |
+| **Metropolis Acceptance Ratio** | $\alpha = \min\left(1, \frac{P(x')}{P(x)}\frac{q(x \mid x')}{q(x' \mid x)}\right)$ | MCMC transition probability preserving detailed balance |

@@ -73,6 +73,13 @@ the **Rossiter-McLaughlin effect**: planet transits occult different velocity co
 ### Be and WR stars
 extreme rotators near critical breakup. used to identify rapidly rotating binaries, primordial fast rotators.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig4-04_on_the_left_the_stellar_disk.png](../../assets/images/spec_notes_fig4-04_on_the_left_the_stellar_disk.png)
+*Figure 4.4 of Ciroi's notes: On the left: the stellar disk projected on the sky. On the right: the pole P view of the star.* (Ciroi's notes, p. 50)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

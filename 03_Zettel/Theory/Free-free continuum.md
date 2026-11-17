@@ -64,6 +64,19 @@ inverse process: free-free can also absorb photons. relevant at low frequencies 
 | 2-photon | broad UV bump | no | UV |
 | synchrotron | power law $\nu^{-\alpha}$ | no | radio, X-ray |
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig6-02_the_ratio_between_the_exponential_term.png](../../assets/images/spec_notes_fig6-02_the_ratio_between_the_exponential_term.png)
+*Figure 6.2 of Ciroi's notes: The ratio between the exponential term and the square root of temperature for $\nu = 10^{15}$ Hz (visible/UV domain).* (Ciroi's notes, p. 84)
+
+![spec_notes_fig6-03_the_comparison_between_the_gaunt_formula.png](../../assets/images/spec_notes_fig6-03_the_comparison_between_the_gaunt_formula.png)
+*Figure 6.3 of Ciroi's notes: The comparison between the Gaunt formula for radio wavelengths and its approximation in case of $T_e \approx 10^4$ K.* (Ciroi's notes, p. 86)
+
+![spec_notes_fig6-04_the_radio_thermal_continuum_for_a.png](../../assets/images/spec_notes_fig6-04_the_radio_thermal_continuum_for_a.png)
+*Figure 6.4 of Ciroi's notes: The radio-thermal continuum for a nebula with thickness ℓ= 1 pc. Increasing values of density correspond to increasing values of the radio flux.* (Ciroi's notes, p. 87)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

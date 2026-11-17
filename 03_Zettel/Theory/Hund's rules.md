@@ -59,6 +59,22 @@ physical origins:
 - valid in **LS coupling**. for jj or intermediate, more careful analysis needed.
 - the predicted ground term is usually correct for $Z < 30$. for heavier atoms intermediate coupling can shift it.
 
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+Ciroi's rule 3 has three cases (Ciroi's notes, p. 8): $J = \lvert L - S\rvert$ if less than half the shell is occupied, $J = S$ if exactly half, $J = L + S$ if more than half. His three worked cases are the ground terms of C I $2p^2$ ($^3P_0$), N I $2p^3$ ($^4S_{3/2}$) and O I $2p^4$ ($^3P_2$), with the level diagrams in Figs. 1.1 to 1.3 below (Ciroi's notes, p. 9, Ciroi's notes, p. 10).
+<!-- /ciroi-sync -->
+
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig1-02_ground_and_low_excited_levels_of.png](../../assets/images/spec_notes_fig1-02_ground_and_low_excited_levels_of.png)
+*Figure 1.2 of Ciroi's notes: Ground and low excited levels of N I. Energy values are in cm$^{-1}$* (Ciroi's notes, p. 11)
+
+![spec_notes_fig1-03_ground_and_low_excited_levels_of.png](../../assets/images/spec_notes_fig1-03_ground_and_low_excited_levels_of.png)
+*Figure 1.3 of Ciroi's notes: Ground and low excited levels of O I. Energy values are in cm$^{-1}$* (Ciroi's notes, p. 12)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -76,9 +92,6 @@ physical origins:
 - [[Selection rules]]
 - [[Statistical weight g]]
 - [[Pauli principle and electron configurations]]
-
-
-
 ## Linked References
 
 - [[Atomic term symbols]]

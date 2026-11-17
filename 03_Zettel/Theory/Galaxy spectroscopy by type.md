@@ -83,6 +83,16 @@ a 2D diagnostic plot ($[OIII]/H\beta$ vs $[NII]/H\alpha$) separates:
 
 see [[BPT diagram]] for the full discussion.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide35_galaxies_example_of_elliptical_galaxy.png](../../assets/images/spec_slide35_galaxies_example_of_elliptical_galaxy.png)
+*Elliptical and Sa galaxies, Ciroi's slides* (Ciroi's slides, slide 35)
+
+![spec_slide36_example_of_starburst_galaxy.png](../../assets/images/spec_slide36_example_of_starburst_galaxy.png)
+*Starburst galaxy, Ciroi's slides* (Ciroi's slides, slide 36)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

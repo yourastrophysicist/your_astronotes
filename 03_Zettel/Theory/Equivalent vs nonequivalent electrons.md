@@ -55,6 +55,24 @@ for any configuration with both equivalent and nonequivalent groups:
 
 textbooks (Cowan, *Theory of Atomic Structure*, Condon-Shortley) tabulate the allowed-terms tables for $\ell^n$ configurations up to filled shells.
 
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+Ciroi counts the microstates with $N = \binom{t}{n_e}$, $t = 2(2\ell+1)$ (Ciroi's notes, p. 9): 15 for $np^2$, 20 for $np^3$, 15 again for $np^4$. Grouping the $(M_L, M_S)$ pairs gives $^1D_2$, $^3P_{2,1,0}$, $^1S_0$ for $np^2$ and $np^4$, and $^2D_{3/2,5/2}$, $^2P_{1/2,3/2}$, $^4S_{3/2}$ for $np^3$.
+
+For two **nonequivalent** $p$ electrons ($np\,mp$) every combination is allowed, $L = 2, 1, 0$ and $S = 1, 0$, giving $^3D_{3,2,1}$, $^1D_2$, $^3P_{2,1,0}$, $^1P_1$, $^3S_1$, $^1S_0$.
+
+> [!note] Typo in the notes
+> On Ciroi's notes, p. 10 the $np^3$ terms are printed as "$^3P_{1/2}$, $^3P_{3/2}$". Three electrons give half-integer $S$, so the multiplicity must be even: the correct term is $^2P_{1/2,3/2}$.
+<!-- /ciroi-sync -->
+
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig1-01_ground_and_low_excited_levels_of.png](../../assets/images/spec_notes_fig1-01_ground_and_low_excited_levels_of.png)
+*Figure 1.1 of Ciroi's notes: Ground and low excited levels of C I. Energy values are in cm$^{-1}$* (Ciroi's notes, p. 11)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -74,9 +92,6 @@ textbooks (Cowan, *Theory of Atomic Structure*, Condon-Shortley) tabulate the al
 - [[Russell-Saunders LS coupling]]
 - [[Pauli principle and electron configurations]]
 - [[Statistical weight g]]
-
-
-
 ## Linked References
 
 - [[Hund's rules]]

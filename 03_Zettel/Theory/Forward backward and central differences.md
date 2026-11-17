@@ -42,8 +42,8 @@ total error $E(h) = C h^p + \epsilon\lvert f\rvert/h$. minimize by setting $dE/d
 
 | method | order $p$ | $h_{\rm opt}$ | minimum error |
 |---|---|---|---|
-| forward | 1 | $\sqrt{\epsilon/|f''|} \sim 10^{-8}$ | $\sim \sqrt{\epsilon \, |f''| \, |f|}$ |
-| central | 2 | $(\epsilon/|f'''|)^{1/3} \sim 10^{-5}$ | $\sim \epsilon^{2/3}$ |
+| forward | 1 | $\sqrt{\epsilon/\lvert f''\rvert} \sim 10^{-8}$ | $\sim \sqrt{\epsilon \, \lvert f''\rvert \, \lvert f\rvert}$ |
+| central | 2 | $(\epsilon/\lvert f'''\rvert)^{1/3} \sim 10^{-5}$ | $\sim \epsilon^{2/3}$ |
 
 with $\epsilon \sim 10^{-16}$:
 - forward: best error $\sim 10^{-8}$ at $h \sim 10^{-8}$

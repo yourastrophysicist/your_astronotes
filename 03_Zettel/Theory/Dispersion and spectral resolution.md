@@ -72,6 +72,19 @@ with a $1200$ lines/mm grating instead: $R$ scales linearly $\to R \approx 1800$
 
 higher $R$ generally requires echelle and bigger grating (or finer ruling).
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide12_cos_m_x_cos_m.png](../../assets/images/spec_slide12_cos_m_x_cos_m.png)
+*Dispersion and resolution, Ciroi's slides* (Ciroi's slides, slide 12)
+
+![spec_slide13_x_0_03_a_px.png](../../assets/images/spec_slide13_x_0_03_a_px.png)
+*Low against high dispersion, 0.03 and 2.3 Å/px, Ciroi's slides* (Ciroi's slides, slide 13)
+
+![spec_slide14_x_0_03_a_px.png](../../assets/images/spec_slide14_x_0_03_a_px.png)
+*Low against high dispersion, R = 15000 and 850, Ciroi's slides* (Ciroi's slides, slide 14)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

@@ -58,6 +58,13 @@ solving gives the **collisional ionisation equilibrium (CIE)** abundance vs $T$ 
 
 at HII region temperatures, almost all atoms are in the lowest ionisation stage. at $T \sim 10^6$ K, intermediate stages dominate. at $T \sim 10^8$ K, fully stripped He-like + H-like stages dominate.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig7-01_the_f_e_function_for_different.png](../../assets/images/spec_notes_fig7-01_the_f_e_function_for_different.png)
+*Figure 7.1 of Ciroi's notes: The f(E) function for different electron temperatures. The dashed line shows the lower ionization energy limit for hydrogen.* (Ciroi's notes, p. 95)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

@@ -31,6 +31,13 @@ so a single blazed grating is **optimal for one $\lambda$ region**. to cover mul
 
 echelle gratings are blazed at very high $\theta_B$ to send light into very high orders ($m = 30$ to $100$). this gives high $R$ in compact instruments, but requires a cross-disperser to separate the densely overlapping orders.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide15_grating_blazed.png](../../assets/images/spec_slide15_grating_blazed.png)
+*Blazed grating, Ciroi's slides* (Ciroi's slides, slide 15)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

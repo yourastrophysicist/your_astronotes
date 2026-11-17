@@ -59,6 +59,16 @@ at $\nu \sim 10$ GHz the two are comparable in star-forming galaxies. at higher 
 
 high-energy synchrotron-emitting electrons can also up-scatter low-energy photons via **inverse Compton** (see [[Compton and Inverse Compton]]). produces a second peak in the SED at higher frequencies, often X-ray to TeV $\gamma$-ray. blazars famously show synchrotron + IC two-peak SEDs.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig6-05_the_modified_bessel_function_of_the.png](../../assets/images/spec_notes_fig6-05_the_modified_bessel_function_of_the.png)
+*Figure 6.5 of Ciroi's notes: The modified Bessel function of the second kind calculated and fitted by Fouka & Ouichaoui (2013, their Fig. 1).* (Ciroi's notes, p. 89)
+
+![spec_notes_fig6-06_the_synchrotron_function_calculated_and_fitted.png](../../assets/images/spec_notes_fig6-06_the_synchrotron_function_calculated_and_fitted.png)
+*Figure 6.6 of Ciroi's notes: The synchrotron function calculated and fitted by Fouka & Ouichaoui (2013, their Fig. 5) and plotted in logarithmic scale ($x = \nu/\nu_c$).* (Ciroi's notes, p. 89)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

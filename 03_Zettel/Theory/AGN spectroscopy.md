@@ -77,6 +77,13 @@ quasars are the brightest AGN, observable to $z = 7$. their spectra at high $z$ 
 
 so AGN are not just targets but **probes** of cosmology.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide37_examples_of_agn.png](../../assets/images/spec_slide37_examples_of_agn.png)
+*AGN spectra, Ciroi's slides* (Ciroi's slides, slide 37)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

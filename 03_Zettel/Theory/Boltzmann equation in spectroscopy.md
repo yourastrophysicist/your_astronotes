@@ -43,7 +43,7 @@ $$\frac{n_2}{n_1} = \frac{8}{2}\,e^{-10.2/0.5} = 4 \cdot e^{-20.4} \sim 5 \times
 
 so very few H atoms are in $n = 2$ in the Sun. yet Balmer absorption is observable! the trick is that **the column density** of $n = 2$ atoms still adds up across the entire photosphere, and the oscillator strength is large.
 
-at $T = 10\,000$ K (A0 star), the same ratio is $\sim 10^{-4}$, $5 \times 10^4$ times more, dramatically stronger Balmer absorption. peak line strength.
+at $T = 10\,000$ K (A0 star), the same ratio is $2.9 \times 10^{-5}$ (Ciroi's number), about $5 \times 10^3$ times more than in the Sun, so dramatically stronger Balmer absorption.
 
 at $T = 25\,000$ K (B0), Saha-driven ionisation has eaten most of the H I, so even though excitation is high, there are few neutral H atoms to absorb. line strength weakens again.
 
@@ -58,6 +58,22 @@ departures from LTE: chromospheres, coronae, and any optically thin gas where ra
 ## Saha + Boltzmann together
 
 Boltzmann gives populations within an ionisation stage. Saha ([[Saha ionisation equation]]) gives ratios between adjacent stages. together they specify the full distribution. usually computed with software (e.g. ATLAS9, MARCS, PHOENIX) that iterates.
+
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+- Ciroi writes it per ionisation stage $i$, $N_{in}/N_{i1} = (g_{in}/g_{i1})\,e^{-\chi_{in}/k_BT}$, and in the handy log form (Ciroi's notes, p. 20)
+$$\log\frac{N_{in}}{N_{i1}} = \log\frac{g_{in}}{g_{i1}} - \frac{5039.544\,\chi_{in}}{T}, \qquad \chi \text{ in eV}.$$
+- Summing over levels gives $N_{in}/N_i = (g_{in}/u_i)\,e^{-\chi_{in}/k_BT}$ with the partition function $u_i$.
+- Hydrogen in numbers (Ciroi's notes, p. 21): $N_{02}/N_0 = 2.9\times10^{-5}$ at $10^4$ K, about 0.01 at $2\times10^4$ K, and $N_{02} = N_{01}$ only at $T \simeq 86\,000$ K. Boltzmann alone would then put 50% of neutral H in $n = 2$, which is wrong because it ignores ionisation, the reason Saha is needed.
+<!-- /ciroi-sync -->
+
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig2-01_boltzmann_equation_for_hydrogen_the_curve.png](../../assets/images/spec_notes_fig2-01_boltzmann_equation_for_hydrogen_the_curve.png)
+*Figure 2.1 of Ciroi's notes: Boltzmann equation for hydrogen. The curve shows the fraction of H atoms populated at level n = 2 with the respect to the level n = 1.* (Ciroi's notes, p. 21)
+<!-- /spec-figures -->
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -81,9 +97,6 @@ Boltzmann gives populations within an ionisation stage. Saha ([[Saha ionisation 
 - [[Hydrogen population vs T]]
 - [[Helium population vs T]]
 - [[Local thermodynamic equilibrium LTE]]
-
-
-
 ## Linked References
 
 - [[Calcium population vs T]]

@@ -56,6 +56,23 @@ see [[Limb darkening]].
 
 modern stellar-atmosphere codes (PHOENIX, MARCS, ATLAS9) bypass Eddington-Barbier and solve the full RTE numerically. but for analytic intuition and quick estimates, EB remains essential.
 
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+Ciroi's derivation (Ciroi's notes, p. 39, Ciroi's notes, p. 40): take $S_\nu = a_\nu + b_\nu\tau_\nu$, then $I_\nu(0,\vartheta) = a_\nu + b_\nu\cos\vartheta$, so $I_\nu(0,0) = a_\nu + b_\nu$ at disc centre and $a_\nu$ at the limb. The flux is
+$$\pi F_\nu(0) = 2\pi\int_0^1 (a_\nu + b_\nu\cos\vartheta)\cos\vartheta\,d(\cos\vartheta) = \pi\left(a_\nu + \tfrac23 b_\nu\right),$$
+hence $F_\nu(0) = S_\nu(\tau_\nu = 2/3)$, the Eddington-Barbier relation. In LTE $F_\nu(0) = B_\nu(T(\tau = 2/3))$, and integrating over $\nu$, $\pi F(0) = \sigma_{SB}T_1^4$ with $T_1 = T(\tau = 2/3)$. Since $\pi F(0) = \sigma_{SB}T_{\rm eff}^4$ by definition, $T_{\rm eff}$ is the temperature of the atmosphere at $\tau = 2/3$.
+
+The grey-atmosphere temperature profile used in chapter 4 is $T^4(\tau) = \tfrac34T_{\rm eff}^4[\tau + q(\tau)]$, with $q(0) = 0.577$ and $q(\infty) = 0.71$ (Ciroi's notes, p. 41).
+<!-- /ciroi-sync -->
+
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig3-04_the_same_as_in_fig_3.png](../../assets/images/spec_notes_fig3-04_the_same_as_in_fig_3.png)
+*Figure 3.4 of Ciroi's notes: The same as in Fig. 3.1, with the azimuthal angle ϕ in addition.* (Ciroi's notes, p. 39)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -77,9 +94,6 @@ modern stellar-atmosphere codes (PHOENIX, MARCS, ATLAS9) bypass Eddington-Barbie
 - [[Stellar atmosphere structure]]
 - [[Continuum opacity sources]]
 - [[Bolometric correction and effective temperature]]
-
-
-
 ## Linked References
 
 - [[Equation of radiative transfer]]

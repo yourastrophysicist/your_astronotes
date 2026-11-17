@@ -68,6 +68,13 @@ forbidden lines have very small $A_{21}$ ($\sim 10^{-2}$ to $10^0$ s$^{-1}$ vs $
 
 permitted lines have $n_c \sim 10^{14}$ cm$^{-3}$, so they're always in the low-$n_e$ regime in real nebulae. their ratios depend mostly on populations, not on $n_e$.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig5-01_an_observer_in_p_receives_the.png](../../assets/images/spec_notes_fig5-01_an_observer_in_p_receives_the.png)
+*Figure 5.1 of Ciroi's notes: An observer in P receives the radiation from the star.* (Ciroi's notes, p. 60)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

@@ -90,6 +90,16 @@ In X-ray astronomy, gratings are used in **transmission** or **reflection** geom
 
 
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide10_density_of_grating_lines_inclination.png](../../assets/images/spec_slide10_density_of_grating_lines_inclination.png)
+*Grating equation, groove density and incidence angle, Ciroi's slides* (Ciroi's slides, slide 10)
+
+![spec_slide15_grating_blazed.png](../../assets/images/spec_slide15_grating_blazed.png)
+*Blazed grating, Ciroi's slides* (Ciroi's slides, slide 15)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

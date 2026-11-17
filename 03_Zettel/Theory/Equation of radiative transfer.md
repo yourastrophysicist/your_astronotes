@@ -33,10 +33,9 @@ source function = local emissivity per unit absorption. at LTE it equals $B_\nu(
 
 ## the formal solution
 
-integrating from $\tau = 0$ (observer) along a line of sight to depth $\tau$:
-$$I_\nu(0) = I_\nu(\tau)\,e^{-\tau} + \int_0^\tau S_\nu(\tau')\,e^{-(\tau-\tau')}\,d\tau' \cdot ...$$
-
-(more carefully, with proper sign conventions for the line-of-sight direction, see standard textbooks.) the main result:
+measure $\tau_\nu$ from the observer's side of the cloud ($\tau_\nu = 0$) towards the source ($\tau_\nu = \tau^*_\nu$), so $d\tau_\nu = \kappa_\nu\,dr = -\kappa_\nu\,ds$ and the equation reads $dI_\nu/d\tau_\nu = I_\nu - S_\nu$. multiplying by $e^{-\tau_\nu}$ and integrating gives (Ciroi eq. 3.3)
+$$I_\nu(0) = \int_0^{\tau^*_\nu} S_\nu(\tau_\nu)\,e^{-\tau_\nu}\,d\tau_\nu + I_{\nu 0}\,e^{-\tau^*_\nu}$$
+with $I_{\nu0}$ the intensity of the beam entering on the source side. the main result:
 - **first term**: light from $\tau$ that survives absorption back to the observer.
 - **second term**: emission from each layer along the ray, weighted by transmission to the observer.
 
@@ -64,6 +63,25 @@ so absorption lines are not "blocked light" but **light from a cooler higher lay
 
 multiplying RTE by $1, \mu, \mu^2$ and integrating over angle gives the moment equations relating $J = (1/4\pi)\int I\,d\Omega$ (mean intensity), $H$ (Eddington flux), $K$ (radiation pressure). the **Eddington approximation** $K = J/3$ closes the system, giving radiative-transfer solutions in plane-parallel atmospheres.
 
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+- Definitions with units (Ciroi's notes, p. 35, Ciroi's notes, p. 36): $I_\nu = dE_\nu/(dA\cos\theta\,d\nu\,d\Omega\,dt)$ [erg cm$^{-2}$ s$^{-1}$ Hz$^{-1}$ sr$^{-1}$], emission coefficient $\varepsilon_\nu$ [erg cm$^{-3}$ s$^{-1}$ Hz$^{-1}$ sr$^{-1}$], absorption coefficient $k_\nu$ [cm$^{-1}$], the fraction of $I_\nu$ removed per unit length. Ciroi writes $\varepsilon_\nu$ and $k_\nu$ where this note uses $j_\nu$ and $\kappa_\nu$.
+- Constant source function (Ciroi's notes, p. 38): $I_\nu(0) = S_\nu(1 - e^{-\tau^*_\nu}) + I_{\nu0}e^{-\tau^*_\nu}$. Optically thick, $I_\nu(0) = S_\nu$, the cloud is seen only through its source function. Optically thin, $I_\nu(0) = \tau^*_\nu(S_\nu - I_{\nu0}) + I_{\nu0}$, and away from the source ($I_{\nu0} = 0$) $I_\nu(0) = \tau^*_\nu S_\nu = \varepsilon_\nu r^*$, everything emitted escapes.
+- In TE, $k_\nu I_\nu = \varepsilon_\nu$ and $S_\nu = I_\nu = B_\nu(T) = \dfrac{2h\nu^3}{c^2}\dfrac{1}{e^{h\nu/k_BT}-1}$.
+- Plane-parallel atmosphere (Ciroi's notes, p. 39): with $ds = -dr/\cos\vartheta$, $\cos\vartheta\,dI_\nu/d\tau_\nu = I_\nu - S_\nu$, whose solution is the limb-darkening equation $I_\nu(0,\vartheta) = \int_0^\infty S_\nu(\tau_\nu)e^{-\tau_\nu\sec\vartheta}d(\tau_\nu\sec\vartheta)$, see [[Limb darkening]] and [[Eddington-Barbier approximation]].
+<!-- /ciroi-sync -->
+
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig3-01_a_ux_of_radiation_goes_through.png](../../assets/images/spec_notes_fig3-01_a_ux_of_radiation_goes_through.png)
+*Figure 3.1 of Ciroi's notes: A flux of radiation goes through a small portion of a surface. $\vec n$ is the normal to the surface, $\vec k$ is the direction of the flowing radiation.* (Ciroi's notes, p. 35)
+
+![spec_notes_fig3-02_a_beam_of_energy_ows_within.png](../../assets/images/spec_notes_fig3-02_a_beam_of_energy_ows_within.png)
+*Figure 3.2 of Ciroi's notes: A beam of energy flows within a cylindrical volume, where emission and absorption processes take place.* (Ciroi's notes, p. 36)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -84,9 +102,6 @@ multiplying RTE by $1, \mu, \mu^2$ and integrating over angle gives the moment e
 - [[Limb darkening]]
 - [[Radiative transport]] - additional notes
 - [[Boltzmann equation in cosmology]] - analogous in cosmological / photon-fluid regime
-
-
-
 ## Linked References
 
 - [[Absorption coefficient and oscillator strength]]

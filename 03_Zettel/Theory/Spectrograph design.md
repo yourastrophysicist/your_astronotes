@@ -60,6 +60,13 @@ so $\eta_{\rm tot} \approx 0.2$ to $0.3$ at peak. spectrographs are inefficient 
 - **HARPS** at La Silla: high-resolution echelle for radial velocities, $R = 115\,000$.
 - **MUSE** at VLT: panoramic IFU, $R \sim 1700$ to $3500$, $1' \times 1'$ field.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide11_boller_chivens_spectrograph_t120_asiago.png](../../assets/images/spec_slide11_boller_chivens_spectrograph_t120_asiago.png)
+*Boller & Chivens spectrograph of the Asiago T120, Ciroi's slides* (Ciroi's slides, slide 11)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

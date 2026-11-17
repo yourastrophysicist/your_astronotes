@@ -65,6 +65,22 @@ most useful for extended sources but complex and heavy on data volume.
 
 each modern observatory has multiple instruments to cover different regimes. a typical PhD-level proposal picks the spectrograph based on (target multiplicity) × (need for $R$) × (need for spatial info) × (wavelength range).
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide16_longslit_spectroscopy.png](../../assets/images/spec_slide16_longslit_spectroscopy.png)
+*Longslit spectroscopy, Ciroi's slides* (Ciroi's slides, slide 16)
+
+![spec_slide17_echelle_spectroscopy.png](../../assets/images/spec_slide17_echelle_spectroscopy.png)
+*Echelle spectroscopy, Ciroi's slides* (Ciroi's slides, slide 17)
+
+![spec_slide18_multiobject_spectroscopy.png](../../assets/images/spec_slide18_multiobject_spectroscopy.png)
+*Multiobject spectroscopy, Ciroi's slides* (Ciroi's slides, slide 18)
+
+![spec_slide19_integral_field_spectroscopy.png](../../assets/images/spec_slide19_integral_field_spectroscopy.png)
+*Integral-field spectroscopy, Ciroi's slides* (Ciroi's slides, slide 19)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

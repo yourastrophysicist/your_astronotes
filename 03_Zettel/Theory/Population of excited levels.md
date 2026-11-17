@@ -65,6 +65,13 @@ every star's spectrum is essentially **one number's worth of variation**, namely
 
 this is the main result of **Cecilia Payne 1925**: stars are mostly H + He, and the diversity of stellar spectra reflects only $T$ variation, not chemistry. it took decades for the community to fully accept this.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig2-04_the_number_density_of_hydrogen_atoms.png](../../assets/images/spec_notes_fig2-04_the_number_density_of_hydrogen_atoms.png)
+*Figure 2.4 of Ciroi's notes: The number density of hydrogen atoms populated at level n = 2 over the total as a function of temperature (in K).* (Ciroi's notes, p. 25)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

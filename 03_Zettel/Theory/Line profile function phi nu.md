@@ -47,6 +47,13 @@ at low column density, only the line core matters and the line is essentially Ga
 
 Voigt profile is parameterised by two: $u = (\nu - \nu_0)/\Delta\nu_D$ and $a = \Gamma/(4\pi\Delta\nu_D)$. tabulated as $H(a, u)$, the Voigt function. modern computation: scipy's `wofz` (the Faddeeva function).
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig4-01_absorption_line_he_ii_5412_ic.png](../../assets/images/spec_notes_fig4-01_absorption_line_he_ii_5412_ic.png)
+*Figure 4.1 of Ciroi's notes: Absorption line He II λ5412.* (Ciroi's notes, p. 41)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

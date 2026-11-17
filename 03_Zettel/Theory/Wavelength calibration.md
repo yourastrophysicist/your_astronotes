@@ -39,6 +39,13 @@ for radial-velocity measurements, wavelength calibration is the dominant systema
 
 LFC: a femtosecond laser locked to an atomic clock provides a regular forest of "ruler" lines. used in HARPS, ESPRESSO. the standard for high-precision RV.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide16_longslit_spectroscopy.png](../../assets/images/spec_slide16_longslit_spectroscopy.png)
+*Longslit spectroscopy, Ciroi's slides* (Ciroi's slides, slide 16)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

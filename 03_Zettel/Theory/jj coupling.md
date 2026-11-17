@@ -29,7 +29,7 @@ e.g. $(3/2, 1/2)_2$ for two electrons with individual $j = 3/2$ and $j = 1/2$ su
 
 ## selection rules differ
 
-in pure jj, the LS-coupling selection rules ($\Delta L = 0, \pm 1$ and $\Delta S = 0$) **break down**. transitions that would be forbidden in pure LS become allowed (intersystem lines, semi-forbidden lines). the famous example: the **C IV $\lambda 1550$ doublet** in stars and AGN, an intersystem line that gets its strength from spin-orbit mixing.
+in pure jj, the LS-coupling selection rules ($\Delta L = 0, \pm 1$ and $\Delta S = 0$) **break down**. transitions that would be forbidden in pure LS become allowed (intersystem lines, semi-forbidden lines). the textbook example is **C III] $\lambda 1909$** in AGN and star-forming galaxies, a $\Delta S \ne 0$ intersystem line that gets its strength from spin-orbit mixing. (C IV $\lambda\lambda 1548, 1551$ is not an example, it is a permitted resonance doublet.)
 
 ## astronomical relevance
 
@@ -37,7 +37,13 @@ most stellar spectroscopy is in the LS regime. but a few important cases:
 - **Hg, Pb, Bi** in chemically peculiar stars: jj coupling notations.
 - **rare-earth elements** (Eu, Gd, etc.) in r-process-enriched stars: intermediate coupling.
 - **highly ionised heavy elements** in hot plasmas (X-ray spectroscopy, Fe XXIV, Ni XXV, etc.): jj-like.
-- **forbidden transitions** in nebulae: spin-forbidden ($\Delta S \ne 0$) lines like $[OIII]\,\lambda 4363$ are made possible by spin-orbit mixing, a deviation from pure LS.
+- **forbidden transitions** in nebulae: spin-changing forbidden lines like $[OIII]\,\lambda 4959, 5007$ ($^1D_2 \to {^3P_{1,2}}$, $\Delta S = 1$) gain their M1/E2 strength through spin-orbit mixing, a deviation from pure LS. $[OIII]\,\lambda 4363$ ($^1S_0 \to {^1D_2}$) keeps $\Delta S = 0$ and is an E2 line.
+
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+Ciroi's criterion is simple: spin-orbit coupling is weaker than spin-spin and orbit-orbit coupling in light atoms, generally $Z \le 30$, so LS holds. In heavier atoms, with a larger nuclear charge, spin-orbit becomes as strong as the other two and the $j$-$j$ scheme applies (Ciroi's notes, p. 6). The selection rules $\Delta L = 0, \pm1$ and $\Delta S = 0$ hold only in LS coupling (Ciroi's notes, p. 13).
+<!-- /ciroi-sync -->
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
@@ -54,9 +60,6 @@ most stellar spectroscopy is in the LS regime. but a few important cases:
 - [[Atomic term symbols]]
 - [[Selection rules]]
 - [[Forbidden vs permitted vs semiforbidden transitions]]
-
-
-
 ## Linked References
 
 - [[Forbidden vs permitted vs semiforbidden transitions]]

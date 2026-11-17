@@ -44,8 +44,7 @@ The slow quenching channel operates on gas exhaustion timescales ($\tau_{\mathrm
 1. **Gas Starvation (Strangulation)** - As a galaxy falls into a massive dark matter halo or galaxy cluster, the diffuse hot circumgalactic gas reservoir is stripped by tidal forces and intracluster medium (ICM) hydrodynamic pressure. Deprived of new fuel replenishment from cosmological cold streams, the galaxy continues forming stars only until its existing cold interstellar gas is consumed via the Kennicutt-Schmidt star formation law -
    $$\tau_{\mathrm{exhaust}} = \frac{M_{\mathrm{HI}} + M_{\rm H_2}}{\text{SFR}} \sim 2 - 3 \text{ Gyr}$$
 2. **Ram-Pressure Stripping (Gunn and Gott 1972)** - In dense cluster environments, the hydrodynamic drag of the hot ICM removes cold gas directly from the disk when the ram pressure exceeds the galactic gravitational restoring force -
-   $$
-ho_{\mathrm{ICM}} v_{\mathrm{rel}}^2 > 2\pi G \Sigma_* \Sigma_{\mathrm{gas}}$$
+   $$\rho_{\mathrm{ICM}} v_{\mathrm{rel}}^2 > 2\pi G \Sigma_* \Sigma_{\mathrm{gas}}$$
 3. **Morphological Quenching (Martig et al. 2009)** - The secular growth of a massive central stellar bulge increases the radial epicyclic frequency $\kappa(R)$. By raising the Toomre stability parameter -
    $$Q = \frac{\kappa \, \sigma_{\mathrm{gas}}}{\pi G \Sigma_{\mathrm{gas}}} > 1$$
    the disk gas becomes dynamically stable against gravitational fragmentation and star formation without requiring physical gas expulsion.

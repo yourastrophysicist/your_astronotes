@@ -60,6 +60,22 @@ uses the ionisation potentials of observed and unobserved species to estimate th
 
 matter-bounded vs ionisation-bounded affects the integrated line ratios. matter-bounded shows excess [OII] and [SII] relative to [OIII] for the same $U$.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig8-03_this_plot_taken_from_osterbrock_ferland.png](../../assets/images/spec_notes_fig8-03_this_plot_taken_from_osterbrock_ferland.png)
+*Figure 8.3 of Ciroi's notes: This plot, taken from Osterbrock & Ferland (2006, Fig. 2.2), shows the photoionization cross-sections of H$^0$, He$^0$ and He$^+$.* (Ciroi's notes, p. 106)
+
+![spec_notes_fig8-04_the_ionization_degree_as_a_function.png](../../assets/images/spec_notes_fig8-04_the_ionization_degree_as_a_function.png)
+*Figure 8.4 of Ciroi's notes: The ionization degree as a function of the distance in pc units. The ionizing source is a black-body of 30000 K and a radius of 7 $R_\odot$ (B0 V type star). The red solid line corresponds to H II, while the blue dashed line corresponds He II. A hydrogen density $N_H = 10^3$ cm$^{-3}$ has been used. These models have been calculated with CLOUDY (version C17.01).* (Ciroi's notes, p. 106)
+
+![spec_notes_fig8-05_the_ionization_degree_as_a_function.png](../../assets/images/spec_notes_fig8-05_the_ionization_degree_as_a_function.png)
+*Figure 8.5 of Ciroi's notes: The ionization degree as a function of the distance in pc units. The ionizing source is a black-body of 47000 K and a radius of 15 $R_\odot$ (O3 V type star). The red solid line corresponds to H II, the blue dashed line corresponds He II, and the green dot-dashed line corresponds to He III. A hydrogen density $N_H = 10^3$ cm$^{-3}$ has been used. These models have been calculated with CLOUDY (version C17.01).* (Ciroi's notes, p. 107)
+
+![spec_notes_fig8-06_the_ionization_degree_as_a_function.png](../../assets/images/spec_notes_fig8-06_the_ionization_degree_as_a_function.png)
+*Figure 8.6 of Ciroi's notes: The ionization degree as a function of the distance in pc units. The ionizing source is a black-body of 120000 K and a radius of 0.1 $R_\odot$ (WD star). The red solid line corresponds to H II, the blue dashed line corresponds He II, and the green dot-dashed line corresponds to He III. A hydrogen density $N_H = 10^3$ cm$^{-3}$ has been used. These models have been calculated with CLOUDY (version C17.01).* (Ciroi's notes, p. 108)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

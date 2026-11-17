@@ -66,23 +66,15 @@ Because the gas has finite turbulent and thermal pressure, the observed rotation
 
 ### Step-by-Step Calculus Derivation
 1. Write the radial hydrodynamic Euler equation for a steady-state, axisymmetric, rotating thin gas disk in cylindrical coordinates $(R, \theta, z)$ -
-   $$\frac{v_{\mathrm{rot}}^2}{R} = \frac{\partial \Phi}{\partial R} + \frac{1}{
-ho_{\mathrm{gas}}} \frac{\partial P_{\mathrm{gas}}}{\partial R}$$
+   $$\frac{v_{\mathrm{rot}}^2}{R} = \frac{\partial \Phi}{\partial R} + \frac{1}{\rho_{\mathrm{gas}}} \frac{\partial P_{\mathrm{gas}}}{\partial R}$$
 2. The gravitational acceleration defines the true circular orbital velocity $v_c$ -
    $$\frac{\partial \Phi}{\partial R} = \frac{v_c^2}{R}$$
-3. Substitute the equation of state for turbulent gas pressure, $P_{\mathrm{gas}} = 
-ho_{\mathrm{gas}} \sigma_{\mathrm{gas}}^2$, where $\sigma_{\mathrm{gas}}$ is the isotropic gas velocity dispersion -
-   $$\frac{v_{\mathrm{rot}}^2}{R} = \frac{v_c^2}{R} + \frac{1}{
-ho_{\mathrm{gas}}} \frac{\partial (
-ho_{\mathrm{gas}} \sigma_{\mathrm{gas}}^2)}{\partial R}$$
+3. Substitute the equation of state for turbulent gas pressure, $P_{\mathrm{gas}} = \rho_{\mathrm{gas}} \sigma_{\mathrm{gas}}^2$, where $\sigma_{\mathrm{gas}}$ is the isotropic gas velocity dispersion -
+   $$\frac{v_{\mathrm{rot}}^2}{R} = \frac{v_c^2}{R} + \frac{1}{\rho_{\mathrm{gas}}} \frac{\partial (\rho_{\mathrm{gas}} \sigma_{\mathrm{gas}}^2)}{\partial R}$$
 4. Multiply the entire equation by $R$ and rearrange terms -
-   $$v_c^2 - v_{\mathrm{rot}}^2 = -\frac{R}{
-ho_{\mathrm{gas}}} \left[ \sigma_{\mathrm{gas}}^2 \frac{\partial 
-ho_{\mathrm{gas}}}{\partial R} + 
-ho_{\mathrm{gas}} \frac{\partial \sigma_{\mathrm{gas}}^2}{\partial R} \right]$$
+   $$v_c^2 - v_{\mathrm{rot}}^2 = -\frac{R}{\rho_{\mathrm{gas}}} \left[ \sigma_{\mathrm{gas}}^2 \frac{\partial \rho_{\mathrm{gas}}}{\partial R} + \rho_{\mathrm{gas}} \frac{\partial \sigma_{\mathrm{gas}}^2}{\partial R} \right]$$
 5. Factor out $\sigma_{\mathrm{gas}}^2$ and express derivatives in logarithmic form ($d\ln x = dx/x$) -
-   $$v_c^2 - v_{\mathrm{rot}}^2 = -\sigma_{\mathrm{gas}}^2 \left[ \frac{\partial \ln 
-ho_{\mathrm{gas}}}{\partial \ln R} + \frac{\partial \ln \sigma_{\mathrm{gas}}^2}{\partial \ln R} \right]$$
+   $$v_c^2 - v_{\mathrm{rot}}^2 = -\sigma_{\mathrm{gas}}^2 \left[ \frac{\partial \ln \rho_{\mathrm{gas}}}{\partial \ln R} + \frac{\partial \ln \sigma_{\mathrm{gas}}^2}{\partial \ln R} \right]$$
 6. Quantitative significance -
    In normal local spiral galaxies, typical values are $v_{\mathrm{rot}} \sim 200\text{ km s}^{-1}$ and $\sigma_{\mathrm{gas}} \sim 10 - 15\text{ km s}^{-1}$. The asymmetric drift correction is negligible ($v_c - v_{\mathrm{rot}} \approx \sigma_{\mathrm{gas}}^2 / (2 v_{\mathrm{rot}}) \lesssim 1\text{ km s}^{-1}$). However, in dwarf galaxies and high-redshift starburst disks ($z \sim 2$) where $\sigma_{\mathrm{gas}} \sim 50 - 80\text{ km s}^{-1}$ and $v_{\mathrm{rot}} \sim 100\text{ km s}^{-1}$, the asymmetric drift correction reaches $20 - 40\text{ km s}^{-1}$ and must be explicitly added to reconstruct the true dynamical mass.
 
@@ -176,8 +168,7 @@ When asked by Prof. Pizzella - *"How do we measure ionized gas kinematics, deriv
 
 3. **Derive the asymmetric drift correction for gas** -
    - Write the radial momentum equation -
-     $$v_c^2 - v_{\mathrm{rot}}^2 = -\sigma_{\mathrm{gas}}^2 \left[ \frac{d\ln 
-ho_{\mathrm{gas}}}{d\ln R} + \frac{d\ln \sigma_{\mathrm{gas}}^2}{d\ln R} \right]$$
+     $$v_c^2 - v_{\mathrm{rot}}^2 = -\sigma_{\mathrm{gas}}^2 \left[ \frac{d\ln \rho_{\mathrm{gas}}}{d\ln R} + \frac{d\ln \sigma_{\mathrm{gas}}^2}{d\ln R} \right]$$
    - State clearly - *"In normal spirals, $\sigma_{\mathrm{gas}} \approx 10\text{ km s}^{-1} \ll v_{\mathrm{rot}} \approx 200\text{ km s}^{-1}$, so this correction is less than $1\text{ km s}^{-1}$. But in dwarf galaxies and high-z turbulent disks, it can reach tens of $\text{km s}^{-1}$."*
 
 4. **Address beam smearing and observational biases** -

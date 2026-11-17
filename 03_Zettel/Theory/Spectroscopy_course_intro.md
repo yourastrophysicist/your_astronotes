@@ -36,6 +36,16 @@ oral exam questions almost always sit in one of these:
 6. **nebular diagnostics**: $T_e$ from $[OIII]\,\lambda 4363$, $n_e$ from $[SII]\,\lambda 6716/6731$, $A_V$ from Balmer decrement.
 7. **object recognition**: given a spectrum, identify the object class and explain what features point to that conclusion.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide20_stellar_spectra_n_m_e.png](../../assets/images/spec_slide20_stellar_spectra_n_m_e.png)
+*Stellar spectra, absorption from level n to m, Na I lines, Ciroi's slides* (Ciroi's slides, slide 20)
+
+![spec_slide21_25000_50000_k_9000_10000.png](../../assets/images/spec_slide21_25000_50000_k_9000_10000.png)
+*Spectra from 25000 to 3000 K, Ciroi's slides* (Ciroi's slides, slide 21)
+<!-- /spec-figures -->
+
 ## see also
 
 - [[Astronomical_Spectroscopy_MOC]]

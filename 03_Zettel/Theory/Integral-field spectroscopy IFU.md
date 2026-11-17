@@ -48,17 +48,11 @@ By collapsing or fitting the datacube along the spectral coordinate $\lambda$ at
 
 Because astronomical CCD and CMOS detectors are planar 2D arrays $(X_{\rm det}, Y_{\rm det})$, a 3D dataset $(x, y, \lambda)$ must be optically reformatted so that dispersion does not cause overlapping spectra. Three principal optical techniques achieve this:
 
-```text
-1. Lenslet Array                2. Lenslet + Fibers             3. Image Slicer
-  [•][•][•][•] (Microlenses)      [•][•][•][•] (Microlenses)      |/|/|/|/| (Mirrors)
-       |                               |                              |
-       v (Rotated Focal Plane)         v (Fiber Bundle)               v (Flat Slices)
-  .  .  .  .  (Pinpoints)         | | | | | | | |                 ===============
-  \  \  \  \  (Dispersed)              |                               |
-  ======== (CCD Spectra)               v                               v
-                                  ===============                 ===============
-                                  (Linear Pseudo-slit)            (Staggered Pseudo-slit)
-```
+| Design | How the field is cut | What reaches the spectrograph |
+|---|---|---|
+| Lenslet array | microlenses sample the focal plane into pinpoints | each pinpoint is dispersed directly, spectra are tilted to avoid overlap |
+| Lenslets plus fibres | microlenses feed a fibre bundle | fibres are rearranged into a linear pseudo-slit |
+| Image slicer | stacked mirrors cut the field into thin strips | strips are realigned end to end into a staggered pseudo-slit |
 
 ### 1. Lenslet (Microlens) Array
 - **Optical Principle**: A 2D array of miniature refractive lenses at the telescope focal plane condenses each spatial spaxel into an isolated micropupil spot. The array is tilted by a small angle $\theta$ relative to the dispersion direction so that spectra dispersed from adjacent pinpoints lie parallel to each other without overlapping.
@@ -90,18 +84,7 @@ The optimal solution is **adaptive 2D Voronoi binning**, which partitions the 2D
 2. In the bright central regions where single spaxels already satisfy $S_i / \sigma_i \ge \mathrm{SNR}_{\rm target}$, the bin size remains a **single spaxel**, preserving maximum telescope spatial resolution.
 3. In the faint outer regions, bins organically expand into larger polygons, pooling photons to meet the SNR threshold without azimuthal smearing.
 
-```text
-       Central High Surface Brightness         Outer Low Surface Brightness
-       (Single Unbinned Spaxels)              (Large Adaptive Voronoi Bins)
-             +---+---+---+                         /-------\
-             | . | . | . |                        /    .    \
-             +---+---+---+                       /     .     \
-             | . | * | . |                      |      *      |
-             +---+---+---+                       \     .     /
-             | . | . | . |                        \    .    /
-             +---+---+---+                         \-------/
-             (FWHM Resolved)                      (SNR Preserved >= 40)
-```
+Adaptive (Voronoi) binning keeps the spatial resolution where the signal is strong and gives it up where it is weak. In the bright centre every spaxel is analysed on its own, at the resolution set by the seeing. Towards the faint outskirts neighbouring spaxels are merged into larger and larger bins until each bin reaches a target signal-to-noise ratio, for example $S/N \geq 40$, so that every bin gives a usable spectrum.
 
 ---
 
@@ -133,17 +116,13 @@ Because IFS covers both stellar absorption lines (e.g., $\mathrm{Ca}\,\mathrm{H\
 
 ## 6. Flagship IFU Surveys and Benchmark Facilities
 
-```
-+=============================================================================================+
-| Facility / Survey | Telescope / Aperture | Sampling & Field of View | Wavelength / Res (R)   |
-+=============================================================================================+
-| VLT MUSE          | 4 x 8.2 m UTs (ESO)  | 0.2'' spaxels, 1' x 1'   | 4750-9350 A, R~1750-3750|
-| Keck KCWI         | 10 m Keck II         | 0.35''-1.4'', 20'' x 33''| 3500-5600 A, R~1000-20000|
-| SDSS-IV MaNGA     | 2.5 m Sloan          | 19-127 fiber bundles     | 3600-10300 A, R~2000    |
-| SAMI Survey       | 3.9 m AAT (Australia)| 13 hexabundles (61 fibers)| 3700-9500 A, R~1800-4500|
-| JWST NIRSpec IFU  | 6.5 m Space (JWST)   | 0.1'' slicers, 3'' x 3'' | 0.6-5.3 um, R~100-2700  |
-+=============================================================================================+
-```
+| Facility / survey | Telescope | Sampling and field of view | Wavelength range and $R$ |
+|---|---|---|---|
+| VLT MUSE | 8.2 m UT4 (ESO) | 0.2'' spaxels, $1' \times 1'$ | 4750 to 9350 Å, $R \sim 1750$ to 3750 |
+| Keck KCWI | 10 m Keck II | 0.35'' to 1.4'', $20'' \times 33''$ | 3500 to 5600 Å, $R \sim 1000$ to 20000 |
+| SDSS-IV MaNGA | 2.5 m Sloan | bundles of 19 to 127 fibres | 3600 to 10300 Å, $R \sim 2000$ |
+| SAMI | 3.9 m AAT | 13 hexabundles of 61 fibres | 3700 to 9500 Å, $R \sim 1800$ to 4500 |
+| JWST NIRSpec IFU | 6.5 m JWST | 0.1'' slices, $3'' \times 3''$ | 0.6 to 5.3 μm, $R \sim 100$ to 2700 |
 
 ### Major Physical Breakthroughs Enabled by IFS
 1. **The ATLAS-3D Discovery (Emsellem et al. 2011)**: Proved that early-type galaxies are physically divided into **Fast Rotators** ($86\%$, oblate disks with regular stellar rotation and high angular momentum $\lambda_R$) and **Slow Rotators** ($14\%$, massive triaxial systems with no net rotation, kinematically decoupled cores, formed by dry dissipationless major mergers).
@@ -178,8 +157,12 @@ Because IFS covers both stellar absorption lines (e.g., $\mathrm{Ca}\,\mathrm{H\
 - [[Spectrograph types]]
 - [[Velocity dispersion from line width]]
 - [[Astrophysics_of_Galaxies_MOC]]
+<!-- spec-figures -->
+## Figures
 
-
+![spec_slide19_integral_field_spectroscopy.png](../../assets/images/spec_slide19_integral_field_spectroscopy.png)
+*Integral-field spectroscopy, Ciroi's slides* (Ciroi's slides, slide 19)
+<!-- /spec-figures -->
 
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources

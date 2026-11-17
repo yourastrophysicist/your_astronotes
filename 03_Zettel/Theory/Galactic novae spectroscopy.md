@@ -53,6 +53,13 @@ some novae recur on $\sim 1$ to $100$ year timescales (**recurrent novae**, e.g.
 
 novae are **single-degenerate analogs** of SN Ia progenitors, but at much lower mass per event. studying the WD mass distribution from novae helps constrain whether some fraction reach Chandrasekhar mass and explode.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide30_example_of_galactic_nova_v2491.png](../../assets/images/spec_slide30_example_of_galactic_nova_v2491.png)
+*Galactic nova V2491 Cyg, Ciroi's slides* (Ciroi's slides, slide 30)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

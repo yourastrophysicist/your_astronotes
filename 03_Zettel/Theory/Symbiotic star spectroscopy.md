@@ -49,6 +49,13 @@ symbiotics offer an unusual window into:
 - **nucleosynthesis** in the burning shell on the WD.
 - **type Ia SN progenitors** (single-degenerate channel).
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide31_example_of_symbiotic_star_ci.png](../../assets/images/spec_slide31_example_of_symbiotic_star_ci.png)
+*Symbiotic star CI Cyg, Ciroi's slides* (Ciroi's slides, slide 31)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

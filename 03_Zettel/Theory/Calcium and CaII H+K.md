@@ -24,9 +24,11 @@ so in solar-type and cooler stars, Ca II H + K are extraordinarily strong, often
 ## the Ca II IR triplet
 
 Ca II also has a strong **infrared triplet** at $8498, 8542, 8662$ Å from $3\,^2D \to 4\,^2P^o$:
-- $\lambda 8498$: $3\,^2D_{3/2} \to 4\,^2P_{1/2}^o$.
-- $\lambda 8542$: $3\,^2D_{5/2} \to 4\,^2P_{3/2}^o$ (strongest).
-- $\lambda 8662$: $3\,^2D_{3/2} \to 4\,^2P_{3/2}^o$.
+- $\lambda 8498$: $3\,^2D_{3/2} \leftrightarrow 4\,^2P_{3/2}^o$.
+- $\lambda 8542$: $3\,^2D_{5/2} \leftrightarrow 4\,^2P_{3/2}^o$ (strongest).
+- $\lambda 8662$: $3\,^2D_{3/2} \leftrightarrow 4\,^2P_{1/2}^o$.
+
+(in absorption the electron goes up from $3d$ to $4p$. the $J$ labels of λ8498 and λ8662 were swapped in an older version of this note.)
 
 these are **near-IR** equivalents of the H + K lines but coming from the metastable $^2D$ levels above the ground. they are seen in cool-star spectra and as **velocity dispersion** indicators for old galaxies (because they avoid the contaminating Balmer lines and are in a clean IR continuum window).
 
@@ -50,6 +52,19 @@ in **active stars** (rapid rotators, young Sun-like stars), the cores of Ca II H
 
 at moderate redshift, Ca II H + K shifts to redder optical wavelengths ($\sim 5800$ Å at $z = 0.5$). they remain the brightest absorption features and are routinely used to measure spectroscopic redshifts of galaxies in $z = 0$ to $1$ surveys (SDSS, BOSS).
 
+<!-- ciroi-sync -->
+## In Ciroi's notes
+
+Ciroi lists Ca II K as $4\,^2S_{1/2} \to 4\,^2P_{3/2}$, $E_m = 3.15$ eV, 3933.66 Å, and H as $4\,^2S_{1/2} \to 4\,^2P_{1/2}$, 3968.47 Å (Ciroi's notes, p. 32). Fig. 2.17 compares a G and an A star around the Ca triplet (CaT), where the Paschen lines of the A star fall right next to the Ca II lines, see [[Calcium population vs T]].
+<!-- /ciroi-sync -->
+
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig2-16_ca_ii_k_and_h_lines.png](../../assets/images/spec_notes_fig2-16_ca_ii_k_and_h_lines.png)
+*Figure 2.16 of Ciroi's notes: Ca II K and H lines in different spectral types. The dashed vertical lines indicate their positions. The Y axis is in arbitrary units to make the comparison easier.* (Ciroi's notes, p. 34)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
@@ -72,9 +87,6 @@ at moderate redshift, Ca II H + K shifts to redder optical wavelengths ($\sim 58
 - [[Single stellar population SSP]]
 - [[Why the Sequence OBAFGKM]]
 - [[Spectroscopic redshift from line shifts]]
-
-
-
 ## Linked References
 
 - [[Calcium population vs T]]

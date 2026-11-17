@@ -64,6 +64,28 @@ stellar atmosphere codes now produce synthetic spectra so detailed that they can
 
 Cecilia Payne's insight: **stars are essentially the same composition. The diversity of spectra is just a temperature ordering**. this is the spectroscopic version of the cosmological principle. it makes possible all of stellar astrophysics: a single grid of stellar atmosphere models in $(T_{\rm eff}, \log g, [Fe/H])$ predicts every star's spectrum.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide22_stellar_classification_padre_angelo_secchi.png](../../assets/images/spec_slide22_stellar_classification_padre_angelo_secchi.png)
+*Secchi's classes, Ciroi's slides* (Ciroi's slides, slide 22)
+
+![spec_slide23_henry_draper_1837_1882_edward.png](../../assets/images/spec_slide23_henry_draper_1837_1882_edward.png)
+*Draper and Pickering, Harvard 1899, Ciroi's slides* (Ciroi's slides, slide 23)
+
+![spec_slide24_1890_draper_catalogue_of_stellar.png](../../assets/images/spec_slide24_1890_draper_catalogue_of_stellar.png)
+*Draper Catalogue 1890 and Fleming's classes, Ciroi's slides* (Ciroi's slides, slide 24)
+
+![spec_slide25_annie_jump_cannon_1863_1941.png](../../assets/images/spec_slide25_annie_jump_cannon_1863_1941.png)
+*Annie Jump Cannon, Ciroi's slides* (Ciroi's slides, slide 25)
+
+![spec_slide27_cecilia_payne_gaposchkin_1900_1979.png](../../assets/images/spec_slide27_cecilia_payne_gaposchkin_1900_1979.png)
+*Cecilia Payne-Gaposchkin, Ciroi's slides* (Ciroi's slides, slide 27)
+
+![spec_slide28_yerkes_observatory_staff_1938_philip.png](../../assets/images/spec_slide28_yerkes_observatory_staff_1938_philip.png)
+*Yerkes, Morgan, Keenan and Kellman (MK system), Ciroi's slides* (Ciroi's slides, slide 28)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

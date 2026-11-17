@@ -65,6 +65,13 @@ high-resolution full-disk solar spectra at multiple $\mu$ are routinely used for
 
 in extended atmospheres (Betelgeuse, R Doradus), the plane-parallel approximation fails. the limb is **brighter** than expected near the limb because the line of sight stays in cool dust-forming layers longer. sometimes "limb brightening" is observed.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig3-04_the_same_as_in_fig_3.png](../../assets/images/spec_notes_fig3-04_the_same_as_in_fig_3.png)
+*Figure 3.4 of Ciroi's notes: The same as in Fig. 3.1, with the azimuthal angle ϕ in addition.* (Ciroi's notes, p. 39)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

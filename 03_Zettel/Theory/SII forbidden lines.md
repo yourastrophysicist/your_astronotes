@@ -68,6 +68,19 @@ between, the ratio drops smoothly from $\sim 1.5$ to $\sim 0.45$. this is the di
 
 so $[SII]$ is the most-used because the wavelengths are accessible and the lines are bright in HII regions.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig5-08_scheme_of_a_3_level_atom.png](../../assets/images/spec_notes_fig5-08_scheme_of_a_3_level_atom.png)
+*Figure 5.8 of Ciroi's notes: Scheme of a 3-level atom: electrons at level 2 and 3 decay to level 1.* (Ciroi's notes, p. 73)
+
+![spec_notes_fig5-09_the_grotrian_diagram_of_s_ii.png](../../assets/images/spec_notes_fig5-09_the_grotrian_diagram_of_s_ii.png)
+*Figure 5.9 of Ciroi's notes: The Grotrian diagram of S II. The indicated transitions are forbidden because they take place between terms that are all odd. The spontaneous transition probabilities of the lines indicated in figure are: $A_{4068} = 0.192$ s$^{-1}$, $A_{4076} = 7.72 \cdot 10^{-2}$ s$^{-1}$, $A_{6716} = 2.02 \cdot 10^{-4}$ s$^{-1}$, and $A_{6731} = 6.84 \cdot 10^{-4}$ s$^{-1}$.* (Ciroi's notes, p. 74)
+
+![spec_notes_fig5-10_more_precise_calculations_made_with_the.png](../../assets/images/spec_notes_fig5-10_more_precise_calculations_made_with_the.png)
+*Figure 5.10 of Ciroi's notes: More precise calculations made with the IRAF task TEMDEN show slightly different limits of the [S II] emission line ratio. This curve is useful for estimating electron density when $10^2 < N_e < 10^4$ cm$^{-3}$.* (Ciroi's notes, p. 77)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

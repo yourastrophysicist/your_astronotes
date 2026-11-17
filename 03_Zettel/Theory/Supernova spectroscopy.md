@@ -64,6 +64,13 @@ $$^{56}{\rm Ni} \xrightarrow{6.1\,{\rm d}} ^{56}{\rm Co} \xrightarrow{77.3\,{\rm
 
 energy from gamma-rays + positrons heats the ejecta, driving the late-time emission. nebular Fe + Co lines directly trace the produced $^{56}$Ni mass: $\sim 0.6\,M_\odot$ for typical Ia, $\sim 0.05\,M_\odot$ for core-collapse.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide32_examples_of_supernovae_spectra.png](../../assets/images/spec_slide32_examples_of_supernovae_spectra.png)
+*Supernova spectra, Ciroi's slides* (Ciroi's slides, slide 32)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

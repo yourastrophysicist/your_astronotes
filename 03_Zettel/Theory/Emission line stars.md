@@ -69,6 +69,13 @@ emission-line stars trace specific evolutionary phases:
 
 each connects to the broader narrative of massive-star evolution.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide29_emission_line_stars_example_of.png](../../assets/images/spec_slide29_emission_line_stars_example_of.png)
+*Emission line stars, a Be star, Ciroi's slides* (Ciroi's slides, slide 29)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

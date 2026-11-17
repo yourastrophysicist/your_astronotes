@@ -58,6 +58,16 @@ reading a stellar spectrum gives $T_{\rm eff}$ to $\sim 100$ K precision via lin
 
 each ratio is a thermometer in the regime where both ions matter. modern stellar atmosphere codes (PHOENIX, MARCS) compute everything self-consistently and recover $T_{\rm eff}, \log g, [Fe/H]$ from a fit.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_slide21_25000_50000_k_9000_10000.png](../../assets/images/spec_slide21_25000_50000_k_9000_10000.png)
+*Spectra from 25000 to 3000 K, Ciroi's slides* (Ciroi's slides, slide 21)
+
+![spec_slide26_harvard_spectral_sequence.png](../../assets/images/spec_slide26_harvard_spectral_sequence.png)
+*The Harvard spectral sequence, Ciroi's slides* (Ciroi's slides, slide 26)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

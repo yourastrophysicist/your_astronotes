@@ -69,6 +69,13 @@ because $A_{ul}$ is small for forbidden transitions ($10^{-2}$ to $10^0$ s$^{-1}
 
 permitted lines have $n_c \sim 10^{13}$ cm$^{-3}$ or higher. in nebular conditions they're always in low-density regime, so their populations are set entirely by ionisation balance, not by collisional vs radiative balance.
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig5-10_more_precise_calculations_made_with_the.png](../../assets/images/spec_notes_fig5-10_more_precise_calculations_made_with_the.png)
+*Figure 5.10 of Ciroi's notes: More precise calculations made with the IRAF task TEMDEN show slightly different limits of the [S II] emission line ratio. This curve is useful for estimating electron density when $10^2 < N_e < 10^4$ cm$^{-3}$.* (Ciroi's notes, p. 77)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 

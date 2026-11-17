@@ -63,6 +63,13 @@ most photoionisation codes iterate:
 
 this is the photoionisation equilibrium calculation (Cloudy, MAPPINGS V).
 
+<!-- spec-figures -->
+## Figures
+
+![spec_notes_fig5-05_scheme_of_a_3_level_atom.png](../../assets/images/spec_notes_fig5-05_scheme_of_a_3_level_atom.png)
+*Figure 5.5 of Ciroi's notes: Scheme of a 3–level atom: electrons at level 3 decay to level 2 and 1, electrons at level 2 decay to level 1.* (Ciroi's notes, p. 69)
+<!-- /spec-figures -->
+
 <!-- sources:wiki-arxiv -->
 ## Wikipedia and arXiv sources
 
